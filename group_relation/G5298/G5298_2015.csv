@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,5298,合盈光電科技股份有限公司,H.P.B HI-TECH. (SAMOA) CORP.,0.5,薩摩亞,1,1,0,0,0,公開發行,G5298,12910264,NA,NA,NA,NA,NA
+2015,5298,合錦光電科技股份有限公司,H.P.B HI-TECH. (SAMOA) CORP.,0.5,薩摩亞,0,1,0,0,0,公開發行,G5298,28056840,NA,NA,NA,NA,NA
+2015,5298,合盈光電科技股份有限公司,"H.P.B INTERNATIONAL (SAMOA) CO., LTD.",0.783,薩摩亞,1,1,0,0,0,公開發行,G5298,12910264,NA,NA,NA,NA,NA
+2015,5298,合錦光電科技股份有限公司,"H.P.B INTERNATIONAL (SAMOA) CO., LTD.",0.217,薩摩亞,0,1,0,0,0,公開發行,G5298,28056840,NA,NA,NA,NA,NA
+2015,5298,"H.P.B INTERNATIONAL (SAMOA) CO., LTD.",H.P.B INTERNATIONAL (USA) L.L.C.,1,美國,0,1,0,0,0,公開發行,G5298,NA,NA,NA,NA,NA,NA
+2015,5298,合盈光電科技股份有限公司,NIHON OPTOVISION K.K.,0.51,日本,1,1,0,0,0,公開發行,G5298,12910264,NA,NA,NA,NA,NA
+2015,5298,H.P.B HI-TECH. (SAMOA) CORP.,SOUTHFIELD LIMITED,1,薩摩亞,0,1,0,0,0,公開發行,G5298,NA,NA,NA,NA,NA,NA
+2015,5298,H.P.B INTERNATIONAL (USA) L.L.C.,合盈光電(深圳)有限公司,1,china,0,1,0,1,0,公開發行,G5298,NA,NA,NA,NA,NA,NA
+2015,5298,合盈光電科技股份有限公司,合錦光電科技股份有限公司,1,台灣,1,1,0,0,0,公開發行,G5298,12910264,28056840,NA,NA,NA,NA

@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1528,恩德科技股份有限公司,Anderson America Corporation(U.S.A.),1,美國,1,1,0,0,0,上市,G1528,11551634,NA,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,Anderson Europe GmbH,1,德國,1,1,0,0,0,上市,G1528,11551634,NA,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,Anderson Industrial (Hong Kong) Ltd.,1,香港,1,1,0,0,0,上市,G1528,11551634,NA,NA,NA,NA,NA
+2014,1528,Giben Holdings Co. Ltd. (SAMOA),"Giben America, Inc.",1,美國,0,1,0,0,0,上市,G1528,NA,NA,NA,NA,NA,NA
+2014,1528,Giben Holdings Co. Ltd (BVI),GIBEN do BRASIL Maquinas e Equipamentos Ltda,1,巴西,0,1,0,0,0,上市,G1528,NA,NA,NA,NA,NA,NA
+2014,1528,Giben Holdings Co. Ltd (BVI),Giben do Brasil Maquinas e Equipamentos Ltda,0.9972,巴西,0,0,1,0,0,上市,G1528,NA,NA,NA,NA,NA,NA
+2014,1528,Giben Holdings Co. Ltd (SAMOA),Giben do Brasil Maquinas e Equipamentos Ltda,0.0028,巴西,0,0,1,0,0,上市,G1528,NA,NA,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,Giben Holdings Co. Ltd (BVI),1,英屬維京群島,1,1,0,0,0,上市,G1528,11551634,NA,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,Giben Holdings Co. Ltd. (SAMOA),1,薩摩亞,1,1,0,0,0,上市,G1528,11551634,NA,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,仲德實業(上海)有限公司,1,china,1,1,0,1,0,上市,G1528,11551634,NA,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,育德實業股份有限公司,1,台灣,1,1,0,0,0,上市,G1528,11551634,54327361,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,香港恩德實業有限公司,1,香港,1,0,1,0,0,上市,G1528,11551634,NA,NA,NA,NA,NA
+2014,1528,運永投資有限公司,恩德科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1528,29060126,11551634,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,祐德機械(上海)有限公司,1,china,1,1,0,1,0,上市,G1528,11551634,NA,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,勝德投資股份有限公司,1,台灣,1,1,0,0,0,上市,G1528,11551634,28448537,NA,NA,NA,NA
+2014,1528,恩德科技股份有限公司,翔德光電股份有限公司,0.855,台灣,1,1,0,0,0,上市,G1528,11551634,27566057,NA,NA,NA,NA
+2014,1528,勝德投資股份有限公司,總格精密股份有限公司,0.9982,台灣,0,1,0,0,0,上市,G1528,28448537,23903228,NA,NA,NA,NA

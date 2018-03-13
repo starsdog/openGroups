@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,6518,懋伊股份有限公司,Concordmed Limited.,1,塞席爾,0,0,1,0,0,興櫃,G6518,53931192,NA,NA,NA,NA,NA
+2015,6518,Concordmed Limited.,Super Star Trading Limited,1,不明,0,1,0,0,0,興櫃,G6518,NA,NA,NA,NA,NA,NA
+2015,6518,懋伊股份有限公司,Super Star Trading Limited,1,薩摩亞,0,0,1,0,0,興櫃,G6518,53931192,NA,NA,NA,NA,NA
+2015,6518,Concordmed Limited.,Triple A Limited,0.5,塞席爾,0,1,0,0,0,興櫃,G6518,NA,NA,NA,NA,NA,NA
+2015,6518,寬庭開發股份有限公司,康科特股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6518,23124708,25029519,NA,NA,NA,NA
+2015,6518,康科特股份有限公司,懋伊股份有限公司,0,台灣,1,1,0,0,0,興櫃,G6518,25029519,53931192,NA,NA,NA,NA
+2015,6518,康科特股份有限公司,懋如股份有限公司,0,台灣,1,1,0,0,0,興櫃,G6518,25029519,53437734,NA,NA,NA,NA

@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1737,再投資大陸公司,河南天健日化,0.15,china,0,0,0,1,0,上市,G1737,NA,NA,1,NA,NA,NA
+2016,1737,再投資大陸公司,廈門多威,0,china,0,0,0,1,0,上市,G1737,NA,NA,1,NA,NA,NA
+2016,1737,臺鹽生技香港有限公司,臺鹽(廈門)進出口有限公司,1,china,0,1,0,1,0,上市,G1737,NA,NA,NA,NA,NA,NA
+2016,1737,臺鹽生技薩摩亞有限公司,臺鹽生技香港有限公司,1,香港,0,1,0,0,0,上市,G1737,NA,NA,NA,NA,NA,NA
+2016,1737,臺鹽實業股份有限公司,臺鹽生技薩摩亞有限公司,1,薩摩亞,1,1,0,0,0,上市,G1737,89397503,NA,NA,NA,NA,NA
+2016,1737,經濟部,臺鹽實業股份有限公司,NA,NA,0,0,0,0,1,上市,G1737,NA,89397503,NA,NA,NA,NA
+2016,1737,國泰世華商業銀行受託保管百福亞洲有限公司,臺鹽實業股份有限公司,NA,NA,0,0,0,0,1,上市,G1737,NA,89397503,NA,NA,NA,NA

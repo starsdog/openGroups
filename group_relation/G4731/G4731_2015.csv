@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,4731,東宇生物科技股份有限公司,GOLD DEPOT LIMITED,1,薩摩亞,1,1,0,0,0,公開發行,G4731,13173433,NA,NA,NA,NA,NA
+2015,4731,東宇生物科技股份有限公司,奇聯科技有限公司,1,台灣,1,1,0,0,0,公開發行,G4731,13173433,28621971,NA,NA,NA,NA
+2015,4731,GOLD DEPOT LIMITED,松昂商貿(上海)有限公司,1,china,0,1,0,1,0,公開發行,G4731,NA,NA,NA,NA,NA,NA

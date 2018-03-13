@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3444,利機企業股份有限公司,Advanced Corporation,1,薩摩亞,1,1,0,0,0,上櫃,G3444,84355650,NA,NA,NA,NA,NA
+2016,3444,利機企業股份有限公司,STNC公司,0.3,香港,1,0,1,0,0,上櫃,G3444,84355650,NA,NA,NA,NA,NA
+2016,3444,SIMMTECHCO.LTD,利機企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3444,NA,84355650,NA,NA,NA,NA
+2016,3444,Advanced Corporation,利機貿易(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G3444,NA,NA,NA,NA,NA,NA
+2016,3444,再投資大陸公司,信泰利機(蘇州)貿易有限公司,0.3,china,0,0,0,1,0,上櫃,G3444,NA,NA,1,NA,NA,NA

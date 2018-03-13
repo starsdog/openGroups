@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,8383,千附實業股份有限公司,"CHEN FULL HOLDING CO., LTD.",1,薩摩亞,0,1,0,0,0,上櫃,G8383,12378253,NA,NA,NA,NA,NA
+2014,8383,"CHEN FULL HOLDING CO., LTD.",NEW OPPORTUNITY LIMITED,1,薩摩亞,0,0,1,0,0,上櫃,G8383,NA,NA,NA,NA,NA,NA
+2014,8383,千附實業股份有限公司,千附水資源股份有限公司,1,台灣,0,1,0,0,0,上櫃,G8383,12378253,28570500,NA,NA,NA,NA
+2014,8383,一全投資股份有限公司,千附實業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8383,27268727,12378253,NA,NA,NA,NA
+2014,8383,千附實業股份有限公司,全鋒實業股份有限公司,1,不明,0,1,0,0,0,上櫃,G8383,12378253,16680910,NA,NA,NA,NA
+2014,8383,千附實業股份有限公司,東莞全鋒公司,1,不明,0,1,0,0,0,上櫃,G8383,12378253,NA,NA,NA,NA,NA
+2014,8383,NEW OPPORTUNITY LIMITED,東莞全鋒機械有限公司,1,china,0,0,1,1,0,上櫃,G8383,NA,NA,NA,NA,NA,NA

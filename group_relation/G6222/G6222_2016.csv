@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6222,上揚科技股份有限公司,Bluesea Industrial Limited,1,英屬維京群島,1,1,0,0,0,上櫃,G6222,22182927,NA,NA,NA,NA,NA
+2016,6222,上揚科技股份有限公司,Star Rocks Holdings Limited,1,薩摩亞,1,1,0,0,0,上櫃,G6222,22182927,NA,NA,NA,NA,NA
+2016,6222,邦丞電子科技股份有限公司,"Widsom Zone Co., Ltd.",1,薩摩亞,0,0,1,0,0,上櫃,G6222,70470095,NA,NA,NA,NA,NA
+2016,6222,瑞昌國際有限公司,上揚科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6222,42825286,22182927,NA,NA,NA,NA
+2016,6222,上揚科技股份有限公司,邦丞電子科技股份有限公司,0.99,台灣,1,1,0,0,0,上櫃,G6222,22182927,70470095,NA,NA,NA,NA
+2016,6222,Star Rocks Holdings Limited,深圳東耕科技有限公司,1,china,0,1,0,1,0,上櫃,G6222,NA,NA,NA,NA,NA,NA
+2016,6222,上揚科技股份有限公司,樂活工業股份有限公司,0.4879,台灣,1,1,0,0,0,上櫃,G6222,22182927,54038361,NA,NA,NA,NA

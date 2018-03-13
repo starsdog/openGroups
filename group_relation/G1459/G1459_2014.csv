@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1459,聯發紡織纖維股份有限公司,LANFA HOLDING LIMITED,1,薩摩亞,1,1,0,0,0,上市,G1459,33653494,NA,NA,NA,NA,NA
+2014,1459,LANFA HOLDING LIMITED,MARYLAND INVESTMENT LIMITED,0.9884,薩摩亞,0,1,0,0,0,上市,G1459,NA,NA,NA,NA,NA,NA
+2014,1459,SPRING INVESTMENT LIMITED,MARYLAND INVESTMENT LIMITED,0.0116,薩摩亞,0,1,0,0,0,上市,G1459,NA,NA,NA,NA,NA,NA
+2014,1459,聯澤投資股份有限公司,SPRING INVESTMENT LIMITED,1,英屬維京群島,0,1,0,0,0,上市,G1459,97177566,NA,NA,NA,NA,NA
+2014,1459,MARYLAND INVESTMENT LIMITED,杭州聯發纖維有限公司,1,china,0,1,0,1,0,上市,G1459,NA,NA,NA,NA,NA,NA
+2014,1459,聯發紡織纖維股份有限公司,金聯發實業股份有限公司,0.6519,台灣,1,1,0,0,0,上市,G1459,33653494,89747332,NA,NA,NA,NA
+2014,1459,聯發紡織纖維股份有限公司,聯捷開發股份有限公司,1,台灣,1,1,0,0,0,上市,G1459,33653494,16449315,NA,NA,NA,NA
+2014,1459,澤心投資股份有限公司,聯發紡織纖維股份有限公司,NA,NA,0,0,0,0,1,上市,G1459,89396259,33653494,NA,NA,NA,NA
+2014,1459,聯發紡織纖維股份有限公司,聯慶開發股份有限公司,1,台灣,1,1,0,0,0,上市,G1459,33653494,16091483,NA,NA,NA,NA
+2014,1459,聯發紡織纖維股份有限公司,聯澤投資股份有限公司,1,台灣,1,1,0,0,0,上市,G1459,33653494,97177566,NA,NA,NA,NA
+2014,1459,聯發紡織纖維股份有限公司,聯興投資股份有限公司,1,台灣,1,1,0,0,0,上市,G1459,33653494,89396167,NA,NA,NA,NA

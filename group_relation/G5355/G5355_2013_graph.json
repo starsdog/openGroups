@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "承安投資股份有限公司", "no_holder": false, "taxcode": "29121897"}, {"is_core": true, "source": [{"holder": "NA", "name": "承安投資股份有限公司"}], "name": "佳總興業股份有限公司", "no_holder": false, "taxcode": "23063420"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

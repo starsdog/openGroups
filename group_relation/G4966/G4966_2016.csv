@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4966,英屬開曼群島商譜瑞科技股份有限公司,"Parade Technologies, Inc.",1,美國,0,0,1,0,0,上櫃,G4966,28422591,NA,NA,NA,NA,NA
+2016,4966,英屬開曼群島商譜瑞科技股份有限公司,"Parade TechnologiesKorea, Ltd.",1,南韓,0,0,1,0,0,上櫃,G4966,28422591,NA,NA,NA,NA,NA
+2016,4966,"Parade Technologies, Inc.",譜瑞集成電路 (上海)有限公司,1,china,0,1,0,1,0,上櫃,G4966,NA,NA,NA,NA,NA,NA
+2016,4966,英屬開曼群島商譜瑞科技股份有限公司,譜瑞集成電路 (南京)有限公司,1,china,1,1,0,1,0,上櫃,G4966,28422591,NA,NA,NA,NA,NA

@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5294,捷音特科技股份有限公司,DYNAMIC LINK LIMITED,1,薩摩亞,1,1,0,0,0,興櫃,G5294,28078788,NA,NA,NA,NA,NA
+2016,5294,DYNAMIC LINK LIMITED,TOTAL DYNASTY LIMITED,1,薩摩亞,0,1,0,0,0,興櫃,G5294,NA,NA,NA,NA,NA,NA
+2016,5294,TOTAL DYNASTY LIMITED,可騰電子科技(吳江)有限公司,1,china,0,1,0,1,0,興櫃,G5294,NA,NA,NA,NA,NA,NA
+2016,5294,可騰電子科技(吳江)有限公司,可騰電子科技(嘉興)有限公司,1,china,0,1,0,1,0,興櫃,G5294,NA,NA,NA,NA,NA,NA
+2016,5294,鴻達國際投資股份有限公司,捷音特科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G5294,28197861,28078788,NA,NA,NA,NA
+2016,5294,音奇投資有限公司,捷音特科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G5294,53607435,28078788,NA,NA,NA,NA

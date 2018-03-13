@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4744,"Global Exclusive Co., Ltd.","CVC Technologies, Inc.",1,美國,0,1,0,0,0,興櫃,G4744,NA,NA,NA,NA,NA,NA
+2016,4744,皇將科技股份有限公司,"Global Exclusive Co., Ltd.",1,薩摩亞,1,1,0,0,0,興櫃,G4744,80234971,NA,NA,NA,NA,NA
+2016,4744,"Global Exclusive Co., Ltd.",皇將(上海)包裝科技有限公司 ,1,china,0,1,0,0,0,興櫃,G4744,NA,NA,NA,NA,NA,NA
+2016,4744,德鑫投資股份有限公司,皇將科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4744,54747883,80234971,NA,NA,NA,NA
+2016,4744,永荃投資股份有限公司,皇將科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4744,53304376,80234971,NA,NA,NA,NA

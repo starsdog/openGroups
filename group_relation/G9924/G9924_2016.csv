@@ -1,0 +1,21 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9924,台灣福興工業股份有限公司,ALLEGION FU HSING HOLDINGS LIMITED,0.49,英屬維京群島,1,0,1,0,0,上市,G9924,75706009,NA,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,ALLEGION FU HSING LTD.,0.49,香港,1,0,1,0,0,上市,G9924,75706009,NA,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,ARCTEK TECHNOLOGY LTD.,1,薩摩亞,1,1,0,0,0,上市,G9924,75706009,NA,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,"FORMFLEX ENTERPRISE CO., LTD.",1,薩摩亞,1,1,0,0,0,上市,G9924,75706009,NA,NA,NA,NA,NA
+2016,9924,"FORMFLEX ENTERPRISE CO., LTD.",FORTUNE INDUSTRIAL LTD.,0.51,薩摩亞,0,1,0,0,0,上市,G9924,NA,NA,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,FU HSING AMERICAS INC.,1,美國,1,1,0,0,0,上市,G9924,75706009,NA,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,MASTER UNITED INVESTMENT GROUP LTD.,1,英屬維京群島,1,1,0,0,0,上市,G9924,75706009,NA,NA,NA,NA,NA
+2016,9924,弘和投資興業股份有限公司,台灣福興工業股份有限公司,NA,NA,0,0,0,0,1,上市,G9924,28124116,75706009,NA,NA,NA,NA
+2016,9924,福致投資開發股份有限公司,台灣福興工業股份有限公司,NA,NA,0,0,0,0,1,上市,G9924,89331545,75706009,NA,NA,NA,NA
+2016,9924,福元投資股份有限公司,台灣福興工業股份有限公司,NA,NA,0,0,0,0,1,上市,G9924,89331593,75706009,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,合興工業股份有限公司,1,台灣,1,1,0,0,0,上市,G9924,75706009,53849341,NA,NA,NA,NA
+2016,9924,合興工業股份有限公司,合興門控製品(常熟)有限公司,1,china,0,1,0,1,0,上市,G9924,53849341,NA,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,同興股份有限公司,1,台灣,1,1,0,0,0,上市,G9924,75706009,24673548,NA,NA,NA,NA
+2016,9924,資勇五金製品(太倉)有限公司,艾德克(上海)商貿有限公司,1,china,0,1,0,0,0,上市,G9924,NA,NA,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,朕豪工業股份有限公司,0.7,台灣,1,1,0,0,0,上市,G9924,75706009,89218585,NA,NA,NA,NA
+2016,9924,FORTUNE INDUSTRIAL LTD.,常熟福誠包裝材料有限公司,1,china,0,1,0,1,0,上市,G9924,NA,NA,NA,NA,NA,NA
+2016,9924,MASTER UNITED INVESTMENT GROUP LTD.,資勇五金製品(太倉)有限公司,1,china,0,1,0,1,0,上市,G9924,NA,NA,NA,NA,NA,NA
+2016,9924,台灣福興工業股份有限公司,漢軍科技股份有限公司,0.51,台灣,1,1,0,0,0,上市,G9924,75706009,23292583,NA,NA,NA,NA
+2016,9924,"FORMFLEX ENTERPRISE CO., LTD.",福弘金屬工業(常熟)有限公司,1,china,0,1,0,1,0,上市,G9924,NA,NA,NA,NA,NA,NA
+2016,9924,朕豪工業股份有限公司,銳昇工業股份有限公司,0.7,台灣,0,1,0,0,0,上市,G9924,89218585,24396262,NA,NA,NA,NA

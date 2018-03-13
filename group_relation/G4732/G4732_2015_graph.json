@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "彥臣生技藥品股份有限公司", "no_holder": false, "taxcode": "12676817"}, {"is_core": false, "source": [{"holder": "0", "name": "彥臣生技藥品股份有限公司"}], "name": "森源科學保健食品股份有限公司", "no_holder": true, "taxcode": "27380186"}], "links": [{"target": 1, "holder": "0.000000", "source": 0}], "y": "2015"}

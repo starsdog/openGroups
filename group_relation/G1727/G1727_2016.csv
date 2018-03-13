@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1727,臺灣中華化學工業股份有限公司,"Honest Fine Chemical Co., Ltd.",0.9075,薩摩亞,0,1,0,0,0,上市,G1727,NA,NA,NA,NA,NA,NA
+2016,1727,"Honest Fine Chemical Co., Ltd.",江蘇信實精密化學有限公司,0.9075,china,0,1,0,1,0,上市,G1727,NA,NA,NA,NA,NA,NA
+2016,1727,臺灣永光化學工業股份有限公司,臺灣中華化學工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1727,15458455,03558206,NA,NA,NA,NA
+2016,1727,嘉恩投資有限公司,臺灣中華化學工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1727,24536881,03558206,NA,NA,NA,NA
+2016,1727,Chemfarm Advanced Chemicals Inc.,鑫園尖端化學(上海)有限公司,0.02,china,0,0,0,1,0,上市,G1727,NA,NA,NA,NA,NA,NA
+2016,1727,臺灣中華化學工業股份有限公司,Chemfarm Advanced Chemicals Inc.,0.02,不明,0,1,0,0,0,上市,G1727,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "永昇投資有限公司", "no_holder": false, "taxcode": "28613727"}, {"is_core": true, "source": [{"holder": "NA", "name": "永昇投資有限公司"}], "name": "日高工程實業股份有限公司", "no_holder": false, "taxcode": "04938839"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

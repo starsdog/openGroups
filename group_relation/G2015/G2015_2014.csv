@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2015,豐興鋼鐵股份有限公司,GREAT FORTUNE HOLDING LIMITED,1,薩摩亞,1,1,0,0,0,上市,G2015,55389357,NA,NA,NA,NA,NA
+2014,2015,豐興鋼鐵股份有限公司,台灣鋼聯股份有限公司,0.2234,台灣,1,0,1,0,0,上市,G2015,55389357,89528054,NA,NA,NA,NA
+2014,2015,再投資大陸公司,淮安實源采鹵有限公司,0.0394,china,0,0,0,1,0,上市,G2015,NA,NA,11,NA,NA,NA
+2014,2015,再投資大陸公司,實聯化工江蘇有限公司,0.0349,china,0,0,0,1,0,上市,G2015,NA,NA,11,NA,NA,NA

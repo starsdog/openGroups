@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5321,友嘉實業股份有限公司,友銓電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5321,30878408,44043132,NA,NA,NA,NA
+2016,5321,豪倫電子股份有限公司,友銓電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5321,22684359,44043132,NA,NA,NA,NA
+2016,5321,友銓電子股份有限公司,日翔軟板科技股份有限公司,0.9925,台灣,1,1,0,0,0,上櫃,G5321,44043132,27332220,NA,NA,NA,NA
+2016,5321,日翔軟板科技股份有限公司,杭州日翔電子有限公司,1,china,0,1,0,1,0,上櫃,G5321,27332220,NA,NA,NA,NA,NA

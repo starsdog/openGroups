@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5543,崇佑股份有限公司,Buima Holding Ltd.,1,香港,1,1,0,0,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,歐華瑪新型建材(上海)有限公司,OWA Metallic Hong Kong Ltd.,1,香港,0,0,1,0,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,Syntech Holding Hong Kong Ltd.,OWA Metallic Pte. Ltd.,0.51,新加坡,0,0,1,0,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,Buima Holding Ltd.,Syntech Holding Hong Kong Ltd.,0.8612,香港,0,1,0,0,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,興鐵新型建材(上海)有限公司,Syntech Holding Hong Kong Ltd.,0.0048,香港,0,1,0,0,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,Syntech Holding Ltd.,Syntech Holding Hong Kong Ltd.,0.134,香港,0,0,1,0,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,崇佑股份有限公司,Syntech Holding Ltd.,1,英屬維京群島,1,0,1,0,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,Syntech Holding Hong Kong Ltd.,江蘇崇佑新型建材有限公司,1,china,0,1,0,1,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,Buima Holding Ltd.,宏記國際貿易(上海)有限公司,1,china,0,1,0,1,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,Noble Management Holding Ltd.,崇佑股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,JJ & LS COMPANY LIMITED,崇佑股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,ASIA STAR CORP.,崇佑股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,"DONGZHEN INTERNATIONAL CO., LTD.",崇佑股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,OWA Metallic Pte. Ltd.,歐華瑪新型建材(上海)有限公司,1,china,0,1,0,1,0,上櫃,G5543,NA,NA,NA,NA,NA,NA
+2016,5543,Syntech Holding Ltd.,興鐵新型建材(上海)有限公司,1,china,0,1,0,1,0,上櫃,G5543,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4950,Honest Mount Investments Limited,CS Solution Holding,1,英屬維京群島,0,1,0,0,0,上櫃,G4950,NA,NA,NA,NA,NA,NA
+2016,4950,CS Solution Holding,CS Solutions Technology,1,美國,0,1,0,0,0,上櫃,G4950,NA,NA,NA,NA,NA,NA
+2016,4950,牧東光電股份有限公司,Honest Mount Investments Limited,1,英屬維京群島,1,1,0,0,0,上櫃,G4950,24302624,NA,NA,NA,NA,NA
+2016,4950,Honest Mount Investments Limited,King cut,1,英屬維京群島,0,0,1,0,0,上櫃,G4950,NA,NA,NA,NA,NA,NA
+2016,4950,CS Solutions Technology,Sky Tech International,1,美國,0,1,0,0,0,上櫃,G4950,NA,NA,NA,NA,NA,NA
+2016,4950,四合企業股份有限公司,上海四合不鏽鋼製品有限公司,1,china,0,1,0,1,0,上櫃,G4950,61917399,NA,NA,NA,NA,NA
+2016,4950,牧東光電股份有限公司,四合企業股份有限公司,1,台灣,1,1,0,0,0,上櫃,G4950,24302624,61917399,NA,NA,NA,NA
+2016,4950,QimingTechnologiesHoldingLimit,牧東光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4950,NA,24302624,NA,NA,NA,NA
+2016,4950,英屬維京群島商AsiaSpringInte,牧東光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4950,NA,24302624,NA,NA,NA,NA

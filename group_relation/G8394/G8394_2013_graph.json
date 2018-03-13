@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "財政部", "no_holder": false, "taxcode": "NA"}, {"is_core": false, "source": [{"holder": "NA", "name": "財政部"}], "name": "台灣菸酒股份有限公司", "no_holder": false, "taxcode": "03787101"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

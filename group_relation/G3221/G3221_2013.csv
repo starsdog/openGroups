@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3221,鈦碩科技股份有限公司,"Beyond Fountain Co,. Ltd",0,薩摩亞,0,0,1,0,0,上櫃,G3221,NA,NA,NA,NA,NA,NA
+2013,3221,鈦碩科技股份有限公司,SNT Devices Limited,0.7,香港,0,1,0,0,0,上櫃,G3221,NA,NA,NA,NA,NA,NA
+2013,3221,鈦碩科技股份有限公司,SNT Inc.,0.51,南韓,0,1,0,0,0,上櫃,G3221,NA,NA,NA,NA,NA,NA
+2013,3221,鈦碩科技股份有限公司,TST Technology USA Inc.,0,美國,0,0,1,0,0,上櫃,G3221,NA,NA,NA,NA,NA,NA
+2013,3221,正文科技股份有限公司,台灣嘉碩科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3221,22960571,16264983,NA,NA,NA,NA
+2013,3221,超揚投資股份有限公司,台灣嘉碩科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3221,96979407,16264983,NA,NA,NA,NA
+2013,3221,邦茂投資股份有限公司,台灣嘉碩科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3221,16329374,16264983,NA,NA,NA,NA
+2013,3221,兆遠科技股份有限公司,台灣嘉碩科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3221,12646223,16264983,NA,NA,NA,NA
+2013,3221,"Beyond Fountain Co,. Ltd",無錫鈦邁思電子有限公司,0,china,0,1,0,1,0,上櫃,G3221,NA,NA,NA,NA,NA,NA
+2013,3221,鈦碩科技股份有限公司,無錫嘉碩科技有限公司,1,china,0,1,0,1,0,上櫃,G3221,NA,NA,NA,NA,NA,NA
+2013,3221,台灣嘉碩科技股份有限公司,鈦碩科技股份有限公司,1,薩摩亞,1,1,0,0,0,上櫃,G3221,16264983,NA,NA,NA,NA,NA
+2013,3221,台灣嘉碩科技股份有限公司,嘉實通電子股份有限公司,1,薩摩亞,1,1,0,0,0,上櫃,G3221,16264983,NA,NA,NA,NA,NA

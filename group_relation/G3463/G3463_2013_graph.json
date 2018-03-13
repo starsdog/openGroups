@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "志勝投資股份有限公司", "no_holder": false, "taxcode": "80147028"}, {"is_core": true, "source": [{"holder": "NA", "name": "志勝投資股份有限公司"}], "name": "宏塑工業股份有限公司", "no_holder": false, "taxcode": "36319254"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

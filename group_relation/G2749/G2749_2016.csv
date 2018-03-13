@@ -1,0 +1,3 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2749,台灣欣恆美股份有限公司,天瑞琪股份有限公司,0.65,不明,1,1,0,0,0,興櫃,G2749,53331916,42870319,NA,NA,NA,NA
+2016,2749,富芮國際有限公司,台灣欣恆美股份有限公司,NA,NA,0,0,0,0,1,興櫃,G2749,53099425,53331916,NA,NA,NA,NA

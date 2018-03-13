@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4929,華燈光電股份有限公司,Arclite Optronics International Corp.,1,塞席爾,1,1,0,0,0,公開發行,G1811,27479954,NA,NA,NA,NA,NA
+2016,4929,Arclite Optronics International Corp.,Plasmalite Technology Corp.,1,塞席爾,0,1,0,0,0,公開發行,G1811,NA,NA,NA,NA,NA,NA
+2016,4929,Plasmalite Technology Corp.,UHRlamps International Corp.,1,美國,0,1,0,0,0,公開發行,G1811,NA,NA,NA,NA,NA,NA
+2016,4929,華夏玻璃股份有限公司,華燈光電股份有限公司,NA,NA,0,0,0,0,1,公開發行,G1811,47109348,27479954,NA,NA,NA,NA

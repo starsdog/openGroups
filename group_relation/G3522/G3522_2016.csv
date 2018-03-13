@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3522,宏森光電科技(薩摩亞)有限公司,宏丞光電(廈門)有限公司,1,china,0,1,0,1,0,上櫃,G3522,NA,NA,NA,NA,NA,NA
+2016,3522,宏森光電科技股份有限公司,宏宇光學科技股份有限公司,0.9929,台灣,1,1,0,0,0,上櫃,G3522,12947467,28697578,NA,NA,NA,NA
+2016,3522,宏森光電科技(薩摩亞)有限公司,宏茂光電(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G3522,NA,NA,NA,NA,NA,NA
+2016,3522,宏森光電科技股份有限公司,宏森光電科技(薩摩亞)有限公司,1,薩摩亞,1,1,0,0,0,上櫃,G3522,12947467,NA,NA,NA,NA,NA
+2016,3522,森茂投資有限公司,宏森光電科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3522,27991861,12947467,NA,NA,NA,NA
+2016,3522,宏森光電科技(薩摩亞)有限公司,東莞宏邦光電有限公司,1,china,0,1,0,1,0,上櫃,G3522,NA,NA,NA,NA,NA,NA
+2016,3522,宏森光電科技股份有限公司,御頂餐飲股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3522,12947467,69481735,NA,NA,NA,NA
+2016,3522,御頂餐飲股份有限公司,頂鮮一零一股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3522,69481735,53118014,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,4153,鈺緯科技開發股份有限公司,DIVA Laboratories GmbH,1,德國,1,1,0,0,0,上櫃,G4153,89376900,NA,NA,NA,NA,NA
+2013,4153,鈺緯科技開發股份有限公司,"DIVA Laboratories U.S., LLC.",1,美國,1,1,0,0,0,上櫃,G4153,89376900,NA,NA,NA,NA,NA
+2013,4153,大昕股份有限公司,鈺緯科技開發股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4153,70759511,89376900,NA,NA,NA,NA
+2013,4153,日商東京特殊電線株式會社,鈺緯科技開發股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4153,NA,89376900,NA,NA,NA,NA

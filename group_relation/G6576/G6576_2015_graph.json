@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "逸達生物科技股份有限公司", "no_holder": false, "taxcode": "54165507"}, {"is_core": false, "source": [{"holder": "1", "name": "逸達生物科技股份有限公司"}], "name": "Foresee Pharmaceuticals USA. Inc.", "no_holder": false, "taxcode": "NA"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2015"}

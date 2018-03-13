@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,646,大昌證券股份有限公司,大昌保險經紀人股份有限公司,1,台灣,1,1,0,0,0,公開發行,G0646,23469771,80043065,NA,NA,NA,NA
+2016,646,大昌證券股份有限公司,大昌期貨股份有限公司,0.8653,台灣,1,1,0,0,0,公開發行,G0646,23469771,25058204,NA,NA,NA,NA
+2016,646,大昌證券股份有限公司,大昌證券投資顧問股份有限公司,1,台灣,1,1,0,0,0,公開發行,G0646,23469771,16939468,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "春堂投資有限公司", "no_holder": false, "taxcode": "25113945"}, {"is_core": true, "source": [{"holder": "NA", "name": "春堂投資有限公司"}], "name": "湧德電子股份有限公司", "no_holder": false, "taxcode": "27642463"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

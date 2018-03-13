@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,4530,宏易精密工業股份有限公司,"(CAYMAN) ELITEK INTERNATIONAL CO., LTD.",0,開曼群島,1,1,0,0,0,上櫃,G4530,36243760,NA,NA,NA,NA,NA
+2015,4530,宏易精密工業股份有限公司,"(SEYCHELLES) HONEST FAITH CO., LTD.",0.8857,塞席爾,1,1,0,0,0,上櫃,G4530,36243760,NA,NA,NA,NA,NA
+2015,4530,宏晟投資股份有限公司,"RAISING GREAT INVESTMENT CO.,LIMITED",1,不明,0,1,0,0,0,上櫃,G4530,24768559,NA,NA,NA,NA,NA
+2015,4530,宏陞投資股份有限公司,宏易精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4530,NA,36243760,NA,NA,NA,NA
+2015,4530,宏易投資股份有限公司,宏易精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4530,89703685,36243760,NA,NA,NA,NA
+2015,4530,宏捷投資股份有限公司,宏易精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4530,NA,36243760,NA,NA,NA,NA
+2015,4530,宏易精密工業股份有限公司,宏晟投資股份有限公司,1,台灣,1,0,1,0,0,上櫃,G4530,36243760,24768559,NA,NA,NA,NA
+2015,4530,"(SEYCHELLES) HONEST FAITH CO., LTD.",威鉅電腦配件(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G4530,NA,NA,NA,NA,NA,NA
+2015,4530,"(CAYMAN) ELITEK INTERNATIONAL CO., LTD.",威鉅模塑科技(昆山)有限公司,0,china,0,1,0,1,0,上櫃,G4530,NA,NA,NA,NA,NA,NA

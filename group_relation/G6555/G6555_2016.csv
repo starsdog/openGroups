@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6555,榮炭科技股份有限公司,GLORY,1,塞席爾,1,1,0,0,0,興櫃,G6555,24489613,NA,NA,NA,NA,NA
+2016,6555,GLORY,上高榮炭,1,china,0,1,0,1,0,興櫃,G6555,NA,NA,NA,NA,NA,NA
+2016,6555,GLORY,江門市榮炭電子材料有限公司,1,china,0,1,0,1,0,興櫃,G6555,NA,NA,NA,NA,NA,NA
+2016,6555,金新投資股份有限公司,榮炭科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6555,28706675,24489613,NA,NA,NA,NA

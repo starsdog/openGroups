@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2383,台光電子材料股份有限公司,EMC OVERSEAS HOLDING INCORPORATED,1,英屬維京群島,1,1,0,0,0,上市,G2383,86521351,NA,NA,NA,NA,NA
+2014,2383,大珠海有限公司,大上海有限公司,0.9979,英屬維京群島,0,1,0,0,0,上市,G2383,NA,NA,NA,NA,NA,NA
+2014,2383,大珠海有限公司,大中山有限公司,1,英屬維京群島,0,1,0,0,0,上市,G2383,NA,NA,NA,NA,NA,NA
+2014,2383,EMC OVERSEAS HOLDING INCORPORATED,大珠海有限公司,1,開曼群島,0,1,0,0,0,上市,G2383,NA,NA,NA,NA,NA,NA
+2014,2383,大中山有限公司,中山台光電子材料有限公司,1,china,0,1,0,1,0,上市,G2383,NA,NA,NA,NA,NA,NA
+2014,2383,大上海有限公司,台光電子材料(昆山)有限公司,1,china,0,1,0,1,0,上市,G2383,NA,NA,NA,NA,NA,NA
+2014,2383,大珠海有限公司,台光電子材料(香港)股份有限公司,0,不明,0,1,0,0,0,上市,G2383,NA,NA,NA,NA,NA,NA
+2014,2383,宇昌投資股份有限公司,台光電子材料股份有限公司,NA,NA,0,0,0,0,1,上市,G2383,97306317,86521351,NA,NA,NA,NA
+2014,2383,台光電子材料股份有限公司,立澄科技股份有限公司,0.335,台灣,1,0,1,0,0,上市,G2383,86521351,16830404,NA,NA,NA,NA
+2014,2383,EMC OVERSEAS HOLDING INCORPORATED,立澄科技股份有限公司,0.0153,台灣,0,0,1,0,0,上市,G2383,NA,16830404,NA,NA,NA,NA
+2014,2383,再投資大陸公司,新高電子材料(中山)有限公司,0.0326,china,0,0,0,1,0,上市,G2383,NA,NA,1,NA,NA,NA

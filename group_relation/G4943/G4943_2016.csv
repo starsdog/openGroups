@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4943,"CONCRAFT HOLDING CO., LTD.","CONCRAFT PRECISION CO., LTD.",1,香港,0,0,1,0,0,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,"CONCRAFT HOLDING CO., LTD.","CONCRAFT TECHNOLOGY CO., LTD.",1,香港,0,0,1,0,0,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,"CONCRAFT HOLDING CO., LTD.","DRAGONSTATE TECHNOLOGY CO., LTD.",1,模里西斯,0,0,1,0,0,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,昆山康龍電子科技有限公司,昆山浩均精密電子有限公司,1,china,0,1,0,1,0,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,"DRAGONSTATE TECHNOLOGY CO., LTD.",昆山康龍電子科技有限公司,1,china,0,1,0,1,0,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,"Monster Holding Co.,Ltd.","CONCRAFT HOLDING CO., LTD.",NA,NA,0,0,0,0,1,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,"AGI Holding Co.,Ltd.","CONCRAFT HOLDING CO., LTD.",NA,NA,0,0,0,0,1,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,"CONCRAFT HOLDING CO., LTD.",康而富精密工業股份有限公司,1,台灣,0,0,1,0,0,上市,G4943,NA,29172564,NA,NA,NA,NA
+2016,4943,"CONCRAFT PRECISION CO., LTD.",康而富精密電子(寶應)有限公司,1,china,0,1,0,1,0,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,"CONCRAFT PRECISION CO., LTD.",康而富精密機電(昆山)有限公司,1,china,0,1,0,1,0,上市,G4943,NA,NA,NA,NA,NA,NA
+2016,4943,康而富精密工業股份有限公司,華龍國際科技股份有限公司,1,台灣,0,1,0,0,0,上市,G4943,29172564,86650755,NA,NA,NA,NA

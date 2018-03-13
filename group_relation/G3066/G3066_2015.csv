@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3066,洲磊科技股份有限公司,GOLDEN EAGLE TECHNOLOGY LTD.,1,薩摩亞,0,1,0,0,0,上櫃,G3066,86545494,NA,NA,NA,NA,NA
+2015,3066,李洲科技股份有限公司,OASIS INVESTMENTS HOLDINGS LTD.,1,英屬維京群島,1,1,0,0,0,上櫃,G3066,04541794,NA,NA,NA,NA,NA
+2015,3066,耀靖企業股份有限公司,李洲科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3066,22324209,04541794,NA,NA,NA,NA
+2015,3066,OASIS INVESTMENTS HOLDINGS LTD.,東莞李洲電子科技有限公司,1,china,0,1,0,1,0,上櫃,G3066,NA,NA,NA,NA,NA,NA
+2015,3066,GOLDEN EAGLE TECHNOLOGY LTD.,東莞洲磊電子有限公司,1,china,0,1,0,1,0,上櫃,G3066,NA,NA,NA,NA,NA,NA
+2015,3066,李洲科技股份有限公司,洲磊科技股份有限公司,0.2293,台灣,1,1,0,0,0,上櫃,G3066,04541794,86545494,NA,NA,NA,NA
+2015,3066,李洲科技股份有限公司,銘瓷雷射微加工技術股份有限公司,0.7,台灣,1,1,0,0,0,上櫃,G3066,04541794,42602530,NA,NA,NA,NA

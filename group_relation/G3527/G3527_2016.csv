@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3527,聚積科技股份有限公司,MBI Group Inc.,1,汶萊,0,1,0,0,0,上櫃,G3527,16948543,NA,NA,NA,NA,NA
+2016,3527,繁星投資股份有限公司,宏銳投資股份有限公司,0.47,台灣,0,0,1,0,0,上櫃,G3527,54129995,54136118,NA,NA,NA,NA
+2016,3527,MBI Group Inc.,河北向陽公司,0.11,china,0,0,0,1,0,上櫃,G3527,NA,NA,NA,NA,NA,NA
+2016,3527,MBI Group Inc.,聚信光電(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G3527,NA,NA,NA,NA,NA,NA
+2016,3527,中華開發創業投資股份有限公司,聚積科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3527,80328870,16948543,NA,NA,NA,1
+2016,3527,迅捷投資股份有限公司,聚積科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3527,70761592,16948543,NA,NA,NA,NA
+2016,3527,聚積科技股份有限公司,錦鑫光電股份有限公司,0.51,台灣,0,1,0,0,0,上櫃,G3527,16948543,28572872,NA,NA,NA,NA
+2016,3527,聚積科技股份有限公司,繁星投資股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3527,16948543,54129995,NA,NA,NA,NA

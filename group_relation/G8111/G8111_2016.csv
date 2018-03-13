@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8111,立碁光能股份有限公司,EVER EASE LIMITED,1,薩摩亞,0,1,0,0,0,上櫃,G8111,28590203,NA,NA,NA,NA,NA
+2016,8111,立碁電子工業股份有限公司,"LIGITEK (SAMOA) CO., LTD.",1,薩摩亞,1,0,1,0,0,上櫃,G8111,NA,NA,NA,NA,NA,NA
+2016,8111,立碁電子工業股份有限公司,LIGITEK 株式會社,1,日本,1,1,0,0,0,上櫃,G8111,NA,NA,NA,NA,NA,NA
+2016,8111,享慶科技股份有限公司,立展興股份有限公司,1,台灣,0,1,0,0,0,上櫃,G8111,22008836,24722702,NA,NA,NA,NA
+2016,8111,阿波羅光能有限公司,立基光能(昆山)有限公司,1,china,0,1,0,1,0,上櫃,G8111,NA,NA,NA,NA,NA,NA
+2016,8111,立碁電子工業股份有限公司,立碁光能股份有限公司,0.9881,台灣,1,1,0,0,0,上櫃,G8111,NA,28590203,NA,NA,NA,NA
+2016,8111,"LIGITEK (SAMOA) CO., LTD.",立聯有限公司,1,香港,0,0,1,0,0,上櫃,G8111,NA,NA,NA,NA,NA,NA
+2016,8111,享慶科技股份有限公司(香港),享慶光電(東莞)有限公司,1,china,0,1,0,1,0,上櫃,G8111,NA,NA,NA,NA,NA,NA
+2016,8111,立碁電子工業股份有限公司,享慶科技股份有限公司,0.9875,台灣,1,1,0,0,0,上櫃,G8111,NA,22008836,NA,NA,NA,NA
+2016,8111,享慶科技股份有限公司,享慶科技股份有限公司(香港),1,香港,0,0,1,0,0,上櫃,G8111,22008836,NA,NA,NA,NA,NA
+2016,8111,EVER EASE LIMITED,阿波羅光能有限公司,0.2241,薩摩亞,0,1,0,0,0,上櫃,G8111,NA,NA,NA,NA,NA,NA
+2016,8111,"LIGITEK (SAMOA) CO., LTD.",阿波羅光能有限公司,0.7759,薩摩亞,0,0,1,0,0,上櫃,G8111,NA,NA,NA,NA,NA,NA
+2016,8111,立聯有限公司,廣州番禺立聯電子有限公司,1,china,0,1,0,1,0,上櫃,G8111,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5258,Castech International Limited,Castech International (H.K.) Limited,1,香港,0,1,0,0,0,上市,G5258,NA,NA,NA,NA,NA,NA
+2016,5258,虹堡科技股份有限公司,Castech International Limited,1,美國,0,1,0,0,0,上市,G5258,84188062,NA,NA,NA,NA,NA
+2016,5258,虹堡科技股份有限公司,Castles Technology Singapore Pte. Ltd.,0.5489,新加坡,0,1,0,0,0,上市,G5258,84188062,NA,NA,NA,NA,NA
+2016,5258,虹堡科技股份有限公司,Castles TechnologyEurope Srl,1,義大利,0,1,0,0,0,上市,G5258,84188062,NA,NA,NA,NA,NA
+2016,5258,虹堡科技股份有限公司,Castles TechnologyInternational Corp.,1,美國,0,1,0,0,0,上市,G5258,84188062,NA,NA,NA,NA,NA
+2016,5258,Castech International (H.K.) Limited,北京虹保世紀科技有限公司,1,china,0,1,0,1,0,上市,G5258,NA,NA,NA,NA,NA,NA
+2016,5258,華康投資股份有限公司,虹堡科技股份有限公司,NA,NA,0,0,0,0,1,上市,G5258,28385890,84188062,NA,NA,NA,NA
+2016,5258,勁永國際股份有限公司,虹堡科技股份有限公司,NA,NA,0,0,0,0,1,上市,G5258,16294733,84188062,NA,NA,NA,NA

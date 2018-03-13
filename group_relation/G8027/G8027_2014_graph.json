@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "高盛電子科技股份有限公司", "no_holder": false, "taxcode": "47052289"}, {"is_core": true, "source": [{"holder": "NA", "name": "高盛電子科技股份有限公司"}], "name": "鈦昇科技股份有限公司", "no_holder": false, "taxcode": "22101002"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

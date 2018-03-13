@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3669,圓展科技股份有限公司,AVer Information EUROPE B.V.,1,荷蘭,1,1,0,0,0,上市,G2417,28428722,NA,NA,NA,NA,NA
+2015,3669,圓展科技股份有限公司,AVer Information Inc.,1,日本,1,1,0,0,0,上市,G2417,28428722,NA,NA,NA,NA,NA
+2015,2417,圓剛科技股份有限公司,AVERMEDIA TECHNOLOGIES EUROPE B.V.,1,荷蘭,1,1,0,0,0,上市,G2417,23611974,NA,NA,NA,NA,NA
+2015,2417,圓剛科技股份有限公司,"AVERMEDIA TECHNOLOGIES, INC.",1,日本,1,1,0,0,0,上市,G2417,23611974,NA,NA,NA,NA,NA
+2015,2417,圓剛科技股份有限公司,圓剛多媒體科技(上海)有限公司,1,china,1,1,0,1,0,上市,G2417,23611974,NA,NA,NA,NA,NA
+2015,2417,圓展科技股份有限公司,圓宸投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2417,28428722,54859535,NA,NA,NA,NA
+2015,2417,圓剛科技股份有限公司,圓展科技股份有限公司,0.2672,台灣,1,1,0,0,0,上市,G2417,23611974,28428722,NA,NA,NA,NA
+2015,2417,圓毅投資股份有限公司,圓展科技股份有限公司,0.1801,台灣,0,1,0,0,0,上市,G2417,24370684,28428722,NA,NA,NA,NA
+2015,3669,圓展科技股份有限公司,圓展電子科技(上海)有限公司,1,china,1,1,0,1,0,上市,G2417,28428722,NA,NA,NA,NA,NA
+2015,2417,圓剛科技股份有限公司,圓毅投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2417,23611974,24370684,NA,NA,NA,NA

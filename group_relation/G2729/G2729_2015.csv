@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2729,"TTFB World Co., Ltd. (B.V.I.)",Mega City Food Court Limited (CAYMAN),1,開曼群島,0,0,1,0,0,上櫃,G2729,NA,NA,NA,NA,NA,NA
+2015,2729,Mega City Food Court Limited (CAYMAN),Mega City Food Court Limited (H.K.),1,香港,0,1,0,0,0,上櫃,G2729,NA,NA,NA,NA,NA,NA
+2015,2729,"TTFB World Co., Ltd. (CAYMAN)","TTFB World Co., Ltd. (SAMOA)",1,薩摩亞,0,0,1,0,0,上櫃,G2729,NA,NA,NA,NA,NA,NA
+2015,2729,"TTFB World Co., Ltd. (B.V.I.)","TTFB World Co., Ltd. (CAYMAN)",1,開曼群島,0,1,0,0,0,上櫃,G2729,NA,NA,NA,NA,NA,NA
+2015,2729,第一美味股份有限公司,"TTFB World Co., Ltd. (B.V.I.)",1,英屬維京群島,0,1,0,0,0,上櫃,G2729,54024394,NA,NA,NA,NA,NA
+2015,2729,瓦城泰統股份有限公司,瓦城泰統股份有限公司,1,台灣,1,1,0,0,0,上櫃,G2729,70843031,70843031,NA,NA,NA,NA
+2015,2729,哲泰股份有限公司,瓦城泰統股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2729,70576359,70843031,NA,NA,NA,NA
+2015,2729,Mega City Food Court Limited (H.K.),瓦城餐飲管理(上海)有限公司,0.174,不明,0,1,0,0,0,上櫃,G2729,NA,NA,NA,NA,NA,NA
+2015,2729,"TTFB World Co., Ltd. (SAMOA)",瓦城餐飲管理(上海)有限公司,0.826,china,0,1,0,1,0,上櫃,G2729,NA,NA,NA,NA,NA,NA
+2015,2729,瓦城泰統股份有限公司,非常泰股份有限公司,1,台灣,1,1,0,0,0,上櫃,G2729,70843031,16624615,NA,NA,NA,NA
+2015,2729,瓦城泰統股份有限公司,第一美味股份有限公司,1,台灣,1,1,0,0,0,上櫃,G2729,70843031,54024394,NA,NA,NA,NA
+2015,2729,瓦城泰統股份有限公司,遠冠股份有限公司,1,台灣,1,1,0,0,0,上櫃,G2729,70843031,70840941,NA,NA,NA,NA

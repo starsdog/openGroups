@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4609,銳暢有限公司,克萊美斯機電科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G4609,NA,NA,NA,NA,NA,NA
+2016,4609,銳暢有限公司,唐鋒機電科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G4609,NA,NA,NA,NA,NA,NA
+2016,4609,唐鋒實業股份有限公司,銳暢有限公司,1,香港,1,1,0,0,0,上櫃,G4609,NA,NA,NA,NA,NA,NA
+2016,4609,再投資大陸公司,大陸唐鋒電器廠,1,china,0,0,0,1,0,上櫃,G4609,NA,NA,11,NA,NA,NA

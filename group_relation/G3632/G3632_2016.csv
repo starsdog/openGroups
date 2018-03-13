@@ -1,0 +1,21 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6529,研鼎崧圖股份有限公司,"GOLiFE, Inc.",1,薩摩亞,1,1,0,0,0,興櫃,G3632,29044837,NA,NA,NA,NA,NA
+2016,6529,"GOLiFE, Inc.",GOYOURLIFE Limited,1,香港,0,1,0,0,0,興櫃,G3632,NA,NA,NA,NA,NA,NA
+2016,3632,研勤科技股份有限公司,Maction International Inc.,1,美國,1,1,0,0,0,上櫃,G3632,12894047,NA,NA,NA,NA,NA
+2016,3632,Maction International Inc.,Maction Technologies Limited,1,香港,0,1,0,0,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2016,3632,研勤科技股份有限公司,PAPAGO (H.K.) Limited,1,香港,1,1,0,0,0,上櫃,G3632,12894047,NA,NA,NA,NA,NA
+2016,3632,研勤科技股份有限公司,"PAPAGO (Thailand) Co., Ltd.",1,泰國,1,1,0,0,0,上櫃,G3632,12894047,NA,NA,NA,NA,NA
+2016,3632,PAPAGO (H.K.) Limited,PAPAGO JAPAN株式會社,0.45,日本,0,0,1,0,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2016,3632,PAPAGO (H.K.) Limited,"PAPAGO, Inc.",0.4,美國,0,0,1,0,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2016,3632,Maction Technologies Limited,上海研亞軟件信息技術有限公司,1,china,0,1,0,1,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2016,3632,研釀生技股份有限公司,友淳股份有限公司,0.25,台灣,0,0,1,0,0,上櫃,G3632,54685508,42801643,NA,NA,NA,NA
+2016,3632,研釀生技股份有限公司,友硯股份有限公司,0.2,台灣,0,0,1,0,0,上櫃,G3632,54685508,52222313,NA,NA,NA,NA
+2016,3632,研勤科技股份有限公司,研亞投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3632,12894047,42632582,NA,NA,NA,NA
+2016,3632,研亞投資股份有限公司,研動科技股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3632,42632582,52397018,NA,NA,NA,NA
+2016,6529,GOYOURLIFE Limited,研崧(上海)信息科技有限公司,1,china,0,1,0,1,0,興櫃,G3632,NA,NA,NA,NA,NA,NA
+2016,3632,研勤科技股份有限公司,研鼎崧圖股份有限公司,0.4037,台灣,1,0,1,0,0,上櫃,G3632,12894047,29044837,NA,NA,NA,NA
+2016,6529,崧旭資訊股份有限公司,研鼎崧圖股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3632,12949916,29044837,NA,NA,NA,NA
+2016,3632,研勤科技股份有限公司,研釀生技股份有限公司,0.7037,台灣,1,1,0,0,0,上櫃,G3632,12894047,54685508,NA,NA,NA,NA
+2016,3632,研釀生技股份有限公司,啤兒麥斯特股份有限公司,0.6,台灣,0,1,0,0,0,上櫃,G3632,54685508,24957377,NA,NA,NA,NA
+2016,3632,研釀生技股份有限公司,閎麥股份有限公司,0.25,台灣,0,0,1,0,0,上櫃,G3632,54685508,52312692,NA,NA,NA,NA
+2016,3632,PAPAGO (H.K.) Limited,綠葉飲食集團有限公司,0.49,香港,0,0,1,0,0,上櫃,G3632,NA,NA,NA,NA,NA,NA

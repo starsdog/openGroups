@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3345,"CHIEF LAND INTERNATIONAL CO., LTD.","CHIEF FONG INTERNATIONAL CO., LTD.",0.9127,香港,0,1,0,0,0,興櫃,G3345,NA,NA,NA,NA,NA,NA
+2014,3345,"CHIEF SHENG INTERNATIONAL CO., LTD.","CHIEF FONG INTERNATIONAL CO., LTD.",0.0873,香港,0,1,0,0,0,興櫃,G3345,NA,NA,NA,NA,NA,NA
+2014,3345,慶良電子股份有限公司,"CHIEF LAND INTERNATIONAL CO., LTD.",1,薩摩亞,1,1,0,0,0,興櫃,G3345,22308453,NA,NA,NA,NA,NA
+2014,3345,慶良電子股份有限公司,"CHIEF SHENG INTERNATIONAL CO., LTD.",1,薩摩亞,1,1,0,0,0,興櫃,G3345,22308453,NA,NA,NA,NA,NA
+2014,3345,慶良電子股份有限公司,EFFORTS INTERNATIONAL LIMITED,1,英屬維京群島,1,1,0,0,0,興櫃,G3345,22308453,NA,NA,NA,NA,NA
+2014,3345,慶良電子股份有限公司,"GLORY INTERNATIONAL CO., LTD.",1,美國,1,1,0,0,0,興櫃,G3345,22308453,NA,NA,NA,NA,NA
+2014,3345,再投資大陸公司,東莞厚街白濠慶升電子廠,1,china,0,0,0,1,0,興櫃,G3345,NA,NA,1,NA,NA,NA
+2014,3345,慶盟投資股份有限公司,慶良電子股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3345,80222975,22308453,NA,NA,NA,NA
+2014,3345,"CHIEF FONG INTERNATIONAL CO., LTD.",慶虹電子(蘇州)有限公司,1,china,0,1,0,1,0,興櫃,G3345,NA,NA,NA,NA,NA,NA
+2014,3345,"CHIEF FONG INTERNATIONAL CO., LTD.",慶盛電子(無錫)有限公司,1,china,0,1,0,1,0,興櫃,G3345,NA,NA,NA,NA,NA,NA
+2014,3345,"CHIEF FONG INTERNATIONAL CO., LTD.",蘇州慶欣電子有限公司,1,china,0,1,0,1,0,興櫃,G3345,NA,NA,NA,NA,NA,NA

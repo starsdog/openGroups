@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4155,訊映光電股份有限公司,"Prodigy Diabetes Care, LLC",0.45,美國,0,0,1,0,0,興櫃,G4155,NA,NA,NA,NA,NA,NA
+2016,4155,訊映光電股份有限公司,廣州訊揚科技有限公司,1,china,1,1,0,1,0,興櫃,G4155,NA,NA,NA,NA,NA,NA
+2016,4155,訊映光電股份有限公司,歐克株式會社,1,日本,1,1,0,0,0,興櫃,G4155,NA,NA,NA,NA,NA,NA
+2016,4155,訊映光電股份有限公司,歐克健康國際股份有限公司,1,台灣,1,1,0,0,0,興櫃,G4155,NA,45102663,NA,NA,NA,NA

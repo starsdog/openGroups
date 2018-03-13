@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5283,禾聯碩股份有限公司,台灣電器股份有限公司,1,台灣,1,1,0,0,0,興櫃,G5283,80333058,54804151,NA,NA,NA,NA
+2016,5283,禾聯碩股份有限公司,協盛投資股份有限公司,0,台灣,1,0,1,0,0,興櫃,G5283,80333058,53532408,NA,NA,NA,NA
+2016,5283,禾聯碩股份有限公司,臺灣格力股份有限公司,0.2727,台灣,1,0,1,0,0,興櫃,G5283,80333058,53538613,NA,NA,NA,NA
+2016,5283,禾聯碩股份有限公司,聯碩電器股份有限公司,1,台灣,1,1,0,0,0,興櫃,G5283,80333058,28587431,NA,NA,NA,NA

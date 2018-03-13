@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1784,訊聯生物科技股份有限公司,Crown Star Alliance Limited,1,薩摩亞,1,1,0,0,0,上櫃,G1784,70836411,NA,NA,NA,NA,NA
+2013,1784,Crown Star Alliance Limited,Star Ford (SAMOA) Limited,1,薩摩亞,0,1,0,0,0,上櫃,G1784,NA,NA,NA,NA,NA,NA
+2013,1784,Star Ford (SAMOA) Limited,上海訊聯管理顧問有限公司,1,china,0,1,0,1,0,上櫃,G1784,NA,NA,NA,NA,NA,NA
+2013,1784,再投資大陸公司,上海基康生物技術有限公司,0,china,0,0,0,1,0,上櫃,G1784,NA,NA,1,NA,NA,NA
+2013,1784,坤倫投資股份有限公司,訊聯生物科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1784,97115464,70836411,NA,NA,NA,NA
+2013,1784,美東投資股份有限公司,訊聯生物科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1784,16431504,70836411,NA,NA,NA,NA
+2013,1784,鈺德科技股份有限公司,訊聯生物科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1784,84785413,70836411,NA,NA,NA,NA
+2013,1784,訊聯生物科技股份有限公司,訊聯生醫美容股份有限公司,1,台灣,1,1,0,0,0,上櫃,G1784,70836411,29059970,NA,NA,NA,NA
+2013,1784,創源生物科技股份有限公司,訊聯醫事檢驗所,0,不明,0,1,0,0,0,上櫃,G1784,24268870,NA,NA,NA,NA,NA
+2013,1784,訊聯生物科技股份有限公司,康聯生醫科技股份有限公司,0,台灣,1,0,1,0,0,上櫃,G1784,70836411,24291669,NA,NA,NA,NA
+2013,1784,訊聯生物科技股份有限公司,創源生物科技股份有限公司,0.1634,台灣,1,1,0,0,0,上櫃,G1784,70836411,24268870,NA,NA,NA,NA
+2013,1784,創源生物科技股份有限公司,源北澤股份有限公司,0,台灣,0,1,0,0,0,上櫃,G1784,24268870,54107562,NA,NA,NA,NA
+2013,1784,再投資大陸公司,廣東訊原生物科技有限公司,0,china,0,0,0,1,0,上櫃,G1784,NA,NA,1,NA,NA,NA
+2013,4160,建信啟記股份有限公司,創源生物科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1784,03300229,24268870,NA,NA,NA,NA

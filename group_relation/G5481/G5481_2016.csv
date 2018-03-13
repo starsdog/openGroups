@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5481,華韡電子工業股份有限公司,Hwa Woei(BVI)Laminate Corp,1,英屬維京群島,1,1,0,0,0,上櫃,G5481,23790625,NA,NA,NA,NA,NA
+2016,5481,華韡電子工業股份有限公司,大安華韡投資有限公司,1,台灣,1,1,0,0,0,上櫃,G5481,23790625,24958164,NA,NA,NA,NA
+2016,5481,黃總大車隊股份有限公司,華韡電子工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5481,54624708,23790625,NA,NA,NA,NA
+2016,5481,大安華韡投資有限公司,華韡電子工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5481,24958164,23790625,NA,NA,NA,NA
+2016,5481,大安思源股份有限公司,華韡電子工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5481,54624566,23790625,NA,NA,NA,NA

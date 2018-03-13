@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3013,爵榮國際,東莞成銘,1,china,0,1,0,1,0,上市,G3013,NA,NA,NA,NA,NA,NA
+2016,3013,頂智公司,晟銘電子(寧波)有限公司,0.52,china,0,1,0,1,0,上市,G3013,NA,NA,NA,NA,NA,NA
+2016,3013,采金投資股份有限公司,晟銘電子科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3013,53931067,04777186,NA,NA,NA,NA
+2016,3013,晟銘電子科技股份有限公司,頂都國際,1,薩摩亞,0,1,0,0,0,上市,G3013,04777186,NA,NA,NA,NA,NA
+2016,3013,頂都國際,頂智公司,1,薩摩亞,0,1,0,0,0,上市,G3013,NA,NA,NA,NA,NA,NA
+2016,3013,頂都國際,爵榮國際,1,薩摩亞,0,1,0,0,0,上市,G3013,NA,NA,NA,NA,NA,NA

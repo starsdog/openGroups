@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6192,巨路國際股份有限公司,LUMAX INTERNATIONAL LTD.,1,英屬維京群島,1,1,0,0,0,上市,G6192,14033663,NA,NA,NA,NA,NA
+2016,6192,巨路國際股份有限公司,ZENNOR LTD.,1,薩摩亞,1,1,0,0,0,上市,G6192,14033663,NA,NA,NA,NA,NA
+2016,6192,LUMAX INTERNATIONAL LTD.,ZENNOR LTD.,0.3984,薩摩亞,0,0,1,0,0,上市,G6192,NA,NA,NA,NA,NA,NA
+2016,6192,ZENNOR LTD.,大連保稅區新樂國際工貿有限公司,1,china,0,1,0,1,0,上市,G6192,NA,NA,NA,NA,NA,NA
+2016,6192,LUMAX INTERNATIONAL LTD.,大連保稅區路邁順國際貿易有限公司,1,china,0,1,0,1,0,上市,G6192,NA,NA,NA,NA,NA,NA
+2016,6192,大連保稅區新樂國際工貿有限公司,大連創展機電設備維修服務有限公司,1,china,0,1,0,0,0,上市,G6192,NA,NA,NA,NA,NA,NA
+2016,6192,LUMAX INTERNATIONAL LTD.,巨路貿易(廈門)有限公司,1,china,0,1,0,1,0,上市,G6192,NA,NA,NA,NA,NA,NA
+2016,6192,ZENNOR LTD.,巨路電腦設備(上海)有限公司,1,china,0,1,0,1,0,上市,G6192,NA,NA,NA,NA,NA,NA
+2016,6192,大連保稅區路邁順國際貿易有限公司,巨路電腦設備(上海)有限公司,1,china,0,1,0,0,0,上市,G6192,NA,NA,NA,NA,NA,NA
+2016,6192,LUMAX INTERNATIONAL LTD.,威茂電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G6192,NA,NA,NA,NA,NA,NA
+2016,6192,LUMAX INTERNATIONAL LTD.,捷盛電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G6192,NA,NA,NA,NA,NA,NA

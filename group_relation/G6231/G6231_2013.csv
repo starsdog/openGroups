@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,6231,系微股份有限公司,Clean Slate Ltd.,1,英屬維京群島,1,1,0,0,0,上櫃,G6231,16627697,NA,NA,NA,NA,NA
+2013,6270,倍微科技股份有限公司,Excellence International Holding Corporation,1,英屬維京群島,1,1,0,0,0,上櫃,G6231,86882278,NA,NA,NA,NA,NA
+2013,6231,Clean Slate Ltd.,"Insyde Market, Inc.",1,英屬維京群島,0,0,1,0,0,上櫃,G6231,NA,NA,NA,NA,NA,NA
+2013,6231,Clean Slate Ltd.,Insyde Software Inc.,1,美國,0,1,0,0,0,上櫃,G6231,NA,NA,NA,NA,NA,NA
+2013,6270,倍微科技股份有限公司,Melodytek Limited,0,不明,1,1,0,0,0,上櫃,G6231,86882278,NA,NA,NA,NA,NA
+2013,6270,Excellence International Holding Corporation,Professional Computer Technology Pte Ltd.,1,新加坡,0,1,0,0,0,上櫃,G6231,NA,NA,NA,NA,NA,NA
+2013,6270,Excellence International Holding Corporation,Silicon Professional Technology Hong Kong Ltd.,1,香港,0,1,0,0,0,上櫃,G6231,NA,NA,NA,NA,NA,NA
+2013,6270,Excellence International Holding Corporation,Silicon Professional Technology Ltd.,1,英屬維京群島,0,1,0,0,0,上櫃,G6231,NA,NA,NA,NA,NA,NA
+2013,6231,倍微科技股份有限公司,系微股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6231,86882278,16627697,NA,NA,NA,NA
+2013,6231,系微股份有限公司,系微軟件科技(上海)有限公司,1,china,1,1,0,1,0,上櫃,G6231,16627697,NA,NA,NA,NA,NA
+2013,6270,Excellence International Holding Corporation,香港弘強微科技有限公司,0,不明,0,1,0,0,0,上櫃,G6231,NA,NA,NA,NA,NA,NA
+2013,6270,Silicon Professional Technology Ltd.,袓微電子產品(上海)有限公司,1,china,0,1,0,1,0,上櫃,G6231,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,25 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3095,CHI CHENG CORP.,CHI CHENG (BVI) CORP.,1,英屬維京群島,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,HONG KONG CHI CHENG LIMITED,CHI CHENG CHICAGO INC.,1,美國,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,及成企業股份有限公司,CHI CHENG CORP.,1,薩摩亞,1,1,0,0,0,上櫃,G3095,33724081,NA,NA,NA,NA,NA
+2013,3095,珠海及成通訊科技股份有限公司,HONG KONG CHI CHENG LIMITED,1,香港,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,及成企業股份有限公司,SINGAPORE CHI CHENG PTE LTD.,1,新加坡,1,1,0,0,0,上櫃,G3095,33724081,NA,NA,NA,NA,NA
+2013,3095,中州精密科技股份有限公司,中州精密科技(福建)有限公司,1,china,0,1,0,1,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,中州精密科技股份有限公司,中州精密科技(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,州鉅科技股份有限公司,中州精密科技股份有限公司,1,模里西斯,0,1,0,0,0,上櫃,G3095,16500276,NA,NA,NA,NA,NA
+2013,3095,HONG KONG CHI CHENG LIMITED,及成企業股份有限公司,1,馬來西亞,0,1,0,0,0,上櫃,G3095,NA,33724081,NA,NA,NA,NA
+2013,3095,京興投資股份有限公司,及成企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3095,86288024,33724081,NA,NA,NA,NA
+2013,3095,HONG KONG CHI CHENG LIMITED,天津及成光電科技有限公司,0.49,中國大陸,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,珠海及成通訊科技股份有限公司,天津及成光電科技有限公司,0.51,中國大陸,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,緯晉工業股份有限公司,州鉅科技股份有限公司,0.5576,台灣,0,1,0,0,0,上櫃,G3095,34292364,16500276,NA,NA,NA,NA
+2013,3095,HONG KONG CHI CHENG LIMITED,及成科技馬來西亞有限公司,1,馬來西亞,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,HONG KONG CHI CHENG LIMITED,昆山及成通訊科技有限公司,0.1,中國大陸,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,SINGAPORE CHI CHENG PTE LTD.,珠海及成通訊科技股份有限公司,0.9691,中國大陸,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,SINGAPORE CHI CHENG PTE LTD.,昆山及成通訊科技有限公司,0.15,不明,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,珠海及成通訊科技股份有限公司,昆山及成通訊科技有限公司,0.75,中國大陸,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,CHI CHENG (BVI) CORP.,昆山及成精密組件有限公司,1,中國大陸,0,1,0,0,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,勁台國際股份有限公司,佛山市南海緯晉光電科技有限公司,1,china,0,1,0,1,0,上櫃,G3095,NA,NA,NA,NA,NA,NA
+2013,3095,緯晉工業股份有限公司,勁台國際股份有限公司,1,薩摩亞,0,1,0,0,0,上櫃,G3095,34292364,NA,NA,NA,NA,NA
+2013,3095,HONG KONG CHI CHENG LIMITED,香港商香港及成有限公司台灣分公司,1,台灣,0,1,0,0,0,上櫃,G3095,NA,28990566,NA,NA,NA,NA
+2013,3095,州鉅科技股份有限公司,嘉富科技股份有限公司,1,聖文森島,0,1,0,0,0,上櫃,G3095,16500276,NA,NA,NA,NA,NA
+2013,3095,及成企業股份有限公司,緯晉工業股份有限公司,0.7953,台灣,1,1,0,0,0,上櫃,G3095,33724081,34292364,NA,NA,NA,NA

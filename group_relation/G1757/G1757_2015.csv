@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1757,Power Hero Corp,Giant Way Inc.,0.51,模里西斯,0,1,0,0,0,公開發行,G1757,NA,NA,NA,NA,NA,NA
+2015,1757,國慶化學股份有限公司,Power Hero Corp,1,模里西斯,1,1,0,0,0,公開發行,G1757,NA,NA,NA,NA,NA,NA
+2015,1757,國慶化學股份有限公司,台灣石墨烯股份有限公司,0.5,台灣,1,1,0,0,0,公開發行,G1757,NA,24655041,NA,NA,NA,NA
+2015,1757,Giant Way Inc.,邑泓貿易(上海)有限公司,1,china,0,1,0,1,0,公開發行,G1757,NA,NA,NA,NA,NA,NA

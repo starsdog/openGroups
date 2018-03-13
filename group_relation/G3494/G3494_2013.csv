@@ -1,0 +1,19 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3494,"Elegant Famous Technology Co., Ltd.","ACE Color Technologies Co., Ltd.",1,越南,0,0,1,0,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,J&Y International Limited (BVI),"Elegant Famous Technology Co., Ltd.",1,汶萊,0,1,0,0,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,J&Y International Limited (BVI),Group Trading Limited,0,英屬維京群島,0,1,0,0,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,誠研科技股份有限公司,"Hi Touch Imaging Technologies Co., Ltd. (Samoa)",1,薩摩亞,1,1,0,0,0,上市,G3494,70801588,NA,NA,NA,NA,NA
+2013,3494,誠研科技股份有限公司,"HiTi Digital America, Inc.",1,美國,1,1,0,0,0,上市,G3494,70801588,NA,NA,NA,NA,NA
+2013,3494,誠研科技股份有限公司,HiTi Digital Europe B.V.,1,荷蘭,1,1,0,0,0,上市,G3494,70801588,NA,NA,NA,NA,NA
+2013,3494,"Hi Touch Imaging Technologies Co., Ltd. (Samoa)",Hua Shan Investments Limited,1,香港,0,0,1,0,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,誠研科技股份有限公司,J&Y International Limited (BVI),1,英屬維京群島,1,1,0,0,0,上市,G3494,70801588,NA,NA,NA,NA,NA
+2013,3494,誠研科技股份有限公司,Leadlink Asia International Limited,1,貝里斯,1,1,0,0,0,上市,G3494,70801588,NA,NA,NA,NA,NA
+2013,3494,Leadlink Asia International Limited,Leadlink BacNinh Limited,1,越南,0,0,1,0,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,J&Y International Limited (BVI),TPS Enterprises Limited,0,薩摩亞,0,0,1,0,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,"Hi Touch Imaging Technologies Co., Ltd. (Samoa)",誠研科技(香港)有限公司,0,香港,0,1,0,0,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,誠研科技(蘇州)有限公司 ,誠研科技(香港)有限公司,0,香港,0,0,1,0,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,Hua Shan Investments Limited,誠研科技(蘇州)有限公司 ,1,china,0,1,0,1,0,上市,G3494,NA,NA,NA,NA,NA,NA
+2013,3494,光風投資有限公司,誠研科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3494,27408570,70801588,NA,NA,NA,NA
+2013,3494,誠研科技股份有限公司,謙華科技股份有限公司,0.5048,台灣,1,1,0,0,0,上市,G3494,70801588,28540056,NA,NA,NA,NA
+2013,3494,謙豐投資股份有限公司,謙華科技股份有限公司,0.175,台灣,0,0,1,0,0,上市,G3494,28836369,28540056,NA,NA,NA,NA
+2013,3494,誠研科技股份有限公司,謙豐投資股份有限公司,1,台灣,1,1,0,0,0,上市,G3494,70801588,28836369,NA,NA,NA,NA

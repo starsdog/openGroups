@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,5279,Norr System Pte. Ltd.,Bloomfoss Pte. Ltd.,0,新加坡,0,1,0,0,0,興櫃,G5279,NA,NA,NA,NA,NA,NA
+2013,5279,M2E Corporation Limited,"M2E Corp (Suzhou) Co., Limited.",0,不明,0,1,0,0,0,興櫃,G5279,NA,NA,NA,NA,NA,NA
+2013,5279,Norr System Pte. Ltd.,M2E Corporation Limited,0,不明,0,1,0,0,0,興櫃,G5279,NA,NA,NA,NA,NA,NA
+2013,5279,諾爾岸外集團股份有限公司,Norr System Pte. Ltd.,1,開曼群島,1,1,0,0,0,興櫃,G5279,53655371,NA,NA,NA,NA,NA
+2013,5279,Norr System Pte. Ltd.,Norr Systems Hydraulics Pte. Ltd.,0.6,新加坡,0,1,0,0,0,興櫃,G5279,NA,NA,NA,NA,NA,NA
+2013,5279,諾爾岸外集團股份有限公司,Wecom Engineering Pte. Ltd.,1,開曼群島,1,1,0,0,0,興櫃,G5279,53655371,NA,NA,NA,NA,NA
+2013,5279,Wecom Engineering Pte. Ltd.,Wecom Marine Pte. Ltd.,1,新加坡,0,1,0,0,0,興櫃,G5279,NA,NA,NA,NA,NA,NA

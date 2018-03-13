@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2059,"King Slide (Samoa) Co., Ltd.","King Slide (Hong Kong) Co., Limited",1,香港,0,1,0,0,0,上市,G2059,NA,NA,NA,NA,NA,NA
+2013,2059,川湖科技股份有限公司,"King Slide (Samoa) Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G2059,22274989,NA,NA,NA,NA,NA
+2013,2059,川湖科技股份有限公司,"King Slide USA, Inc.",1,美國,1,1,0,0,0,上市,G2059,22274989,NA,NA,NA,NA,NA
+2013,2059,"King Slide (Hong Kong) Co., Limited",上海川吉貿易有限公司,1,china,0,1,0,1,0,上市,G2059,NA,NA,NA,NA,NA,NA
+2013,2059,川湖科技股份有限公司,川益科技股份有限公司,1,台灣,1,1,0,0,0,上市,G2059,22274989,28556009,NA,NA,NA,NA
+2013,2059,隆盛投資股份有限公司,川湖科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2059,70403245,22274989,NA,NA,NA,NA
+2013,2059,宏怡投資股份有限公司,川湖科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2059,70403147,22274989,NA,NA,NA,NA
+2013,2059,英麗投資股份有限公司,川湖科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2059,70404856,22274989,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "書長鴻營造股份有限公司", "no_holder": false, "taxcode": "NA"}, {"is_core": false, "source": [{"holder": "1", "name": "書長鴻營造股份有限公司"}], "name": "明新工程股份有限公司", "no_holder": false, "taxcode": "84165146"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2013"}

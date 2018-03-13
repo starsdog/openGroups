@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3128,昇銳電子股份有限公司,Asia Business Center,0.005,法國,1,1,0,0,0,上櫃,G3128,22601576,NA,NA,NA,NA,NA
+2015,3128,昇銳電子股份有限公司,Hi Sharp Holdings (SAMOA) Ltd.,0.01,薩摩亞,1,1,0,0,0,上櫃,G3128,22601576,NA,NA,NA,NA,NA
+2015,3128,Hi Sharp Holdings (SAMOA) Ltd.,Hi Sharp Investments (SAMOA) Ltd.,0.01,薩摩亞,0,1,0,0,0,上櫃,G3128,NA,NA,NA,NA,NA,NA
+2015,3128,昇銳(天津)電子有限公司,北京昇銳東方電子科技有限公司,0.0067,china,0,1,0,1,0,上櫃,G3128,NA,NA,NA,NA,NA,NA
+2015,3128,昇銳電子股份有限公司,車威視科技股份有限公司,0.007,台灣,1,1,0,0,0,上櫃,G3128,22601576,54537752,NA,NA,NA,NA
+2015,3128,Hi Sharp Investments (SAMOA) Ltd.,昇銳(天津)電子有限公司,0.01,china,0,1,0,1,0,上櫃,G3128,NA,NA,NA,NA,NA,NA
+2015,3128,萬聖投資有限公司,昇銳電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3128,16916319,22601576,NA,NA,NA,NA

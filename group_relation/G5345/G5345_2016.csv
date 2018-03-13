@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5345,"TEAM YOUNG ADVANCED CERAMICS (H.K.) CO., LTD.",SKY VICTORY CONSULTANTS LTD.,1,薩摩亞,0,1,0,0,0,上櫃,G5345,NA,NA,NA,NA,NA,NA
+2016,5345,天揚精密科技股份有限公司,"TEAM YOUNG ADVANCED CERAMICS (H.K.) CO., LTD.",1,香港,1,1,0,0,0,上櫃,G5345,23827860,NA,NA,NA,NA,NA
+2016,5345,再投資大陸公司,天揚電子(昆山)有限公司,1,china,0,0,0,1,0,上櫃,G5345,NA,NA,1,NA,NA,NA
+2016,5345,協成化工股份有限公司,天揚精密科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5345,60202542,23827860,NA,NA,NA,NA
+2016,5345,"TEAM YOUNG ADVANCED CERAMICS (H.K.) CO., LTD.",東莞天捷電子有限公司,1,china,0,1,0,1,0,上櫃,G5345,NA,NA,NA,NA,NA,NA
+2016,5345,"TEAM YOUNG ADVANCED CERAMICS (H.K.) CO., LTD.",東莞天揚電子有限公司,1,china,0,1,0,1,0,上櫃,G5345,NA,NA,NA,NA,NA,NA
+2016,5345,"TEAM YOUNG ADVANCED CERAMICS (H.K.) CO., LTD.",豐富利科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G5345,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "和江留投資股份有限公司", "no_holder": false, "taxcode": "12478464"}, {"is_core": true, "source": [{"holder": "NA", "name": "和江留投資股份有限公司"}], "name": "台灣華歌爾股份有限公司", "no_holder": false, "taxcode": "43409251"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

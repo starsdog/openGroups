@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "聯訊管理顧問股份有限公司", "no_holder": false, "taxcode": "70466705"}, {"is_core": true, "source": [{"holder": "NA", "name": "聯訊管理顧問股份有限公司"}], "name": "物聯智慧股份有限公司", "no_holder": false, "taxcode": "29045478"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2015"}

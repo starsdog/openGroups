@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6133,金橋科技股份有限公司,GBE Investments Ltd.,1,薩摩亞,1,1,0,0,0,上市,G6133,04865462,NA,NA,NA,NA,NA
+2016,6133,金橋科技股份有限公司,Golden Bridge Electric Pte Ltd.,1,新加坡,1,1,0,0,0,上市,G6133,04865462,NA,NA,NA,NA,NA
+2016,6133,金橋科技股份有限公司,Sinbridge Pte Ltd.,1,新加坡,1,1,0,0,0,上市,G6133,04865462,NA,NA,NA,NA,NA
+2016,6133,金橋科技股份有限公司,Universal Trading Enterprises Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G6133,04865462,NA,NA,NA,NA,NA
+2016,6133,Golden Bridge Electric Pte Ltd.,東莞定橋貿易有限公司,1,china,0,1,0,1,0,上市,G6133,NA,NA,NA,NA,NA,NA
+2016,6133,Golden Bridge Electric Pte Ltd.,東莞達晨電業製品有限公司,1,china,0,1,0,1,0,上市,G6133,NA,NA,NA,NA,NA,NA
+2016,6133,泰舜投資有限公司,金橋科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6133,12860567,04865462,NA,NA,NA,NA
+2016,6133,鴻僑投資有限公司,金橋科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6133,45909365,04865462,NA,NA,NA,NA
+2016,6133,展暘投資有限公司,金橋科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6133,45917323,04865462,NA,NA,NA,NA
+2016,6133,Sinbridge Pte Ltd.,金橋科技電子(昆山)有限公司,1,china,0,1,0,1,0,上市,G6133,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2329,SPARQTRON CORPORATION,CONSTELLAR TECHNOLOGY CORPORATION,1,美國,0,0,1,0,0,上市,G2329,NA,NA,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,COREPLUS (HK) LIMITED.,1,香港,1,1,0,0,0,上市,G2329,89004161,NA,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,OSE INTERNATIONAL LTD.,1,英屬維京群島,1,0,1,0,0,上市,G2329,89004161,NA,NA,NA,NA,NA
+2014,2329,OSE INTERNATIONAL LTD.,"OSE PHILIPPINES, INC.",0.0633,菲律賓,0,0,1,0,0,上市,G2329,NA,NA,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,"OSE PHILIPPINES, INC.",0.9999,菲律賓,1,1,0,0,0,上市,G2329,89004161,NA,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,"OSE PROPERTIES, INC.",0.3999,菲律賓,1,0,1,0,0,上市,G2329,89004161,NA,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,"OSE USA, INC.",1,美國,1,1,0,0,0,上市,G2329,89004161,NA,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,SPARQTRON CORPORATION,0.4381,美國,1,1,0,0,0,上市,G2329,89004161,NA,NA,NA,NA,NA
+2014,2329,華致資訊開發股份有限公司,大心數位股份有限公司,0.4,台灣,0,0,1,0,0,上市,G2329,70848660,29186407,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,矽晶源高科股份有限公司,0.1817,台灣,1,0,1,0,0,上市,G2329,89004161,16631910,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,華致資訊開發股份有限公司,0.2025,台灣,1,1,0,0,0,上市,G2329,89004161,70848660,NA,NA,NA,NA
+2014,2329,亮勳企業有限公司,華泰電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2329,86453353,89004161,NA,NA,NA,NA
+2014,2329,華致資訊開發股份有限公司,華淯科技有限公司,1,台灣,0,1,0,0,0,上市,G2329,70848660,54207339,NA,NA,NA,NA
+2014,2329,OSE INTERNATIONAL LTD.,華騰國際科技股份有限公司,0.087,台灣,0,0,1,0,0,上市,G2329,NA,12666487,NA,NA,NA,NA
+2014,2329,華泰電子股份有限公司,華騰國際科技股份有限公司,0.0952,台灣,1,0,1,0,0,上市,G2329,89004161,12666487,NA,NA,NA,NA
+2014,2329,再投資大陸公司,華騰微電子(上海)有限公司,0.1822,china,0,0,0,1,0,上市,G2329,NA,NA,1,NA,NA,NA
+2014,2329,COREPLUS (HK) LIMITED.,蘇州華禕科技有限公司,1,china,0,1,0,1,0,上市,G2329,NA,NA,NA,NA,NA,NA

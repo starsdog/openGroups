@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6108,U-PEAK Ltd.,AMPLE RIGHT INTERNATIONAL Limited,1,英屬維京群島,0,0,1,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,競國國際有限公司,APCB Capital Limited,1,薩摩亞,0,1,0,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,APCB Capital Limited,"APCB Electronics (Thailand) Co., Ltd.",1,不明,0,1,0,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,益資投資股份有限公司,APCB Holdings Limited,0.5,英屬維京群島,0,0,1,0,0,上市,G6108,28784117,NA,NA,NA,NA,NA
+2016,6108,競國投資股份有限公司,APCB Holdings Limited,0.5,英屬維京群島,0,0,1,0,0,上市,G6108,28543814,NA,NA,NA,NA,NA
+2016,6108,競國國際有限公司,"APCB Investment Co., Ltd.",1,模里西斯,0,1,0,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,U-PEAK Ltd.,MAXFIRST LIMITED,1,英屬維京群島,0,0,1,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,競國國際有限公司,NEW DAY LIMITED,1,薩摩亞,0,0,1,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,U-PEAK Ltd.,PROSPER PLUS LIMITED,1,薩摩亞,0,0,1,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,競國實業股份有限公司,U-PEAK Ltd.,1,模里西斯,1,0,1,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,U-PEAK Ltd.,力先企業股份有限公司,1,台灣,0,1,0,0,0,上市,G6108,NA,89705425,NA,NA,NA,NA
+2016,6108,NEW DAY LIMITED,昆山鎬鐸電子有限公司,1,china,0,1,0,1,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,競國實業股份有限公司,益資投資股份有限公司,1,台灣,1,1,0,0,0,上市,G6108,NA,28784117,NA,NA,NA,NA
+2016,6108,競國實業股份有限公司,競國投資股份有限公司,1,台灣,1,1,0,0,0,上市,G6108,NA,28543814,NA,NA,NA,NA
+2016,6108,競國實業股份有限公司,競國國際有限公司,1,英屬維京群島,1,1,0,0,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,"APCB Investment Co., Ltd.",競陸電子(昆山)有限公司,1,china,0,1,0,1,0,上市,G6108,NA,NA,NA,NA,NA,NA
+2016,6108,APCB Capital Limited,競億電子(泰國)有限公司,1,泰國,0,0,1,0,0,上市,G6108,NA,NA,NA,NA,NA,NA

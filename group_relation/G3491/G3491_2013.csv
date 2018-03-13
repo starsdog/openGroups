@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3491,昇達科技股份有限公司,UMT Holdings (Samoa) Limited,1,薩摩亞,1,1,0,0,0,上櫃,G3491,16999508,NA,NA,NA,NA,NA
+2013,3491,昇達通訊(香港)有限公司,良特電子(昆山)有限公司,1,china,0,1,0,1,0,上櫃,G3491,NA,NA,NA,NA,NA,NA
+2013,3491,昇達控股(香港)有限公司,昆山昆升達通信設備有限公司,1,china,0,1,0,1,0,上櫃,G3491,NA,NA,NA,NA,NA,NA
+2013,3491,岑昕投資有限公司,昇達科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3491,27542099,16999508,NA,NA,NA,NA
+2013,3491,聯鼎創業投資股份有限公司,昇達科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3491,80347004,16999508,NA,NA,NA,NA
+2013,3491,UMT Holdings (Samoa) Limited,昇達控股(香港)有限公司,1,香港,0,1,0,0,0,上櫃,G3491,NA,NA,NA,NA,NA,NA
+2013,6514,UMT Holdings (Samoa) Limited,昇達通訊(香港)有限公司,0.9327,香港,0,0,1,0,0,上櫃,G3491,NA,NA,NA,NA,NA,NA
+2013,6514,"英屬開曼群島商芮特科技股份有限公司RADIATION TECHNOLOGY, INC.",昇達通訊(香港)有限公司,1,不明,1,1,0,0,0,上櫃,G3491,54399049,NA,NA,NA,NA,NA

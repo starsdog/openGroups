@@ -1,0 +1,21 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5603,陸海股份有限公司,CTY TNHH Sea and Land(VN),1,越南,1,1,0,0,0,上櫃,G5603,04927158,NA,NA,NA,NA,NA
+2016,5603,Glory Base Group Limited,CTY TNHH Sea and Land Formosa,1,越南,0,1,0,0,0,上櫃,G5603,NA,NA,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,Eternal Full Enterprise Ltd.,1,汶萊,1,1,0,0,0,上櫃,G5603,04927158,NA,NA,NA,NA,NA
+2016,5603,Eternal Full Enterprise Ltd.,"Giant Well International Co., Ltd.",0,汶萊,0,1,0,0,0,上櫃,G5603,NA,NA,NA,NA,NA,NA
+2016,5603,Eternal Full Enterprise Ltd.,Glory Base Group Limited,1,汶萊,0,0,1,0,0,上櫃,G5603,NA,NA,NA,NA,NA,NA
+2016,5603,Eternal Full Enterprise Ltd.,"Peace King Enterprise Co., Ltd.",1,汶萊,0,1,0,0,0,上櫃,G5603,NA,NA,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,天泰能源股份有限公司,0.25,台灣,0,0,1,0,0,上櫃,G5603,04927158,54013571,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,台灣再生能源股份有限公司,0,台灣,1,1,0,0,0,上櫃,G5603,04927158,27808007,NA,NA,NA,NA
+2016,5603,瑞山液化石油氣汽車加氣站股份有限公司,佳客來企業股份有限公司,0,台灣,0,1,0,0,0,上櫃,G5603,16330442,54663976,NA,NA,NA,NA
+2016,5603,瑞山液化石油氣汽車加氣站股份有限公司,捷鼎鑫股份有限公司,0.7,台灣,0,1,0,0,0,上櫃,G5603,16330442,27336507,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,陸海天新股份有限公司,0.75,台灣,1,1,0,0,0,上櫃,G5603,04927158,25135265,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,陸海洋行股份有限公司,0.5523,台灣,1,1,0,0,0,上櫃,G5603,04927158,16161950,NA,NA,NA,NA
+2016,5603,"Giant Well International Co., Ltd.",陸海越(LHV)有限公司,0,越南,0,1,0,0,0,上櫃,G5603,NA,NA,NA,NA,NA,NA
+2016,5603,Glory Base Group Limited,陸海越(LHV)有限公司,0,越南,0,1,0,0,0,上櫃,G5603,NA,NA,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,陸盛重機械股份有限公司,0.5,台灣,1,1,0,0,0,上櫃,G5603,04927158,16433593,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,新安和加氣站股份有限公司,1,台灣,1,1,0,0,0,上櫃,G5603,04927158,16385585,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,瑞山液化石油氣汽車加氣站股份有限公司,0.8276,台灣,1,1,0,0,0,上櫃,G5603,04927158,16330442,NA,NA,NA,NA
+2016,5603,陸海股份有限公司,福寶風力發電股份有限公司,0.6252,台灣,1,1,0,0,0,上櫃,G5603,04927158,25143791,NA,NA,NA,NA
+2016,5603,瑞山液化石油氣汽車加氣站股份有限公司,福寶風力發電股份有限公司,0.084,台灣,0,1,0,0,0,上櫃,G5603,16330442,25143791,NA,NA,NA,NA
+2016,5603,新安和加氣站股份有限公司,福寶風力發電股份有限公司,0.042,台灣,0,1,0,0,0,上櫃,G5603,16385585,25143791,NA,NA,NA,NA

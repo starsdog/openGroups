@@ -1,0 +1,19 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4121,互宜投資股份有限公司,MEDIPRO INC.,1,模里西斯,0,1,0,0,0,上櫃,G4121,79988992,NA,NA,NA,NA,NA
+2016,4121,優盛醫學科技股份有限公司,PEAKWEALTH HOLDINGS LIMITED,1,英屬維京群島,1,1,0,0,0,上櫃,G4121,NA,NA,NA,NA,NA,NA
+2016,4121,PEAKWEALTH HOLDINGS LIMITED,RMJ CO. LTD.,0.75,日本,0,1,0,0,0,上櫃,G4121,NA,NA,NA,NA,NA,NA
+2016,4121,PEAKWEALTH HOLDINGS LIMITED,Rossmax Swiss GmbH,1,瑞士,0,1,0,0,0,上櫃,G4121,NA,NA,NA,NA,NA,NA
+2016,4121,優盛醫學科技股份有限公司,TOP UNICORN HOLDINGS LIMITED,1,薩摩亞,1,1,0,0,0,上櫃,G4121,NA,NA,NA,NA,NA,NA
+2016,4121,TOP UNICORN HOLDINGS LIMITED,TRANS WORLD DEVELOPMENTS LIMITED,1,薩摩亞,0,1,0,0,0,上櫃,G4121,NA,NA,NA,NA,NA,NA
+2016,4121,優盛醫療電子(上海)有限公司,上海健保貿易有限公司,1,china,0,1,0,1,0,上櫃,G4121,NA,NA,NA,NA,NA,NA
+2016,4121,優盛醫學科技股份有限公司,互宜投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G4121,NA,79988992,NA,NA,NA,NA
+2016,4121,瑞盛醫學科技股份有限公司,永安醫學股份有限公司,0.9413,台灣,0,1,0,0,0,上櫃,G4121,80692069,24382703,NA,NA,NA,NA
+2016,4121,互宜投資股份有限公司,禾果醫學科技股份有限公司,1,台灣,0,1,0,0,0,上櫃,G4121,79988992,53541595,NA,NA,NA,NA
+2016,4121,互宜投資股份有限公司,禾燊醫學科技股份有限公司,1,台灣,0,1,0,0,0,上櫃,G4121,79988992,53226392,NA,NA,NA,NA
+2016,4121,優盛醫學科技股份有限公司,尚鈞醫療科技(安徽)有限公司,1,china,1,1,0,1,0,上櫃,G4121,NA,NA,NA,NA,NA,NA
+2016,4121,互宜投資股份有限公司,勝霖藥品股份有限公司,0,台灣,0,1,0,0,0,上櫃,G4121,79988992,70741647,NA,NA,NA,NA
+2016,4121,優盛醫學科技股份有限公司,勝霖藥品股份有限公司,0.5152,台灣,1,1,0,0,0,上櫃,G4121,NA,70741647,NA,NA,NA,NA
+2016,4121,互宜投資股份有限公司,瑞盛醫學科技股份有限公司,0.0003,台灣,0,1,0,0,0,上櫃,G4121,79988992,80692069,NA,NA,NA,NA
+2016,4121,優盛醫學科技股份有限公司,瑞盛醫學科技股份有限公司,0.9413,台灣,1,1,0,0,0,上櫃,G4121,NA,80692069,NA,NA,NA,NA
+2016,4121,TRANS WORLD DEVELOPMENTS LIMITED,優盛醫療電子(上海)有限公司,1,china,0,1,0,1,0,上櫃,G4121,NA,NA,NA,NA,NA,NA
+2016,4121,MEDIPRO INC.,優盛醫療電子(上海)有限公司,1,china,0,1,0,0,0,上櫃,G4121,NA,NA,NA,NA,NA,NA

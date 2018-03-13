@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1766,長春石油化學股份有限公司,大連化學工業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G1764,11384806,12233428,NA,NA,NA,NA
+2013,1764,長春人造樹脂廠股份有限公司,長春石油化學股份有限公司,0.151,NA,0,0,0,0,1,公開發行,G1764,11384708,11384806,NA,NA,NA,NA
+2013,1764,長春石油化學股份有限公司,長春人造樹脂廠股份有限公司,0.1625,NA,0,0,0,0,1,公開發行,G1764,11384806,11384708,NA,NA,NA,NA

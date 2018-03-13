@@ -1,0 +1,45 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2379,瑞昱半導體股份有限公司,Amber Universal Inc.,1,英屬維京群島,0,0,1,0,0,上市,G2379,22671299,NA,NA,NA,NA,NA
+2015,2379,Leading Enterprises Limited,Circon Universal Inc.,1,模里西斯,0,0,1,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,Realtek Singapore Private Limited,Cortina Access Inc.,1,美國,0,0,1,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,Realtek Asia Inc.,Empsonic Enterprises Inc.,1,模里西斯,0,0,1,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,Leading Enterprises Limited,1,英屬維京群島,0,0,1,0,0,上市,G2379,22671299,NA,NA,NA,NA,NA
+2015,2379,Circon Universal Inc.,"Real Communications,Inc.",1,美國,0,0,1,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,Leading Enterprises Limited,Realtek Asia Inc.,1,英屬維京群島,0,0,1,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,Amber Universal Inc.,Realtek Semiconductor (HK) Limited,1,香港,0,1,0,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,Leading Enterprises Limited,Realtek Semiconductor (Japan) Inc.,1,日本,0,1,0,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,Realtek Singapore Private Limited,1,新加坡,0,0,1,0,0,上市,G2379,22671299,NA,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,京潤科技股份有限公司,0.2481,台灣,0,0,1,0,0,上市,G2379,22671299,27574839,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,波比特科技股份有限公司,0.6667,台灣,0,0,1,0,0,上市,G2379,22671299,54152469,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,思銳科技股份有限公司,0.2857,台灣,0,0,1,0,0,上市,G2379,22671299,28113048,NA,NA,NA,NA
+2015,2379,Realtek Singapore Private Limited,科締納科技股份有限公司,1,台灣,0,0,1,0,0,上市,G2379,NA,80236106,NA,NA,NA,NA
+2015,2379,Realtek Singapore Private Limited,科締納網路系統(上海)有限公司,1,china,0,1,0,1,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,Amber Universal Inc.,瑞昱半導體(深圳)有限公司,1,china,0,1,0,1,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,闊德工業股份有限公司,瑞昱半導體股份有限公司,0.0439,NA,0,0,0,0,1,上市,G2379,23379791,22671299,NA,NA,NA,NA
+2015,2379,德銀託管前驅國際有限公司投資專戶,瑞昱半導體股份有限公司,NA,NA,0,0,0,0,1,上市,G2379,NA,22671299,NA,NA,NA,NA
+2015,2379,台新國際商業銀行受託保管太陽有限公司,瑞昱半導體股份有限公司,NA,NA,0,0,0,0,1,上市,G2379,NA,22671299,NA,NA,NA,NA
+2015,2379,永豐商銀受託保管莫理仕有限公司投資專戶,瑞昱半導體股份有限公司,NA,NA,0,0,0,0,1,上市,G2379,NA,22671299,NA,NA,NA,NA
+2015,2379,Empsonic Enterprises Inc.,瑞晟微電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,瑞新投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2379,22671299,16449856,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,瑞擎投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2379,22671299,70768808,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,瑞曜科技股份有限公司,1,台灣,0,1,0,0,0,上市,G2379,22671299,27548468,NA,NA,NA,NA
+2015,2379,瑞擎投資股份有限公司,群鑫創業投資股份有限公司,0.3738,台灣,0,0,1,0,0,上市,G2379,70768808,24795459,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,德信創業投資股份有限公司,0.3243,台灣,0,0,1,0,0,上市,G2379,22671299,80033600,NA,NA,NA,NA
+2015,2379,瑞昱半導體股份有限公司,鴻威創業投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2379,22671299,70760334,NA,NA,NA,NA
+2015,3312,弘憶國際股份有限公司,G.M.I Technology(BVI) Ltd.,1,英屬維京群島,1,0,1,0,0,上市,G2379,89613636,NA,NA,NA,NA,NA
+2015,3312,G.M.I Technology(BVI) Ltd.,Harken Investments Limited,1,英屬維京群島,0,0,1,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,3312,Harken Investments Limited,弘威電子有限公司,0.51,香港,0,0,1,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,3312,永達電子科技有限公司,弘憶(上海)國際貿易有限公司,1,china,0,1,0,1,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,3312,永達電子科技有限公司,弘憶永達電子(深圳)國際貿易有限公司,1,china,0,1,0,1,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,3312,英屬維京群島商美吉國際有限公司,弘憶國際股份有限公司,NA,NA,0,0,0,0,1,上市,G2379,NA,89613636,NA,NA,NA,NA
+2015,3312,G.M.I Technology(BVI) Ltd.,永達電子科技有限公司,1,香港,0,0,1,0,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,3312,弘威電子有限公司,茲雅電子(上海)有限公司,1,china,0,1,0,1,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,3312,弘威電子有限公司,茲雅電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,3312,永達電子科技有限公司,深圳宏達富通電子有限公司,1,china,0,1,0,1,0,上市,G2379,NA,NA,NA,NA,NA,NA
+2015,3312,弘憶國際股份有限公司,瑞雲資訊股份有限公司,0.3421,台灣,1,0,1,0,0,上市,G2379,89613636,24754957,NA,NA,NA,NA
+2015,2379,葉佳紋,闊德工業股份有限公司,NA,NA,0,0,0,0,1,上市,G2379,NA,23379791,NA,NA,NA,NA
+2015,3312,葉佳紋,德桃創業投資股份有限公司,NA,NA,0,0,0,0,1,上市,G2379,NA,70756486,NA,NA,NA,NA
+2015,3312,德桃創業投資股份有限公司,弘憶國際股份有限公司,0.0616,NA,0,0,0,0,1,上市,G2379,70756486,89613636,NA,NA,NA,NA
+2015,3312,英屬維京群島商萊斯特國際(股)公司,德桃創業投資股份有限公司,NA,NA,0,0,0,0,1,上市,G2379,NA,70756486,NA,NA,NA,NA
+2015,2379,英屬維京群島商萊斯特國際(股)公司,瑞昱半導體股份有限公司,0.0227,NA,0,0,0,0,1,上市,G2379,NA,22671299,NA,NA,NA,NA
+2015,3312,葉佳紋,弘憶國際股份有限公司,0.098,NA,0,0,0,0,1,上市,G2379,NA,89613636,NA,NA,NA,NA

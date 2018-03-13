@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8481,政伸企業股份有限公司,"Transart International(Samoa) Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G8481,22396792,NA,NA,NA,NA,NA
+2016,8481,"香港TransartGraphics Co., Ltd.",政伸印刷(天津)有限公司,1,china,0,1,0,1,0,上市,G8481,NA,NA,NA,NA,NA,NA
+2016,8481,"香港TransartGraphics Co., Ltd.",政伸印刷(太倉)有限公司,1,china,0,1,0,1,0,上市,G8481,NA,NA,NA,NA,NA,NA
+2016,8481,香港Acceptance Industrial Ltd.,政伸印刷(深圳)有限公司,1,china,0,1,0,1,0,上市,G8481,NA,NA,NA,NA,NA,NA
+2016,8481,"Transart International(Samoa) Co., Ltd.",香港Acceptance Industrial Ltd.,1,香港,0,1,0,0,0,上市,G8481,NA,NA,NA,NA,NA,NA
+2016,8481,"Transart International(Samoa) Co., Ltd.","香港TransartGraphics Co., Ltd.",1,香港,0,0,1,0,0,上市,G8481,NA,NA,NA,NA,NA,NA

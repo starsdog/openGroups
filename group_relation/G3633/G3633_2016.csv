@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3633,云光科技股份有限公司,Epoch Chemtronics Corp.,1,薩摩亞,1,1,0,0,0,興櫃,G3633,16177616,NA,NA,NA,NA,NA
+2016,3633,云光科技股份有限公司,Epoch Optronics Corp.,1,香港,1,1,0,0,0,興櫃,G3633,16177616,NA,NA,NA,NA,NA
+2016,3633,君牧塑膠科技股份有限公司,云光科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3633,76477139,16177616,NA,NA,NA,NA
+2016,3633,洋華光電股份有限公司,云光科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3633,80260061,16177616,NA,NA,NA,NA
+2016,3633,造隆股份有限公司,云光科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3633,22000216,16177616,NA,NA,NA,NA
+2016,3633,Epoch Optronics Corp.,欣云光電(蘇州)有限公司,1,china,0,1,0,1,0,興櫃,G3633,NA,NA,NA,NA,NA,NA
+2016,3633,Epoch Chemtronics Corp.,翔云光電(廈門)有限公司,1,china,0,1,0,1,0,興櫃,G3633,NA,NA,NA,NA,NA,NA
+2016,3633,云光科技股份有限公司,豐云精密股份有限公司,1,台灣,1,1,0,0,0,興櫃,G3633,16177616,42596729,NA,NA,NA,NA
+2016,3633,Epoch Chemtronics Corp.,蘇州云光科技有限公司,1,china,0,1,0,1,0,興櫃,G3633,NA,NA,NA,NA,NA,NA

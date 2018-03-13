@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5533,皇鼎建設開發股份有限公司,欣隆興建設股份有限公司,1,台灣,0,1,0,0,0,上市,G5533,23988653,52258389,NA,NA,NA,NA
+2016,5533,皇鼎建設開發股份有限公司,建喬營造股份有限公司,1,台灣,0,1,0,0,0,上市,G5533,23988653,84192755,NA,NA,NA,NA
+2016,5533,美雄投資股份有限公司,皇鼎建設開發股份有限公司,NA,NA,0,0,0,0,1,上市,G5533,16161065,23988653,NA,NA,NA,NA
+2016,5533,文瑞投資有限公司,皇鼎建設開發股份有限公司,NA,NA,0,0,0,0,1,上市,G5533,54176976,23988653,NA,NA,NA,NA
+2016,5533,皇鼎建設開發股份有限公司,富信大飯店股份有限公司,0.94,台灣,0,1,0,0,0,上市,G5533,23988653,25138734,NA,NA,NA,NA
+2016,5533,建喬營造股份有限公司,富信大飯店股份有限公司,0.06,台灣,0,1,0,0,0,上市,G5533,84192755,25138734,NA,NA,NA,NA

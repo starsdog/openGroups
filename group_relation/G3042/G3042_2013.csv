@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3042,台晶科技國際開發股份有限公司,Growing Profits Trading Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G3042,NA,NA,NA,NA,NA,NA
+2013,3042,台灣晶技股份有限公司,Taiwan Crystal Technology (HK) Limited,1,香港,1,1,0,0,0,上市,G3042,21204867,NA,NA,NA,NA,NA
+2013,3042,台晶(寧波)電子有限公司,TXC (HK) Limited,1,香港,0,1,0,0,0,上市,G3042,NA,NA,NA,NA,NA,NA
+2013,3042,台灣晶技股份有限公司,TXC Japan Corporation,1,日本,1,1,0,0,0,上市,G3042,21204867,NA,NA,NA,NA,NA
+2013,3042,台灣晶技股份有限公司,TXC Technology Inc.,1,美國,1,1,0,0,0,上市,G3042,21204867,NA,NA,NA,NA,NA
+2013,3042,Taiwan Crystal Technology (HK) Limited,台晶(重慶)電子有限公司,0.4327,中國大陸,0,0,1,0,0,上市,G3042,NA,NA,NA,NA,NA,NA
+2013,3042,Taiwan Crystal Technology International (HK) Limited,台晶(重慶)電子有限公司,0.4327,china,0,1,0,1,0,上市,G3042,NA,NA,NA,NA,NA,NA
+2013,3042,台晶(寧波)電子有限公司,台晶(重慶)電子有限公司,0.5673,中國大陸,0,1,0,0,0,上市,G3042,NA,NA,NA,NA,NA,NA
+2013,3042,台晶科技國際開發股份有限公司,台晶(寧波)電子有限公司,1,china,0,1,0,1,0,上市,G3042,NA,NA,NA,NA,NA,NA
+2013,3042,台灣晶技股份有限公司,台晶科技國際開發股份有限公司,1,薩摩亞,1,1,0,0,0,上市,G3042,21204867,NA,NA,NA,NA,NA
+2013,3042,弘鼎創業投資股份有限公司,台灣晶技股份有限公司,NA,NA,0,0,0,0,1,上市,G3042,27927067,21204867,NA,NA,NA,NA
+2013,3042,台晶(寧波)電子有限公司,重慶眾陽置業有限公司,1,china,0,1,0,1,0,上市,G3042,NA,NA,NA,NA,NA,NA
+2013,3042,台晶(寧波)電子有限公司,寧波北侖晶裕貿易有限公司,1,china,0,1,0,1,0,上市,G3042,NA,NA,NA,NA,NA,NA
+2013,3042,再投資大陸公司,寧波興茂電子科技有限公司,0.23,china,0,0,0,1,0,上市,G3042,NA,NA,11,NA,NA,NA
+2013,3042,再投資大陸公司,廣東惠倫晶體科技股份有限公司,0.08,china,0,0,0,1,0,上市,G3042,NA,NA,11,NA,NA,NA

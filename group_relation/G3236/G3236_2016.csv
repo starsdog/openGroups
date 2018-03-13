@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3236,千如電機工業股份有限公司,ABC AMERICA ELECTRONICS CORP.,1,美國,1,1,0,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,千如電機工業股份有限公司,AOBA TECHNOLOGY (M) SDN. BHD.,0.97,馬來西亞,1,1,0,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,ATEC HOLDING COMPANY,AOBA TECHNOLOGY (M) SDN. BHD.,1,馬來西亞,0,0,1,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,千如電機工業股份有限公司,ATEC HOLDING COMPANY,0.97,模里西斯,1,1,0,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,亨源股份有限公司,ATEC HOLDING COMPANY,0.08,模里西斯,0,0,1,0,0,上櫃,G3236,22020120,NA,NA,NA,NA,NA
+2016,3236,千如電機工業股份有限公司,A-TEC INTERNATIONAL COMPANY,0.97,模里西斯,1,1,0,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,ATEC HOLDING COMPANY,A-TEC INTERNATIONAL COMPANY,1,模里西斯,0,0,1,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,千如電機工業股份有限公司,ATEC UNIVERSAL COMPANY,0.97,模里西斯,1,1,0,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,ATEC HOLDING COMPANY,ATEC UNIVERSAL COMPANY,1,模里西斯,0,0,1,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,千如電機工業股份有限公司,千如電子(上海)有限公司 ,0.97,china,1,1,0,1,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,A-TEC INTERNATIONAL COMPANY,千如電子(上海)有限公司 ,1,中國大陸,0,0,1,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,千如電機工業股份有限公司,亨源股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3236,NA,22020120,NA,NA,NA,NA
+2016,3236,千如電機工業股份有限公司,廣州千如電子有限公司,0.97,china,1,1,0,1,0,上櫃,G3236,NA,NA,NA,NA,NA,NA
+2016,3236,ATEC UNIVERSAL COMPANY,廣州千如電子有限公司,1,中國大陸,0,0,1,0,0,上櫃,G3236,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3232,昱捷股份有限公司,Sentronic Investments Limited,1,英屬維京群島,1,1,0,0,0,上櫃,G3232,NA,NA,NA,NA,NA,NA
+2015,3232,Sentronic Investments Limited,STH International (HK) Limited,1,香港,0,1,0,0,0,上櫃,G3232,NA,NA,NA,NA,NA,NA
+2015,3232,昱捷股份有限公司,三昱技研股份有限公司,0.55,台灣,1,1,0,0,0,上櫃,G3232,NA,24951633,NA,NA,NA,NA
+2015,3232,三昱技研股份有限公司,世沛(上海)科技有限公司,1,china,0,1,0,1,0,上櫃,G3232,24951633,NA,NA,NA,NA,NA
+2015,3232,世沛(上海)科技有限公司,東莞世沛金屬表面處理有限公司,1,china,0,1,0,1,0,上櫃,G3232,NA,NA,NA,NA,NA,NA
+2015,3232,Sentronic Investments Limited,昱准國際貿易 (上海)有限公司,1,不明,0,1,0,0,0,上櫃,G3232,NA,NA,NA,NA,NA,NA

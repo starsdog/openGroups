@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4972,WORLD EXTEND HOLDING INC.,GREATSUPER TECHNOLOGY LIMITED,1,英屬維京群島,0,1,0,0,0,上櫃,G4972,NA,NA,NA,NA,NA,NA
+2016,4972,WORLD EXTEND HOLDING INC.,LUMINOUS HOLDING INCORPORATED,1,薩摩亞,0,1,0,0,0,上櫃,G4972,NA,NA,NA,NA,NA,NA
+2016,4972,WORLD EXTEND HOLDING INC.,"TONS LIGHTING CO., LTD.",1,貝里斯,0,1,0,0,0,上櫃,G4972,NA,NA,NA,NA,NA,NA
+2016,4972,湯石照明科技股份有限公司,WORLD EXTEND HOLDING INC.,1,薩摩亞,0,1,0,0,0,上櫃,G4972,86831927,NA,NA,NA,NA,NA
+2016,4972,LUMINOUS HOLDING INCORPORATED,上海湯石科技有限公司,0,不明,0,1,0,0,0,上櫃,G4972,NA,NA,NA,NA,NA,NA
+2016,4972,GREATSUPER TECHNOLOGY LIMITED,中山泰騰照明有限公司,1,china,0,1,0,1,0,上櫃,G4972,NA,NA,NA,NA,NA,NA
+2016,4972,GREATSUPER TECHNOLOGY LIMITED,中山湯石照明有限公司,1,china,0,1,0,1,0,上櫃,G4972,NA,NA,NA,NA,NA,NA
+2016,4972,湯石照明科技股份有限公司,洪博投資股份有限公司,1,台灣,0,1,0,0,0,上櫃,G4972,86831927,54858043,NA,NA,NA,NA
+2016,4972,中華投資股份有限公司,湯石照明科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4972,80333108,86831927,NA,NA,NA,NA

@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,4980,佐臻股份有限公司,"JORJIN INTERNATIONAL CO., LTD.",0,塞席爾,1,1,0,0,0,興櫃,G4980,NA,NA,NA,NA,NA,NA
+2013,4980,佐臻股份有限公司,佐嘉科技股份有限公司,0.55,台灣,1,1,0,0,0,興櫃,G4980,NA,53735369,NA,NA,NA,NA
+2013,4980,"JORJIN INTERNATIONAL CO., LTD.",佐臻科技(深圳)有限公司,0,china,0,1,0,1,0,興櫃,G4980,NA,NA,NA,NA,NA,NA

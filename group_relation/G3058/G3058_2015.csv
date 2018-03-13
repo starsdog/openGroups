@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3058,LEI Holdings Limited,Leader Electronics (B.V.I.) Inc.,1,英屬維京群島,0,0,1,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,Leader Electronics (B.V.I.) Inc.,Leader Electronics (N.A) Inc.,1,美國,0,0,1,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,Leader Electronics (B.V.I.) Inc.,Leader Electronics (N.A.) Inc. L.A.,1,不明,0,1,0,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,Leader Electronics (B.V.I.) Inc.,Leader Electronics (Singapore) Pte. Ltd.,1,新加坡,0,0,1,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,立德電子股份有限公司,Leader Electronics Affiliated Inc.,1,英屬維京群島,1,1,0,0,0,上市,G3058,38019280,NA,NA,NA,NA,NA
+2015,3058,LEI Group Limited,Leader International Holding Ltd.,1,開曼群島,0,1,0,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,LEI Group Limited,LEI Electronics (B.V.I.) Inc.,1,英屬維京群島,0,0,1,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,立德電子股份有限公司,LEI Group Limited,1,英屬維京群島,1,1,0,0,0,上市,G3058,38019280,NA,NA,NA,NA,NA
+2015,3058,LEI Group Limited,LEI Holdings Limited,1,英屬維京群島,0,1,0,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,Leader International Holding Ltd.,LEI Industries (H.K.) Limited,1,香港,0,1,0,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,Leader Electronics (B.V.I.) Inc.,"LEI Japan Co., Ltd.",0.992,日本,0,0,1,0,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,友鶴投資有限公司,立德電子股份有限公司,NA,NA,0,0,0,0,1,上市,G3058,27616612,38019280,NA,NA,NA,NA
+2015,3058,瓊福投資股份有限公司,立德電子股份有限公司,NA,NA,0,0,0,0,1,上市,G3058,16772875,38019280,NA,NA,NA,NA
+2015,3058,LEI Industries (H.K.) Limited,江蘇領先電子有限公司,1,china,0,1,0,1,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,LEI Industries (H.K.) Limited,東莞立德電子有限公司,1,china,0,1,0,1,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,LEI Industries (H.K.) Limited,東莞領航電子有限公司,1,china,0,1,0,1,0,上市,G3058,NA,NA,NA,NA,NA,NA
+2015,3058,再投資大陸公司,南京博蘭得電子科技有限公司,0.0894,china,0,0,0,1,0,上市,G3058,NA,NA,1,NA,NA,NA

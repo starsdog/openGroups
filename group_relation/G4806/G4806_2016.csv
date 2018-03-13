@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4806,侑中有限公司,北京侑中文化傳媒有限公司,1,china,0,1,0,1,0,上櫃,G4806,NA,NA,NA,NA,NA,NA
+2016,4806,昇華娛樂傳播股份有限公司,侑中有限公司,1,香港,1,1,0,0,0,上櫃,G4806,70557661,NA,NA,NA,NA,NA
+2016,4806,侑中有限公司,深圳昇華傳媒有限公司,0,china,0,1,0,1,0,上櫃,G4806,NA,NA,NA,NA,NA,NA
+2016,4806,侑中有限公司,華柘(上海)演出經紀有限公司,1,china,0,1,0,1,0,上櫃,G4806,NA,NA,NA,NA,NA,NA

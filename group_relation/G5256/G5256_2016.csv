@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5256,"Rigidtech Global Co., Ltd.","Rigidtech Asia Pacific Co., Ltd.",1,薩摩亞,0,0,1,0,0,興櫃,G5256,NA,NA,NA,NA,NA,NA
+2016,5256,銳捷科技股份有限公司,"Rigidtech Global Co., Ltd.",1,薩摩亞,1,0,1,0,0,興櫃,G5256,27417352,NA,NA,NA,NA,NA
+2016,5256,"Rigidtech Asia Pacific Co., Ltd.",銳捷光電科技(江蘇)有限公司,1,china,0,1,0,1,0,興櫃,G5256,NA,NA,NA,NA,NA,NA
+2016,5256,銳晶科技有限公司,銳捷科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G5256,53365957,27417352,NA,NA,NA,NA
+2016,5256,英屬維京群島商Right Charm Holdings Ltd.,銳捷科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G5256,NA,27417352,NA,NA,NA,NA
+2016,5256,維善投資股份有限公司,銳捷科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G5256,23471761,27417352,NA,NA,NA,NA
+2016,5256,晶芯投資股份有限公司,銳捷科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G5256,53864588,27417352,NA,NA,NA,NA
+2016,5256,銳捷科技股份有限公司,銳捷國際有限公司,0,不明,1,1,0,0,0,興櫃,G5256,27417352,NA,NA,NA,NA,NA

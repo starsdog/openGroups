@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2464,盟立自動化股份有限公司,"MIRLE AUTOMATION (THAILAND) CO., LTD.",1,汶萊,0,1,0,0,0,上市,G2464,22099478,NA,NA,NA,NA,NA
+2015,2464,"MIRLE AUTOMATION (THAILAND) CO., LTD.","MIRLE AUTOMATION INTER CO., LTD.",0.49,泰國,0,0,1,0,0,上市,G2464,NA,NA,NA,NA,NA,NA
+2015,2464,盟立自動化股份有限公司,MIRTEK (BVI) CORP. LTD.,1,英屬維京群島,0,1,0,0,0,上市,G2464,22099478,NA,NA,NA,NA,NA
+2015,2464,物聯網股份有限公司,"VAN QUOC INFORMATION TECHNOLOGY CONSULTING SERVICES CO., LTD.",1,不明,0,1,0,0,0,上市,G2464,53318012,NA,NA,NA,NA,NA
+2015,2464,盟立自動化股份有限公司,大衛投資有限公司,0.99,台灣,0,1,0,0,0,上市,G2464,22099478,53310763,NA,NA,NA,NA
+2015,2464,大衛投資有限公司,物聯網股份有限公司,0.99,台灣,0,1,0,0,0,上市,G2464,53310763,53318012,NA,NA,NA,NA
+2015,2464,盟立自動化股份有限公司,富醫科技股份有限公司,0.21,台灣,1,0,1,0,0,上市,G2464,22099478,13106717,NA,NA,NA,NA
+2015,2464,聯盛投資股份有限公司,盟立自動化股份有限公司,NA,NA,0,0,0,0,1,上市,G2464,12419260,22099478,NA,NA,NA,NA
+2015,2464,義美食品股份有限公司,盟立自動化股份有限公司,NA,NA,0,0,0,0,1,上市,G2464,11768704,22099478,NA,NA,NA,1
+2015,2464,MIRTEK (BVI) CORP. LTD.,盟立自動化科技(上海)有限公司,1,china,0,1,0,1,0,上市,G2464,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2634,漢翔航空工業股份有限公司,AIDC USA,1,美國,1,1,0,0,0,上市,G2634,97160544,NA,NA,NA,NA,NA
+2016,2634,漢翔航空工業股份有限公司,ITEC公司,0.2205,美國,1,0,1,0,0,上市,G2634,97160544,NA,NA,NA,NA,NA
+2016,2634,經濟部,漢翔航空工業股份有限公司,NA,NA,0,0,0,0,1,上市,G2634,NA,97160544,NA,NA,NA,NA
+2016,2634,財團法人國防工業發展基金會,漢翔航空工業股份有限公司,NA,NA,0,0,0,0,1,上市,G2634,04136633,97160544,NA,NA,NA,NA

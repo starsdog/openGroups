@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4552,力達(香港)控股有限公司,力達(中國)機電有限公司,1,china,0,1,0,1,0,上市,G4552,NA,NA,NA,NA,NA,NA
+2016,4552,力達(中國)機電有限公司,力達(江西)機電有限公司,1,china,0,1,0,1,0,上市,G4552,NA,NA,NA,NA,NA,NA
+2016,4552,偉信國際有限公司,力達(香港)控股有限公司,1,香港,0,1,0,0,0,上市,G4552,NA,NA,NA,NA,NA,NA
+2016,4552,益源企業工程股份有限公司,英屬開曼群島商力達控股有限公司LIDA HOLDINGS LIMITED,NA,NA,0,0,0,0,1,上市,G4552,83713715,51016510,NA,NA,NA,NA
+2016,4552,德富發展有限公司,英屬開曼群島商力達控股有限公司LIDA HOLDINGS LIMITED,NA,NA,0,0,0,0,1,上市,G4552,NA,51016510,NA,NA,NA,NA
+2016,4552,LEO HOLDING INVESTMENT LIMITED,英屬開曼群島商力達控股有限公司LIDA HOLDINGS LIMITED,NA,NA,0,0,0,0,1,上市,G4552,NA,51016510,NA,NA,NA,NA
+2016,4552,英屬開曼群島商力達控股有限公司LIDA HOLDINGS LIMITED,偉信國際有限公司,1,英屬維京群島,1,1,0,0,0,上市,G4552,51016510,NA,NA,NA,NA,NA

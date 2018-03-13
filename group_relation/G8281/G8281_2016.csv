@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8281,歐普羅科技股份有限公司,欣普羅光電股份有限公司,0.2907,台灣,1,0,1,0,0,興櫃,G8281,84626464,70643081,NA,NA,NA,NA
+2016,8281,玉祥興投資股份有限公司,歐普羅科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G8281,24641531,84626464,NA,NA,NA,NA
+2016,8281,歐普羅科技股份有限公司,歐視通商貿(上海)有限公司,1,china,1,1,0,1,0,興櫃,G8281,84626464,NA,NA,NA,NA,NA

@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,6167,久正光電股份有限公司,America Technology Corp.,1,薩摩亞,0,1,0,0,0,上櫃,G6167,22100566,NA,NA,NA,NA,NA
+2013,6167,久禾光電股份有限公司,Powertip Image (Samoa) Corp.,1,薩摩亞,0,1,0,0,0,上櫃,G6167,80579685,NA,NA,NA,NA,NA
+2013,6167,America Technology Corp.,Powertip Technology (C.I.) Corp.,1,開曼群島,0,1,0,0,0,上櫃,G6167,NA,NA,NA,NA,NA,NA
+2013,6167,久正光電股份有限公司,Powertip Technology Inc.(USA),1,美國,0,1,0,0,0,上櫃,G6167,22100566,NA,NA,NA,NA,NA
+2013,6167,久正光電股份有限公司,Powertip Technology Ltd. (H.K.),0.9999,香港,0,1,0,0,0,上櫃,G6167,22100566,NA,NA,NA,NA,NA
+2013,6167,佰鴻工業股份有限公司,久正光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6167,34452164,22100566,NA,NA,NA,NA
+2013,6167,岡谷電機產業株式會社,久正光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6167,NA,22100566,NA,NA,NA,NA
+2013,6167,萬旭投資股份有限公司,久正光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6167,16634487,22100566,NA,NA,NA,NA
+2013,6167,久正光電股份有限公司,久禾光電股份有限公司,0.3184,台灣,0,1,0,0,0,上櫃,G6167,22100566,80579685,NA,NA,NA,NA
+2013,6167,Powertip Technology (C.I.) Corp.,江蘇久正光電有限公司,1,china,0,1,0,1,0,上櫃,G6167,NA,NA,NA,NA,NA,NA
+2013,6167,Powertip Image (Samoa) Corp.,江蘇久禾光電有限公司,1,china,0,1,0,1,0,上櫃,G6167,NA,NA,NA,NA,NA,NA
+2013,6167,Powertip Technology Ltd. (H.K.),東莞久正光電有限公司,1,china,0,1,0,1,0,上櫃,G6167,NA,NA,NA,NA,NA,NA

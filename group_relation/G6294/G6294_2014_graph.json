@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "鴻鑫達投資股份有限公司", "no_holder": false, "taxcode": "53818396"}, {"is_core": true, "source": [{"holder": "NA", "name": "鴻鑫達投資股份有限公司"}], "name": "智基科技開發股份有限公司", "no_holder": false, "taxcode": "97306837"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1441,"GLOUCESTER CO., LTD.",DAYSTAR LIMITED,1,模里西斯,0,1,0,0,0,上市,G1441,NA,NA,NA,NA,NA,NA
+2014,1441,大東紡織股份有限公司,"GLOUCESTER CO., LTD.",1,薩摩亞,1,1,0,0,0,上市,G1441,51037304,NA,NA,NA,NA,NA
+2014,1441,"GLOUCESTER CO., LTD.",ROSEGATE HOLDING CORP.,1,汶萊,0,1,0,0,0,上市,G1441,NA,NA,NA,NA,NA,NA
+2014,1441,ROSEGATE HOLDING CORP.,"TAH TONG TEXTILE (VIETNAM) CO., LTD.",1,越南,0,1,0,0,0,上市,G1441,NA,NA,NA,NA,NA,NA
+2014,1441,永煌投資股份有限公司,大東紡織股份有限公司,NA,NA,0,0,0,0,1,上市,G1441,52487762,51037304,NA,NA,NA,NA
+2014,1441,財團法人台中市私立永煌教育基金會,大東紡織股份有限公司,NA,NA,0,0,0,0,1,上市,G1441,52697140,51037304,NA,NA,NA,NA
+2014,1441,大東紡織股份有限公司,大鐘印染股份有限公司,0.2119,台灣,1,0,1,0,0,上市,G1441,51037304,57002416,NA,NA,NA,NA
+2014,1441,DAYSTAR LIMITED,百綾貿易(上海)有限公司,1,china,0,1,0,1,0,上市,G1441,NA,NA,NA,NA,NA,NA
+2014,1441,大東紡織股份有限公司,漢寶農畜產企業股份有限公司,0.2813,台灣,1,0,1,0,0,上市,G1441,51037304,52282450,NA,NA,NA,NA

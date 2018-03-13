@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4402,曜通貿易股份有限公司,福大材料科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4402,28165925,56349214,NA,NA,NA,NA
+2016,4402,福得投資股份有限公司,福大材料科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4402,28480022,56349214,NA,NA,NA,NA
+2016,4402,福大材料科技股份有限公司,福泰紡織股份有限公司,1,台灣,1,1,0,0,0,上櫃,G4402,56349214,53879105,NA,NA,NA,NA
+2016,4402,福大材料科技股份有限公司,福澤食品科技股份有限公司,0,不明,1,1,0,0,0,上櫃,G4402,56349214,25156161,NA,NA,NA,NA

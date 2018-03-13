@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6445,經絡動力醫學股份有限公司,MD Biomedical Inc.,1,薩摩亞,1,1,0,0,0,興櫃,G6445,27533161,NA,NA,NA,NA,NA
+2016,6445,經絡動力醫學(香港)有限公司,佛山市經絡動力醫療器械有限公司,1,china,0,1,0,1,0,興櫃,G6445,NA,NA,NA,NA,NA,NA
+2016,6445,MD Biomedical Inc.,經絡動力醫學(香港)有限公司,1,香港,0,1,0,0,0,興櫃,G6445,NA,NA,NA,NA,NA,NA
+2016,6445,薩摩亞商凱旋有限公司,經絡動力醫學股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6445,NA,27533161,NA,NA,NA,NA

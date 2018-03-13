@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8427,Sinture Holding Ltd.,Creative Courtyards International Limited,1,薩摩亞,0,1,0,0,0,上市,G8427,NA,NA,NA,NA,NA,NA
+2016,8427,"Keysheen (Cayman) Holdings, Co., Ltd.",Sinture Holding Ltd.,1,薩摩亞,0,0,1,0,0,上市,G8427,53013905,NA,NA,NA,NA,NA
+2016,8427,堯宗投資股份有限公司,上海基舜興休閒製品有限公司,1,china,0,1,0,1,0,上市,G8427,NA,NA,NA,NA,NA,NA
+2016,8427,基勝工業(上海)有限公司,安勝國際有限公司,1,香港,0,1,0,0,0,上市,G8427,NA,NA,NA,NA,NA,NA
+2016,8427,Lauer＆Sons,"Keysheen (Cayman) Holdings, Co., Ltd.",NA,NA,0,0,0,0,1,上市,G8427,NA,53013905,NA,NA,NA,NA
+2016,8427,堯宗投資股份有限公司,基勝工業(上海)有限公司,1,china,0,1,0,1,0,上市,G8427,NA,NA,NA,NA,NA,NA
+2016,8427,Sinture Holding Ltd.,基舜興(越南)有限公司,1,越南,0,1,0,0,0,上市,G8427,NA,NA,NA,NA,NA,NA
+2016,8427,"Keysheen (Cayman) Holdings, Co., Ltd.",堯宗投資股份有限公司,1,薩摩亞,0,0,1,0,0,上市,G8427,53013905,NA,NA,NA,NA,NA
+2016,8427,安勝國際有限公司,澤豐有限公司,1,模里西斯,0,1,0,0,0,上市,G8427,NA,NA,NA,NA,NA,NA
+2016,8427,上海基舜興休閒製品有限公司,騰澤健技有限公司,0,薩摩亞,0,1,0,0,0,上市,G8427,NA,NA,NA,NA,NA,NA

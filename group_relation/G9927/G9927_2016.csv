@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9927,Thye Ming Industrial,Taiming Corp.,1,薩摩亞,0,1,0,0,0,上市,G9927,NA,NA,NA,NA,NA,NA
+2016,9927,泰銘實業股份有限公司,Thye Ming Industrial,1,薩摩亞,1,1,0,0,0,上市,G9927,79875202,NA,NA,NA,NA,NA
+2016,9927,泰銘實業股份有限公司,泰維企業股份有限公司,0.88,台灣,1,1,0,0,0,上市,G9927,79875202,22529287,NA,NA,NA,NA
+2016,9927,Taiming Corp.,泰銘(越南)責任有限公司,1,越南,0,1,0,0,0,上市,G9927,NA,NA,NA,NA,NA,NA
+2016,9927,泰霖投資股份有限公司,泰銘實業股份有限公司,NA,NA,0,0,0,0,1,上市,G9927,23469126,79875202,NA,NA,NA,NA
+2016,9927,金俊投資股份有限公司,泰銘實業股份有限公司,NA,NA,0,0,0,0,1,上市,G9927,27220674,79875202,NA,NA,NA,NA
+2016,9927,茂陞投資股份有限公司,泰銘實業股份有限公司,NA,NA,0,0,0,0,1,上市,G9927,27213786,79875202,NA,NA,NA,NA
+2016,9927,泰詠投資股份有限公司,泰銘實業股份有限公司,NA,NA,0,0,0,0,1,上市,G9927,28604207,79875202,NA,NA,NA,NA

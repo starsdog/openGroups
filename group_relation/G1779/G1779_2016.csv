@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1799,易威生醫科技股份有限公司,Double Diamond Limited,0.8,薩摩亞,0,0,1,0,0,上櫃,G1779,16570131,NA,NA,NA,NA,NA
+2016,1799,Magnifica Inc.,Guardian Pharmaceuticals LLC,0.5,美國,0,0,1,0,0,上櫃,G1779,NA,NA,NA,NA,NA,NA
+2016,1799,易威生醫科技股份有限公司,Magnifica Inc.,0.9111,美國,0,0,1,0,0,上櫃,G1779,16570131,NA,NA,NA,NA,NA
+2016,1799,Magnifica Inc.,Tulex Pharmaceuticals Inc.,1,美國,0,1,0,0,0,上櫃,G1779,NA,NA,NA,NA,NA,NA
+2016,1799,易威生醫科技股份有限公,全崴生技股份有限公司,0.502,台灣,0,0,1,0,0,上櫃,G1779,NA,29167921,NA,NA,NA,NA
+2016,1799,易威生醫科技股份有限公司,全崴生技股份有限公司,0.502,不明,1,1,0,0,0,上櫃,G1779,16570131,29167921,NA,NA,NA,NA
+2016,1799,易威生醫科技股份有限公司,皂風實業有限公司,1,香港,1,1,0,0,0,上櫃,G1779,16570131,NA,NA,NA,NA,NA
+2016,1799,Bayberry Management,易威生醫科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1779,NA,16570131,NA,NA,NA,NA
+2016,1799,中華世紀投資股份有限公司,易威生醫科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1779,16842339,16570131,NA,NA,NA,NA
+2016,1799,Double Diamond Limited,青雷醫療器材(東莞)有限公司,1,china,0,1,0,1,0,上櫃,G1779,NA,NA,NA,NA,NA,NA
+2016,1799,皂風實業有限公司,青雷醫療器材(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G1779,NA,NA,NA,NA,NA,NA

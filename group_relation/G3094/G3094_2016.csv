@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3094,TSCC Inc.,Jubilink Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G3094,NA,NA,NA,NA,NA,NA
+2016,3094,聯傑國際股份有限公司,TSCC Inc.,1,薩摩亞,1,1,0,0,0,上市,G3094,84149759,NA,NA,NA,NA,NA
+2016,3094,TSCC Inc.,代維康集成電路(蘇州)有限公司,1,china,0,1,0,1,0,上市,G3094,NA,NA,NA,NA,NA,NA
+2016,3094,聯傑國際股份有限公司,佰儒科技股份有限公司,0.5106,台灣,1,1,0,0,0,上市,G3094,84149759,45101524,NA,NA,NA,NA
+2016,3094,聯傑國際股份有限公司,聯旺發股份有限公司,0.9936,台灣,1,1,0,0,0,上市,G3094,84149759,25199513,NA,NA,NA,NA
+2016,3094,聯傑國際股份有限公司,聯傑投資股份有限公司,1,台灣,1,1,0,0,0,上市,G3094,84149759,28135922,NA,NA,NA,NA
+2016,3094,正元國際投資股份有限公司,聯傑國際股份有限公司,NA,NA,0,0,0,0,1,上市,G3094,28139552,84149759,NA,NA,NA,NA
+2016,3094,在華有限公司,聯傑國際股份有限公司,NA,NA,0,0,0,0,1,上市,G3094,28650428,84149759,NA,NA,NA,NA

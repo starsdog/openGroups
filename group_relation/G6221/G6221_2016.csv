@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6221,GTC Holding Group (SAMOA) Inc.,Gcnsh International Inc.,1,薩摩亞,0,1,0,0,0,上櫃,G6221,NA,NA,NA,NA,NA,NA
+2016,6221,晉泰科技股份有限公司,GTC Holding Group (SAMOA) Inc.,1,薩摩亞,1,1,0,0,0,上櫃,G6221,84981323,NA,NA,NA,NA,NA
+2016,6221,GTC Holding Group (SAMOA) Inc.,G-Tech International Inc.,1,英屬維京群島,0,1,0,0,0,上櫃,G6221,NA,NA,NA,NA,NA,NA
+2016,6221,Gcnsh International Inc.,晉泰科技(上海)有限公司,1,china,0,1,0,1,0,上櫃,G6221,NA,NA,NA,NA,NA,NA
+2016,6221,農安生技股份有限公司,晉泰科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6221,27452189,84981323,NA,NA,NA,NA
+2016,6221,晉泰科技股份有限公司,泰宇網通股份有限公司,0.89,台灣,1,1,0,0,0,上櫃,G6221,84981323,53592405,NA,NA,NA,NA

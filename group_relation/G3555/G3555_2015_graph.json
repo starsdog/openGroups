@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "䳯鵬億極股份有限公司", "no_holder": false, "taxcode": "80551862"}, {"is_core": false, "source": [{"holder": "1", "name": "䳯鵬億極股份有限公司"}], "name": "擎泰科技(香港)有限公司", "no_holder": false, "taxcode": "NA"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2015"}

@@ -1,0 +1,76 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1103,嘉新國際股份有限公司,"Chia Hsin (Thailand) Co., Ltd.",0,泰國,0,1,0,0,0,上市,G1103,04401230,NA,NA,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,Chia Hsin Pacific Limited,0.7416,開曼群島,1,1,0,0,0,上市,G1103,11892801,NA,NA,NA,NA,NA
+2014,1103,嘉新國際股份有限公司,Chia Hsin Pacific Limited,0.2418,開曼群島,0,1,0,0,0,上市,G1103,04401230,NA,NA,NA,NA,NA
+2014,1103,Chia Hsin Pacific Limited,Effervesce Investment Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,LDC Rome,0.4,義大利,1,0,1,0,0,上市,G1103,11892801,NA,NA,NA,NA,NA
+2014,1103,Chia Hsin Pacific Limited,Sparksview Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,台灣鴻新船業股份有限公司,SUNG JU MARINE,1,巴拿馬,0,0,1,0,0,上市,G1103,84115842,NA,NA,NA,NA,NA
+2014,1103,嘉新航運股份有限公司,Sung Ju Marine Corporation,0,不明,0,1,0,0,0,上市,G1103,12954255,NA,NA,NA,NA,NA
+2014,1103,台灣鴻新船業股份有限公司,Sung Ju Marine Corporation,1,不明,0,1,0,0,0,上市,G1103,84115842,NA,NA,NA,NA,NA
+2014,1103,嘉新國際股份有限公司,Tong Yang Chia Hsin Marine Corp.,1,巴拿馬,0,1,0,0,0,上市,G1103,04401230,NA,NA,NA,NA,NA
+2014,1103,Chia Hsin Pacific Limited,Yonica Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,上海伊通有限公司,0,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,上海長新船務有限公司,0.386,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,上海嘉新有限公司,0,china,0,1,0,1,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,上海嘉新港輝有限公司,1,china,0,1,0,1,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,上海嘉環混凝土有限公司,0.68,china,0,1,0,1,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,Sparksview Pte. Ltd.,上海嘉環混凝土有限公司,0.32,不明,0,1,0,0,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,句容台泥水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,台泥(安順)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,台泥(東莞)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,台泥(英德)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,台泥(重慶)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,台泥(貴港)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,台泥(韶關)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,台泥(廣安)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,台泥(遼寧)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,嘉新國際股份有限公司,台嘉國際股份有限公司,0.51,台灣,0,1,0,0,0,上市,G1103,04401230,28226248,NA,NA,NA,NA
+2014,1103,嘉新國際股份有限公司,台灣鴻新船業股份有限公司,1,台灣,0,1,0,0,0,上市,G1103,04401230,84115842,NA,NA,NA,NA
+2014,1103,嘉新航運股份有限公司,台灣鴻新船業股份有限公司,0,不明,0,1,0,0,0,上市,G1103,12954255,84115842,NA,NA,NA,NA
+2014,1103,再投資大陸公司,合江賽德水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,1,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,安徽朱家橋水泥有限公司,0.0917,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,安徽海螺水泥股份有限公司,0.0006,china,0,0,0,1,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,再投資大陸公司,江蘇台泥投資有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,江蘇台泥礦業工程有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Tong Yang Chia Hsin Marine Corp.,江蘇嘉國建材加工倉儲有限公司,1,china,0,1,0,1,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,江蘇嘉國建材加工倉儲有限公司,江蘇嘉新置業有限公司,1,china,0,1,0,1,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,Yonica Pte. Ltd.,江蘇聯合水泥有限公司,1,china,0,1,0,1,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,江蘇聯合礦業有限公司,0.4825,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,佐佑投資股份有限公司,0.1933,台灣,1,0,1,0,0,上市,G1103,11892801,04422501,NA,NA,NA,NA
+2014,1103,嘉新國際股份有限公司,佐佑投資股份有限公司,0.2018,台灣,0,0,1,0,0,上市,G1103,04401230,04422501,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,保山昆鋼嘉華水泥建材有限公司,0.0458,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,柳州台泥新型建材有限公司,0.0642,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,英信(英德)水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,英德台泥礦業工程有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,英德海螺水泥有限責任公司,0.0382,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,英德龍山水泥有限責任公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,創天國際股份有限公司,0,台灣,1,1,0,0,0,上市,G1103,11892801,53911098,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,貴州凱里瑞安建材有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,貴州港安水泥有限公司,0.0994,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,貴港台泥礦業工程有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,雲南昆鋼嘉華水泥建材有限公司,0.0458,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,雲嘉國際股份有限公司,0.9993,台灣,1,1,0,0,0,上市,G1103,11892801,54685492,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,新台泥(杭州)企管運營管理有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,嘉新水泥股份有限公司,嘉北國際股份有限公司,1,台灣,1,1,0,0,0,上市,G1103,11892801,28212928,NA,NA,NA,NA
+2014,1103,嘉新資產管理開發股份有限公司,嘉昇建設股份有限公司,1,台灣,0,1,0,0,0,上市,G1103,80035092,86639204,NA,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,嘉東國際股份有限公司,0,台灣,1,1,0,0,0,上市,G1103,11892801,27488481,NA,NA,NA,NA
+2014,1103,嘉新國際股份有限公司,嘉東國際股份有限公司,0,台灣,0,1,0,0,0,上市,G1103,04401230,27488481,NA,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,嘉泥建設開發股份有限公司,0.4987,台灣,1,1,0,0,0,上市,G1103,11892801,12178993,NA,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,嘉基國際股份有限公司,0,台灣,1,1,0,0,0,上市,G1103,11892801,28212899,NA,NA,NA,NA
+2014,1103,嘉新國際股份有限公司,嘉新水泥股份有限公司,NA,NA,0,0,0,0,1,上市,G1103,04401230,11892801,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,嘉新企業管理諮詢(上海)有限公司,1,china,0,1,0,1,0,上市,G1103,NA,NA,NA,NA,NA,NA
+2014,1103,雲嘉國際股份有限公司,嘉新琉球開發合同會社,1,日本,0,1,0,0,0,上市,G1103,54685492,NA,NA,NA,NA,NA
+2014,1103,嘉新國際股份有限公司,嘉新航運股份有限公司,0,不明,0,1,0,0,0,上市,G1103,04401230,12954255,NA,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,嘉新國際股份有限公司,0.8718,台灣,1,1,0,0,0,上市,G1103,11892801,04401230,NA,NA,NA,NA
+2014,1103,嘉泥建設開發股份有限公司,嘉新國際股份有限公司,0.1041,台灣,0,1,0,0,0,上市,G1103,12178993,04401230,NA,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,嘉新資產管理開發股份有限公司,1,台灣,1,1,0,0,0,上市,G1103,11892801,80035092,NA,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,嘉運貿易股份有限公司,0,不明,1,1,0,0,0,上市,G1103,11892801,11836034,NA,NA,NA,NA
+2014,1103,嘉新國際股份有限公司,嘉運貿易股份有限公司,0,不明,0,1,0,0,0,上市,G1103,04401230,11836034,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,福州台泥水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,福州台泥洋嶼碼頭有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,1
+2014,1103,Effervesce Investment Pte. Ltd.,廣州市嘉華南方水泥有限公司,0.0611,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,嘉新水泥股份有限公司,藍鈞股份有限公司,1,台灣,1,1,0,0,0,上市,G1103,11892801,53912863,NA,NA,NA,NA
+2014,1103,創天國際股份有限公司,藍鈞股份有限公司,0,台灣,0,1,0,0,0,上市,G1103,53911098,53912863,NA,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,瀘州納溪賽德水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA
+2014,1103,Effervesce Investment Pte. Ltd.,瀘州賽德水泥有限公司,0.1528,china,0,0,0,1,0,上市,G1103,NA,NA,8,NA,NA,NA

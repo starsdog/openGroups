@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2732,Chatime HK Ltd.,Chatime Japan,0.7,日本,0,1,0,0,0,興櫃,G2732,NA,NA,NA,NA,NA,NA
+2013,2732,六角國際事業股份有限公司,Chatime HK Ltd.,1,香港,1,0,1,0,0,興櫃,G2732,80671769,NA,NA,NA,NA,NA
+2013,2732,六角國際事業股份有限公司,Infinite Plus Pty. Ltd.,0.55,澳大利亞,1,0,1,0,0,興櫃,G2732,80671769,NA,NA,NA,NA,NA
+2013,2732,六角國際事業股份有限公司,ZENQ Dessert Pty. Ltd.,0.45,澳大利亞,1,0,1,0,0,興櫃,G2732,80671769,NA,NA,NA,NA,NA
+2013,2732,亨泰國際投資控股有限公司,六角國際事業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2732,NA,80671769,NA,NA,NA,NA
+2013,2732,澳大利亞商CHARLLEY INVESTMENTS PTY. LTD,六角國際事業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2732,NA,80671769,NA,NA,NA,NA

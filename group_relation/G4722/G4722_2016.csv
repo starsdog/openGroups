@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4722,國精化學股份有限公司,Chao Chien International Inc.,1,薩摩亞,1,1,0,0,0,上市,G4722,75975242,NA,NA,NA,NA,NA
+2016,4722,Qualipoly International Inc.,Chaoyang International Inc.,1,薩摩亞,0,1,0,0,0,上市,G4722,NA,NA,NA,NA,NA,NA
+2016,4722,國精化學股份有限公司,Qualipoly International Inc.,1,薩摩亞,1,1,0,0,0,上市,G4722,75975242,NA,NA,NA,NA,NA
+2016,4722,Qualipoly International Inc.,天津亞邦公司,0.19,china,0,0,0,1,0,上市,G4722,NA,NA,NA,NA,NA,NA
+2016,4722,Chaoyang International Inc.,江門國精合成材料有限公司,1,china,0,1,0,1,0,上市,G4722,NA,NA,NA,NA,NA,NA
+2016,4722,Chao Chien International Inc.,昆山朝建化學材料有限公司,1,china,0,1,0,1,0,上市,G4722,NA,NA,NA,NA,NA,NA
+2016,4722,鴻仁投資股份有限公司,國精化學股份有限公司,NA,NA,0,0,0,0,1,上市,G4722,28200492,75975242,NA,NA,NA,NA
+2016,4722,Chaoyang International Inc.,漳州亞邦公司,0.19,china,0,0,0,1,0,上市,G4722,NA,NA,NA,NA,NA,NA

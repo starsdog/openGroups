@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4951,瞻誠科技股份有限公司,"VBridge Technology, Inc.",1,美國,0,0,1,0,0,興櫃,G4951,54776795,NA,NA,NA,NA,NA
+2016,4951,凌陽創業投資股份有限公司,精拓科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4951,70755846,80333472,NA,NA,NA,NA
+2016,4951,中華開發工業銀行股份有限公司,精拓科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4951,11147207,80333472,NA,NA,NA,1
+2016,4951,精拓科技股份有限公司,瞻誠科技股份有限公司,0.815,台灣,1,1,0,0,0,興櫃,G4951,80333472,54776795,NA,NA,NA,NA

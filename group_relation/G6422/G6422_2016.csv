@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6422,君耀(香港)有限公司,Brightking Electronics Inc.,1,美國,0,1,0,0,0,上市,G6422,NA,NA,NA,NA,NA,NA
+2016,6422,深圳市君耀電子有限公司,上海君耀電子有限公司,1,china,0,1,0,1,0,上市,G6422,NA,NA,NA,NA,NA,NA
+2016,6422,深圳市君耀電子有限公司,北京君耀雷神電子有限公司,1,china,0,1,0,1,0,上市,G6422,NA,NA,NA,NA,NA,NA
+2016,6422,廣東百圳君耀電子有限公司,光基電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G6422,NA,NA,NA,NA,NA,NA
+2016,6422,君耀(香港)有限公司,百圳君耀電子股份有限公司,1,不明,0,1,0,0,0,上市,G6422,NA,53300982,NA,NA,NA,NA
+2016,6422,君耀控股股份有限公司,君耀(香港)有限公司,1,香港,1,1,0,0,0,上市,G6422,41130077,NA,NA,NA,NA,NA
+2016,6422,韋通有限公司,君耀控股股份有限公司,NA,NA,0,0,0,0,1,上市,G6422,NA,41130077,NA,NA,NA,NA
+2016,6422,君耀(香港)有限公司,君耀電子股份有限公司,1,不明,0,1,0,0,0,上市,G6422,NA,53301027,NA,NA,NA,NA
+2016,6422,廣東百圳君耀電子有限公司,浙江百圳君耀電子有限公司,1,china,0,1,0,1,0,上市,G6422,NA,NA,NA,NA,NA,NA
+2016,6422,廣東百圳君耀電子有限公司,深圳市君耀電子有限公司,1,china,0,1,0,1,0,上市,G6422,NA,NA,NA,NA,NA,NA
+2016,6422,君耀(香港)有限公司,惠州聯順電子有限公司,0.28,china,0,1,0,1,0,上市,G6422,NA,NA,NA,NA,NA,NA
+2016,6422,深圳市君耀電子有限公司,惠州聯順電子有限公司,0.72,china,0,1,0,0,0,上市,G6422,NA,NA,NA,NA,NA,NA
+2016,6422,君耀(香港)有限公司,廣東百圳君耀電子有限公司,1,china,0,1,0,1,0,上市,G6422,NA,NA,NA,NA,NA,NA

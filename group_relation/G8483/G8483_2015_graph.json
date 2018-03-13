@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "昕淇科技股份有限公司", "no_holder": false, "taxcode": "80101732"}, {"is_core": false, "source": [{"holder": "0.51", "name": "昕淇科技股份有限公司"}], "name": "昕品科技股份有限公司", "no_holder": false, "taxcode": "54709425"}], "links": [{"target": 1, "holder": "51.000000", "source": 0}], "y": "2015"}

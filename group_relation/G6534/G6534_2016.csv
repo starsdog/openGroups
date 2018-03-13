@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6534,正瀚生技股份有限公司,"CH BIOTECH, LLC.",1,美國,1,1,0,0,0,興櫃,G6534,54313303,NA,NA,NA,NA,NA
+2016,6534,兆淞投資有限公司,正瀚生技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6534,54768388,54313303,NA,NA,NA,NA
+2016,6534,"Wealth Champion Service Co., L",正瀚生技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6534,NA,54313303,NA,NA,NA,NA
+2016,6534,傲士英投資股份有限公司,正瀚生技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6534,27530761,54313303,NA,NA,NA,NA

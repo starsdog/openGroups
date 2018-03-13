@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "台灣尖端先進生技醫藥股份有限公司", "no_holder": false, "taxcode": "70774029"}, {"is_core": true, "source": [{"holder": "NA", "name": "台灣尖端先進生技醫藥股份有限公司"}], "name": "台灣醣聯生技醫藥股份有限公司", "no_holder": false, "taxcode": "12683520"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

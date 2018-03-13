@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2617,台灣航業股份有限公司,Shin Wang,1,賴比瑞亞,0,1,0,0,0,上市,G2617,03564713,NA,NA,NA,NA,NA
+2016,2617,台灣航業股份有限公司,Tai Shing,1,巴拿馬,0,1,0,0,0,上市,G2617,03564713,NA,NA,NA,NA,NA
+2016,2617,交通部,台灣航業股份有限公司,NA,NA,0,0,0,0,1,上市,G2617,NA,03564713,NA,NA,NA,NA
+2016,2617,運旺投資股份有限公司,台灣航業股份有限公司,NA,NA,0,0,0,0,1,上市,G2617,16746336,03564713,NA,NA,NA,NA
+2016,2617,中國航運股份有限公司,台灣航業股份有限公司,NA,NA,0,0,0,0,1,上市,G2617,NA,03564713,NA,NA,NA,NA
+2016,2617,晶茂管理顧問有限公司,台灣航業股份有限公司,NA,NA,0,0,0,0,1,上市,G2617,25116154,03564713,NA,NA,NA,NA
+2016,2617,台灣航業股份有限公司,運旺投資股份有限公司,0.4975,台灣,0,0,1,0,0,上市,G2617,03564713,16746336,NA,NA,NA,NA

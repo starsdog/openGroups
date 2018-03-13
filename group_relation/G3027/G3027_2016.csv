@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3027,BEC Technologies Inc.,"BEC International, LLC",1,美國,0,1,0,0,0,上市,G3027,NA,NA,NA,NA,NA,NA
+2016,3027,盛達電業股份有限公司,BEC Technologies Inc.,0.9676,美國,1,1,0,0,0,上市,G3027,33659498,NA,NA,NA,NA,NA
+2016,3027,盛達電業股份有限公司,Billion Holdings Inc.,1,巴拿馬,1,1,0,0,0,上市,G3027,33659498,NA,NA,NA,NA,NA
+2016,3027,盛達電業股份有限公司,"Billion Mark Technology Co., Ltd.",1,汶萊,1,1,0,0,0,上市,G3027,33659498,NA,NA,NA,NA,NA
+2016,3027,盛達電業股份有限公司,Billiontek Corp.,1,汶萊,1,1,0,0,0,上市,G3027,33659498,NA,NA,NA,NA,NA
+2016,3027,盛達電業股份有限公司,香港盛恆達有限公司,1,china,1,1,0,1,0,上市,G3027,33659498,NA,NA,NA,NA,NA
+2016,3027,"Billion Mark Technology Co., Ltd.",盛永達科技(南京)有限公司,1,china,0,1,0,1,0,上市,G3027,NA,NA,NA,NA,NA,NA
+2016,3027,香港盛恆達有限公司,盛恆達電子(東莞)有限公司,0.6333,china,0,1,0,1,0,上市,G3027,NA,NA,NA,NA,NA,NA
+2016,3027,Billiontek Corp.,盛恆達電子(東莞)有限公司,0.3667,不明,0,1,0,0,0,上市,G3027,NA,NA,NA,NA,NA,NA
+2016,3027,盛達電業股份有限公司,盛陽綠能股份有限公司,1,台灣,1,1,0,0,0,上市,G3027,33659498,66279814,NA,NA,NA,NA
+2016,3027,天鳳投資有限公司,盛達電業股份有限公司,NA,NA,0,0,0,0,1,上市,G3027,28852938,33659498,NA,NA,NA,NA
+2016,3027,盛達電業股份有限公司,達健網路科技股份有限公司,0.1,台灣,1,0,1,0,0,上市,G3027,33659498,27765648,NA,NA,NA,NA

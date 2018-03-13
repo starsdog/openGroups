@@ -1,0 +1,27 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8213,志超科技股份有限公司,Brilliant Star Holdings Ltd.,0.97,開曼群島,1,1,0,0,0,上市,G8213,70801378,NA,NA,NA,NA,NA
+2016,8213,志揚投資有限公司,"Chi Chau International Co., Ltd.",0.0387,薩摩亞,0,0,1,0,0,上市,G8213,28313209,NA,NA,NA,NA,NA
+2016,8213,志超科技股份有限公司,"Chi Chau International Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G8213,70801378,NA,NA,NA,NA,NA
+2016,8213,宇環科技股份有限公司,"Chi Chen Investment Co., Ltd.",0.1927,薩摩亞,0,0,1,0,0,上市,G8213,70684527,NA,NA,NA,NA,NA
+2016,8213,志超科技股份有限公司,"Chi Chen Investment Co., Ltd.",0.89,薩摩亞,1,1,0,0,0,上市,G8213,70801378,NA,NA,NA,NA,NA
+2016,8213,"Chi Chau International Co., Ltd.",Chi Yao Ltd.,1,香港,0,1,0,0,0,上市,G8213,NA,NA,NA,NA,NA,NA
+2016,8213,志超科技股份有限公司,"Sinact (Hong Kong) International Co., Ltd.",1,香港,1,1,0,0,0,上市,G8213,70801378,NA,NA,NA,NA,NA
+2016,8213,志超科技股份有限公司,"TPT International Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G8213,70801378,NA,NA,NA,NA,NA
+2016,8213,長泰國際有限公司,"Yang An International (Samoa) Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G8213,NA,NA,NA,NA,NA,NA
+2016,8213,志超科技股份有限公司,宇環科技股份有限公司,0.44,台灣,1,1,0,0,0,上市,G8213,70801378,70684527,NA,NA,NA,NA
+2016,8213,"Sinact (Hong Kong) International Co., Ltd.",江陰信捷正電子有限公司,1,china,0,1,0,1,0,上市,G8213,NA,NA,NA,NA,NA,NA
+2016,3276,宇環科技股份有限公司,志昱科技股份有限公司,0.6,台灣,1,1,0,0,0,上櫃,G8213,70684527,89004747,NA,NA,NA,NA
+2016,8213,志超科技股份有限公司,志昱科技股份有限公司,0.47,台灣,1,1,0,0,0,上市,G8213,70801378,89004747,NA,NA,NA,NA
+2016,8213,志超科技股份有限公司,志揚投資有限公司,1,台灣,1,1,0,0,0,上市,G8213,70801378,28313209,NA,NA,NA,NA
+2016,8213,"Chi Chen Investment Co., Ltd.",志超科技(遂寧)有限公司,1,china,0,1,0,1,0,上市,G8213,NA,NA,NA,NA,NA,NA
+2016,8213,Chi Yao Ltd.,志超科技(蘇州)有限公司,1,china,0,1,0,1,0,上市,G8213,NA,NA,NA,NA,NA,NA
+2016,8213,亞達投資有限公司,志超科技股份有限公司,NA,NA,0,0,0,0,1,上市,G8213,53144012,70801378,NA,NA,NA,NA
+2016,8213,和成欣業股份有限公司,志超科技股份有限公司,NA,NA,0,0,0,0,1,上市,G8213,03228304,70801378,NA,NA,NA,NA
+2016,5480,長泰國際有限公司,和泰國際有限公司,1,薩摩亞,0,1,0,0,0,上櫃,G8213,NA,NA,NA,NA,NA,NA
+2016,5480,統盟電子股份有限公司,長泰國際有限公司,1,薩摩亞,1,1,0,0,0,上櫃,G8213,22657108,NA,NA,NA,NA,NA
+2016,8213,"TPT International Co., Ltd.",信翔(廈門)科技有限公司,1,china,0,1,0,1,0,上市,G8213,NA,NA,NA,NA,NA,NA
+2016,8213,Brilliant Star Holdings Ltd.,祥豐電子(中山)有限公司,1,china,0,1,0,1,0,上市,G8213,NA,NA,NA,NA,NA,NA
+2016,5480,"Yang An International (Samoa) Co., Ltd.",統盟(無錫)電子有限公司,1,china,0,1,0,1,0,上櫃,G8213,NA,NA,NA,NA,NA,NA
+2016,5480,木蘭投資股份有限公司,統盟電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8213,27958737,22657108,NA,NA,NA,NA
+2016,8213,志超科技股份有限公司,統盟電子股份有限公司,0.45,台灣,1,1,0,0,0,上市,G8213,70801378,22657108,NA,NA,NA,NA
+2016,8213,長泰國際有限公司,統盟電子股份有限公司,0.0073,薩摩亞,0,0,1,0,0,上市,G8213,NA,22657108,NA,NA,NA,NA

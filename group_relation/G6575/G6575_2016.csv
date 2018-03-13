@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6575,心悅生醫股份有限公司,SyneuRx International (BVI) Corp.,1,英屬維京群島,1,1,0,0,0,興櫃,G6575,54179072,NA,NA,NA,NA,NA
+2016,6575,心悅生醫股份有限公司,SyneuRx International (Samoa) Corp.,1,薩摩亞,1,1,0,0,0,興櫃,G6575,54179072,NA,NA,NA,NA,NA
+2016,6575,SYNEURX INTERNATIONAL CORP.,心悅生醫股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6575,NA,54179072,NA,NA,NA,NA

@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4177,Aeon International B.V.,Aeon Ajanta India Pvt. Ltd.,1,印度,0,1,0,0,0,興櫃,G4177,NA,NA,NA,NA,NA,NA
+2016,4177,Aeon Astron Europe B.V.,Aeon Ajanta India Pvt. Ltd.,0,印度,0,1,0,0,0,興櫃,G4177,NA,NA,NA,NA,NA,NA
+2016,4177,柏登生醫股份有限公司,Aeon Astron Europe B.V.,1,荷蘭,1,1,0,0,0,興櫃,G4177,28676378,NA,NA,NA,NA,NA
+2016,4177,柏登生醫股份有限公司,Aeon Astron USA Inc.,1,美國,1,1,0,0,0,興櫃,G4177,28676378,NA,NA,NA,NA,NA
+2016,4177,柏登生醫股份有限公司,Aeon International B.V.,1,荷蘭,1,1,0,0,0,興櫃,G4177,28676378,NA,NA,NA,NA,NA
+2016,4177,昕欣投資有限公司,柏登生醫股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4177,53417842,28676378,NA,NA,NA,NA
+2016,4177,鉑泰生醫股份有限公司,柏登生醫股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4177,24456795,28676378,NA,NA,NA,NA

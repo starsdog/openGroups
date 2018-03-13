@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,4732,大淵有限公司,彥臣生技藥品股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4732,54187349,12676817,NA,NA,NA,NA
+2013,4732,彥臣生技藥品股份有限公司,森源科學保健食品股份有限公司,1,台灣,1,1,0,0,0,興櫃,G4732,12676817,27380186,NA,NA,NA,NA
+2013,4732,彥臣生技藥品股份有限公司,壽美藥品股份有限公司,0,不明,1,1,0,0,0,興櫃,G4732,12676817,16751246,NA,NA,NA,NA

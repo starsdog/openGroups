@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3067,全域股份有限公司,"Phonic Group,Ltd.",1,英屬維京群島,0,0,1,0,0,上櫃,G3067,04934334,NA,NA,NA,NA,NA
+2013,3067,"Phonic Group,Ltd.",丰鉅克國際貿易(上海)有限公司,0,china,0,1,0,0,0,上櫃,G3067,NA,NA,NA,NA,NA,NA
+2013,3067,康健投資股份有限公司,全域股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3067,12945171,04934334,NA,NA,NA,NA
+2013,3067,"Phonic Group,Ltd.",深圳儀霸電子有限公司,1,china,0,1,0,1,0,上櫃,G3067,NA,NA,NA,NA,NA,NA

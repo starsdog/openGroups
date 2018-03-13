@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "真大投資有限公司", "no_holder": false, "taxcode": "28481232"}, {"is_core": true, "source": [{"holder": "NA", "name": "真大投資有限公司"}], "name": "力瑋實業股份有限公司", "no_holder": false, "taxcode": "04669623"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

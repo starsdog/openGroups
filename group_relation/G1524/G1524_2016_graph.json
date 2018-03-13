@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "耿鼎企業股份有限公司", "no_holder": false, "taxcode": "NA"}, {"is_core": false, "source": [{"holder": "1", "name": "耿鼎企業股份有限公司"}], "name": "金雋企業股份有限公司", "no_holder": false, "taxcode": "24623463"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2016"}

@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1109,信大水泥股份有限公司,Soaring Power Corp.,0.6667,英屬維京群島,0,1,0,0,0,上市,G1109,03279507,NA,NA,NA,NA,NA
+2016,1109,信大水泥股份有限公司,台灣歐帕滋股份有限公司,0.4111,台灣,1,0,1,0,0,上市,G1109,03279507,54664362,NA,NA,NA,NA
+2016,1109,Soaring Power Corp.,江蘇信寧新型建材有限公司,1,china,0,1,0,1,0,上市,G1109,NA,NA,NA,NA,NA,NA
+2016,1109,信大水泥股份有限公司,信一預拌混凝土股份有限公司,0.552,台灣,0,1,0,0,0,上市,G1109,03279507,23636102,NA,NA,NA,NA
+2016,1109,海德博資產管理顧問股份有限公司,信大水泥股份有限公司,NA,NA,0,0,0,0,1,上市,G1109,28209199,03279507,NA,NA,NA,NA
+2016,1109,信大水泥股份有限公司,信泥開發股份有限公司,0.98,台灣,0,1,0,0,0,上市,G1109,03279507,84905091,NA,NA,NA,NA
+2016,1109,信大水泥股份有限公司,富立洋生物科技股份有限公司,0.7417,台灣,0,1,0,0,0,上市,G1109,03279507,12868625,NA,NA,NA,NA
+2016,1109,信泥開發股份有限公司,富立洋生物科技股份有限公司,0.25,台灣,0,1,0,0,0,上市,G1109,84905091,12868625,NA,NA,NA,NA

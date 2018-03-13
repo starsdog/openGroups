@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3662,啟陞科技有限公司,上海樂陞軟件有限公司,0,china,0,1,0,1,0,上櫃,G3662,NA,NA,NA,NA,NA,NA
+2013,3662,再投資大陸公司,北京天空堂科技有限公司,0,china,0,0,0,1,0,上櫃,G3662,NA,NA,1,NA,NA,NA
+2013,3662,再投資大陸公司,北京谷藍天空科技有限公司,0,china,0,0,0,1,0,上櫃,G3662,NA,NA,1,NA,NA,NA
+2013,3662,蘇州工業園區樂陞軟件有限公司,北京樂陞科技股份有限公司,0.8811,china,0,1,0,1,0,上櫃,G3662,NA,NA,NA,NA,NA,NA
+2013,3662,樂陞科技股份有限公司,啟陞科技有限公司,1,香港,0,1,0,0,0,上櫃,G3662,70834862,NA,NA,NA,NA,NA
+2013,3662,北京樂陞科技股份有限公司,博樂千里科技(蘇州)有限公司,0,china,0,1,0,1,0,上櫃,G3662,NA,NA,NA,NA,NA,NA
+2013,3662,樂陞科技股份有限公司,磁力線上股份有限公司,0.359,台灣,1,0,1,0,0,上櫃,G3662,70834862,53957642,NA,NA,NA,NA
+2013,3662,KINGKONG DEVELOPMENT LLC,樂陞科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3662,NA,70834862,NA,NA,NA,NA
+2013,3662,樂陞美術館股份有限公司,樂陞美術中心有限公司,1,香港,0,1,0,0,0,上櫃,G3662,29024918,NA,NA,NA,NA,NA
+2013,3662,樂陞科技股份有限公司,樂陞美術館股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3662,70834862,29024918,NA,NA,NA,NA
+2013,3662,樂陞美術中心有限公司,蘇州工業園區樂美館軟件有限公司,1,china,0,1,0,1,0,上櫃,G3662,NA,NA,NA,NA,NA,NA
+2013,3662,啟陞科技有限公司,蘇州工業園區樂陞軟件有限公司,1,china,0,1,0,1,0,上櫃,G3662,NA,NA,NA,NA,NA,NA

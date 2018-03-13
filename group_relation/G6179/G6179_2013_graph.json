@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "鑫鴻光電科技有限公司", "no_holder": false, "taxcode": "28398396"}, {"is_core": true, "source": [{"holder": "NA", "name": "鑫鴻光電科技有限公司"}], "name": "亞通利大能源股份有限公司", "no_holder": false, "taxcode": "89491275"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

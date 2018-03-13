@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1538,正富集團國際有限公司,"JENN FENG INTERNATIONAL (B.V.I.) CO., LTD.",1,開曼群島,0,0,1,0,0,上市,G1538,NA,NA,NA,NA,NA,NA
+2015,1538,正富集團國際有限公司,上海正峰工業有限公司,1,china,0,1,0,1,0,上市,G1538,NA,NA,NA,NA,NA,NA
+2015,1538,正峰新能源股份有限公司,正富集團國際有限公司,1,開曼群島,1,0,1,0,0,上市,G1538,44947686,NA,NA,NA,NA,NA
+2015,1538,正富集團國際有限公司,宏時投資(薩摩亞)有限公司,1,薩摩亞,0,0,1,0,0,上市,G1538,NA,NA,NA,NA,NA,NA
+2015,1538,宏時投資(薩摩亞)有限公司,昆山正富機械工業有限公司,1,china,0,1,0,1,0,上市,G1538,NA,NA,NA,NA,NA,NA

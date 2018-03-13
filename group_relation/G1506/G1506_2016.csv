@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1506,Excellent Growth Investments Limited,Admiral Skill Limited,0.25,英屬維京群島,0,0,1,0,0,上市,G1506,NA,NA,NA,NA,NA,NA
+2016,1506,正道工業股份有限公司,Excellent Growth Investments Limited,1,英屬維京群島,1,1,0,0,0,上市,G1506,68193807,NA,NA,NA,NA,NA
+2016,1506,正道工業股份有限公司,Right Way North America Inc.,1,美國,1,1,0,0,0,上市,G1506,68193807,NA,NA,NA,NA,NA
+2016,1506,正道工業(馬來西亞)私人有限公司,TRIM Telesis Engineering Sdn. Bhd.,0.9,馬來西亞,0,1,0,0,0,上市,G1506,NA,NA,NA,NA,NA,NA
+2016,1506,證道實業(馬來西亞)有限公司,台灣雙龍興業股份有限公司,0.24,台灣,0,0,1,0,0,上市,G1506,NA,80275819,NA,NA,NA,NA
+2016,1506,正道工業股份有限公司,正道工業(馬來西亞)私人有限公司,0.8,馬來西亞,1,1,0,0,0,上市,G1506,68193807,NA,NA,NA,NA,NA
+2016,1506,定勝資本股份有限公司,正道工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1506,53775404,68193807,NA,NA,NA,NA
+2016,1506,Excellent Growth Investments Limited,正道汽車配件(福州)有限公司,1,china,0,1,0,1,0,上市,G1506,NA,NA,NA,NA,NA,NA
+2016,1506,正道汽車配件(福州)有限公司,福州威寶國際貿易有限公司,1,china,0,1,0,1,0,上市,G1506,NA,NA,NA,NA,NA,NA
+2016,1506,正道工業股份有限公司,證道實業(馬來西亞)有限公司,1,台灣,1,1,0,0,0,上市,G1506,68193807,NA,NA,NA,NA,NA

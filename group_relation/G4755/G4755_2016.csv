@@ -1,0 +1,17 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4755,San Fu Food Additives Investments Limited,Fangda International(SAMOA)Ltd.,0.4194,薩摩亞,0,0,1,0,0,上市,G4755,NA,NA,NA,NA,NA,NA
+2016,4755,San Fu Specialty Chemicals Investments Limited,Lucky Star Holding Limited,1,薩摩亞,0,1,0,0,0,上市,G4755,NA,NA,NA,NA,NA,NA
+2016,4755,三福化工股份有限公司,San Fu Food Additives Investments Limited,1,薩摩亞,1,1,0,0,0,上市,G4755,80170651,NA,NA,NA,NA,NA
+2016,4755,三福化工股份有限公司,San Fu Specialty Chemicals Investments Limited,1,薩摩亞,1,1,0,0,0,上市,G4755,80170651,NA,NA,NA,NA,NA
+2016,4755,三福化工股份有限公司,Shian Yun Joint Stock Company,0.1343,越南,1,0,1,0,0,上市,G4755,80170651,NA,NA,NA,NA,NA
+2016,4755,San Fu Specialty Chemicals Investments Limited,Sino Star Holding Limited,1,薩摩亞,0,1,0,0,0,上市,G4755,NA,NA,NA,NA,NA,NA
+2016,4755,三福環球股份有限公司,三福化工股份有限公司,NA,NA,0,0,0,0,1,上市,G4755,27234298,80170651,NA,NA,NA,NA
+2016,4755,PILOTKEYMARKSDN.BHD.,三福化工股份有限公司,NA,NA,0,0,0,0,1,上市,G4755,NA,80170651,NA,NA,NA,NA
+2016,4755,三福化工股份有限公司,三福生技股份有限公司,1,台灣,1,1,0,0,0,上市,G4755,80170651,24949308,NA,NA,NA,NA
+2016,4755,San Fu Specialty Chemicals Investments Limited,上海三福明電子材料有限公司,0.5,china,0,0,1,1,0,上市,G4755,NA,NA,NA,NA,NA,NA
+2016,4755,再投資大陸公司,山東方大金科添加劑有限公司,0.2516,china,0,0,0,1,0,上市,G4755,NA,NA,1,NA,NA,NA
+2016,4755,三福化工股份有限公司,立福炭酸股份有限公司,0.25,台灣,1,0,1,0,0,上市,G4755,80170651,50549453,NA,NA,NA,NA
+2016,4755,三福化工股份有限公司,宏呈企業股份有限公司,0.5,台灣,1,0,1,0,0,上市,G4755,80170651,23341705,NA,NA,NA,NA
+2016,4755,再投資大陸公司,杭州格林達化學公司,0,china,0,0,0,1,0,上市,G4755,NA,NA,1,NA,NA,NA
+2016,4755,三福化工股份有限公司,國際日東科技股份有限公司,0.51,台灣,1,0,1,0,0,上市,G4755,80170651,13111042,NA,NA,NA,NA
+2016,4755,再投資大陸公司,湖北興福電子材料有限公司,0.0906,china,0,0,0,1,0,上市,G4755,NA,NA,1,NA,NA,NA

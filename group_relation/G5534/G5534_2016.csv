@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5534,長虹建設股份有限公司,宏林營造廠股份有限公司,0.9991,台灣,1,1,0,0,0,上市,G5534,04633597,04684005,NA,NA,NA,NA
+2016,5534,長虹建設股份有限公司,忠泰長虹建設股份有限公司,0.4,台灣,1,0,1,0,0,上市,G5534,04633597,28056264,NA,NA,NA,NA
+2016,5534,長虹建設股份有限公司,忠泰長虹開發股份有限公司,0.2857,台灣,1,0,1,0,0,上市,G5534,04633597,54321275,NA,NA,NA,NA
+2016,5534,聯虹投資股份有限公司,長虹建設股份有限公司,NA,NA,0,0,0,0,1,上市,G5534,16755165,04633597,NA,NA,NA,NA
+2016,5534,長虹建設股份有限公司,虹欣建設股份有限公司,0.6,台灣,1,1,0,0,0,上市,G5534,04633597,29031278,NA,NA,NA,NA
+2016,5534,長虹建設股份有限公司,新時代廣場實業股份有限公司,1,台灣,1,1,0,0,0,上市,G5534,04633597,24739176,NA,NA,NA,NA

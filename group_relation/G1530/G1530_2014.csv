@@ -1,0 +1,17 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1583,"B-Way (Cayman) Co., Ltd.","Billion-Way (Cayman) Co., Ltd.",1,開曼群島,0,1,0,0,0,上市,G1530,NA,NA,NA,NA,NA,NA
+2014,1530,亞崴機電股份有限公司,"B-Way (Cayman) Co., Ltd.",1,開曼群島,1,1,0,0,0,上市,G1530,22224692,NA,NA,NA,NA,NA
+2014,1583,程泰機械股份有限公司,"TAITEC CAYMANS, INC.",1,開曼群島,1,1,0,0,0,上市,G1530,52353530,NA,NA,NA,NA,NA
+2014,1583,"TAITEC CAYMANS, INC.","YAMA SEIKI, USA, INC.",1,美國,0,1,0,0,0,上市,G1530,NA,NA,NA,NA,NA,NA
+2014,1530,亞崴機電股份有限公司,"YAMA SEIKI, USA, INC.",0.2858,美國,1,0,1,0,0,上市,G1530,22224692,NA,NA,NA,NA,NA
+2014,1583,"TAITEC CAYMANS, INC.","YAMASEIKI CAYMANS, INC.",1,開曼群島,0,1,0,0,0,上市,G1530,NA,NA,NA,NA,NA,NA
+2014,1583,"Billion-Way (Cayman) Co., Ltd.",上海竹崴機電有限公司,1,china,0,1,0,1,0,上市,G1530,NA,NA,NA,NA,NA,NA
+2014,1583,程泰機械股份有限公司,亞泰機械工業股份有限公司,1,台灣,1,1,0,0,0,上市,G1530,52353530,53261806,NA,NA,NA,NA
+2014,1583,"Billion-Way (Cayman) Co., Ltd.",亞崴機電(蘇州)有限公司,1,china,0,1,0,1,0,上市,G1530,NA,NA,NA,NA,NA,NA
+2014,1530,致遠投資股份有限公司,亞崴機電股份有限公司,NA,NA,0,0,0,0,1,上市,G1530,70719928,22224692,NA,NA,NA,NA
+2014,1583,程泰機械股份有限公司,亞崴機電股份有限公司,0.4522,台灣,1,1,0,0,0,上市,G1530,52353530,22224692,NA,NA,NA,NA
+2014,1530,亞崴機電股份有限公司,佳崴機電股份有限公司,1,台灣,1,1,0,0,0,上市,G1530,22224692,53267061,NA,NA,NA,NA
+2014,1530,亞崴機電股份有限公司,益全機械工業股份有限公司,0.6,台灣,1,1,0,0,0,上市,G1530,22224692,52203110,NA,NA,NA,NA
+2014,1583,"YAMA SEIKI, USA, INC.",程泰機械(吳江)有限公司,1,china,0,1,0,1,0,上市,G1530,NA,NA,NA,NA,NA,NA
+2014,1583,致遠投資股份有限公司,程泰機械股份有限公司,NA,NA,0,0,0,0,1,上市,G1530,70719928,52353530,NA,NA,NA,NA
+2014,1583,"Billion-Way (Cayman) Co., Ltd.",達崴機電(蘇州)有限公司,1,china,0,1,0,1,0,上市,G1530,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2222,桃苗汽車股份有限公司,和航汽車股份有限公司,0.49,台灣,1,0,1,0,0,公開發行,G2222,22817885,54536542,NA,NA,NA,NA
+2015,2222,桃苗汽車股份有限公司,旺孚企業有限公司,1,台灣,0,1,0,0,0,公開發行,G2222,22817885,53062911,NA,NA,NA,NA
+2015,2222,永成投資股份有限公司,桃苗汽車股份有限公司,NA,NA,0,0,0,0,1,公開發行,G2222,96940564,22817885,NA,NA,NA,NA
+2015,2222,滿億投資股份有限公司,桃苗汽車股份有限公司,NA,NA,0,0,0,0,1,公開發行,G2222,16326904,22817885,NA,NA,NA,NA
+2015,2222,和泰汽車股份有限公司,桃苗汽車股份有限公司,NA,NA,0,0,0,0,1,公開發行,G2222,03251108,22817885,NA,NA,NA,NA

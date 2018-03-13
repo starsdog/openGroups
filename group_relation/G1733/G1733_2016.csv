@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1733,Apexbio Investment Limited,Apexbio China Investment Ltd.,1,薩摩亞,0,1,0,0,0,上市,G1733,NA,NA,NA,NA,NA,NA
+2016,1733,五鼎生物技術股份有限公司,Apexbio Investment Limited,1,薩摩亞,1,1,0,0,0,上市,G1733,NA,NA,NA,NA,NA,NA
+2016,1733,Apexbio China Investment Ltd.,蘇州五鼎生技醫療器械進出口貿易有限公司,0.96,china,0,1,0,1,0,上市,G1733,NA,NA,NA,NA,NA,NA

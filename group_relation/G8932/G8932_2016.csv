@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8932,宏大拉鍊股份有限公司,"MAX INTERNATIONAL INVESTMENT CO., LTD.",1,薩摩亞,1,1,0,0,0,上櫃,G8932,35892013,NA,NA,NA,NA,NA
+2016,8932,"MAX INTERNATIONAL INVESTMENT CO., LTD.","MAX INTERNATIONAL TRADING CO., LTD.",1,薩摩亞,0,1,0,0,0,上櫃,G8932,NA,NA,NA,NA,NA,NA
+2016,8932,"MAX INTERNATIONAL INVESTMENT CO., LTD.","MAX INVESTMENT CONSULTING CO., LTD.",1,英屬維京群島,0,1,0,0,0,上櫃,G8932,NA,NA,NA,NA,NA,NA
+2016,8932,宏育國際投資股份有限公司,宏大拉鍊股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8932,16285946,35892013,NA,NA,NA,NA
+2016,8932,宏達開發投資股份有限公司,宏大拉鍊股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8932,16285896,35892013,NA,NA,NA,NA
+2016,8932,宜進實業股份有限公司,宏大拉鍊股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8932,07669338,35892013,NA,NA,NA,NA
+2016,8932,永讚開發投資股份有限公司,宏大拉鍊股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8932,28855999,35892013,NA,NA,NA,NA
+2016,8932,"MAX INVESTMENT CONSULTING CO., LTD.",宏大拉鏈(中國)有限公司,1,china,0,1,0,1,0,上櫃,G8932,NA,NA,NA,NA,NA,NA
+2016,8932,宏大拉鍊股份有限公司,宏圓投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G8932,35892013,29039638,NA,NA,NA,NA
+2016,8932,宏圓投資股份有限公司,城家建設股份有限公司,1,台灣,0,1,0,0,0,上櫃,G8932,29039638,27594379,NA,NA,NA,NA

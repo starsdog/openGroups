@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9906,欣巴巴事業股份有限公司,江城建設股份有限公司,1,台灣,1,1,0,0,0,上市,G9906,33428716,16813355,NA,NA,NA,NA
+2016,9906,辰龍投資股份有限公司,欣巴巴事業股份有限公司,NA,NA,0,0,0,0,1,上市,G9906,23413545,33428716,NA,NA,NA,NA
+2016,9906,捷偉投資有限公司,欣巴巴事業股份有限公司,NA,NA,0,0,0,0,1,上市,G9906,53551657,33428716,NA,NA,NA,NA
+2016,9906,世京投資有限公司,欣巴巴事業股份有限公司,NA,NA,0,0,0,0,1,上市,G9906,53553120,33428716,NA,NA,NA,NA

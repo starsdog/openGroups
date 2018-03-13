@@ -1,0 +1,68 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,6244,Cheer View Investment Limited,AE Polysilicon Corporation,0.3711,美國,0,0,1,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,6244,Power Islands Limited,Cheer View Investment Limited,1,英屬維京群島,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,"Emerging Alliance Fund, L.P.",0.995,開曼群島,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,3443,創意電子股份有限公司,Global Unichip Corp. Europe B.V.,1,荷蘭,0,1,0,0,0,上市,G2330,16299879,NA,NA,NA,NA,NA
+2015,3443,創意電子股份有限公司,Global Unichip Corp.－NA,1,美國,0,1,0,0,0,上市,G2330,16299879,NA,NA,NA,NA,NA
+2015,3443,創意電子股份有限公司,"Global Unichip Japan Co., Ltd.",1,日本,0,1,0,0,0,上市,G2330,16299879,NA,NA,NA,NA,NA
+2015,3443,創意電子股份有限公司,Global Unichip(BVI)Corp.,1,不明,0,1,0,0,0,上市,G2330,16299879,NA,NA,NA,NA,NA
+2015,2330,"VentureTech Alliance Fund III, L.P.",Growth Fund Limited,1,開曼群島,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,3443,創意電子股份有限公司,GUCBVI子公司,1,英屬維京群島,0,0,1,0,0,上市,G2330,16299879,NA,NA,NA,NA,NA
+2015,2330,"TSMC Partners, Ltd.","InveStar Semiconductor Development Fund, Inc.",0.97,開曼群島,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,"TSMC Partners, Ltd.","InveStar Semiconductor Development Fund, Inc.(II) LDC.",0.97,開曼群島,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,6244,"Noble Town Holdings Co., Ltd.",Itogumi Motech Inc.,0.95,日本,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,6244,"Noble Town Holdings Co., Ltd.","Motech Americas, LLC",1,美國,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,6244,Power Islands Limited,"Noble Town Holdings Co., Ltd.",1,薩摩亞,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,6244,茂迪股份有限公司,Power Islands Limited,1,薩摩亞,1,1,0,0,0,上櫃,G2330,20889546,NA,NA,NA,NA,NA
+2015,5347,"Specialty TechFarm, Inc.","SkyTraq Technology, Inc.",0.2563,英屬維京群島,0,0,1,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,5347,VIS Associates Inc.,"Specialty TechFarm, Inc.",1,英屬維京群島,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,SSMC,0.39,新加坡,0,0,1,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,6244,茂迪股份有限公司,Think Global Enterprises Limited,1,英屬維京群島,1,0,1,0,0,上櫃,G2330,20889546,NA,NA,NA,NA,NA
+2015,2330,"TSMC Partners, Ltd.",TSMC Design Technology Canada Inc.,1,加拿大,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,"TSMC Partners, Ltd.","TSMC Development, Inc.",1,美國,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,TSMC Europe B.V.,1,荷蘭,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,TSMC Global Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,TSMC Japan Limited,1,日本,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,TSMC Korea Limited,1,南韓,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,TSMC North America,1,美國,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,"TSMC Partners, Ltd.",1,英屬維京群島,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台積太陽能股份有限公司,TSMC Solar Europe B.V.,0,荷蘭,0,1,0,0,0,上市,G2330,28113217,NA,NA,NA,NA,NA
+2015,2330,TSMC Solar Europe GmbH,TSMC Solar Europe GmbH,0,德國,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,台積太陽能股份有限公司,TSMC Solar Europe GmbH,0,德國,0,0,1,0,0,上市,G2330,28113217,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,TSMC Solar Europe GmbH,1,德國,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台積太陽能股份有限公司,"TSMC Solar North America, Inc.",0,美國,0,1,0,0,0,上市,G2330,28113217,NA,NA,NA,NA,NA
+2015,2330,"TSMC Partners, Ltd.","TSMC Technology, Inc.",1,美國,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,"VentureTech Alliance Fund II, L.P.",0.98,不明,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,"VentureTech Alliance Fund III, L.P.",0.98,開曼群島,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,"Emerging Alliance Fund, L.P.","VentureTech Alliance Holdings, LLC",1,美國,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,"VentureTech Alliance Fund III, L.P.","VentureTech Alliance Holdings, LLC",1,美國,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,5347,世界先進積體電路股份有限公司,VIS Associates Inc.,1,英屬維京群島,0,1,0,0,0,上櫃,G2330,84149358,NA,NA,NA,NA,NA
+2015,5347,VIS Associates Inc.,"VIS Investment Holding, Inc.",1,美國,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,5347,"VIS Investment Holding, Inc.","VIS Micro, Inc.",1,美國,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,"TSMC Partners, Ltd.",VisEra Holding Company,0.98,開曼群島,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,"TSMC Development, Inc.","WaferTech, LLC",1,美國,0,1,0,0,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,世界先進積體電路股份有限公司,0.28,台灣,0,0,1,0,0,上市,G2330,22099131,84149358,NA,NA,NA,NA
+2015,5347,行政院國家發展基金管理會,世界先進積體電路股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2330,NA,84149358,NA,NA,NA,1
+2015,2330,台積光能投資有限公司,台積太陽能股份有限公司,0,台灣,0,0,1,0,0,上市,G2330,53732790,28113217,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,台積太陽能股份有限公司,0,台灣,0,1,0,0,0,上市,G2330,22099131,28113217,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,台積光能投資有限公司,0,台灣,0,1,0,0,0,上市,G2330,22099131,53732790,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,台積固態照明股份有限公司,0,台灣,0,1,0,0,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,台積電(中國)有限公司,1,china,0,1,0,1,0,上市,G2330,22099131,NA,NA,NA,NA,NA
+2015,2330,行政院國家發展基金管理會,台灣積體電路製造股份有限公司,NA,NA,0,0,0,0,1,上市,G2330,NA,22099131,NA,NA,NA,1
+2015,2330,VisEra Holding Company,采鈺科技股份有限公司,0.87,台灣,0,1,0,0,0,上市,G2330,NA,80601119,NA,NA,NA,NA
+2015,2330,"VentureTech Alliance Fund III, L.P.",相豐科技股份有限公司,0.58,台灣,0,1,0,0,0,上市,G2330,NA,28129055,NA,NA,NA,NA
+2015,6244,茂迪(蘇州)新能源有限公司,茂迪(徐州)新能源有限公司,0,china,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,6244,茂迪(蘇州)新能源有限公司,茂迪(馬鞍山)新能源有限公司,0,china,0,1,0,1,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,6244,Power Islands Limited,茂迪(蘇州)新能源有限公司,0.9539,china,0,1,0,1,0,上櫃,G2330,NA,NA,NA,NA,NA,NA
+2015,2330,台積太陽能股份有限公司,茂迪股份有限公司,0,台灣,0,0,1,0,0,上市,G2330,28113217,20889546,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,茂迪股份有限公司,0.12,台灣,0,0,1,0,0,上市,G2330,22099131,20889546,NA,NA,NA,NA
+2015,6244,聯電新投資事業股份有限公司,茂迪股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2330,28982926,20889546,NA,NA,NA,1
+2015,5347,世界先進積體電路股份有限公司,益芯科技股份有限公司,0.2494,台灣,0,0,1,0,0,上櫃,G2330,84149358,12933631,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,創意電子股份有限公司,0.35,台灣,0,0,1,0,0,上市,G2330,22099131,16299879,NA,NA,NA,NA
+2015,3443,創一投資股份有限公司,創意電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2330,28711500,16299879,NA,NA,NA,NA
+2015,2330,VisEra Holding Company,精材科技股份有限公司,0.06,台灣,0,0,1,0,0,上市,G2330,NA,16741846,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,精材科技股份有限公司,0.35,台灣,0,0,1,0,0,上市,G2330,22099131,16741846,NA,NA,NA,NA
+2015,6244,茂迪股份有限公司,廣閎科技股份有限公司,0.2438,台灣,1,0,1,0,0,上櫃,G2330,20889546,28870892,NA,NA,NA,NA
+2015,2330,台灣積體電路製造股份有限公司,積成投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2330,22099131,28796726,NA,NA,NA,NA
+2015,3443,Global Unichip(BVI)Corp.,積優芯電子科技(上海)有限公司,1,china,0,1,0,1,0,上市,G2330,NA,NA,NA,NA,NA,NA
+2015,6244,Power Islands Limited,蘇州茂迪電子有限公司,0,不明,0,1,0,0,0,上櫃,G2330,NA,NA,NA,NA,NA,NA

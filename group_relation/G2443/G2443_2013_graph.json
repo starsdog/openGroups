@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "昶隆電子股份有限公司", "no_holder": false, "taxcode": "23181849"}, {"is_core": true, "source": [{"holder": "NA", "name": "昶隆電子股份有限公司"}], "name": "新利虹科技股份有限公司", "no_holder": false, "taxcode": "97165506"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

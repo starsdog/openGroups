@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,6563,映智科技股份有限公司,COH CORPORATION,1,薩摩亞,0,1,0,0,0,公開發行,G6563,53495662,NA,NA,NA,NA,NA
+2015,6563,惠鼎投資有限公司,映智科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G6563,54532840,53495662,NA,NA,NA,NA
+2015,6563,世界先進積體電路股份有限公司,映智科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G6563,84149358,53495662,NA,NA,NA,1
+2015,6563,FREEDOM CORPORATION,映智科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G6563,NA,53495662,NA,NA,NA,NA
+2015,6563,三寶投資股份有限公司,映智科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G6563,89534350,53495662,NA,NA,NA,NA

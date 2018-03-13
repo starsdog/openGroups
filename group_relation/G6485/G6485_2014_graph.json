@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "點序科技股份有限公司", "no_holder": false, "taxcode": "28927852"}, {"is_core": false, "source": [{"holder": "0.3258", "name": "點序科技股份有限公司"}], "name": "博惟半導體股份有限公司", "no_holder": false, "taxcode": "54716256"}], "links": [{"target": 1, "holder": "32.580000", "source": 0}], "y": "2014"}

@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3450,"GEM Services, Inc.",GEM Electronics Company Limited,1,英屬維京群島,0,1,0,0,0,上市,G3450,NA,NA,NA,NA,NA,NA
+2016,3450,"GEM Services, Inc.","GEM Services USA, Inc.",0,美國,0,1,0,0,0,上市,G3450,NA,NA,NA,NA,NA,NA
+2016,3450,聯鈞光電股份有限公司,"GEM Services, Inc.",0.4896,開曼群島,1,1,0,0,0,上市,G3450,12624467,NA,NA,NA,NA,NA
+2016,3450,"GEM Services, Inc.",GEM Tech Ltd.,1,薩摩亞,0,1,0,0,0,上市,G3450,NA,NA,NA,NA,NA,NA
+2016,3450,"GEM Services, Inc.",GEM Technologies Hong Kong Limited,1,香港,0,1,0,0,0,上市,G3450,NA,NA,NA,NA,NA,NA
+2016,3450,再投資大陸公司,三菱電機捷敏功率半導體(合肥)有限公司,0.0979,china,0,0,0,1,0,上市,G3450,NA,NA,1,NA,NA,NA
+2016,3450,聯鈞光電股份有限公司,合鈞科技股份有限公司,0.6828,台灣,1,1,0,0,0,上市,G3450,12624467,53433391,NA,NA,NA,NA
+2016,3450,"GEM Services, Inc.",迪諾電子製造股份有限公司,1,英屬維京群島,0,1,0,0,0,上市,G3450,NA,NA,NA,NA,NA,NA
+2016,3450,迪諾電子製造股份有限公司,捷敏半導體股份有限公司,1,台灣,0,1,0,0,0,上市,G3450,NA,70848330,NA,NA,NA,NA
+2016,6525,聯鈞光電股份有限公司,捷敏股份有限公司,NA,NA,0,0,0,0,1,上市,G3450,12624467,NA,NA,NA,NA,NA
+2016,6525,GEM Electronics Company Limited,捷敏電子(上海)有限公司,1,china,0,1,0,1,0,上市,G3450,NA,NA,NA,NA,NA,NA
+2016,3450,捷敏電子(上海)有限公司,捷敏電子(合肥)有限公司,1,china,0,1,0,1,0,上市,G3450,NA,NA,NA,NA,NA,NA
+2016,3450,"GEM Services, Inc.",捷敏電子香港有限公司,0,香港,0,1,0,0,0,上市,G3450,NA,NA,NA,NA,NA,NA

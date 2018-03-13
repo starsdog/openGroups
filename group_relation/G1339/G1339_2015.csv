@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1339,禾翰投資股份有限公司,昭輝實業股份有限公司,NA,NA,0,0,0,0,1,上市,G1339,24274182,22078327,NA,NA,NA,NA
+2015,1339,昊群投資開發有限公司,昭輝實業股份有限公司,NA,NA,0,0,0,0,1,上市,G1339,54099079,22078327,NA,NA,NA,NA
+2015,1339,儒翰投資有限公司,昭輝實業股份有限公司,NA,NA,0,0,0,0,1,上市,G1339,80616197,22078327,NA,NA,NA,NA
+2015,1339,松群投資開發有限公司,昭輝實業股份有限公司,NA,NA,0,0,0,0,1,上市,G1339,54097369,22078327,NA,NA,NA,NA
+2015,1339,華元控股有限公司,常熟冠林汽車飾件有限公司,1,china,0,1,0,1,0,上市,G1339,NA,NA,NA,NA,NA,NA
+2015,1339,騰輝控股有限公司,華元控股有限公司,0.7747,薩摩亞,0,1,0,0,0,上市,G1339,NA,NA,NA,NA,NA,NA
+2015,1339,華元控股有限公司,遼寧冠林汽車零部件有限公司,0.7299,china,0,1,0,1,0,上市,G1339,NA,NA,NA,NA,NA,NA
+2015,1339,昭輝實業股份有限公司,優能富創股份有限公司,1,台灣,1,1,0,0,0,上市,G1339,22078327,42590041,NA,NA,NA,NA
+2015,1339,昭輝實業股份有限公司,騰輝控股有限公司,1,薩摩亞,1,1,0,0,0,上市,G1339,22078327,NA,NA,NA,NA,NA

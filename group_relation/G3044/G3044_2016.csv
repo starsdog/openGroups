@@ -1,0 +1,20 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3044,"J&J Holding Co., Ltd.",Able International Limited,1,薩摩亞,0,1,0,0,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,健鼎科技股份有限公司,"J&J Holding Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上市,G3044,86379707,NA,NA,NA,NA,NA
+2016,3044,"Tripod Overseas Co., Ltd.",Tripod Global Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,"Tripod Overseas Co., Ltd.",Tripod International Holding Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,"J&J Holding Co., Ltd.","Tripod Overseas Co., Ltd.",1,英屬維京群島,0,1,0,0,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,"Tripod Overseas Co., Ltd.",Tripod Worldwide Holding Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,健鼎科技股份有限公司,Trison International (HK) Limited,0,香港,1,1,0,0,0,上市,G3044,86379707,NA,NA,NA,NA,NA
+2016,3044,健鼎科技股份有限公司,Trison Technology (HK) Limited,1,香港,1,1,0,0,0,上市,G3044,86379707,NA,NA,NA,NA,NA
+2016,3044,健鼎(湖北)電子有限公司,健鼎(仙桃)置業有限公司,1,china,0,1,0,1,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,Tripod Worldwide Holding Pte. Ltd.,健鼎(湖北)電子有限公司,1,china,0,1,0,1,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,Tripod International Holding Pte. Ltd.,健鼎(無錫)電子有限公司,1,china,0,1,0,1,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,永安投資有限公司,健鼎科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3044,53819825,86379707,NA,NA,NA,NA
+2016,3044,允杰投資有限公司,健鼎科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3044,53819727,86379707,NA,NA,NA,NA
+2016,3044,青山國際投資有限公司,健鼎科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3044,27305666,86379707,NA,NA,NA,NA
+2016,3044,兆盛投資有限公司,健鼎科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3044,28003725,86379707,NA,NA,NA,NA
+2016,3044,健鼎科技股份有限公司,達鼎科技股份有限公司,1,台灣,1,1,0,0,0,上市,G3044,86379707,69470110,NA,NA,NA,NA
+2016,3044,Trison International (HK) Limited,鼎群(無錫)貿易有限公司,0,china,0,1,0,1,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,Tripod International Holding Pte. Ltd.,嘉興匯寶電子有限公司,0.706,china,0,1,0,1,0,上市,G3044,NA,NA,NA,NA,NA,NA
+2016,3044,健鼎(無錫)電子有限公司,嘉興匯寶電子有限公司,0.294,不明,0,1,0,0,0,上市,G3044,NA,NA,NA,NA,NA,NA

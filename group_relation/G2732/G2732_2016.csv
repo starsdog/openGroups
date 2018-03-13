@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2732,Chatime HK Ltd.,Chatime Japan,0.98,日本,0,0,1,0,0,上櫃,G2732,NA,NA,NA,NA,NA,NA
+2016,2732,六角國際事業股份有限公司,"Bake Code USA, LLC",1,美國,1,1,0,0,0,上櫃,G2732,80671769,NA,NA,NA,NA,NA
+2016,2732,六角國際事業股份有限公司,"Chatime Co.,Ltd.",0.49,南韓,1,0,1,0,0,上櫃,G2732,80671769,NA,NA,NA,NA,NA
+2016,2732,六角國際事業股份有限公司,Chatime Franchising Pty. Ltd.,0,澳大利亞,1,0,1,0,0,上櫃,G2732,80671769,NA,NA,NA,NA,NA
+2016,2732,Infinite Plus Pty. Ltd.,Chatime Franchising Pty. Ltd.,1,澳大利亞,0,0,1,0,0,上櫃,G2732,NA,NA,NA,NA,NA,NA
+2016,2732,六角國際事業股份有限公司,Chatime HK Ltd.,1,香港,1,0,1,0,0,上櫃,G2732,80671769,NA,NA,NA,NA,NA
+2016,2732,六角國際事業股份有限公司,"Chatime USA, LLC",1,美國,1,1,0,0,0,上櫃,G2732,80671769,NA,NA,NA,NA,NA
+2016,2732,六角國際事業股份有限公司,Infinite Plus Pty. Ltd.,0.55,澳大利亞,1,0,1,0,0,上櫃,G2732,80671769,NA,NA,NA,NA,NA
+2016,2732,Infinite Plus Pty. Ltd.,International Allied Enterprises Pty Ltd.,0,澳大利亞,0,0,1,0,0,上櫃,G2732,NA,NA,NA,NA,NA,NA
+2016,2732,亨泰國際投資控股有限公司,六角國際事業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2732,NA,80671769,NA,NA,NA,NA
+2016,2732,澳大利亞商CHARLLEY INVESTMENTS PTY. LTD,六角國際事業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2732,NA,80671769,NA,NA,NA,NA
+2016,2732,六角國際事業股份有限公司,天裕國際貿易有限公司,0.25,香港,1,0,1,0,0,上櫃,G2732,80671769,NA,NA,NA,NA,NA
+2016,2732,再投資大陸公司,日太餐飲管理(上海)有限公司,0.25,china,0,0,0,1,0,上櫃,G2732,NA,NA,1,NA,NA,NA
+2016,2732,再投資大陸公司,日賀(上海)貿易有限公司,0.25,china,0,0,0,1,0,上櫃,G2732,NA,NA,1,NA,NA,NA
+2016,2732,六角國際事業股份有限公司,王座國際餐飲股份有限公司,1,台灣,1,1,0,0,0,上櫃,G2732,80671769,42756204,NA,NA,NA,NA

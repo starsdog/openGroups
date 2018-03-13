@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4712,Wealth Motivator Limited,Tunlok International Limited,1,香港,0,1,0,0,0,上櫃,G4712,NA,NA,NA,NA,NA,NA
+2016,4712,力鋒股份有限公司,Wealth Motivator Limited,0.5829,薩摩亞,0,1,0,0,0,上櫃,G4712,NA,NA,NA,NA,NA,NA
+2016,4712,南璋股份有限公司,力鋒股份有限公司,1,薩摩亞,1,1,0,0,0,上櫃,G4712,43696296,NA,NA,NA,NA,NA
+2016,4712,南璋股份有限公司,南璋化工實業有限公司,0,香港,1,1,0,0,0,上櫃,G4712,43696296,NA,NA,NA,NA,NA
+2016,4712,旭光照明股份有限公司,南璋股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4712,22765893,43696296,NA,NA,NA,NA
+2016,4712,圓滿和融股份有限公司,南璋股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4712,24460910,43696296,NA,NA,NA,NA
+2016,4712,沅寶投資股份有限公司,南璋股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4712,28001162,43696296,NA,NA,NA,NA
+2016,4712,南璋股份有限公司,派恩菲生技國際股份有限公司,1,台灣,1,1,0,0,0,上櫃,G4712,43696296,54188038,NA,NA,NA,NA
+2016,4712,Tunlok International Limited,唐山東盟萬泓實業有限公司,1,china,0,1,0,1,0,上櫃,G4712,NA,NA,NA,NA,NA,NA
+2016,4712,再投資大陸公司,深圳萬耀貿易有限公司,0,china,0,0,0,1,0,上櫃,G4712,NA,NA,7,NA,NA,NA
+2016,4712,南璋股份有限公司,聚富有限公司,1,薩摩亞,1,1,0,0,0,上櫃,G4712,43696296,NA,NA,NA,NA,NA
+2016,4712,再投資大陸公司,廣東中汕水產品進出口貿易有限公司,0,china,0,0,0,1,0,上櫃,G4712,NA,NA,7,NA,NA,NA
+2016,4712,南璋股份有限公司,澳邦移民顧問有限公司,1,台灣,1,1,0,0,0,上櫃,G4712,43696296,42847628,NA,NA,NA,NA

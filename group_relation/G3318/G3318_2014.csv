@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3318,HOKUANG OPTICS (BVI) LTD.,HOKUANG INVESTMENT (BVI) LTD.,1,英屬維京群島,0,1,0,0,0,興櫃,G3318,NA,NA,NA,NA,NA,NA
+2014,3318,和光光學股份有限公司,HOKUANG OPTICS (BVI) LTD.,1,英屬維京群島,1,1,0,0,0,興櫃,G3318,NA,NA,NA,NA,NA,NA
+2014,3318,HOKUANG INVESTMENT (BVI) LTD.,和光光學(蘇州)有限公司,1,china,0,1,0,1,0,興櫃,G3318,NA,NA,NA,NA,NA,NA
+2014,3318,HOKUANG INVESTMENT (BVI) LTD.,東莞宏光光學製品有限公司,1,china,0,1,0,1,0,興櫃,G3318,NA,NA,NA,NA,NA,NA

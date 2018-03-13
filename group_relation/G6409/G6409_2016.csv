@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6409,旭隼科技股份有限公司,Voltronic International Corp.,1,安奎拉,1,1,0,0,0,上市,G6409,28865032,NA,NA,NA,NA,NA
+2016,6409,Voltronic International Corp.,九川源國際股份有限公司,1,香港,0,1,0,0,0,上市,G6409,NA,NA,NA,NA,NA,NA
+2016,6409,九川源國際股份有限公司,中山旭貴明電子有限公司,1,china,0,1,0,1,0,上市,G6409,NA,NA,NA,NA,NA,NA
+2016,6409,九川源國際股份有限公司,日月元科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G6409,NA,NA,NA,NA,NA,NA
+2016,6409,開宏國際投資有限公司,旭隼科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6409,28474871,28865032,NA,NA,NA,NA
+2016,6409,全漢企業股份有限公司,旭隼科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6409,84239055,28865032,NA,NA,NA,NA
+2016,6409,義大利商RPS S.P.A,旭隼科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6409,NA,28865032,NA,NA,NA,NA
+2016,6409,九川源國際股份有限公司,芝安科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G6409,NA,NA,NA,NA,NA,NA
+2016,6409,Voltronic International Corp.,華隼股份有限公司,1,香港,0,1,0,0,0,上市,G6409,NA,NA,NA,NA,NA,NA

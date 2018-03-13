@@ -1,0 +1,19 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2413,"UMEC Investment (B.V.I.) Co., Ltd.",Global Development Company Ltd.,1,開曼群島,0,0,1,0,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,"UMEC Investment (B.V.I.) Co., Ltd.",UMEC (H.K.) Company Ltd.,1,china,0,1,0,1,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,環隆科技股份有限公司,"UMEC Investment (B.V.I.) Co., Ltd.",1,英屬維京群島,1,0,1,0,0,上市,G2413,52878846,NA,NA,NA,NA,NA
+2016,2413,環隆科技股份有限公司,"UMEC Investment Co., Ltd.",1,不明,1,1,0,0,0,上市,G2413,52878846,NA,NA,NA,NA,NA
+2016,2413,Global Development Company Ltd.,"UMEC JAPAN CO., LTD.",1,日本,0,1,0,0,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,Global Development Co. Ltd,"UMEC JAPAN CO., LTD.",1,日本,0,0,1,0,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,"UMEC Investment (B.V.I.) Co., Ltd.","UMEC USA, Inc.",0.9999,美國,0,0,1,0,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,Global Development Company Ltd.,仁隆電子(梅州)有限公司,1,china,0,1,0,1,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,環隆科技股份有限公司,天隆投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2413,52878846,80465233,NA,NA,NA,NA
+2016,2413,環隆科技股份有限公司,協創系統科技股份有限公司,0.2,台灣,1,0,1,0,0,上市,G2413,52878846,66334871,NA,NA,NA,NA
+2016,2413,Global Development Company Ltd.,協隆電子科技(安徽)有限公司,1,china,0,1,0,1,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,環隆科技股份有限公司,華雷科技股份有限公司,0.8102,台灣,1,1,0,0,0,上市,G2413,52878846,28512452,NA,NA,NA,NA
+2016,2413,天隆投資股份有限公司,華雷科技股份有限公司,0.1302,台灣,0,1,0,0,0,上市,G2413,80465233,28512452,NA,NA,NA,NA
+2016,2413,Global Development Company Ltd.,嘉隆科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,Global Development Company Ltd.,福隆電子(龍岩)有限公司,1,china,0,1,0,1,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,Global Development Company Ltd.,環隆科技(越南)責任有限公司,1,不明,0,1,0,0,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,Global Development Co. Ltd,環隆科技越南有限公司,1,越南,0,0,1,0,0,上市,G2413,NA,NA,NA,NA,NA,NA
+2016,2413,天隆投資股份有限公司,聯耀科技股份有限公司,0.3355,台灣,0,0,1,0,0,上市,G2413,80465233,16139445,NA,NA,NA,NA

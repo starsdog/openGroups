@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4931,STL Investment Ltd.,STL Corp.,1,馬來西亞,0,1,0,0,0,興櫃,G4931,NA,NA,NA,NA,NA,NA
+2016,4931,STL Corp.,STL Energy Technology (S) Pte. Ltd.,1,新加坡,0,0,1,0,0,興櫃,G4931,NA,NA,NA,NA,NA,NA
+2016,4931,新盛力科技股份有限公司,STL Investment Ltd.,1,薩摩亞,1,1,0,0,0,興櫃,G4931,70848850,NA,NA,NA,NA,NA
+2016,4931,STL Corp.,新盛力科技(蘇州工業園區)有限公司,1,china,0,1,0,1,0,興櫃,G4931,NA,NA,NA,NA,NA,NA
+2016,4931,金山電化工業(香港)有限公,新盛力科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4931,NA,70848850,NA,NA,NA,NA
+2016,4931,中華開發創業投資股份有限公司,新盛力科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4931,80328870,70848850,NA,NA,NA,NA

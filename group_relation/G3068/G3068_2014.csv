@@ -1,0 +1,30 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3068,美磊科技股份有限公司,Mag Layers (Hong Kong) Ltd.,1,香港,1,1,0,0,0,上櫃,G3068,23691266,NA,NA,NA,NA,NA
+2014,3068,美磊科技股份有限公司,"Mag Layers International Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上櫃,G3068,23691266,NA,NA,NA,NA,NA
+2014,3068,天騰工業股份有限公司,美磊科技股份有限公司,0.1655,NA,0,0,0,0,1,上櫃,G3068,12302156,23691266,NA,NA,NA,NA
+2014,3068,松木實業股份有限公司,美磊科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3068,50532827,23691266,NA,NA,NA,NA
+2014,3068,福村建設股份有限公司,美磊科技股份有限公司,0.0355,NA,0,0,0,0,1,上櫃,G3068,86687606,23691266,NA,NA,NA,NA
+2014,3068,"Mag Layers International Co., Ltd.",美磊電子科技(昆山)有限公司,1,china,0,1,0,1,0,上櫃,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ Holding,Eagle Great,1,英屬維京群島,0,1,0,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ Holding,ESIC,1,英屬維京群島,0,1,0,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ Holding,IIL,1,薩摩亞,0,1,0,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ Holding,IPL,1,薩摩亞,0,1,0,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ International,ITEQ Holding,1,開曼群島,0,1,0,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,聯茂電子股份有限公司,ITEQ International,1,薩摩亞,1,1,0,0,0,上市,G3068,97179403,NA,NA,NA,NA,NA
+2014,6213,ITEQ Holding,ITEQ(HK),1,香港,0,0,1,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ Holding,ITL,1,英屬維京群島,0,1,0,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ Holding,Mega Crown,1,薩摩亞,0,1,0,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ Holding,Shining Era,1,薩摩亞,0,1,0,0,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ(HK),仙桃聯茂公司,1,china,0,1,0,1,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,聯茂電子股份有限公司,邦茂投資股份有限公司,1,台灣,1,1,0,0,0,上市,G3068,97179403,16329374,NA,NA,NA,NA
+2014,6213,ESIC,東莞聯茂公司,1,china,0,1,0,1,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,Eagle Great,茂成科技公司,1,china,0,1,0,1,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,ITEQ(HK),無錫聯茂公司,1,china,0,1,0,1,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,邦茂投資股份有限公司,鼎茂光電股份有限公司,0.26,台灣,0,0,1,0,0,上市,G3068,16329374,54156182,NA,NA,NA,NA
+2014,6213,ITEQ(HK),廣州聯茂公司,1,china,0,1,0,1,0,上市,G3068,NA,NA,NA,NA,NA,NA
+2014,6213,福村建設股份有限公司,聯茂電子股份有限公司,NA,NA,0,0,0,0,1,上市,G3068,86687606,97179403,NA,NA,NA,NA
+2014,6213,正文科技股份有限公司,聯茂電子股份有限公司,NA,NA,0,0,0,0,1,上市,G3068,22960571,97179403,NA,NA,NA,NA
+2014,6213,仕野股份有限公司,聯茂電子股份有限公司,NA,NA,0,0,0,0,1,上市,G3068,22358381,97179403,NA,NA,NA,NA
+2014,3068,正文科技股份有限公司,美磊科技股份有限公司,0.0355,NA,0,0,0,0,1,上櫃,G3068,22960571,23691266,NA,NA,NA,NA
+2014,6213,美磊科技股份有限公司,聯茂電子股份有限公司,0.0481,NA,0,0,0,0,1,上市,G3068,23691266,97179403,NA,NA,NA,NA
+2014,6213,天騰工業股份有限公司,聯茂電子股份有限公司,0.095,NA,0,0,0,0,1,上市,G3068,12302156,97179403,NA,NA,NA,NA

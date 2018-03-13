@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "鈺曜投資股份有限公司", "no_holder": false, "taxcode": "16556320"}, {"is_core": true, "source": [{"holder": "NA", "name": "鈺曜投資股份有限公司"}], "name": "鈺通營造工程股份有限公司", "no_holder": false, "taxcode": "22298292"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

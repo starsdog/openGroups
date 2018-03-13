@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6462,神盾股份有限公司,Egis Inc.(Cayman Islands),1,開曼群島,1,1,0,0,0,上櫃,G6462,28835517,NA,NA,NA,NA,NA
+2016,6462,神盾股份有限公司,Egis Tec USA Inc.,1,美國,1,1,0,0,0,上櫃,G6462,28835517,NA,NA,NA,NA,NA
+2016,6462,神盾股份有限公司,Egis Technology (Japan) Inc.,1,日本,1,1,0,0,0,上櫃,G6462,28835517,NA,NA,NA,NA,NA
+2016,6462,HEADWAY CAPITAL LIMITED,神盾股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6462,NA,28835517,NA,NA,NA,NA

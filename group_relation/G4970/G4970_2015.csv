@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,4970,"SAN JOSE TECHNOLOGY, INC",SAN JOSE TECHNOLOGY LIMITED,1,香港,0,0,1,0,0,公開發行,G4970,NA,NA,NA,NA,NA,NA
+2015,4970,新禾航電股份有限公司,"SAN JOSE TECHNOLOGY, INC",1,薩摩亞,1,1,0,0,0,公開發行,G4970,89494553,NA,NA,NA,NA,NA
+2015,4970,明高投資有限公司,新禾航電股份有限公司,NA,NA,0,0,0,0,1,公開發行,G4970,29177189,89494553,NA,NA,NA,NA
+2015,4970,SAN JOSE TECHNOLOGY LIMITED,蘇州新禾航電商貿有限公司,1,china,0,1,0,1,0,公開發行,G4970,NA,NA,NA,NA,NA,NA

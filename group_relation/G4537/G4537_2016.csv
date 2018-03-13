@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4537,Bouncy Development Group Inc.,"Asia Great International Co., Ltd.",0.51,英屬維京群島,0,0,1,0,0,興櫃,G4537,NA,NA,NA,NA,NA,NA
+2016,4537,"Shuz Tung Machinery Industrial Co., Ltd.","Asia Great International Co., Ltd.",0.49,英屬維京群島,0,0,1,0,0,興櫃,G4537,NA,NA,NA,NA,NA,NA
+2016,4537,旭東機械工業股份有限公司,Bouncy Development Group Inc.,1,薩摩亞,1,1,0,0,0,興櫃,G4537,56690647,NA,NA,NA,NA,NA
+2016,4537,旭東機械工業股份有限公司,LDI Systems B.V.,0.3,荷蘭,1,0,1,0,0,興櫃,G4537,56690647,NA,NA,NA,NA,NA
+2016,4537,Bouncy Development Group Inc.,"Shuz Tung Machinery Industrial Co., Ltd.",1,聖文森島,0,0,1,0,0,興櫃,G4537,NA,NA,NA,NA,NA,NA
+2016,4537,"Asia Great International Co., Ltd.",旭東機械(昆山)有限公司,1,china,0,1,0,1,0,興櫃,G4537,NA,NA,NA,NA,NA,NA
+2016,4537,旭東機械工業股份有限公司,昆山鉅東光電設備有限公司,0.49,china,1,1,0,1,0,興櫃,G4537,56690647,NA,NA,NA,NA,NA
+2016,4537,旭東機械(昆山)有限公司,昆山鉅東光電設備有限公司,0.51,china,0,1,0,0,0,興櫃,G4537,NA,NA,NA,NA,NA,NA
+2016,4537,"Asia Great International Co., Ltd.",耀東機械(天津)有限公司,1,china,0,1,0,1,0,興櫃,G4537,NA,NA,NA,NA,NA,NA

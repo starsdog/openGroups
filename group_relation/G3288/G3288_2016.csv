@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3288,點晶(開曼)公司,iTouch(開曼)公司,1,開曼群島,0,1,0,0,0,上櫃,G3288,NA,NA,NA,NA,NA,NA
+2016,3288,點晶(薩摩亞)公司,廈門科技(廈門)有限公司,1,china,0,1,0,1,0,上櫃,G3288,NA,NA,NA,NA,NA,NA
+2016,3288,點晶(開曼)公司,聚晶光電股份有限公司,0.93,台灣,0,1,0,0,0,上櫃,G3288,NA,28793565,NA,NA,NA,NA
+2016,3288,點晶科技股份有限公司,點晶(開曼)公司,1,開曼群島,0,1,0,0,0,上櫃,G3288,97334073,NA,NA,NA,NA,NA
+2016,3288,點晶(開曼)公司,點晶(薩摩亞)公司,1,薩摩亞,0,1,0,0,0,上櫃,G3288,NA,NA,NA,NA,NA,NA
+2016,3288,金紀元商貿有限公司,點晶科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3288,28759476,97334073,NA,NA,NA,NA
+2016,3288,iTouch(開曼)公司,點睛媒體股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3288,NA,29033655,NA,NA,NA,NA
+2016,3288,點晶(薩摩亞)公司,瀚晶科技(廈門)有限公司,1,china,0,1,0,1,0,上櫃,G3288,NA,NA,NA,NA,NA,NA

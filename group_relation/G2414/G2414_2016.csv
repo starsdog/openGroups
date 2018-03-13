@@ -1,0 +1,21 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2414,Unitech Europe Holding Inc.,Unique Technology Europe B.V.,1,荷蘭,0,0,1,0,0,上市,G2414,NA,NA,NA,NA,NA,NA
+2016,2414,Unitech America Ventures Inc.,Unitech America Holding Inc.,1,英屬維京群島,0,0,1,0,0,上市,G2414,NA,NA,NA,NA,NA,NA
+2016,2414,Unitech America Holding Inc.,Unitech America Inc.,1,美國,0,0,1,0,0,上市,G2414,NA,NA,NA,NA,NA,NA
+2016,2414,精聯電子股份有限公司,Unitech America Ventures Inc.,1,英屬維京群島,0,0,1,0,0,上市,G2414,28913512,NA,NA,NA,NA,NA
+2016,2414,精聯電子股份有限公司,Unitech Asia Ventures Inc.,1,英屬維京群島,0,1,0,0,0,上市,G2414,28913512,NA,NA,NA,NA,NA
+2016,2414,Unitech Europe Ventures Inc.,Unitech Europe Holding Inc.,1,英屬維京群島,0,0,1,0,0,上市,G2414,NA,NA,NA,NA,NA,NA
+2016,2414,精聯電子股份有限公司,Unitech Europe Ventures Inc.,1,英屬維京群島,0,1,0,0,0,上市,G2414,28913512,NA,NA,NA,NA,NA
+2016,2414,Unitech Asia Ventures Inc.,Unitech Industries Holding Inc.,1,英屬維京群島,0,0,1,0,0,上市,G2414,NA,NA,NA,NA,NA,NA
+2016,2414,Unitech Japan HoldingInc.,"Unitech Japan Co., Ltd.",0.8557,日本,0,0,1,0,0,上市,G2414,NA,NA,NA,NA,NA,NA
+2016,2414,精聯電子股份有限公司,Unitech Japan Holding Inc.,1,英屬維京群島,0,0,1,0,0,上市,G2414,28913512,NA,NA,NA,NA,NA
+2016,2414,Unitech Industries Holding Inc.,上海精際國際貿易有限公司,0,不明,0,1,0,0,0,上市,G2414,NA,NA,NA,NA,NA,NA
+2016,2414,Unitech Industries Holding Inc.,廈門精瑞電腦有限公司,1,china,0,1,0,1,0,上市,G2414,NA,NA,NA,NA,NA,NA
+2016,2414,精聯電子股份有限公司,達碩智慧科技股份有限公司,1,台灣,0,1,0,0,0,上市,G2414,28913512,46054605,NA,NA,NA,NA
+2016,2414,富榮國際投資股份有限公司,精技電腦股份有限公司,NA,NA,0,0,0,0,1,上市,G2414,24934071,12215548,NA,NA,NA,NA
+2016,2414,德桃創業投資股份有限公司,精技電腦股份有限公司,NA,NA,0,0,0,0,1,上市,G2414,70756486,12215548,NA,NA,NA,NA
+2016,2414,闊德工業股份有限公司,精技電腦股份有限公司,NA,NA,0,0,0,0,1,上市,G2414,23379791,12215548,NA,NA,NA,NA
+2016,2414,精技電腦股份有限公司,精豪電腦股份有限公司,1,台灣,1,1,0,0,0,上市,G2414,12215548,16322273,NA,NA,NA,NA
+2016,2414,精技電腦股份有限公司,精聯電子股份有限公司,0.5821,台灣,1,1,0,0,0,上市,G2414,12215548,28913512,NA,NA,NA,NA
+2016,3652,Unitech Japan Holding Inc.,"Unitech Japan Co., Ltd.",0.8557,日本,0,1,0,0,0,上櫃,G2414,NA,NA,NA,NA,NA,NA
+2016,3652,闊德工業股份有限公司,精聯電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2414,23379791,28913512,NA,NA,NA,NA

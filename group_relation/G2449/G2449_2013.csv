@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2449,京元電子股份有限公司,"KYEC Investment International Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上市,G2449,22507241,NA,NA,NA,NA,NA
+2013,2449,京元電子股份有限公司,KYEC Japan. K.K.,0.8983,日本,1,0,1,0,0,上市,G2449,22507241,NA,NA,NA,NA,NA
+2013,2449,"KYEC Investment International Co., Ltd.","KYEC Microelectronics Co., Ltd.",0.9289,開曼群島,0,1,0,0,0,上市,G2449,NA,NA,NA,NA,NA,NA
+2013,2449,"KYEC Technology Management Co., Ltd.","KYEC Microelectronics Co., Ltd.",0.0711,開曼群島,0,1,0,0,0,上市,G2449,NA,NA,NA,NA,NA,NA
+2013,2449,京元電子股份有限公司,KYEC SINGAPORE PTE. LTD.,1,新加坡,1,1,0,0,0,上市,G2449,22507241,NA,NA,NA,NA,NA
+2013,2449,京元電子股份有限公司,"KYEC Technology Management Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G2449,22507241,NA,NA,NA,NA,NA
+2013,2449,京元電子股份有限公司,KYEC USA Corp.,1,美國,1,1,0,0,0,上市,G2449,22507241,NA,NA,NA,NA,NA
+2013,2449,"KYEC Investment International Co., Ltd.","Sino-Tech Investment Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G2449,NA,NA,NA,NA,NA,NA
+2013,2449,"KYEC Investment International Co., Ltd.",Strong Outlook Investment Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G2449,NA,NA,NA,NA,NA,NA
+2013,2449,京元電子股份有限公司,好修科技股份有限公司,0.3889,台灣,1,0,1,0,0,上市,G2449,22507241,53066347,NA,NA,NA,NA
+2013,2449,中華開發工業銀行股份有限公司,京元電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2449,11147207,22507241,NA,NA,NA,1
+2013,2449,"KYEC Microelectronics Co., Ltd.",京隆科技(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2449,NA,NA,NA,NA,NA,NA
+2013,2449,京元電子股份有限公司,東琳精密股份有限公司,0.3649,台灣,1,0,1,0,0,上市,G2449,22507241,28404334,NA,NA,NA,NA
+2013,2449,"Sino-Tech Investment Co., Ltd.",蘇州震坤科技有限公司,0.5916,china,0,1,0,1,0,上市,G2449,NA,NA,NA,NA,NA,NA
+2013,2449,Strong Outlook Investment Ltd.,蘇州震坤科技有限公司,0.4084,不明,0,1,0,0,0,上市,G2449,NA,NA,NA,NA,NA,NA

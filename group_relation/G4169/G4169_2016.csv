@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4169,啟航創業投資股份有限公司,泰宗生物科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4169,27252844,16307131,NA,NA,NA,NA
+2016,4169,Green Parter Investments Limited,泰宗生物科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4169,NA,16307131,NA,NA,NA,NA
+2016,4169,薩摩亞TOTAL TECH LTD.,泰宗醫藥科技(蘇州工業園區)有限公司,1,china,0,1,0,0,0,興櫃,G4169,NA,NA,NA,NA,NA,NA
+2016,4169,泰宗生物科技股份有限公司,薩摩亞TOTAL TECH LTD.,1,薩摩亞,1,1,0,0,0,興櫃,G4169,16307131,NA,NA,NA,NA,NA

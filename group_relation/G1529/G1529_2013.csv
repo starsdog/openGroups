@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1529,樂士股份有限公司,鈞鴻電機股份有限公司,0.25,台灣,1,0,1,0,0,上市,G1529,34211074,53044317,NA,NA,NA,NA
+2013,1529,群家投資股份有限公司,樂士股份有限公司,NA,NA,0,0,0,0,1,上市,G1529,53931088,34211074,NA,NA,NA,NA
+2013,1529,群捷投資股份有限公司,樂士股份有限公司,NA,NA,0,0,0,0,1,上市,G1529,54329403,34211074,NA,NA,NA,NA
+2013,1529,詠興投資有限公司,樂士股份有限公司,NA,NA,0,0,0,0,1,上市,G1529,28966236,34211074,NA,NA,NA,NA
+2013,1529,樂士股份有限公司,樂華投資股份有限公司,1,台灣,1,1,0,0,0,上市,G1529,34211074,16779498,NA,NA,NA,NA
+2013,1529,樂士股份有限公司,樂豐能源科技股份有限公司,0.25,台灣,1,0,1,0,0,上市,G1529,34211074,24413494,NA,NA,NA,NA

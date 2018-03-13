@@ -1,0 +1,25 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3060,銘異科技股份有限公司,"Good Master Holding Co., Ltd.",1,開曼群島,1,1,0,0,0,上市,G3060,30897480,NA,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,MAP Tech.,0.466,新加坡,1,0,1,0,0,上市,G3060,30897480,NA,NA,NA,NA,NA
+2014,3060,"Synergy Technology Industrial Co., Ltd.",MATC Technology (M) Sdn. Bhd.,0.8,馬來西亞,0,1,0,0,0,上市,G3060,NA,NA,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,"Min Aik International Development Pte., Ltd.",1,新加坡,1,1,0,0,0,上市,G3060,30897480,NA,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,"Min Aik Technology (Thailand) Co., Ltd.",1,泰國,1,1,0,0,0,上市,G3060,30897480,NA,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,Min Aik Technology USA Inc.,1,美國,1,1,0,0,0,上市,G3060,30897480,NA,NA,NA,NA,NA
+2014,3060,"Min Aik International Development Pte., Ltd.",Min Aik Technology(M) Sdn. Bhd.,1,馬來西亞,0,1,0,0,0,上市,G3060,NA,NA,NA,NA,NA,NA
+2014,3060,MU-Technology Pte. Ltd.,MU Technology (M) Sdn.Bhd.,1,馬來西亞,0,1,0,0,0,上市,G3060,NA,NA,NA,NA,NA,NA
+2014,3060,MU-Technology Pte. Ltd.,"MU Technology (Thailand) Co., Ltd.",0,不明,0,1,0,0,0,上市,G3060,NA,NA,NA,NA,NA,NA
+2014,3060,"Min Aik Technology (Thailand) Co., Ltd.",MU-Technology Pte. Ltd.,0.6941,新加坡,0,1,0,0,0,上市,G3060,NA,NA,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,"Synergy Technology Industrial Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G3060,30897480,NA,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,斯其大科技股份有限公司,0.4757,台灣,1,0,1,0,0,上市,G3060,30897480,16790212,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,綠晁科技股份有限公司,0.283,台灣,1,0,1,0,0,上市,G3060,30897480,25154972,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,綠發股份有限公司,1,台灣,1,1,0,0,0,上市,G3060,30897480,53822119,NA,NA,NA,NA
+2014,3060,"Good Master Holding Co., Ltd.",銘宏材料科技(常熟)有限公司,0,china,0,1,0,1,0,上市,G3060,NA,NA,NA,NA,NA,NA
+2014,3060,"Synergy Technology Industrial Co., Ltd.",銘裕科技(蘇州)有限公司,1,china,0,1,0,1,0,上市,G3060,NA,NA,NA,NA,NA,NA
+2014,3060,銘異科技股份有限公司,銘鈺精密工業股份有限公司,0.3975,台灣,1,0,1,0,0,上市,G3060,30897480,12738623,NA,NA,NA,NA
+2014,4545,銘鈺精密工業股份有限公司,Esteem King,1,薩摩亞,1,1,0,0,0,興櫃,G3060,12738623,NA,NA,NA,NA,NA
+2014,4545,Esteem King,MAPP,1,新加坡,0,1,0,0,0,興櫃,G3060,NA,NA,NA,NA,NA,NA
+2014,4545,Esteem King,MATC,0.2,馬來西亞,0,0,1,0,0,興櫃,G3060,NA,NA,NA,NA,NA,NA
+2014,4545,MAPP,SEB Manufacturing (Malaysia) Sdn. Bhd.,1,馬來西亞,0,0,1,0,0,興櫃,G3060,NA,NA,NA,NA,NA,NA
+2014,4545,Beacon Investments Limited,銘鈺精密工業股份有限公司,NA,NA,0,0,0,0,1,上市,G3060,NA,12738623,NA,NA,NA,NA
+2014,4545,MAPP,蘇州億模,1,不明,0,1,0,0,0,興櫃,G3060,NA,NA,NA,NA,NA,NA
+2014,6511,哲輝國際股份有限公司,綠晁科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3060,84481848,25154972,NA,NA,NA,NA

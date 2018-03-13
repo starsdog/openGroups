@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "聯電新投資事業股份有限公司", "no_holder": false, "taxcode": "28982926"}, {"is_core": true, "source": [{"holder": "NA", "name": "聯電新投資事業股份有限公司"}], "name": "有成精密股份有限公司", "no_holder": false, "taxcode": "80581850"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

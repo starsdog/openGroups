@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8040,友泰投資股份有限公司,九暘電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8040,70759006,16069953,NA,NA,NA,NA
+2016,8040,九暘電子股份有限公司,貝思親健康事業股份有限公司,1,台灣,1,1,0,0,0,上櫃,G8040,16069953,28760282,NA,NA,NA,NA
+2016,8040,再投資大陸公司,珠海大地幼教用品有限公司,0.0433,china,0,0,0,1,0,上櫃,G8040,NA,NA,1,NA,NA,NA
+2016,8040,再投資大陸公司,珠海大地軟件科技有限公司,0.0433,china,0,0,0,1,0,上櫃,G8040,NA,NA,1,NA,NA,NA
+2016,8040,再投資大陸公司,珠海美地教育諮詢有限公司,0.0433,china,0,0,0,1,0,上櫃,G8040,NA,NA,1,NA,NA,NA
+2016,8040,九暘電子股份有限公司,健康福祉事業股份有限公司,0.2193,台灣,1,0,1,0,0,上櫃,G8040,16069953,28204434,NA,NA,NA,NA

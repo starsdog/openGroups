@@ -1,0 +1,113 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3380,明泰科技股份有限公司,Alpha Holdings Inc.,1,開曼群島,0,1,0,0,0,上市,G2332,12800392,NA,NA,NA,NA,NA
+2016,3380,Alpha Holdings Inc.,"Alpha Investment Pte, Ltd.",1,開曼群島,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,明泰科技股份有限公司,Alpha Networks (Hong Kong) Limited,1,香港,0,1,0,0,0,上市,G2332,12800392,NA,NA,NA,NA,NA
+2016,3380,明泰科技股份有限公司,Alpha Networks Inc.,1,美國,0,1,0,0,0,上市,G2332,12800392,NA,NA,NA,NA,NA
+2016,3380,明泰科技股份有限公司,Alpha Networks NL B.V.,1,荷蘭,0,1,0,0,0,上市,G2332,12800392,NA,NA,NA,NA,NA
+2016,3380,明泰科技股份有限公司,"Alpha Solutions Co., Ltd.",1,日本,0,1,0,0,0,上市,G2332,12800392,NA,NA,NA,NA,NA
+2016,3380,明泰科技股份有限公司,Alpha Technical Services Inc.,1,美國,0,1,0,0,0,上市,G2332,12800392,NA,NA,NA,NA,NA
+2016,6142,Huge Castle Ltd.,CAMEO International Ltd.,1,薩摩亞,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D Link Adria d.o.o,1,克羅埃西亞,0,0,1,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D Link Magyarorszag,1,匈牙利,0,0,1,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D Link s.r.o.,1,捷克共和國,0,0,1,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link (Deutschland) GmbH,1,德國,1,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link (Deutschland) GmbH,1,德國,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,D-Link (Europe) Ltd.,1,英國,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link (Holdings) Ltd.,1,英國,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link (Magyarorszag) kft,1,不明,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link (Netherlands) BV,1,荷蘭,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link AB,1,瑞典,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link Adria d.o.o,1,不明,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Sudamerica S.A.,D-Link Argentina S.A.,1,阿根廷,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,Alpha Holdings Inc.,D-Link Asia Investment Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link International Pte. Ltd.,D-Link Australia Pty Ltd.,1,澳大利亞,1,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Australia Pty Ltd.,1,澳大利亞,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,D-Link Brazil LTDA,1,巴西,1,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Brazil LTDA,1,巴西,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Canada Inc.,1,加拿大,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link Sudamerica S.A.,D-Link de Colombia S.A.S.,1,哥倫比亞,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Latin America Company Ltd.,D-Link de Costa Rica S.A.,0,哥斯大黎加,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Sudamerica S.A.,D-Link de Costa Rica S.A.,0,哥斯大黎加,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Latin America Company Ltd.,D-Link del Ecuador S.A.,1,厄瓜多,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Sudamerica S.A.,D-Link del Ecuador S.A.,1,厄瓜多,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link France SARL,1,法國,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Sudamerica S.A.,D-Link Guatemala S.A.,0.99,瓜地馬拉,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Holding Company Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,D-Link Holding Mauritius Inc.,1,模里西斯,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,D-Link Hong Kong Ltd.,1,香港,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link Iberia SL,1,西班牙,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Mauritius Inc.,D-Link India Ltd.,0.5102,印度,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,D-Link International Pte. Ltd.,1,新加坡,1,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link International Pte. Ltd.,1,新加坡,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Investment Pte.Ltd.,1,新加坡,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Japan K.K.,1,日本,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link International Pte. Ltd.,D-Link Korea Limited,1,南韓,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Latin America Company Ltd.,1,開曼群島,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link International Pte. Ltd.,D-Link Malaysia Sdn Bhd,1,馬來西亞,0,0,1,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link Mediterraneo SRL,1,義大利,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Sudamerica S.A.,D-Link Mexicana S.A de C.V,1,墨西哥,1,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Mexicana S.A de C.V,1,墨西哥,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link International Pte. Ltd.,D-Link Middle East FZCO,1,阿拉伯聯合大公國,1,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Middle East FZCO,1,阿拉伯聯合大公國,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link Sudamerica S.A.,D-Link Paraguay S.A.,0,不明,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Latin America Company Ltd.,D-Link Peru S.A.,1,祕魯,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Sudamerica S.A.,D-Link Peru S.A.,1,祕魯,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link Polska Sp Z.o.o,1,波蘭,0,0,1,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link International Pte. Ltd.,"D-Link Russia Investment Co., Ltd",1,英屬維京群島,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Europe) Ltd.,D-Link s.r.o,1,不明,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,D-Link Shiang-Hai (Cayman) Inc.,1,開曼群島,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,D-Link Sudamerica S.A.,1,智利,1,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,D-Link Sudamerica S.A.,1,智利,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,"D-Link Systems, Inc.",0.9776,美國,1,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,"D-Link Systems, Inc.",0.9776,美國,1,1,0,0,0,上市,G2332,22099189,NA,NA,NA,NA,NA
+2016,2332,D-Link International Pte. Ltd.,D-Link Trade M,1,摩達多瓦,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Investment Pte.Ltd.,D-Link Trade M,1,俄羅斯,0,0,1,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link (Holdings) Ltd.,D-Link UK,1,英國,0,0,1,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,明泰科技股份有限公司,Global Networks Trading Limited,1,薩摩亞,0,1,0,0,0,上市,G2332,12800392,NA,NA,NA,NA,NA
+2016,6142,友勁科技股份有限公司,Huge Castle Ltd.,1,薩摩亞,1,0,1,0,0,上市,G2332,22099744,NA,NA,NA,NA,NA
+2016,6142,Huge Castle Ltd.,Luis Jo'se Investments Inc.,1,英屬維京群島,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,6142,友勁科技股份有限公司,Luis Jo'se Investments Inc.,1,英屬維京群島,0,0,1,0,0,上市,G2332,22099744,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,MiiiCasa Holding,0.2898,開曼群島,0,0,1,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,OOO D-Link Russia,1,俄羅斯,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,OOO D-Link Trade,1,不明,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Investment Pte.Ltd.,OOO D-Link Trade,1,不明,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,6142,Huge Castle Ltd.,"Perfect Choice Co., Ltd.",1,模里西斯,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,6142,前景網路科技股份有限公司,"Soarnex Holding Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G2332,24751023,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,Success Stone Overseas Corp.,1,英屬維京群島,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Mauritius Inc.,TeamF1 Networks Private Limited,1,印度,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link India Ltd.,TeamF1 Networks Private Limited,1,印度,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,Alpha Holdings Inc.,Universal Networks Trading Limited,1,薩摩亞,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,D-Link Holding Company Ltd.,Wishfi Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,友佳投資有限公司,1,台灣,1,1,0,0,0,上市,G2332,22099189,97384615,NA,NA,NA,NA
+2016,6142,友訊科技股份有限公司,友勁科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2332,22099189,22099744,NA,NA,NA,NA
+2016,6142,鈞揚投資有限公司,友勁科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2332,27532655,22099744,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,友茂投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2332,22099189,89405428,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,友泰投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2332,22099189,70759006,NA,NA,NA,NA
+2016,2332,九康投資有限公司,友訊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2332,28680773,22099189,NA,NA,NA,NA
+2016,2332,云瑋投資股份有限公司,友訊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2332,53751085,22099189,NA,NA,NA,NA
+2016,2332,明泰科技股份有限公司,友訊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2332,12800392,22099189,NA,NA,NA,NA
+2016,2332,捷訊投資股份有限公司,友訊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2332,89941878,22099189,NA,NA,NA,NA
+2016,2332,D-Link Shiang-Hai (Cayman) Inc.,友訊電子設備(上海)有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,再投資大陸公司,友翔電子,0.1,china,0,0,0,1,0,上市,G2332,NA,NA,1,NA,NA,NA
+2016,6142,Luis Jo'se Investments Inc.,宏想電子(上海)有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友佳投資有限公司,帛漢股份有限公司,0.0704,台灣,0,0,1,0,0,上市,G2332,97384615,86533770,NA,NA,NA,NA
+2016,2332,友茂投資股份有限公司,帛漢股份有限公司,0.0704,台灣,0,0,1,0,0,上市,G2332,89405428,86533770,NA,NA,NA,NA
+2016,2332,友佳投資有限公司,拓碼科技股份有限公司,0.4118,台灣,0,0,1,0,0,上市,G2332,97384615,12878736,NA,NA,NA,NA
+2016,2332,友泰投資股份有限公司,拓碼科技股份有限公司,0.4118,台灣,0,0,1,0,0,上市,G2332,70759006,12878736,NA,NA,NA,NA
+2016,2332,友佳投資有限公司,明泰科技股份有限公司,0.0173,台灣,0,0,1,0,0,上市,G2332,97384615,12800392,NA,NA,NA,NA
+2016,2332,友茂投資股份有限公司,明泰科技股份有限公司,0.0173,台灣,0,0,1,0,0,上市,G2332,89405428,12800392,NA,NA,NA,NA
+2016,2332,友訊科技股份有限公司,明泰科技股份有限公司,0.335,台灣,0,0,1,0,0,上市,G2332,22099189,12800392,NA,NA,NA,NA
+2016,3380,Alpha Networks (Hong Kong) Limited,明泰電子科技(常熟)有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,Alpha Holdings Inc.,明瑞電子(成都)有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,D-Link Asia Investment Pte. Ltd.,東莞明冠電子有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,"Alpha Investment Pte, Ltd.",東莞明瑞電子有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,6142,友勁科技股份有限公司,前勁投資有限公司,1,不明,1,1,0,0,0,上市,G2332,22099744,28846232,NA,NA,NA,NA
+2016,6142,前勁投資有限公司,前景網路科技股份有限公司,1,台灣,0,1,0,0,0,上市,G2332,28846232,24751023,NA,NA,NA,NA
+2016,3380,Alpha Networks (Hong Kong) Limited,常熟明振技術服務有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,東莞明瑞電子有限公司,深圳九四三熙貿易有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,2332,友佳投資有限公司,視傳科技股份有限公司,0.2726,台灣,0,0,1,0,0,上市,G2332,97384615,16851842,NA,NA,NA,NA
+2016,2332,友茂投資股份有限公司,視傳科技股份有限公司,0.2726,台灣,0,0,1,0,0,上市,G2332,89405428,16851842,NA,NA,NA,NA
+2016,2332,友泰投資股份有限公司,視傳科技股份有限公司,0.2726,台灣,0,0,1,0,0,上市,G2332,70759006,16851842,NA,NA,NA,NA
+2016,6142,"Perfect Choice Co., Ltd.",陽立電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA
+2016,3380,明泰科技股份有限公司,網磁科技股份有限公司,0,台灣,0,1,0,0,0,上市,G2332,12800392,28816687,NA,NA,NA,NA
+2016,2332,D-Link Shiang-Hai (Cayman) Inc.,網諮信息科技(上海)有限公司,1,china,0,1,0,1,0,上市,G2332,NA,NA,NA,NA,NA,NA

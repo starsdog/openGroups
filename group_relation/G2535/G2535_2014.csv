@@ -1,0 +1,23 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2535,Dacin Group Limited,Dacin Asia Holdings Ltd.,1,開曼群島,0,1,0,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,達欣工程股份有限公司,Dacin Group Limited,1,英屬維京群島,1,1,0,0,0,上市,G2535,18997007,NA,NA,NA,NA,NA
+2014,2535,Dacin Asia Holdings Ltd.,Dacin Malaysia Sdn Bhd,1,馬來西亞,0,1,0,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,Dacin Asia Holdings Ltd.,Dacin Singapore Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,達欣新加坡控股有限公司,DACIN VIETNAM TAN TAO COMPANY LIMITED,0.9,越南,0,1,0,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,Dacin Malaysia Sdn Bhd,Mayang Dacin Development Sdn Bhd,0.5,馬來西亞,0,0,1,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,達欣工程股份有限公司,"Multi Yield Co., Ltd.",0.3412,英屬維京群島,1,0,1,0,0,上市,G2535,18997007,NA,NA,NA,NA,NA
+2014,2535,再投資大陸公司,昆山大欣置業有限公司,0.3412,china,0,0,0,1,0,上市,G2535,NA,NA,1,NA,NA,NA
+2014,2535,品欣投資股份有限公司,達欣工程股份有限公司,NA,NA,0,0,0,0,1,上市,G2535,86690736,18997007,NA,NA,NA,NA
+2014,2535,Dacin Asia Holdings Ltd.,達欣國際控股有限公司,0.625,開曼群島,0,1,0,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,達欣工程股份有限公司,達欣開發股份有限公司,1,台灣,1,1,0,0,0,上市,G2535,18997007,12464715,NA,NA,NA,NA
+2014,2535,Dacin Asia Holdings Ltd.,達欣新加坡控股有限公司,0.15,不明,0,1,0,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,達欣國際控股有限公司,達欣新加坡控股有限公司,0.8,新加坡,0,1,0,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,Dacin Asia Holdings Ltd.,達欣新加坡控股有限公司1,0.15,新加坡,0,0,1,0,0,上市,G2535,NA,NA,NA,NA,NA,NA
+2014,2535,達欣工程股份有限公司,達欣整合科技股份有限公司,1,台灣,1,1,0,0,0,上市,G2535,18997007,54682729,NA,NA,NA,NA
+2014,4550,長佳機電工程股份有限公司,"Changjia Holding Co., Ltd.",1,薩摩亞,1,0,1,0,0,上櫃,G2535,84271478,NA,NA,NA,NA,NA
+2014,4550,長佳機電工程股份有限公司,佳沂建設股份有限公司,0,不明,1,1,0,0,0,上櫃,G2535,84271478,53560071,NA,NA,NA,NA
+2014,4550,"Changjia Holding Co., Ltd.",佳固(上海)管理諮詢有限公司,1,不明,0,1,0,0,0,上櫃,G2535,NA,NA,NA,NA,NA,NA
+2014,4550,長佳機電工程股份有限公司,長佳開發股份有限公司,1,台灣,1,1,0,0,0,上櫃,G2535,84271478,54326095,NA,NA,NA,NA
+2014,4550,東寶投資股份有限公司,長佳機電工程股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2535,97462029,84271478,NA,NA,NA,NA
+2014,4550,王人達王仁正家族,東寶投資股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2535,NA,97462029,NA,NA,NA,NA
+2014,2535,王人達王仁正家族,品欣投資股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2535,NA,86690736,NA,NA,NA,NA

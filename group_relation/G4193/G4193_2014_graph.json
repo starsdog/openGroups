@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "高首投資股份有限公司", "no_holder": false, "taxcode": "53579655"}, {"is_core": true, "source": [{"holder": "NA", "name": "高首投資股份有限公司"}], "name": "喬本生醫股份有限公司", "no_holder": false, "taxcode": "29184631"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

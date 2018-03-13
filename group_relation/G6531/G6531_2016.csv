@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6531,愛普科技股份有限公司,"AP Memory Corp, USA",1,美國,1,1,0,0,0,上市,G6531,53503847,NA,NA,NA,NA,NA
+2016,6531,愛普科技股份有限公司,"AP MEMORY HOLDING Co., Ltd.",1,塞席爾,1,1,0,0,0,上市,G6531,53503847,NA,NA,NA,NA,NA
+2016,6531,力積電子股份有限公司,ZENTEL JAPAN CORP.,1,日本,0,1,0,0,0,上市,G6531,80149790,NA,NA,NA,NA,NA
+2016,6531,力積電子股份有限公司,力積電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G6531,80149790,NA,NA,NA,NA,NA
+2016,6531,愛普科技股份有限公司,力積電子股份有限公司,0.5524,台灣,1,1,0,0,0,上市,G6531,53503847,80149790,NA,NA,NA,NA
+2016,6531,愛普科技股份有限公司,來揚科技股份有限公司,0.3,台灣,1,0,1,0,0,上市,G6531,53503847,80588538,NA,NA,NA,NA
+2016,6531,山一投資有限公司,愛普科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6531,53628797,53503847,NA,NA,NA,NA
+2016,6531,宇惠投資有限公司,愛普科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6531,53628804,53503847,NA,NA,NA,NA
+2016,6531,力立企業股份有限公司,愛普科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6531,20999396,53503847,NA,NA,NA,NA
+2016,6531,愛維投資有限公司,愛普科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6531,53558808,53503847,NA,NA,NA,NA
+2016,6531,立順投資有限公司,愛普科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6531,28465042,53503847,NA,NA,NA,NA
+2016,6531,"AP MEMORY HOLDING Co., Ltd.",愛鐠電子(北京)有限公司,1,china,0,1,0,1,0,上市,G6531,NA,NA,NA,NA,NA,NA

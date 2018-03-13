@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5465,富驊企業股份有限公司,Axxion Group Corp.,1,美國,1,1,0,0,0,上櫃,G5465,36270626,NA,NA,NA,NA,NA
+2016,5465,Loyalty Founder Enterprise Corp. Ltd.,Loyalty Founder Enterprise Co.(H.K.)Ltd.,1,香港,0,0,1,0,0,上櫃,G5465,NA,NA,NA,NA,NA,NA
+2016,5465,富驊企業股份有限公司,Loyalty Founder Enterprise Corp. Ltd.,1,開曼群島,1,0,1,0,0,上櫃,G5465,36270626,NA,NA,NA,NA,NA
+2016,5465,富驊企業股份有限公司,Super Laser Precision Machinery Ltd.,0.4764,薩摩亞,1,0,1,0,0,上櫃,G5465,36270626,NA,NA,NA,NA,NA
+2016,5465,Loyalty Founder Enterprise Co.(H.K.)Ltd.,東莞東驊電子科技有限公司,1,china,0,1,0,1,0,上櫃,G5465,NA,NA,NA,NA,NA,NA
+2016,5465,Loyalty Founder Enterprise Co.(H.K.)Ltd.,東莞超鋒雷射精機有限公司,0.4764,china,0,0,0,1,0,上櫃,G5465,NA,NA,8,NA,NA,NA
+2016,5465,偉訓科技股份有限公司,富驊企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5465,69577160,36270626,NA,NA,NA,NA
+2016,5465,富驊生物股份有限公司,富驊企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5465,84593415,36270626,NA,NA,NA,NA
+2016,5465,仕基投資股份有限公司,富驊企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5465,70363314,36270626,NA,NA,NA,NA
+2016,5465,富驊企業股份有限公司,富驊航太股份有限公司,0,台灣,1,1,0,0,0,上櫃,G5465,36270626,54247352,NA,NA,NA,NA
+2016,5465,富驊企業股份有限公司,漢驊股份有限公司,0,台灣,1,1,0,0,0,上櫃,G5465,36270626,16259670,NA,NA,NA,NA

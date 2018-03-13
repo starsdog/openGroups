@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3552,POLAR LIGHTS ENTERPRISE LTD.,FOREVER LUCKY INVESTMENT DEVELOPMENT CORP.,1,薩摩亞,0,1,0,0,0,上櫃,G3552,NA,NA,NA,NA,NA,NA
+2016,3552,POLAR LIGHTS ENTERPRISE LTD.,GREAT COMBO LTD.,1,開曼群島,0,1,0,0,0,上櫃,G3552,NA,NA,NA,NA,NA,NA
+2016,3552,同致電子企業股份有限公司,POLAR LIGHTS ENTERPRISE LTD.,1,薩摩亞,0,0,1,0,0,上櫃,G3552,55900791,NA,NA,NA,NA,NA
+2016,3552,同致電子企業股份有限公司,TUNG THIH ELECTRONIC EUROPE GMBH,1,德國,1,1,0,0,0,上櫃,G3552,55900791,NA,NA,NA,NA,NA
+2016,3552,同致電子企業股份有限公司,"TUNG THIH ELECTRONIC USA CO., INC.",1,美國,1,1,0,0,0,上櫃,G3552,55900791,NA,NA,NA,NA,NA
+2016,3552,旭航投資股份有限公司,同致電子企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3552,28041333,55900791,NA,NA,NA,NA
+2016,3552,全航投資股份有限公司,同致電子企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3552,28042255,55900791,NA,NA,NA,NA
+2016,3552,GREAT COMBO LTD.,同致電子科技(昆山)有限公司,0.75,china,0,1,0,1,0,上櫃,G3552,NA,NA,NA,NA,NA,NA
+2016,3552,同致電子科技(廈門)有限公司,同致電子科技(昆山)有限公司,0.25,不明,0,1,0,0,0,上櫃,G3552,NA,NA,NA,NA,NA,NA
+2016,3552,FOREVER LUCKY INVESTMENT DEVELOPMENT CORP.,同致電子科技(廈門)有限公司,1,china,0,1,0,1,0,上櫃,G3552,NA,NA,NA,NA,NA,NA
+2016,3552,同致電子企業股份有限公司,同致電子集團日本株式會社,1,日本,1,1,0,0,0,上櫃,G3552,55900791,NA,NA,NA,NA,NA

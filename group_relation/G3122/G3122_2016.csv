@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3122,笙泉科技股份有限公司,Regent Pacific Management Limited,1,模里西斯,1,1,0,0,0,上櫃,G3122,16945166,NA,NA,NA,NA,NA
+2016,3122,笙泉科技香港有限公司,笙泉科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G3122,NA,NA,NA,NA,NA,NA
+2016,3122,笙德國際投資股份有限公司,笙泉科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3122,28647825,16945166,NA,NA,NA,NA
+2016,3122,Regent Pacific Management Limited,笙泉科技香港有限公司,1,香港,0,1,0,0,0,上櫃,G3122,NA,NA,NA,NA,NA,NA

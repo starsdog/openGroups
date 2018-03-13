@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2480,敦陽科技股份有限公司,Pacific Ace Holding International Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G2480,NA,NA,NA,NA,NA,NA
+2015,2480,Pacific Ace Holding International Ltd.,Profit Reap International Limited,1,英屬維京群島,0,1,0,0,0,上市,G2480,NA,NA,NA,NA,NA,NA
+2015,2480,敦雨投資有限公司,S-Rain Investment Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G2480,70779967,NA,NA,NA,NA,NA
+2015,2480,敦陽科技股份有限公司,Stark Technology Inc.,1,美國,1,1,0,0,0,上市,G2480,NA,NA,NA,NA,NA,NA
+2015,2480,再投資大陸公司,上海敦新計算機技術開發有限公司,0,china,0,0,0,1,0,上市,G2480,NA,NA,11,NA,NA,NA
+2015,2480,S-Rain Investment Ltd.,上海敦滬信息科技有限公司,1,china,0,1,0,1,0,上市,G2480,NA,NA,NA,NA,NA,NA
+2015,2480,再投資大陸公司,江西升陽光電科技有限公司,0.0327,china,0,0,0,1,0,上市,G2480,NA,NA,11,NA,NA,NA
+2015,2480,敦陽科技股份有限公司,敦雨投資有限公司,1,台灣,1,1,0,0,0,上市,G2480,NA,70779967,NA,NA,NA,NA
+2015,2480,Profit Reap International Limited,敦陽(寧波)科技有限公司,1,china,0,1,0,1,0,上市,G2480,NA,NA,NA,NA,NA,NA
+2015,2480,敦雨投資有限公司,敦陽資訊股份有限公司,1,台灣,0,1,0,0,0,上市,G2480,70779967,12613145,NA,NA,NA,NA

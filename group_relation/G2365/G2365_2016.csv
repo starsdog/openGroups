@@ -1,0 +1,34 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2365,台灣微米科技股份有限公司,"DigiLife(Thailand)Co.,Ltd.",0.3,泰國,0,0,1,0,0,上市,G2365,80060394,NA,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,台灣微米科技股份有限公司,0.9065,台灣,1,1,0,0,0,上市,G2365,05141520,80060394,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,仲強投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2365,05141520,16372998,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,宏城投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2365,05141520,16428000,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,尚立光電股份有限公司,0.2297,台灣,1,0,1,0,0,上市,G2365,05141520,24439184,NA,NA,NA,NA
+2016,2365,台灣微米科技股份有限公司,尚立光電股份有限公司,0.0135,台灣,0,0,1,0,0,上市,G2365,80060394,24439184,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,昆盈企業(香港)股份有限公司,1,香港,1,1,0,0,0,上市,G2365,05141520,NA,NA,NA,NA,NA
+2016,2365,再投資大陸公司,東莞協盈電腦有限公司,0.219,china,0,0,0,1,0,上市,G2365,NA,NA,11,NA,NA,NA
+2016,2365,"英屬維京群島Globalink Holding Co., Ltd.",東莞旺福電子有限公司,1,china,0,1,0,1,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,英屬維京群島KYE Inc.,東莞昆盈電腦製品有限公司,1,china,0,1,0,1,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,"英屬維京群島Moustek Investment Co., Ltd.",東莞高盈電子科技有限公司,1,不明,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,再投資大陸公司,東莞嘉盈電子有限公司,0.25,china,0,0,0,1,0,上市,G2365,NA,NA,11,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,美國KYE International Corporation,1,美國,1,1,0,0,0,上市,G2365,05141520,NA,NA,NA,NA,NA
+2016,2365,"英屬開曼群島Genius Holding Co., Ltd.",美國KYE Systems America Corporation,0.9831,美國,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,英國KYE Systems UK Ltd.,0.9886,英國,1,1,0,0,0,上市,G2365,05141520,NA,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,"英屬開曼群島Genius Holding Co., Ltd.",1,開曼群島,1,1,0,0,0,上市,G2365,05141520,NA,NA,NA,NA,NA
+2016,2365,"英屬開曼群島Genius Holding Co., Ltd.","英屬維京群島Globalink Holding Co., Ltd.",0.8259,英屬維京群島,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,"英屬開曼群島Genius Holding Co., Ltd.",英屬維京群島KYE Inc.,1,英屬維京群島,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,"英屬開曼群島Genius Holding Co., Ltd.","英屬維京群島Moustek Investment Co., Ltd.",1,英屬維京群島,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,"英屬開曼群島Genius Holding Co., Ltd.","香港KYE Trade Co., Ltd.",1,香港,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,"英屬開曼群島Genius Holding Co., Ltd.",香港天鋒國際有限公司,1,香港,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,"薩摩亞Life Technologies Co.,Ltd.",香港微米科技有限公司,1,香港,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,海峽數碼股份有限公司,0,台灣,1,0,1,0,0,上市,G2365,05141520,80503525,NA,NA,NA,NA
+2016,2365,東莞昆盈電腦製品有限公司,索意電子科技(上海)有限公司,0,不明,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,昆盈企業(香港)股份有限公司,馬來西亞Genius Labuan Inc.,1,馬來西亞,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,東莞昆盈電腦製品有限公司,游翔電子科技(上海)有限公司,0,不明,0,1,0,0,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,德國KYE Systems Europe GmbH,1,德國,1,1,0,0,0,上市,G2365,05141520,NA,NA,NA,NA,NA
+2016,2365,台灣微米科技股份有限公司,鴻普光電股份有限公司,0.32,台灣,0,1,0,0,0,上市,G2365,80060394,53956496,NA,NA,NA,NA
+2016,2365,台灣微米科技股份有限公司,"薩摩亞Life Technologies Co.,Ltd.",1,薩摩亞,0,1,0,0,0,上市,G2365,80060394,NA,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,薩摩亞凱傑有限公司,0.219,薩摩亞,1,0,1,0,0,上市,G2365,05141520,NA,NA,NA,NA,NA
+2016,2365,昆盈企業股份有限公司,薩摩亞達星有限公司,0.25,薩摩亞,1,0,1,0,0,上市,G2365,05141520,NA,NA,NA,NA,NA
+2016,2365,香港微米科技有限公司,麗攝光電(上海)有限公司,0,china,0,1,0,1,0,上市,G2365,NA,NA,NA,NA,NA,NA
+2016,2365,香港微米科技有限公司,麗攝光電(深圳)有限公司,1,china,0,1,0,1,0,上市,G2365,NA,NA,NA,NA,NA,NA

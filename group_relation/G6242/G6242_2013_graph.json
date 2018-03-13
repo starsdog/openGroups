@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "仁威科技股份有限公司", "no_holder": false, "taxcode": "28187596"}, {"is_core": true, "source": [{"holder": "NA", "name": "仁威科技股份有限公司"}], "name": "亨豐科技股份有限公司", "no_holder": false, "taxcode": "12549828"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

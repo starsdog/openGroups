@@ -1,0 +1,36 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1618,合機電線電纜股份有限公司,"COMMODITY CABLES, INC.",0.21,美國,0,0,1,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,"Lucky Chance Enterprise Co., Ltd.","Lead Well Technology Co., Ltd.",1,汶萊,0,1,0,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,洋華光電股份有限公司,"Lucky Chance Enterprise Co., Ltd.",1,汶萊,1,1,0,0,0,上市,G1618,80260061,NA,NA,NA,NA,NA
+2014,1618,合機電線電纜股份有限公司,MIDORI MARK (H.K.) LIMITED,0.2183,香港,0,0,1,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,洋華光電股份有限公司,"Young Fast (BELIZE) Co., Ltd.",1,貝里斯,1,1,0,0,0,上市,G1618,80260061,NA,NA,NA,NA,NA
+2014,3622,洋華光電股份有限公司,"Young Fast (SAMOA) Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G1618,80260061,NA,NA,NA,NA,NA
+2014,3622,"Young Fast (SAMOA) Co., Ltd.","Young Fast (SCL) Co., Ltd.",1,不明,0,1,0,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,"Young Fast (BELIZE) Co., Ltd.","Young Fast Optoelectronics (HK) Co., Ltd.",1,香港,0,1,0,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,"Young Fast Optoelectronics (HK) Co., Ltd.","Young Fast Optoelectronics (VIETNAM) Co., Ltd.",1,越南,0,1,0,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,"Young Fast (SAMOA) Co., Ltd.","Young Fast PH (SCL) Co., Ltd.",1,塞席爾,0,1,0,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,"Young Fast (SAMOA) Co., Ltd.","Young Fast TP (SCL) Co., Ltd.",0.08,塞席爾,0,1,0,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,"Young Fast Optoelectronics (HK) Co., Ltd.","Young Fast TP (SCL) Co., Ltd.",0.22,塞席爾,0,1,0,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,洋華光電股份有限公司,云光科技股份有限公司,0.23,台灣,1,0,1,0,0,上市,G1618,80260061,16177616,NA,NA,NA,NA
+2014,3622,"Lead Well Technology Co., Ltd.",友威光電(惠州)有限公司,1,china,0,1,0,1,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,"Young Fast TP (SCL) Co., Ltd.",友華觸控(深圳)有限公司,1,china,0,1,0,1,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,"Young Fast (SCL) Co., Ltd.",文鼎科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,9958,世紀鋼鐵結構股份有限公司,世紀國際投資股份有限公司,0.5926,香港,1,0,1,0,0,上市,G1618,22649001,NA,NA,NA,NA,NA
+2014,9958,世紀鋼鐵結構股份有限公司,世紀華都開發建設有限公司,1,台灣,1,0,1,0,0,上市,G1618,22649001,53280748,NA,NA,NA,NA
+2014,9958,向鋒投資股份有限公司,世紀鋼鐵結構股份有限公司,NA,NA,0,0,0,0,1,上市,G1618,70684110,22649001,NA,NA,NA,NA
+2014,9958,冠增投資股份有限公司,世紀鋼鐵結構股份有限公司,NA,NA,0,0,0,0,1,上市,G1618,70360610,22649001,NA,NA,NA,NA
+2014,3622,"Young Fast PH (SCL) Co., Ltd.",台華光電(深圳)有限公司,1,china,0,1,0,1,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3622,洋華光電股份有限公司,台灣適而優股份有限公司,0.51,台灣,1,1,0,0,0,上市,G1618,80260061,28488137,NA,NA,NA,NA
+2014,1618,合機電線電纜股份有限公司,合機貝里斯投資有限公司,1,不明,1,1,0,0,0,上市,G1618,23206102,NA,NA,NA,NA,NA
+2014,1618,邦凱工業股份有限公司,合機電線電纜股份有限公司,NA,NA,0,0,0,0,1,上市,G1618,86285096,23206102,NA,NA,NA,NA
+2014,1618,嵩益實業股份有限公司,合機電線電纜股份有限公司,NA,NA,0,0,0,0,1,上市,G1618,21259476,23206102,NA,NA,NA,NA
+2014,1618,合機電線電纜股份有限公司,牧蟲園有機農場股份有限公司,1,不明,1,1,0,0,0,上市,G1618,23206102,29051506,NA,NA,NA,NA
+2014,3622,合機電線電纜股份有限公司,洋華光電股份有限公司,NA,NA,0,0,0,0,1,上市,G1618,23206102,80260061,NA,NA,NA,NA
+2014,3622,嵩益實業股份有限公司,洋華光電股份有限公司,NA,NA,0,0,0,0,1,上市,G1618,21259476,80260061,NA,NA,NA,NA
+2014,3622,"Young Fast (BELIZE) Co., Ltd.",啟華科技股份有限公司,1,香港,0,1,0,0,0,上市,G1618,NA,NA,NA,NA,NA,NA
+2014,3471,宏達電投資股份有限公司,雅士晶業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G1618,29047665,20936999,NA,NA,NA,1
+2014,3471,嵩益實業股份有限公司,雅士晶業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G1618,21259476,20936999,NA,NA,NA,NA
+2014,3622,洋華光電股份有限公司,源澄生物科技股份有限公司,0.45,台灣,1,0,1,0,0,上市,G1618,80260061,24565484,NA,NA,NA,NA
+2014,3622,洋華光電股份有限公司,錸洋科技股份有限公司,0.29,台灣,1,0,1,0,0,上市,G1618,80260061,53051978,NA,NA,NA,NA
+2014,3622,洋華光電股份有限公司,世紀鋼鐵結構股份有限公司,0.0107,NA,0,0,0,0,1,上市,G1618,80260061,22649001,NA,NA,NA,NA
+2014,9958,嵩益實業股份有限公司,世紀鋼鐵結構股份有限公司,0.0594,NA,0,0,0,0,1,上市,G1618,21259476,22649001,NA,NA,NA,NA

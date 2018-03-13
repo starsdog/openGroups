@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2369,Lingsen Holding (Samoa) Inc.,"Li Yuan Investments Co., Ltd.",1,開曼群島,0,1,0,0,0,上市,G2369,NA,NA,NA,NA,NA,NA
+2013,2369,菱生精密工業股份有限公司,Lingsen America Inc.,1,美國,1,1,0,0,0,上市,G2369,NA,NA,NA,NA,NA,NA
+2013,2369,菱生精密工業股份有限公司,Lingsen Holding (Samoa) Inc.,1,薩摩亞,1,1,0,0,0,上市,G2369,NA,NA,NA,NA,NA,NA
+2013,2369,菱生精密工業股份有限公司,Oxney Trading Limited,1,英屬維京群島,1,1,0,0,0,上市,G2369,NA,NA,NA,NA,NA,NA
+2013,2369,菱生精密工業股份有限公司,利鑫投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2369,NA,16744891,NA,NA,NA,NA
+2013,2369,菱生精密工業股份有限公司,迅能半導體股份有限公司,0.93,台灣,1,1,0,0,0,上市,G2369,NA,28877255,NA,NA,NA,NA
+2013,2369,利鑫投資股份有限公司,迅能半導體股份有限公司,0.04,不明,0,1,0,0,0,上市,G2369,16744891,28877255,NA,NA,NA,NA
+2013,2369,菱生精密工業股份有限公司,奇峰科技股份有限公司,0.3,台灣,1,0,1,0,0,上市,G2369,NA,27399973,NA,NA,NA,NA
+2013,2369,"Li Yuan Investments Co., Ltd.",寧波力源科技有限公司,1,china,0,1,0,1,0,上市,G2369,NA,NA,NA,NA,NA,NA
+2013,2369,菱生精密工業股份有限公司,德利勤科技股份有限公司,0.78,台灣,1,1,0,0,0,上市,G2369,NA,12757070,NA,NA,NA,NA
+2013,2369,利鑫投資股份有限公司,德利勤科技股份有限公司,0.21,不明,0,1,0,0,0,上市,G2369,16744891,12757070,NA,NA,NA,NA
+2013,2369,菱生精密工業股份有限公司,鴻谷科技股份有限公司,0.64,台灣,1,1,0,0,0,上市,G2369,NA,16005023,NA,NA,NA,NA

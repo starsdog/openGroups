@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6432,Arlitech Corp.,Arlitech (HK) Limited,1,香港,0,1,0,0,0,上櫃,G6432,NA,NA,NA,NA,NA,NA
+2016,6432,今展科技股份有限公司,Arlitech Corp.,1,汶萊,0,0,1,0,0,上櫃,G6432,12688172,NA,NA,NA,NA,NA
+2016,6432,今亞中投資股份有限公司,今展科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6432,28448749,12688172,NA,NA,NA,NA
+2016,6432,Arlitech (HK) Limited,廣州今耀電子有限公司,1,china,0,1,0,1,0,上櫃,G6432,NA,NA,NA,NA,NA,NA
+2016,6432,Arlitech Corp.,蘇州今亞中電子貿易有限公司,1,china,0,1,0,1,0,上櫃,G6432,NA,NA,NA,NA,NA,NA

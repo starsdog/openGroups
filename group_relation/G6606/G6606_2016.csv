@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5383,金利國際科技有限公司,東莞金鴻利光電科技有限公司,1,不明,0,1,0,0,0,上櫃,G6606,NA,NA,NA,NA,NA,NA
+2016,5383,金利精密工業股份有限公司,金利全球有限公司,1,英屬維京群島,1,1,0,0,0,上櫃,G6606,35317291,NA,NA,NA,NA,NA
+2016,5383,金利精密工業股份有限公司,金利國際科技有限公司,1,英屬維京群島,1,0,1,0,0,上櫃,G6606,35317291,NA,NA,NA,NA,NA
+2016,5383,株式會社鈴木,金利精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6606,NA,35317291,NA,NA,NA,NA
+2016,5383,建德工業股份有限公司,金利精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6606,35309102,35317291,NA,NA,NA,NA
+2016,5383,冠融投資股份有限公司,金利精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6606,70440543,35317291,NA,NA,NA,NA
+2016,5383,金利國際科技有限公司,嘉興金利精密電子有限公司,0.666,china,0,1,0,0,0,上櫃,G6606,NA,NA,NA,NA,NA,NA

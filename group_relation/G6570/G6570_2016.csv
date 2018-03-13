@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6570,Aplextec (SAMOA) Technology Inc.,Adotech (SAMOA) Technology Inc.,1,薩摩亞,0,0,1,0,0,興櫃,G6570,NA,NA,NA,NA,NA,NA
+2016,6570,"Elite Lands (MAU) Co., Ltd.",Aplex Technology (MAU) Inc.,1,模里西斯,0,0,1,0,0,興櫃,G6570,NA,NA,NA,NA,NA,NA
+2016,6570,Aplextec (SAMOA) Technology Inc.,Aplex Technology Inc.,1,不明,0,1,0,0,0,興櫃,G6570,NA,NA,NA,NA,NA,NA
+2016,6570,維田科技股份有限公司,Aplextec (SAMOA) Technology Inc.,1,薩摩亞,1,0,1,0,0,興櫃,G6570,27271130,NA,NA,NA,NA,NA
+2016,6570,維田科技股份有限公司,"Elite Lands (MAU) Co., Ltd.",1,模里西斯,1,0,1,0,0,興櫃,G6570,27271130,NA,NA,NA,NA,NA
+2016,6570,Aplex Technology (MAU) Inc.,品富電子科技(上海)有限公司,1,china,0,1,0,1,0,興櫃,G6570,NA,NA,NA,NA,NA,NA
+2016,6570,南京資訊股份有限公司,維田科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6570,NA,27271130,NA,NA,NA,NA
+2016,6570,佳世達科技股份有限公司,維田科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6570,12490306,27271130,NA,NA,NA,NA
+2016,6570,Adotech (SAMOA) Technology Inc.,維准電子科技(深圳)有限公司,1,china,0,1,0,1,0,興櫃,G6570,NA,NA,NA,NA,NA,NA

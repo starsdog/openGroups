@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2420,ZIPPY International Holding Ltd.,Kobot International Inc.,1,美國,0,1,0,0,0,上市,G2420,NA,NA,NA,NA,NA,NA
+2016,2420,新巨企業股份有限公司,Landmark International Holding Ltd.,1,薩摩亞,1,1,0,0,0,上市,G2420,NA,NA,NA,NA,NA,NA
+2016,2420,新巨企業股份有限公司,ZIPPY International Holding Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G2420,NA,NA,NA,NA,NA,NA
+2016,2420,新巨企業股份有限公司,ZIPPY Technology Europe GmbH.,1,德國,1,1,0,0,0,上市,G2420,NA,NA,NA,NA,NA,NA
+2016,2420,新巨企業股份有限公司,ZIPPY USA Inc.,1,美國,1,1,0,0,0,上市,G2420,NA,NA,NA,NA,NA,NA
+2016,2420,Landmark International Holding Ltd.,巨曜貿易(深圳)有限公司,1,china,0,1,0,1,0,上市,G2420,NA,NA,NA,NA,NA,NA
+2016,2420,ZIPPY International Holding Ltd.,新豪(東莞)電子有限公司,1,china,0,1,0,1,0,上市,G2420,NA,NA,NA,NA,NA,NA
+2016,2420,Landmark International Holding Ltd.,新諦(蘇州)電子有限公司,1,china,0,1,0,1,0,上市,G2420,NA,NA,NA,NA,NA,NA
+2016,2420,新巨企業股份有限公司,銓原股份有限公司,0.3905,台灣,1,1,0,0,0,上市,G2420,NA,53496584,NA,NA,NA,NA
+2016,2420,銓發股份有限公司,銓原股份有限公司,0.2981,台灣,0,1,0,0,0,上市,G2420,12726823,53496584,NA,NA,NA,NA
+2016,2420,新巨企業股份有限公司,銓發股份有限公司,0.6392,台灣,1,1,0,0,0,上市,G2420,NA,12726823,NA,NA,NA,NA

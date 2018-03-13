@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6245,LANNER ELECTRONICS (MAURITIUS) INC.,"LANCOM HOLDING CO., LTD.",1,薩摩亞,0,1,0,0,0,上櫃,G6245,NA,NA,NA,NA,NA,NA
+2016,6245,立端科技股份有限公司,LANNER ELECTRONICS (MAURITIUS) INC.,1,模里西斯,1,1,0,0,0,上櫃,G6245,22327466,NA,NA,NA,NA,NA
+2016,6245,立端科技股份有限公司,"LANNER ELECTRONICS USA, INC.",1,美國,1,1,0,0,0,上櫃,G6245,22327466,NA,NA,NA,NA,NA
+2016,6245,立端科技股份有限公司,LEI TECHNOLOGY CANADA INC.,1,加拿大,1,1,0,0,0,上櫃,G6245,22327466,NA,NA,NA,NA,NA
+2016,6245,北京立華萊康平臺科技有限公司,北京立華眾籌投資有限公司,1,china,0,1,0,1,0,上櫃,G6245,NA,NA,NA,NA,NA,NA
+2016,6245,"LANCOM HOLDING CO., LTD.",北京立華萊康平臺科技有限公司,0.9091,china,0,1,0,1,0,上櫃,G6245,NA,NA,NA,NA,NA,NA
+2016,6245,九康投資有限公司,立端科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6245,28680773,22327466,NA,NA,NA,NA
+2016,6245,北京立華眾籌投資有限公司,東莞立華海威網聯科技有限公司,1,china,0,1,0,1,0,上櫃,G6245,NA,NA,NA,NA,NA,NA
+2016,6245,北京立華眾籌投資有限公司,華電眾信(北京)技術有限公司,0.4299,china,0,1,0,1,0,上櫃,G6245,NA,NA,NA,NA,NA,NA

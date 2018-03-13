@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1465,偉全實業股份有限公司,立達國際股份有限公司,1,薩摩亞,1,1,0,0,0,上市,G1465,33700601,NA,NA,NA,NA,NA
+2013,1465,廣得實業(股)公司,偉全化纖(惠州)有限公司,1,china,0,1,0,1,0,上市,G1465,NA,NA,NA,NA,NA,NA
+2013,1465,廣得實業(股)公司,盛龍紡織(惠州)有限公司,0.48,china,0,0,0,1,0,上市,G1465,NA,NA,NA,NA,NA,NA
+2013,1465,立達國際股份有限公司,廣得實業(股)公司,0.48,開曼群島,0,1,0,0,0,上市,G1465,NA,NA,NA,NA,NA,NA

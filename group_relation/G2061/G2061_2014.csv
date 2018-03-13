@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2061,風青實業股份有限公司,MING FENG INTERNATIONAL LTD. B.V.I.,1,英屬維京群島,0,1,0,0,0,上櫃,G2061,89260422,NA,NA,NA,NA,NA
+2014,2061,溢得電子有限公司,SHIN CHUAN ENTERPRISE CORP. B.V.I.,0,英屬維京群島,0,0,1,0,0,上櫃,G2061,NA,NA,NA,NA,NA,NA
+2014,2061,MING FENG INTERNATIONAL LTD. B.V.I.,典型國際 (股)公司,1,薩摩亞,0,1,0,0,0,上櫃,G2061,NA,NA,NA,NA,NA,NA
+2014,2061,MING FENG INTERNATIONAL LTD. B.V.I.,風青電線(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G2061,NA,NA,NA,NA,NA,NA
+2014,2061,明泰投資股份有限公司,風青實業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2061,97420318,89260422,NA,NA,NA,NA
+2014,2061,典型國際 (股)公司,博羅風青漆包線製造有限公司,1,china,0,1,0,1,0,上櫃,G2061,NA,NA,NA,NA,NA,NA
+2014,2061,新全精密五金(惠州)有限公司,惠州市全信五金有限公司,0,china,0,1,0,1,0,上櫃,G2061,NA,NA,NA,NA,NA,NA
+2014,2061,新盈投資股份有限公司,新全允企業股份有限公司,0,台灣,0,1,0,0,0,上櫃,G2061,53229763,88661027,NA,NA,NA,NA
+2014,2061,溢得電子有限公司,新全精密五金(惠州)有限公司,0,china,0,1,0,1,0,上櫃,G2061,NA,NA,NA,NA,NA,NA
+2014,2061,風青實業股份有限公司,新盈投資股份有限公司,1,台灣,0,1,0,0,0,上櫃,G2061,89260422,53229763,NA,NA,NA,NA
+2014,2061,新全允企業股份有限公司,溢得電子有限公司,0,薩摩亞,0,1,0,0,0,上櫃,G2061,88661027,NA,NA,NA,NA,NA

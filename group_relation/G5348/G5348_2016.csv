@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5348,系通科技股份有限公司,TSI-USA公司,0,美國,1,1,0,0,0,上櫃,G5348,22099673,NA,NA,NA,NA,NA
+2016,5348,新光合成纖維股份有限公司,系通科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5348,07435515,22099673,NA,NA,NA,NA
+2016,5348,柏季投資股份有限公司,系通科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5348,23535076,22099673,NA,NA,NA,NA
+2016,5348,系通科技股份有限公司,益通投資有限公司,0,台灣,1,1,0,0,0,上櫃,G5348,22099673,16762882,NA,NA,NA,NA

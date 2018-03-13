@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8924,"O-TA Golf Group Co.,Ltd.",INDA NANO INDUSTRIAL CORP.,0.51,英屬維京群島,0,1,0,0,0,上櫃,G8924,NA,NA,NA,NA,NA,NA
+2016,8924,大田精密工業股份有限公司,"O-TA Golf Group Co.,Ltd.",1,英屬維京群島,1,1,0,0,0,上櫃,G8924,23060009,NA,NA,NA,NA,NA
+2016,8924,"O-TA Golf Group Co.,Ltd.",三田高爾夫用品(深圳)有限公司,0.855,china,0,1,0,0,0,上櫃,G8924,NA,NA,NA,NA,NA,NA
+2016,8924,南豐興企業股份有限公司,大田精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8924,03329339,23060009,NA,NA,NA,NA
+2016,8924,大智投資股份有限公司,大田精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8924,70407002,23060009,NA,NA,NA,NA
+2016,8924,"O-TA Golf Group Co.,Ltd.",江西大田精密科技有限公司,1,china,0,1,0,0,0,上櫃,G8924,NA,NA,NA,NA,NA,NA
+2016,8924,"O-TA Golf Group Co.,Ltd.",奇利田高爾夫用品(深圳)有限公司,1,china,0,1,0,0,0,上櫃,G8924,NA,NA,NA,NA,NA,NA
+2016,8924,"O-TA Golf Group Co.,Ltd.",豐太國際有限公司,1,香港,0,1,0,0,0,上櫃,G8924,NA,NA,NA,NA,NA,NA
+2016,8924,INDA NANO INDUSTRIAL CORP.,櫻之田複材科技(深圳)有限公司,1,china,0,1,0,0,0,上櫃,G8924,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3211,順達科技股份有限公司,Dynapack Technologies (Cayman) Corporation,1,開曼群島,1,1,0,0,0,上櫃,G3211,16596982,NA,NA,NA,NA,NA
+2013,3211,順達科技(香港)股份有限公司,昆山順陽電子科技有限公司,1,china,0,1,0,1,0,上櫃,G3211,NA,NA,NA,NA,NA,NA
+2013,3211,順達科技股份有限公司,致禾順開發股份有限公司,0.3,台灣,1,0,1,0,0,上櫃,G3211,16596982,53833431,NA,NA,NA,NA
+2013,3211,順達科技股份有限公司,順陽投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3211,16596982,25132865,NA,NA,NA,NA
+2013,3211,Dynapack Technologies (Cayman) Corporation,順達科技(香港)股份有限公司,1,香港,0,0,1,0,0,上櫃,G3211,NA,NA,NA,NA,NA,NA
+2013,3211,華龍財務顧問股份有限公司,順達科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3211,12866561,16596982,NA,NA,NA,NA
+2013,3211,台達電子工業股份有限公司,順達科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3211,34051920,16596982,NA,NA,NA,NA
+2013,3211,順達科技(香港)股份有限公司,順達電子科技(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G3211,NA,NA,NA,NA,NA,NA

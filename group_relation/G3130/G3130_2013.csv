@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3130,一零四資訊科技股份有限公司,104 Global Ltd.,1,薩摩亞,1,1,0,0,0,上市,G3130,84598349,NA,NA,NA,NA,NA
+2013,3130,104 Global Ltd.,104 International Ltd.,1,薩摩亞,0,1,0,0,0,上市,G3130,NA,NA,NA,NA,NA,NA
+2013,3130,一零四資訊科技股份有限公司,一零四人力資源顧問股份有限公司,1,台灣,1,1,0,0,0,上市,G3130,84598349,80187652,NA,NA,NA,NA
+2013,3130,扶華投資股份有限公司,一零四資訊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3130,12806591,84598349,NA,NA,NA,NA
+2013,3130,一零四資訊科技股份有限公司,一零四管理顧問股份有限公司,1,台灣,1,1,0,0,0,上市,G3130,84598349,28894705,NA,NA,NA,NA
+2013,3130,一零四資訊科技股份有限公司,一零四學習科技股份有限公司,1,台灣,1,1,0,0,0,上市,G3130,84598349,27615162,NA,NA,NA,NA
+2013,3130,一零四資訊科技股份有限公司,百識人才諮詢(上海)有限公司,0.7,china,1,1,0,1,0,上市,G3130,84598349,NA,NA,NA,NA,NA
+2013,3130,一零四資訊科技股份有限公司,點識信息科技(上海)有限公司,1,china,1,1,0,1,0,上市,G3130,84598349,NA,NA,NA,NA,NA
+2013,3130,104 International Ltd.,點識網絡技術(上海)有限公司,1,china,0,1,0,1,0,上市,G3130,NA,NA,NA,NA,NA,NA

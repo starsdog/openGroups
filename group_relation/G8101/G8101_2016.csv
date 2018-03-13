@@ -1,0 +1,38 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6289,華上光電股份有限公司,ACE Advance Holdings Limited,1,英屬維京群島,1,1,0,0,0,上市,G8101,16743865,NA,NA,NA,NA,NA
+2016,8101,華冠通訊股份有限公司,Arima Communication (Cayman) Corp.,1,開曼群島,1,1,0,0,0,上市,G8101,70747852,NA,NA,NA,NA,NA
+2016,8101,華冠通訊股份有限公司,Arima Comunicacoes Brasil Ltda,1,巴西,1,1,0,0,0,上市,G8101,70747852,NA,NA,NA,NA,NA
+2016,6289,ACE Advance Holdings Limited,Easy Creation International Development Limited,1,香港,0,1,0,0,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8101,冠如投資股份有限公司,Nexus Management Ltd.,1,薩摩亞,0,1,0,0,0,上市,G8101,28678734,NA,NA,NA,NA,NA
+2016,8101,Arima Communication (Cayman) Corp.,PT Adi Reka Nandiri,0.45,印尼,0,0,1,0,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8101,Nexus Management Ltd.,Qichuang Global Limited,0.3,英屬維京群島,0,0,1,0,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8101,華冠通訊股份有限公司,Technovation (Cayman) Corp.,1,開曼群島,1,1,0,0,0,上市,G8101,70747852,NA,NA,NA,NA,NA
+2016,6289,ACE Advance Holdings Limited,Trump Glory Trading Limited,1,香港,0,1,0,0,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8101,華昌能源股份有限公司,光利能源股份有限公司,1,台灣,0,1,0,0,0,上市,G8101,24572422,54091230,NA,NA,NA,NA
+2016,8101,Arima Communication (Cayman) Corp.,宇詮國際貿易(上海)有限公司,1,china,0,1,0,1,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8101,Arima Communication (Cayman) Corp.,利達通信(蘇州)有限公司,1,china,0,1,0,1,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8492,奇碁電腦股份有限公司,兔將創意影業股份有限公司,NA,NA,0,0,0,0,1,興櫃,G8101,16635556,53313071,NA,NA,NA,NA
+2016,8492,美樺興業股份有限公司,兔將創意影業股份有限公司,NA,NA,0,0,0,0,1,興櫃,G8101,27559372,53313071,NA,NA,NA,NA
+2016,8492,兔將影業(香港)有限公司,兔將視覺技術(北京)有限公司,1,china,0,1,0,1,0,興櫃,G8101,NA,NA,NA,NA,NA,NA
+2016,8492,兔將創意影業股份有限公司,兔將視覺特效股份有限公司,1,不明,1,1,0,0,0,興櫃,G8101,53313071,53890256,NA,NA,NA,NA
+2016,8492,兔將創意影業股份有限公司,兔將影業(香港)有限公司,1,香港,1,1,0,0,0,興櫃,G8101,53313071,NA,NA,NA,NA,NA
+2016,8101,華冠通訊股份有限公司,冠如投資股份有限公司,1,台灣,1,1,0,0,0,上市,G8101,70747852,28678734,NA,NA,NA,NA
+2016,8101,華冠通訊股份有限公司,冠達智能科技股份有限公司,1,台灣,1,1,0,0,0,上市,G8101,70747852,66286982,NA,NA,NA,NA
+2016,8101,再投資大陸公司,重慶創華科技有限公司,0.49,china,0,0,0,1,0,上市,G8101,NA,NA,11,NA,NA,NA
+2016,8101,華冠通訊股份有限公司,創生投資股份有限公司,0.4828,台灣,1,0,1,0,0,上市,G8101,70747852,24973469,NA,NA,NA,NA
+2016,6289,Easy Creation International Development Limited,華上光電(江蘇)有限公司,1,china,0,1,0,1,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,6289,華宇光能股份有限公司,華上光電股份有限公司,NA,NA,0,0,0,0,1,上市,G8101,23413799,16743865,NA,NA,NA,NA
+2016,6289,寶衡投資股份有限公司,華上光電股份有限公司,NA,NA,0,0,0,0,1,上市,G8101,89464018,16743865,NA,NA,NA,NA
+2016,8101,Arima Communication (Cayman) Corp.,華宇科技(南京)有限公司,1,china,0,1,0,1,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8101,冠如投資股份有限公司,華昌能源股份有限公司,0.9662,台灣,0,1,0,0,0,上市,G8101,28678734,24572422,NA,NA,NA,NA
+2016,8101,冠如投資股份有限公司,華信光電科技股份有限公司,0.0008,台灣,0,0,1,0,0,上市,G8101,28678734,28621753,NA,NA,NA,NA
+2016,6289,華上光電股份有限公司,華信光電科技股份有限公司,0.212,台灣,1,0,1,0,0,上市,G8101,16743865,28621753,NA,NA,NA,NA
+2016,8101,華冠通訊股份有限公司,華信光電科技股份有限公司,0.1971,台灣,1,0,1,0,0,上市,G8101,70747852,28621753,NA,NA,NA,NA
+2016,8101,Arima Communication (Cayman) Corp.,華冠科技(浙江)有限公司,1,china,0,1,0,1,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8101,Arima Communication (Cayman) Corp.,華冠通訊(江蘇)有限公司,1,china,0,1,0,1,0,上市,G8101,NA,NA,NA,NA,NA,NA
+2016,8101,英業達股份有限公司,華冠通訊股份有限公司,NA,NA,0,0,0,0,1,上市,G8101,04322046,70747852,NA,NA,NA,NA
+2016,8101,華宇光能股份有限公司,華冠通訊股份有限公司,NA,NA,0,0,0,0,1,上市,G8101,23413799,70747852,NA,NA,NA,NA
+2016,8101,華冠投資股份有限公司,華冠通訊股份有限公司,NA,NA,0,0,0,0,1,上市,G8101,16294109,70747852,NA,NA,NA,NA
+2016,8101,華冠通訊股份有限公司,華彩創意科技股份有限公司,1,台灣,1,1,0,0,0,上市,G8101,70747852,28114193,NA,NA,NA,NA
+2016,8101,創生投資股份有限公司,德田農業生技股份有限公司,0.99,台灣,0,0,1,0,0,上市,G8101,24973469,42631367,NA,NA,NA,NA
+2016,8492,華冠投資股份有限公司,兔將創意影業股份有限公司,0.0873,NA,0,0,0,0,1,興櫃,G8101,16294109,53313071,NA,NA,NA,NA

@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,6107,開曼仲昇,印尼華美,0,印尼,0,1,0,0,0,上櫃,G6107,NA,NA,NA,NA,NA,NA
+2014,6107,華美電子股份有限公司,香港華陸,1,香港,0,1,0,0,0,上櫃,G6107,75533416,NA,NA,NA,NA,NA
+2014,6107,開曼仲昇,泰國華美,0,泰國,0,1,0,0,0,上櫃,G6107,NA,NA,NA,NA,NA,NA
+2014,6107,開曼仲昇,深圳華美,1,china,0,1,0,1,0,上櫃,G6107,NA,NA,NA,NA,NA,NA
+2014,6107,香港華陸,深圳華衡,1,china,0,1,0,1,0,上櫃,G6107,NA,NA,NA,NA,NA,NA
+2014,6107,華美電子股份有限公司,詠嘉科技股份有限公司,0.2958,台灣,0,0,1,0,0,上櫃,G6107,75533416,70490727,NA,NA,NA,NA
+2014,6107,華美電子股份有限公司,開曼仲昇,1,香港,0,1,0,0,0,上櫃,G6107,75533416,NA,NA,NA,NA,NA

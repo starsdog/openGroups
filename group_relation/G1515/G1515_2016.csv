@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1515,力山工業股份有限公司,Gold Item Group Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G1515,55759180,NA,NA,NA,NA,NA
+2016,1515,力山工業股份有限公司,Power Tool Specialists Inc.,0.96,美國,1,1,0,0,0,上市,G1515,55759180,NA,NA,NA,NA,NA
+2016,1515,力山科技股份有限公司,Rexon Technology Ltd.,1,汶萊,0,1,0,0,0,上市,G1515,23535300,NA,NA,NA,NA,NA
+2016,1515,力合開發實業股份有限公司,力山工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1515,86646752,55759180,NA,NA,NA,NA
+2016,1515,Rexon Technology Ltd.,力山科技(上海)有限公司,1,china,0,1,0,1,0,上市,G1515,NA,NA,NA,NA,NA,NA
+2016,1515,力山工業股份有限公司,力山科技股份有限公司,0.8009,台灣,1,1,0,0,0,上市,G1515,55759180,23535300,NA,NA,NA,NA
+2016,1515,Gold Item Group Ltd.,力武國際(香港)有限公司,1,香港,0,1,0,0,0,上市,G1515,NA,NA,NA,NA,NA,NA
+2016,1515,力武國際(香港)有限公司,杭州力武機電有限公司,1,china,0,1,0,1,0,上市,G1515,NA,NA,NA,NA,NA,NA
+2016,1515,力山工業股份有限公司,杭州勘吉貿易有限公司,1,china,1,1,0,1,0,上市,G1515,55759180,NA,NA,NA,NA,NA
+2016,1515,Gold Item Group Ltd.,金科國際(香港)有限公司,1,香港,0,1,0,0,0,上市,G1515,NA,NA,NA,NA,NA,NA
+2016,1515,金科國際(香港)有限公司,桐鄉力山工業有限公司,1,china,0,1,0,1,0,上市,G1515,NA,NA,NA,NA,NA,NA
+2016,1515,力山工業股份有限公司,寶晶股份有限公司,0.16,台灣,0,0,1,0,0,上市,G1515,55759180,86835753,NA,NA,NA,NA
+2016,3169,亞信電子股份有限公司,ZywynCorporation(美商齊榮電子股份有限公司),1,美國,1,1,0,0,0,上櫃,G1515,84149435,NA,NA,NA,NA,NA
+2016,3169,力山工業股份有限公司,亞信電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1515,55759180,84149435,NA,NA,NA,NA
+2016,3169,茂生投資股份有限公司,亞信電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1515,29107229,84149435,NA,NA,NA,NA

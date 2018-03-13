@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "台灣永光化學工業股份有限公司", "no_holder": false, "taxcode": "15458455"}, {"is_core": true, "source": [{"holder": "NA", "name": "台灣永光化學工業股份有限公司"}], "name": "鐵研科技股份有限公司", "no_holder": false, "taxcode": "97272386"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

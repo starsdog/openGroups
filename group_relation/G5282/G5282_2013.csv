@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,5282,富昱科技開發股份有限公司,Four Moon Tech Inc.,1,薩摩亞,1,1,0,0,0,公開發行,G5282,NA,NA,NA,NA,NA,NA
+2013,5282,富昱科技開發股份有限公司,Four Sun Tech Inc.,1,薩摩亞,1,1,0,0,0,公開發行,G5282,NA,NA,NA,NA,NA,NA
+2013,5282,Four Sun Tech Inc.,富盛光電(吳江)有限公司,1,china,0,1,0,1,0,公開發行,G5282,NA,NA,NA,NA,NA,NA
+2013,5282,Four Sun Tech Inc.,富盛顯示屏材料(廣州)有限公司,1,china,0,1,0,1,0,公開發行,G5282,NA,NA,NA,NA,NA,NA

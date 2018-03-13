@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,6479,瑞寶基因股份有限公司,"Reber Genetics (Cayman) Co., Ltd.",1,開曼群島,1,1,0,0,0,興櫃,G6479,28861633,NA,NA,NA,NA,NA
+2015,6479,薩摩亞商TaiCellInv,瑞寶基因股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6479,NA,28861633,NA,NA,NA,NA
+2015,6479,瑞安大藥廠股份有限公司,瑞寶基因股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6479,23045916,28861633,NA,NA,NA,NA
+2015,6479,健亞生物科技股份有限公司,瑞寶基因股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6479,84149006,28861633,NA,NA,NA,NA
+2015,6567,生控基因疫苗股份有限公司,THEVAX GENETICS VACCINE USA. INC.,1,美國,1,0,1,0,0,興櫃,G6479,53778660,NA,NA,NA,NA,NA
+2015,6567,"HealthBaby Biotech(Hong Kong)Co.,Limited",生控基因疫苗股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6479,NA,53778660,NA,NA,NA,NA
+2015,6567,瑞安大藥廠股份有限公司,生控基因疫苗股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6479,23045916,53778660,NA,NA,NA,NA

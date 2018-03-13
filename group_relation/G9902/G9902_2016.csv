@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9902,台火開發股份有限公司,台友國際股份有限公司,0.9999,台灣,1,1,0,0,0,上市,G9902,03562308,16156176,NA,NA,NA,NA
+2016,9902,台火開發股份有限公司,台火投資股份有限公司,0.975,台灣,1,1,0,0,0,上市,G9902,03562308,16742465,NA,NA,NA,NA
+2016,9902,富利投資股份有限公司,台火開發股份有限公司,NA,NA,0,0,0,0,1,上市,G9902,22820278,03562308,NA,NA,NA,NA
+2016,9902,華賓股份有限公司,台火開發股份有限公司,NA,NA,0,0,0,0,1,上市,G9902,23321095,03562308,NA,NA,NA,NA
+2016,9902,寶利投資股份有限公司,台火開發股份有限公司,NA,NA,0,0,0,0,1,上市,G9902,23223209,03562308,NA,NA,NA,NA

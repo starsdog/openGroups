@@ -1,0 +1,23 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3024,憶聲電子股份有限公司,ACTION ASIA LTD.,0.6154,新加坡,1,1,0,0,0,上市,G3024,44955117,NA,NA,NA,NA,NA
+2015,3024,ALMOND GARDEN CORP.,ACTION ASIA LTD.,0.3846,新加坡,0,1,0,0,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,ACTION ASIA LTD.,ACTION INDUSTRIES (M) SDN. BHD.,1,馬來西亞,0,0,1,0,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,ACTION INDUSTRIES (M) SDN. BHD.,ACTION-TEK SDN. BHD.,1,馬來西亞,0,0,1,0,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,憶聲電子股份有限公司,ALMOND GARDEN CORP.,0.6154,英屬維京群島,1,0,1,0,0,上市,G3024,44955117,NA,NA,NA,NA,NA
+2015,3024,憶聲電子股份有限公司,AMERICA ACTION INC.,1,美國,1,1,0,0,0,上市,G3024,44955117,NA,NA,NA,NA,NA
+2015,3024,ACTION ASIA LTD.,ASD ELECTRONICS LIMITED,0.51,香港,0,1,0,0,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,ALMOND GARDEN CORP.,ASD ELECTRONICS LIMITED,0.49,香港,0,1,0,0,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,ACTION ASIA LTD.,上海馬新憶科技有限公司,1,china,0,1,0,1,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,香港華憶(集團)有限公司,上海憶歌商貿有限公司,1,china,0,1,0,1,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,憶聲電子股份有限公司,大盛投資股份有限公司,0.3983,台灣,1,1,0,0,0,上市,G3024,44955117,23112371,NA,NA,NA,NA
+2015,3024,ACTION ASIA LTD.,亞憶電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,再投資大陸公司,東莞晶旺光電有限公司,0.1455,china,0,0,0,1,0,上市,G3024,NA,NA,1,NA,NA,NA
+2015,3024,ALMOND GARDEN CORP.,香港華憶(集團)有限公司,1,香港,0,1,0,0,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,憶聲電子股份有限公司,倍適得電器股份有限公司,0.8767,台灣,1,1,0,0,0,上市,G3024,44955117,23226276,NA,NA,NA,NA
+2015,3024,大盛投資股份有限公司,真光股份有限公司,0,不明,0,1,0,0,0,上市,G3024,23112371,22547975,NA,NA,NA,NA
+2015,3024,憶聲電子股份有限公司,真光股份有限公司,0.225,台灣,1,1,0,0,0,上市,G3024,44955117,22547975,NA,NA,NA,NA
+2015,3024,倍適得電器股份有限公司,真光股份有限公司,0.775,台灣,0,1,0,0,0,上市,G3024,23226276,22547975,NA,NA,NA,NA
+2015,3024,憶聲電子股份有限公司,瑞林科技服務股份有限公司,1,台灣,1,1,0,0,0,上市,G3024,44955117,16748968,NA,NA,NA,NA
+2015,3024,亞憶電子(深圳)有限公司,德的技術(深圳)有限公司,1,不明,0,1,0,0,0,上市,G3024,NA,NA,NA,NA,NA,NA
+2015,3024,大柏投資有限公司,憶聲電子股份有限公司,NA,NA,0,0,0,0,1,上市,G3024,89383304,44955117,NA,NA,NA,NA
+2015,3024,華憶投資有限公司,憶聲電子股份有限公司,NA,NA,0,0,0,0,1,上市,G3024,16533919,44955117,NA,NA,NA,NA

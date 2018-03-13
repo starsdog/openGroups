@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2926,誠品生活股份有限公司,Galaxy Star Holdings Corporation,1,開曼群島,1,1,0,0,0,上櫃,G8958,27952966,NA,NA,NA,NA,NA
+2014,2926,Galaxy Star Holdings Corporation,香港誠品生活有限公司,1,香港,0,1,0,0,0,上櫃,G8958,NA,NA,NA,NA,NA,NA
+2014,2926,香港誠品生活有限公司,誠品生活百貨(上海)有限公司,1,china,0,1,0,1,0,上櫃,G8958,NA,NA,NA,NA,NA,NA
+2014,2926,香港誠品生活有限公司,誠品生活百貨(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G8958,NA,NA,NA,NA,NA,NA
+2014,2926,誠品股份有限公司,誠品生活股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8958,23155531,27952966,NA,NA,NA,NA
+2014,2926,誠品生活股份有限公司,誠品旅館事業股份有限公司,1,台灣,1,1,0,0,0,上櫃,G8958,27952966,53931593,NA,NA,NA,NA

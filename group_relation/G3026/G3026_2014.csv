@@ -1,0 +1,35 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,4194,Global Search Holdings Ltd.,Aihol Corporation,1,美國,0,1,0,0,0,興櫃,G3026,NA,NA,NA,NA,NA,NA
+2014,3556,Tiger Glory Limited,"Empia Technology, Inc.",1,美國,0,1,0,0,0,上櫃,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,"Holy Stone Holdings Co., Ltd.","Everplus Material Co., Ltd.",1,日本,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,4194,禾伸堂生技股份有限公司,Global Search Holdings Ltd.,1,薩摩亞,0,1,0,0,0,興櫃,G3026,12681706,NA,NA,NA,NA,NA
+2014,3026,"Holy Stone Holdings Co., Ltd.",Green Glory Holdings Ltd.,1,薩摩亞,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3556,禾麟數碼科技股份有限公司,"HAV Co., Ltd.",1,薩摩亞,0,0,1,0,0,上櫃,G3026,53922996,NA,NA,NA,NA,NA
+2014,4194,Global Search Holdings Ltd.,"Holy Stone Biotech Co., Ltd.",1,英國,0,1,0,0,0,興櫃,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,"Holy Stone Holdings Co., Ltd.",Holy Stone Holdings (Singapore) Pte. Ltd,1,新加坡,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,禾伸堂企業股份有限公司,"Holy Stone Holdings Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G3026,20891326,NA,NA,NA,NA,NA
+2014,3026,"Holy Stone Holdings Co., Ltd.","Holy Stone Investments Co., Ltd.",1,香港,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,"Holy Stone Holdings Co., Ltd.","Holy Stone Polytech Co., Ltd.",0,日本,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,"Holy Stone Holdings Co., Ltd.",Holypaq Corporation,1,開曼群島,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,Green Glory Holdings Ltd.,Holystone (Europe) Ltd.,1,英國,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,"Holy Stone Holdings Co., Ltd.","Mayatek Co., Ltd.",1,貝里斯,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,4194,禾伸堂生技股份有限公司,MDT INT'L SA,1,瑞士,0,1,0,0,0,興櫃,G3026,12681706,NA,NA,NA,NA,NA
+2014,3026,Green Glory Holdings Ltd.,Milestone Global Technology Ltd.,1,美國,0,1,0,0,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3556,禾麟數碼科技股份有限公司,Tiger Glory Limited,1,薩摩亞,0,0,1,0,0,上櫃,G3026,53922996,NA,NA,NA,NA,NA
+2014,3556,"HAV Co., Ltd.",上海嘉映微電子有限公司,1,china,0,1,0,1,0,上櫃,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,榮展投資股份有限公司,大賀電子股份有限公司,0.7,台灣,0,1,0,0,0,上市,G3026,28847746,22415209,NA,NA,NA,NA
+2014,3026,禾伸堂企業股份有限公司,友禾投資股份有限公司,0.5769,台灣,1,1,0,0,0,上市,G3026,20891326,70780964,NA,NA,NA,NA
+2014,3026,大賀電子股份有限公司,禾伸堂生技股份有限公司,0.0001,台灣,0,1,0,0,0,上市,G3026,22415209,12681706,NA,NA,NA,NA
+2014,3026,友禾投資股份有限公司,禾伸堂生技股份有限公司,0.2902,台灣,0,1,0,0,0,上市,G3026,70780964,12681706,NA,NA,NA,NA
+2014,3026,榮展投資股份有限公司,禾伸堂生技股份有限公司,0.0264,台灣,0,1,0,0,0,上市,G3026,28847746,12681706,NA,NA,NA,NA
+2014,3026,羚田投資股份有限公司,禾伸堂企業股份有限公司,NA,NA,0,0,0,0,1,上市,G3026,16160306,20891326,NA,NA,NA,NA
+2014,3026,禾伸堂企業股份有限公司,禾伸堂企業香港有限公司,1,香港,1,1,0,0,0,上市,G3026,20891326,NA,NA,NA,NA,NA
+2014,3026,"Holy Stone Investments Co., Ltd.",禾伸堂國際貿易(上海)有限公司,1,china,0,1,0,1,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,Holypaq Corporation,禾佳電子(東莞)有限公司,0,china,0,1,0,1,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,禾伸堂企業股份有限公司,禾茂電股份有限公司,1,台灣,1,1,0,0,0,上市,G3026,20891326,28844620,NA,NA,NA,NA
+2014,3026,"Holy Stone Investments Co., Ltd.",禾琦商貿(上海)有限公司,1,china,0,1,0,1,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3556,友禾投資股份有限公司,禾瑞亞科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3026,70780964,80342958,NA,NA,NA,NA
+2014,3556,隆格投資股份有限公司,禾瑞亞科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3026,16158012,80342958,NA,NA,NA,NA
+2014,3556,禾瑞亞科技股份有限公司,禾麟數碼科技股份有限公司,0.6494,台灣,1,0,1,0,0,上櫃,G3026,80342958,53922996,NA,NA,NA,NA
+2014,3026,Green Glory Holdings Ltd.,立奇國際貿易(上海)公司,1,china,0,1,0,1,0,上市,G3026,NA,NA,NA,NA,NA,NA
+2014,3026,禾伸堂企業股份有限公司,榮展投資股份有限公司,1,台灣,1,1,0,0,0,上市,G3026,20891326,28847746,NA,NA,NA,NA

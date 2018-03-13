@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3226,至寶光電股份有限公司,Infotex Enterprise Ltd.,1,模里西斯,1,1,0,0,0,上櫃,G3226,22193115,NA,NA,NA,NA,NA
+2015,3226,Infotex Enterprise Ltd.,Topower Computer (USA) Inc.,1,美國,0,0,1,0,0,上櫃,G3226,NA,NA,NA,NA,NA,NA
+2015,3226,至誠投資股份有限公司,至寶光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3226,53371331,22193115,NA,NA,NA,NA
+2015,3226,再投資大陸公司,東莞至寶電子有限公司,0,china,0,0,0,1,0,上櫃,G3226,NA,NA,NA,NA,NA,NA
+2015,3226,至寶光電股份有限公司,基因飛躍科技股份有限公司,1,不明,1,1,0,0,0,上櫃,G3226,22193115,70583871,NA,NA,NA,NA

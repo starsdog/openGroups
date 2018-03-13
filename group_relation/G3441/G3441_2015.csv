@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3441,U-BEST TRADING INC.,KUAN SHOU TECHNOLOGY(MAURITIUS)CORP.,1,模里西斯,0,1,0,0,0,上櫃,G3441,NA,NA,NA,NA,NA,NA
+2015,3441,聯一光學工業股份有限公司,U-BEST TRADING INC.,0.87,模里西斯,1,1,0,0,0,上櫃,G3441,52888437,NA,NA,NA,NA,NA
+2015,3441,聯宏投資股份有限公司,U-BEST TRADING INC.,0.13,模里西斯,0,1,0,0,0,上櫃,G3441,28761830,NA,NA,NA,NA,NA
+2015,3441,聯一光學工業股份有限公司,U-KING TRADING INC.,1,薩摩亞,1,1,0,0,0,上櫃,G3441,52888437,NA,NA,NA,NA,NA
+2015,3441,U-TOP TRADING INC.,U-MASTER TRADING INC.,1,薩摩亞,0,1,0,0,0,上櫃,G3441,NA,NA,NA,NA,NA,NA
+2015,3441,聯一光學工業股份有限公司,U-SHOW TRADING INC.,1,薩摩亞,1,1,0,0,0,上櫃,G3441,52888437,NA,NA,NA,NA,NA
+2015,3441,聯一光學工業股份有限公司,U-TOP TRADING INC.,0.48,薩摩亞,1,1,0,0,0,上櫃,G3441,52888437,NA,NA,NA,NA,NA
+2015,3441,聯立投資股份有限公司,U-TOP TRADING INC.,0.36,薩摩亞,0,1,0,0,0,上櫃,G3441,28364500,NA,NA,NA,NA,NA
+2015,3441,聯宏投資股份有限公司,U-TOP TRADING INC.,0.16,薩摩亞,0,1,0,0,0,上櫃,G3441,28761830,NA,NA,NA,NA,NA
+2015,3441,KUAN SHOU TECHNOLOGY(MAURITIUS)CORP.,句容聯一科技有限公司,1,china,0,1,0,1,0,上櫃,G3441,NA,NA,NA,NA,NA,NA
+2015,3441,U-BEST TRADING INC.,東莞聯一光學有限公司,0.95,china,0,1,0,1,0,上櫃,G3441,NA,NA,NA,NA,NA,NA
+2015,3441,U-MASTER TRADING INC.,無錫聯一肖特光學有限公司,0.81,china,0,1,0,1,0,上櫃,G3441,NA,NA,NA,NA,NA,NA
+2015,3441,廣曆投資股份有限公司,聯一光學工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3441,28128470,52888437,NA,NA,NA,NA
+2015,3441,今國光學工業股份有限公司,聯一光學工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3441,56654500,52888437,NA,NA,NA,NA
+2015,3441,新揚光學科技有限公司,聯一光學工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3441,27412053,52888437,NA,NA,NA,NA
+2015,3441,聯一光學工業股份有限公司,聯立投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3441,52888437,28364500,NA,NA,NA,NA
+2015,3441,聯一光學工業股份有限公司,聯宏投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3441,52888437,28761830,NA,NA,NA,NA

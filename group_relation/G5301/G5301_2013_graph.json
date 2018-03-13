@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "寶得利國際股份有限公司", "no_holder": false, "taxcode": "30866141"}, {"is_core": false, "source": [{"holder": "0", "name": "寶得利國際股份有限公司"}], "name": "CADAC INVESTMENT (BVI)CO., LTD", "no_holder": true, "taxcode": "NA"}], "links": [{"target": 1, "holder": "0.000000", "source": 0}], "y": "2013"}

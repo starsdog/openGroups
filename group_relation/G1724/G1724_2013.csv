@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1724,香港中國硝化棉有限公司,KOREA CNC LTD.,1,南韓,0,0,1,0,0,上市,G1724,NA,NA,NA,NA,NA,NA
+2013,1724,台硝股份有限公司,"T.N.C. Investment Co.,Ltd.",1,開曼群島,1,0,1,0,0,上市,G1724,38033305,NA,NA,NA,NA,NA
+2013,1724,力行投資股份有限公司,台硝股份有限公司,NA,NA,0,0,0,0,1,上市,G1724,86925419,38033305,NA,NA,NA,NA
+2013,1724,廣明實業股份有限公司,台硝股份有限公司,NA,NA,0,0,0,0,1,上市,G1724,43645121,38033305,NA,NA,NA,NA
+2013,1724,"T.N.C. Investment Co.,Ltd.",佛山台硝樹脂有限公司,0,不明,0,1,0,0,0,上市,G1724,NA,NA,NA,NA,NA,NA
+2013,1724,香港中國硝化棉有限公司,南京中硝化工有限公司,0.4,china,0,0,0,1,0,上市,G1724,NA,NA,8,NA,NA,NA
+2013,1724,"T.N.C. Investment Co.,Ltd.",香港中國硝化棉有限公司,0.4,香港,0,0,1,0,0,上市,G1724,NA,NA,NA,NA,NA,NA
+2013,1724,香港中國硝化棉有限公司,新鄉台硝化工有限公司,0.3,china,0,0,0,1,0,上市,G1724,NA,NA,8,NA,NA,NA

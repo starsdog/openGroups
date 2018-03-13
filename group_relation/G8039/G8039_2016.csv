@@ -1,0 +1,17 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8039,博威電子股份有限公司,"KTC Global Co., LTD.",1,薩摩亞,0,1,0,0,0,上市,G8039,28189948,NA,NA,NA,NA,NA
+2016,8039,"KTC Global Co., LTD.","KTC PanAsia Co., LTD.",1,薩摩亞,0,1,0,0,0,上市,G8039,NA,NA,NA,NA,NA,NA
+2016,8039,台虹科技股份有限公司,LEADMAX LIMITED,1,薩摩亞,1,1,0,0,0,上市,G8039,16198345,NA,NA,NA,NA,NA
+2016,8039,"TFS Co., LTD.","RICHSTAR Co., LTD.",1,薩摩亞,0,1,0,0,0,上市,G8039,NA,NA,NA,NA,NA,NA
+2016,8039,台虹科技股份有限公司,"TFS Co., LTD.",1,貝里斯,1,1,0,0,0,上市,G8039,16198345,NA,NA,NA,NA,NA
+2016,8039,台欣有限公司,TSC INTERNATIONAL LTD.,1,開曼群島,0,0,1,0,0,上市,G8039,NA,NA,NA,NA,NA,NA
+2016,8039,台虹科技股份有限公司,台欣有限公司,1,貝里斯,1,1,0,0,0,上市,G8039,16198345,NA,NA,NA,NA,NA
+2016,8039,TSC INTERNATIONAL LTD.,台虹科技(昆山)有限公司,1,china,0,1,0,1,0,上市,G8039,NA,NA,NA,NA,NA,NA
+2016,8039,台虹科技股份有限公司,台虹科技日本株式會社,1,日本,1,1,0,0,0,上市,G8039,16198345,NA,NA,NA,NA,NA
+2016,8039,僑美開發股份有限公司,台虹科技股份有限公司,NA,NA,0,0,0,0,1,上市,G8039,16795758,16198345,NA,NA,NA,NA
+2016,8039,福鼎投資興業股份有限公司,台虹科技股份有限公司,NA,NA,0,0,0,0,1,上市,G8039,89331496,16198345,NA,NA,NA,NA
+2016,8039,台虹科技股份有限公司,和詮科技股份有限公司,0.1672,台灣,1,0,1,0,0,上市,G8039,16198345,70849491,NA,NA,NA,NA
+2016,8039,TSC INTERNATIONAL LTD.,昆山台虹電子材料有限公司,1,china,0,1,0,1,0,上市,G8039,NA,NA,NA,NA,NA,NA
+2016,8039,"KTC PanAsia Co., LTD.",昆山凱特西電子材料有限公司,1,china,0,1,0,1,0,上市,G8039,NA,NA,NA,NA,NA,NA
+2016,8039,"RICHSTAR Co., LTD.",深圳台虹電子有限公司,1,china,0,1,0,1,0,上市,G8039,NA,NA,NA,NA,NA,NA
+2016,8039,台虹科技股份有限公司,博威電子股份有限公司,0.5386,台灣,1,1,0,0,0,上市,G8039,16198345,28189948,NA,NA,NA,NA

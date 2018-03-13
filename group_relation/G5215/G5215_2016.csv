@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5215,科嘉(開曼)股份有限公司,GODA INTERNATIONAL (HONG KONG) LIMITED,1,香港,1,1,0,0,0,上市,G5215,NA,NA,NA,NA,NA,NA
+2016,5215,嘉璟投資股份有限公司,百傑電子科技股份有限公司,0.2025,台灣,0,0,1,0,0,上市,G5215,54057726,27274571,NA,NA,NA,NA
+2016,5215,科嘉(開曼)股份有限公司,科德國際(薩摩亞)股份有限公司,1,薩摩亞,1,1,0,0,0,上市,G5215,NA,NA,NA,NA,NA,NA
+2016,5215,蘇州嘉吉電子有限公司,重慶嘉峰電子有限公司,0.55,china,0,1,0,1,0,上市,G5215,NA,NA,NA,NA,NA,NA
+2016,5215,蘇州嘉財電子有限公司,重慶嘉峰電子有限公司,0.45,不明,0,1,0,0,0,上市,G5215,NA,NA,NA,NA,NA,NA
+2016,5215,蘇州科德軟體電路板有限公司,重慶嘉駿電子有限公司,1,china,0,1,0,1,0,上市,G5215,NA,NA,NA,NA,NA,NA
+2016,5215,GODA INTERNATIONAL (HONG KONG) LIMITED,淮安嘉冠電子科技有限公司,1,china,0,1,0,1,0,上市,G5215,NA,NA,NA,NA,NA,NA
+2016,5215,科嘉(開曼)股份有限公司,嘉璟投資股份有限公司,1,台灣,1,1,0,0,0,上市,G5215,NA,54057726,NA,NA,NA,NA
+2016,5215,GODA INTERNATIONAL (HONG KONG) LIMITED,蘇州科德軟體電路板有限公司,1,china,0,1,0,1,0,上市,G5215,NA,NA,NA,NA,NA,NA
+2016,5215,科德國際(薩摩亞)股份有限公司,蘇州嘉吉電子有限公司,1,china,0,1,0,1,0,上市,G5215,NA,NA,NA,NA,NA,NA
+2016,5215,科德國際(薩摩亞)股份有限公司,蘇州嘉財電子有限公司,1,china,0,1,0,1,0,上市,G5215,NA,NA,NA,NA,NA,NA

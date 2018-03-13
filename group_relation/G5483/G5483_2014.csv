@@ -1,0 +1,19 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,5483,Aleo Solar GmbH,Aleo Solar Distribuzione Italia S.r.l.,1,義大利,0,1,0,0,0,上櫃,G5483,NA,NA,NA,NA,NA,NA
+2014,5483,中美矽晶製品股份有限公司,Aleo Solar GmbH,1,德國,0,1,0,0,0,上櫃,G5483,47238650,NA,NA,NA,NA,NA
+2014,6488,環球晶圓股份有限公司,GlobalSemiconductor Inc.,1,開曼群島,0,1,0,0,0,興櫃,G5483,28113286,NA,NA,NA,NA,NA
+2014,5483,環球晶圓股份有限公司,GlobalWafers Inc.,1,開曼群島,0,1,0,0,0,上櫃,G5483,28113286,NA,NA,NA,NA,NA
+2014,5483,GlobalWafers Inc.,"GlobalWafers Japan Co., Ltd.",1,日本,0,1,0,0,0,上櫃,G5483,NA,NA,NA,NA,NA,NA
+2014,5483,GlobalWafers Inc.,GlobiTech Incorporated,1,美國,0,1,0,0,0,上櫃,G5483,NA,NA,NA,NA,NA,NA
+2014,5483,中美矽晶製品股份有限公司,Sino Silicon Technology Inc.,1,英屬維京群島,0,1,0,0,0,上櫃,G5483,47238650,NA,NA,NA,NA,NA
+2014,5483,中美矽晶製品股份有限公司,中美材料股份有限公司,0.9,台灣,0,1,0,0,0,上櫃,G5483,47238650,54817986,NA,NA,NA,NA
+2014,5483,坤昌投資股份有限公司,中美矽晶製品股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5483,89621495,47238650,NA,NA,NA,NA
+2014,5483,英屬維京群島商泛亞太陽能台灣,中美矽晶製品股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5483,NA,47238650,NA,NA,NA,NA
+2014,5483,茂揚股份有限公司,中美矽晶製品股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5483,11960265,47238650,NA,NA,NA,NA
+2014,5483,開疆股份有限公司,中美矽晶製品股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5483,53537558,47238650,NA,NA,NA,NA
+2014,5483,中美矽晶製品股份有限公司,兆遠科技股份有限公司,0.4045,台灣,0,0,1,0,0,上櫃,G5483,47238650,12646223,NA,NA,NA,NA
+2014,5483,中美矽晶製品股份有限公司,旭泓全球光電股份有限公司,0,台灣,0,1,0,0,0,上櫃,G5483,47238650,28770057,NA,NA,NA,NA
+2014,6488,GlobalSemiconductor Inc.,昆山中辰矽晶有限公司,1,china,0,1,0,1,0,興櫃,G5483,NA,NA,NA,NA,NA,NA
+2014,5483,中美矽晶製品股份有限公司,真美晶能源股份有限公司,0.247,台灣,0,0,1,0,0,上櫃,G5483,47238650,28717693,NA,NA,NA,NA
+2014,5483,中美矽晶製品股份有限公司,環球晶圓股份有限公司,0.9492,台灣,0,1,0,0,0,上櫃,G5483,47238650,28113286,NA,NA,NA,NA
+2014,6488,開疆股份有限公司,環球晶圓股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5483,53537558,28113286,NA,NA,NA,NA

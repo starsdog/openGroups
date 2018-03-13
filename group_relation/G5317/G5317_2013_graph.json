@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "永林投資股份有限公司", "no_holder": false, "taxcode": "84473066"}, {"is_core": true, "source": [{"holder": "NA", "name": "永林投資股份有限公司"}], "name": "凱美電機股份有限公司", "no_holder": false, "taxcode": "04413051"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

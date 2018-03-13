@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1742,台灣蠟品股份有限公司,"TAI-WAX (Thailand) Co., Ltd.",1,泰國,0,1,0,0,0,上櫃,G1742,22625269,NA,NA,NA,NA,NA
+2016,1742,台灣蠟品股份有限公司,"TAI-WAX Holding Co., Ltd.",1,塞席爾,0,1,0,0,0,上櫃,G1742,22625269,NA,NA,NA,NA,NA
+2016,1742,遠進股份有限公司,台灣蠟品股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1742,54645632,22625269,NA,NA,NA,NA
+2016,1742,格林山有限公司,台灣蠟品股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1742,24525744,22625269,NA,NA,NA,NA
+2016,1742,"TAI-WAX Holding Co., Ltd.",盤興商貿(上海)有限公司,1,china,0,1,0,1,0,上櫃,G1742,NA,NA,NA,NA,NA,NA

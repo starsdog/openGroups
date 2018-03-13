@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3690,群成科技股份有限公司,Aptos Global Holding Corp.,1,塞席爾,0,1,0,0,0,公開發行,G3690,28725194,NA,NA,NA,NA,NA
+2015,3690,Aptos Global Holding Corp.,"Aptos Technology Co., Limited",1,香港,0,1,0,0,0,公開發行,G3690,NA,NA,NA,NA,NA,NA
+2015,3690,群豐科技股份有限公司,群成科技股份有限公司,0.5219,台灣,1,1,0,0,0,公開發行,G3690,28110041,28725194,NA,NA,NA,NA
+2015,3690,中華開發工業銀行股份有限公司,群豐科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G3690,11147207,28110041,NA,NA,NA,1
+2015,3690,中盈投資開發股份有限公司,群豐科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G3690,96975508,28110041,NA,NA,NA,NA
+2015,3690,奇鋐科技股份有限公司,群豐科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G3690,86427715,28110041,NA,NA,NA,NA
+2015,3690,開曼群島尚青儲存系統股份有限公司,群豐科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G3690,NA,28110041,NA,NA,NA,NA

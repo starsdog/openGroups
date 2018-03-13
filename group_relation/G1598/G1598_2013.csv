@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1598,Fuel-Spirit International Inc.,Dyaco Canada Inc.,1,加拿大,0,1,0,0,0,興櫃,G1598,NA,NA,NA,NA,NA,NA
+2013,1598,岱宇國際股份有限公司,Dyaco International Holding Limited,1,香港,1,1,0,0,0,興櫃,G1598,23751545,NA,NA,NA,NA,NA
+2013,1598,Dyaco International Holding Limited,Fuel-Spirit International Inc.,1,模里西斯,0,1,0,0,0,興櫃,G1598,NA,NA,NA,NA,NA,NA
+2013,1598,Spirit Manufacturing lnc.,"Spirit Direct, LLC.",1,不明,0,1,0,0,0,興櫃,G1598,NA,NA,NA,NA,NA,NA
+2013,1598,Spirit Manufacturing Inc.,"Spirit Direct, LLC.",1,美國,0,0,1,0,0,興櫃,G1598,NA,NA,NA,NA,NA,NA
+2013,1598,Fuel-Spirit International Inc.,Spirit Manufacturing Inc.,1,美國,0,1,0,0,0,興櫃,G1598,NA,NA,NA,NA,NA,NA
+2013,1598,岱宇國際股份有限公司,日本岱宇公司,1,日本,1,1,0,0,0,興櫃,G1598,23751545,NA,NA,NA,NA,NA
+2013,1598,Dyaco International Holding Limited,岱宇(上海)商貿有限公司,1,china,0,1,0,1,0,興櫃,G1598,NA,NA,NA,NA,NA,NA
+2013,1598,Dyaco International Holding Limited,東莞達宇運動器材有限公司,1,china,0,1,0,1,0,興櫃,G1598,NA,NA,NA,NA,NA,NA
+2013,1598,岱宇國際股份有限公司,詠安運動科技股份有限公司,1,台灣,1,1,0,0,0,興櫃,G1598,23751545,53854391,NA,NA,NA,NA

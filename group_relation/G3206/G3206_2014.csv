@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3206,志豐電子股份有限公司,AURORA INTERNATIONAL SERVICES CORPORATION,1,英屬維京群島,1,1,0,0,0,上櫃,G3206,31109687,NA,NA,NA,NA,NA
+2014,3206,志豐電子股份有限公司,KINGSTATE INTERNATIONAL INVESTMENT CORPORATION,1,薩摩亞,1,1,0,0,0,上櫃,G3206,31109687,NA,NA,NA,NA,NA
+2014,3206,昌潤投資股份有限公司,好米亞股份有限公司,0.45,台灣,0,0,1,0,0,上櫃,G3206,54171114,53942769,NA,NA,NA,NA
+2014,3206,佰樂股份有限公司,志豐電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3206,22890718,31109687,NA,NA,NA,NA
+2014,3206,華威聯合股份有限公司,志豐電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3206,86335618,31109687,NA,NA,NA,NA
+2014,3206,冠筑投資股份有限公司,志豐電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3206,28827256,31109687,NA,NA,NA,NA
+2014,3206,志豐電子股份有限公司,昌潤投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3206,31109687,54171114,NA,NA,NA,NA
+2014,3206,KINGSTATE INTERNATIONAL INVESTMENT CORPORATION,東莞志豐電子有限公司,1,china,0,1,0,1,0,上櫃,G3206,NA,NA,NA,NA,NA,NA
+2014,3206,KINGSTATE INTERNATIONAL INVESTMENT CORPORATION,蘇州百豐電子有限公司,1,china,0,1,0,1,0,上櫃,G3206,NA,NA,NA,NA,NA,NA

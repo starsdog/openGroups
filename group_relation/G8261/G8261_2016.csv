@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4905,Starfish Group Ltd.,Hercules International Group　Ltd.,1,不明,0,1,0,0,0,上櫃,G8261,NA,NA,NA,NA,NA,NA
+2016,8261,富鼎先進電子股份有限公司,"Future Technology Consulting (B.V.I.), Inc.",1,英屬維京群島,1,1,0,0,0,上市,G8261,16550923,NA,NA,NA,NA,NA
+2016,8261,富鼎先進電子股份有限公司,Perfect Prime Limited,1,薩摩亞,1,1,0,0,0,上市,G8261,16550923,NA,NA,NA,NA,NA
+2016,4905,Starfish Group Ltd.,Leadluck Ltd.,1,英屬維京群島,0,1,0,0,0,上櫃,G8261,NA,NA,NA,NA,NA,NA
+2016,4905,Starfish Group Ltd.,Max Profit Ltd.,1,英屬維京群島,0,1,0,0,0,上櫃,G8261,NA,NA,NA,NA,NA,NA
+2016,4905,台聯電訊股份有限公司,Starfish Group Ltd.,1,英屬維京群島,1,1,0,0,0,上櫃,G8261,23882531,NA,NA,NA,NA,NA
+2016,4905,台聯電訊股份有限公司,Win Wish Offshore Ltd.,1,薩摩亞,0,0,1,0,0,上櫃,G8261,23882531,NA,NA,NA,NA,NA
+2016,4905,Max Profit Ltd.,北京拓訊科技有限公司,1,china,0,1,0,1,0,上櫃,G8261,NA,NA,NA,NA,NA,NA
+2016,4905,富鼎科技顧問股份有限公司,台聯電訊股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8261,16172083,23882531,NA,NA,NA,NA
+2016,4905,睿進科技顧問股份有限公司,台聯電訊股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8261,53330846,23882531,NA,NA,NA,NA
+2016,4905,Leadluck Ltd.,金台聯國際貿易(上海)有限公司,1,china,0,1,0,1,0,上櫃,G8261,NA,NA,NA,NA,NA,NA
+2016,8261,Perfect Prime Limited,深圳富澄電子有限公司,1,china,0,1,0,1,0,上市,G8261,NA,NA,NA,NA,NA,NA
+2016,8261,元大商業銀行受託保管開曼島商華達資本控股投資(股)公司投資專戶,富鼎先進電子股份有限公司,NA,NA,0,0,0,0,1,上市,G8261,NA,16550923,NA,NA,NA,NA
+2016,8261,富鼎科技顧問股份有限公司,富鼎先進電子股份有限公司,NA,NA,0,0,0,0,1,上市,G8261,16172083,16550923,NA,NA,NA,NA
+2016,4905,聯創投資股份有限公司,福億通訊股份有限公司,0.5757,台灣,0,1,0,0,0,上櫃,G8261,16757662,12841302,NA,NA,NA,NA
+2016,8261,富鼎先進電子股份有限公司,橙毅科技股份有限公司,0.9,台灣,1,1,0,0,0,上市,G8261,16550923,47085057,NA,NA,NA,NA
+2016,4905,台聯電訊股份有限公司,聯創投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G8261,23882531,16757662,NA,NA,NA,NA

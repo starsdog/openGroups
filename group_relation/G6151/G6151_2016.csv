@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6151,晉倫科技股份有限公司,"Ginar Technology (B.V.I.) Co., Ltd.",1,英屬維京群島,0,0,1,0,0,上櫃,G6151,12390496,NA,NA,NA,NA,NA
+2016,6151,晉倫科技股份有限公司,"Ginar Technology (Cayman) Co., Ltd.",1,開曼群島,0,0,1,0,0,上櫃,G6151,12390496,NA,NA,NA,NA,NA
+2016,6151,晉倫科技股份有限公司,"Ginar Technology (Thailand) Co., Ltd.",0.4,泰國,0,0,1,0,0,上櫃,G6151,12390496,NA,NA,NA,NA,NA
+2016,6151,"Ginar Technology (B.V.I.) Co., Ltd.",江蘇晉倫塑料科技有限公司,0.4033,china,0,1,0,1,0,上櫃,G6151,NA,NA,NA,NA,NA,NA
+2016,6151,"Ginar Technology (Cayman) Co., Ltd.",江蘇晉倫塑料科技有限公司,0.5967,china,0,1,0,0,0,上櫃,G6151,NA,NA,NA,NA,NA,NA
+2016,6151,亨通投資有限公司,晉倫科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6151,12842371,12390496,NA,NA,NA,NA

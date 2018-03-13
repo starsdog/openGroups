@@ -1,0 +1,20 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3499,Globalsat Group,Globalsat Asia,1,汶萊,0,1,0,0,0,上櫃,G3499,NA,NA,NA,NA,NA,NA
+2016,3499,環天世通科技股份有限公司,Globalsat Group,1,薩摩亞,1,1,0,0,0,上櫃,G3499,70498381,NA,NA,NA,NA,NA
+2016,3499,環天世通科技股份有限公司,"USGLOBALSAT, Inc.",1,美國,1,1,0,0,0,上櫃,G3499,70498381,NA,NA,NA,NA,NA
+2016,3499,Globalsat Group,全聖資產管理有限公司,1,薩摩亞,0,1,0,0,0,上櫃,G3499,NA,NA,NA,NA,NA,NA
+2016,5471,松翰控股公司,松翰科技(成都)公司,1,china,0,1,0,1,0,上市,G3499,NA,NA,NA,NA,NA,NA
+2016,5471,松翰控股公司,松翰科技(深圳)公司,1,china,0,1,0,1,0,上市,G3499,NA,NA,NA,NA,NA,NA
+2016,5471,高新投資股份有限公司,松翰科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3499,79987396,97063584,NA,NA,NA,NA
+2016,5471,松翰科技股份有限公司,松翰科技會社,1,日本,0,1,0,0,0,上市,G3499,97063584,NA,NA,NA,NA,NA
+2016,5471,英屬維京松翰半導體公司,松翰控股公司,1,英屬維京群島,0,1,0,0,0,上市,G3499,NA,NA,NA,NA,NA,NA
+2016,3499,Globalsat Group,信源通科技(深圳)有限公司,0.1338,china,0,0,0,1,0,上櫃,G3499,NA,NA,2,NA,NA,NA
+2016,5471,松翰科技股份有限公司,英屬維京松翰半導體公司,1,英屬維京群島,0,1,0,0,0,上市,G3499,97063584,NA,NA,NA,NA,NA
+2016,5471,松翰科技股份有限公司,健懋投資股份有限公司,1,台灣,0,1,0,0,0,上市,G3499,97063584,80399298,NA,NA,NA,NA
+2016,5471,松翰科技(深圳)公司,深圳雨滴數字傳媒有限公司,1,china,0,1,0,1,0,上市,G3499,NA,NA,NA,NA,NA,NA
+2016,3499,Globalsat Group,萬達利發展有限公司,1,香港,0,1,0,0,0,上櫃,G3499,NA,NA,NA,NA,NA,NA
+2016,3499,全聖資產管理有限公司,廣州三照電子有限公司,1,china,0,1,0,1,0,上櫃,G3499,NA,NA,NA,NA,NA,NA
+2016,3499,萬達利發展有限公司,廣州環達電子有限公司,1,china,0,1,0,1,0,上櫃,G3499,NA,NA,NA,NA,NA,NA
+2016,5471,健懋投資股份有限公司,寶典創業投資股份有限公司,0.2098,台灣,0,0,1,0,0,上市,G3499,80399298,27325163,NA,NA,NA,NA
+2016,5471,松翰陳家,松翰科技股份有限公司,NA,台灣,0,0,0,0,1,上市,G3499,NA,97063584,NA,NA,NA,NA
+2016,3499,松翰陳家,環天世通科技股份有限公司,NA,台灣,1,1,0,0,0,上櫃,G3499,NA,70498381,NA,NA,NA,NA

@@ -1,0 +1,29 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3658,HMI Holdings Inc.,AnsingInternational LLC.,0,美國,0,1,0,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3658,AnsingInternational LLC.,Beijing,0,不明,0,1,0,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3707,Wellknown International Limited,Excellent International Enterprises Limited,0,英屬維京群島,0,1,0,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3658,HMI Holdings Inc.,"Hermes Microvision Co., Ltd.",1,不明,0,1,0,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3658,再投資大陸公司,"Hermes Microvision Co.,Ltd.(Beijing)",1,china,0,0,0,1,0,上櫃,G3707,NA,NA,11,NA,NA,NA
+2015,3658,HMI Investment Corp.,Hermes Microvision Inc.,0.94,美國,0,1,0,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3658,漢民微測科技股份有限公司,Hermes Microvision Inc.,0,不明,1,1,0,0,0,上櫃,G3707,80399207,NA,NA,NA,NA,NA
+2015,3658,HMI Holdings Inc.,Hermes Microvision Japan Inc.,1,日本,0,0,1,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3658,HMI Holdings Inc.,Hermes Microvision Korea Inc.,1,南韓,0,0,1,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3658,HMI Holdings Inc.,Hermes MicrovisionJapan Inc.,1,日本,0,1,0,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3658,HMI Holdings Inc.,Hermes MicrovisionKorea Inc.,1,南韓,0,1,0,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3658,漢民微測科技股份有限公司,HMI Holdings Inc.,1,薩摩亞,1,1,0,0,0,上櫃,G3707,80399207,NA,NA,NA,NA,NA
+2015,3658,HMI Holdings Inc.,HMI Investment Corp.,1,薩摩亞,0,0,1,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3707,威諾投資股份有限公司,Wellknown Holding Company Ltd.,1,薩摩亞,0,1,0,0,0,上櫃,G3707,28810749,NA,NA,NA,NA,NA
+2015,3707,威諾投資股份有限公司,Wellknown International Limited,0,薩摩亞,0,1,0,0,0,上櫃,G3707,28810749,NA,NA,NA,NA,NA
+2015,3707,Wellknown International Limited,Wellknown Holding Company Ltd.,0,薩摩亞,0,0,1,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3707,Wellknown Holding Company Ltd.,上海漢磊電子貿易有限公司,1,china,0,1,0,0,0,上櫃,G3707,NA,NA,NA,NA,NA,NA
+2015,3707,漢磊先進投資控股股份有限公司,台灣高技股份有限公司,0.3848,台灣,0,0,1,0,0,上櫃,G3707,54389725,22099343,NA,NA,NA,NA
+2015,3707,威諾投資股份有限公司,艾柏霖科技股份有限公司,0.6167,台灣,0,1,0,0,0,上櫃,G3707,28810749,24436052,NA,NA,NA,NA
+2015,3707,漢磊先進投資控股股份有限公司,威諾投資股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3707,54389725,28810749,NA,NA,NA,NA
+2015,3707,漢磊先進投資控股股份有限公司,漢磊半導體晶圓股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3707,54389725,28113820,NA,NA,NA,NA
+2015,3707,宏德投資股份有限公司,漢磊先進投資控股股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3707,16089796,54389725,NA,NA,NA,NA
+2015,3707,英屬維京群島商倍朗國際有限公司,漢磊先進投資控股股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3707,NA,54389725,NA,NA,NA,NA
+2015,3707,勝璽投資股份有限公司,漢磊先進投資控股股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3707,16857774,54389725,NA,NA,NA,NA
+2015,3707,漢民科技股份有限公司,漢磊先進投資控股股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3707,12138114,54389725,NA,NA,NA,NA
+2015,3707,維善投資股份有限公司,漢磊先進投資控股股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3707,23471761,54389725,NA,NA,NA,NA
+2015,3707,漢磊先進投資控股股份有限公司,漢磊科技股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3707,54389725,47299902,NA,NA,NA,NA
+2015,3658,漢民科技股份有限公司,漢民微測科技股份有限公司,0.1462,NA,0,0,0,0,1,上櫃,G3707,12138114,80399207,NA,NA,NA,NA

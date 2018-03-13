@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6147,頎邦科技股份有限公司,Chipmore Holding Company Limited,0.8554,開曼群島,0,1,0,0,0,上櫃,G6147,16130009,NA,NA,NA,NA,NA
+2016,6147,Chipmore Holding Company Limited,Chipmore Holding Company Limited (H.K.),1,香港,0,1,0,0,0,上櫃,G6147,NA,NA,NA,NA,NA,NA
+2016,6147,頎中科技(蘇州)有限公司,Chipmore International Trading Company Limited (H.K.),1,香港,0,1,0,0,0,上櫃,G6147,NA,NA,NA,NA,NA,NA
+2016,6147,頎邦科技股份有限公司,International Semiconductor Technology Holding Company Limited,1,薩摩亞,0,1,0,0,0,上櫃,G6147,16130009,NA,NA,NA,NA,NA
+2016,6147,International Semiconductor Technology Holding Company Limited,飛信電子(昆山)有限公司,1,china,0,1,0,1,0,上櫃,G6147,NA,NA,NA,NA,NA,NA
+2016,6147,Chipmore Holding Company Limited (H.K.),頎中科技(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G6147,NA,NA,NA,NA,NA,NA
+2016,6147,鵬寶科技股份有限公司,頎邦科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6147,16089867,16130009,NA,NA,NA,NA

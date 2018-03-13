@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "Auto Server Co., Ltd.", "no_holder": false, "taxcode": "NA"}, {"is_core": false, "source": [{"holder": "0", "name": "Auto Server Co., Ltd."}], "name": "International Auto Auction Co., Ltd.", "no_holder": true, "taxcode": "NA"}], "links": [{"target": 1, "holder": "0.000000", "source": 0}], "y": "2013"}

@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4925,智微科技股份有限公司,JMicron International (SAMOA) Ltd.,1,薩摩亞,1,1,0,0,0,興櫃,G4925,NA,NA,NA,NA,NA,NA
+2016,4925,智微科技股份有限公司,JMicron USA Technology Corp.,0,美國,1,0,1,0,0,興櫃,G4925,NA,NA,NA,NA,NA,NA
+2016,4925,JMicron International (SAMOA) Ltd.,智微芯片設計(深圳)有限公司,1,china,0,1,0,1,0,興櫃,G4925,NA,NA,NA,NA,NA,NA
+2016,4925,JMicron International (SAMOA) Ltd.,聯芸科技(杭州)有限公司,0,china,0,1,0,1,0,興櫃,G4925,NA,NA,NA,NA,NA,NA

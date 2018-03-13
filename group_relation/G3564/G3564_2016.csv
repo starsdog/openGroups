@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3564,其陽科技股份有限公司,AEWIN TECH INC.,1,美國,1,1,0,0,0,上櫃,G3564,12658515,NA,NA,NA,NA,NA
+2016,3564,WISE WAY,BRIGHT PROFIT,1,香港,0,1,0,0,0,上櫃,G3564,NA,NA,NA,NA,NA,NA
+2016,3564,WISE WAY,TOP CHANCE,0,汶萊,0,0,1,0,0,上櫃,G3564,NA,NA,NA,NA,NA,NA
+2016,3564,其陽科技股份有限公司,WISE WAY,1,汶萊,1,1,0,0,0,上櫃,G3564,12658515,NA,NA,NA,NA,NA
+2016,3564,BRIGHT PROFIT,北京其陽華夏科技有限公司,1,china,0,1,0,1,0,上櫃,G3564,NA,NA,NA,NA,NA,NA
+2016,3564,其鑫股份有限公司,其陽科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3564,24258964,12658515,NA,NA,NA,NA

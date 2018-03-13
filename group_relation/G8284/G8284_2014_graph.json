@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "三竹資訊股份有限公司", "no_holder": false, "taxcode": "86136982"}, {"is_core": false, "source": [{"holder": "0", "name": "三竹資訊股份有限公司"}], "name": "MITAKE INTERNATIONAL HOLDINGS LTD.", "no_holder": true, "taxcode": "NA"}], "links": [{"target": 1, "holder": "0.000000", "source": 0}], "y": "2014"}

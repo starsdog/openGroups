@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1519,華城電機股份有限公司,Fortune Electric America Inc.,0.01,美國,1,1,0,0,0,上市,G1519,NA,NA,NA,NA,NA,NA
+2015,1519,華城電機股份有限公司,日立華城變壓器股份有限公司,0.004,台灣,1,0,1,0,0,上市,G1519,NA,54659163,NA,NA,NA,NA
+2015,1519,華城電機(武漢)有限公司,武漢天佑華城貿易有限公司,0.01,中國大陸,0,1,0,0,0,上市,G1519,NA,NA,NA,NA,NA,NA
+2015,1519,華城電機(武漢)有限公司,武漢華榮機械有限公司,0.006,中國大陸,0,1,0,0,0,上市,G1519,NA,NA,NA,NA,NA,NA
+2015,1519,華城電機股份有限公司,動能國際有限公司,0.01,薩摩亞,1,1,0,0,0,上市,G1519,NA,NA,NA,NA,NA,NA
+2015,1519,動能國際有限公司,華城電機(武漢)有限公司,0.01,china,0,1,0,1,0,上市,G1519,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2929,淘帝兒童服飾有限公司,史帝歐(福建)輕紡用品有限公司,1,china,0,1,0,1,0,上市,G2929,NA,NA,NA,NA,NA,NA
+2013,2929,淘帝國際控股有限公司,淘帝兒童服飾有限公司,1,香港,1,1,0,0,0,上市,G2929,NA,NA,NA,NA,NA,NA
+2013,2929,淘帝兒童服飾有限公司,福州淘帝服飾有限公司,0.25,china,0,1,0,1,0,上市,G2929,NA,NA,NA,NA,NA,NA
+2013,2929,史帝歐(福建)輕紡用品有限公司,福州淘帝服飾有限公司,0.75,china,0,1,0,0,0,上市,G2929,NA,NA,NA,NA,NA,NA

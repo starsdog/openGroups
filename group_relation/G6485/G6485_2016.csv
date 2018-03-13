@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6485,銀燦科技股份有限公司,Innostor Technology (Samoa) Limited,1,英屬維京群島,0,1,0,0,0,上櫃,G6485,29101082,NA,NA,NA,NA,NA
+2016,6485,點序科技股份有限公司,博惟半導體股份有限公司,0.3258,台灣,1,1,0,0,0,上櫃,G6485,28927852,54716256,NA,NA,NA,NA
+2016,6485,Innostor Technology (Samoa) Limited,銀燦科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G6485,NA,NA,NA,NA,NA,NA
+2016,6485,點序科技股份有限公司,銀燦科技股份有限公司,0.6974,台灣,1,1,0,0,0,上櫃,G6485,28927852,29101082,NA,NA,NA,NA

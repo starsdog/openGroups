@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5498,Key Ware International Limited,Advisor Move Investments Limited,1,英屬維京群島,0,1,0,0,0,上櫃,G5498,NA,NA,NA,NA,NA,NA
+2016,5498,凱崴電子股份有限公司,Key Ware International Limited,1,英屬維京群島,1,1,0,0,0,上櫃,G5498,97326828,NA,NA,NA,NA,NA
+2016,5498,Key Ware International Limited,Module System International Limited,1,開曼群島,0,1,0,0,0,上櫃,G5498,NA,NA,NA,NA,NA,NA
+2016,5498,Module System International Limited,昆山威興電子有限公司,1,china,0,1,0,1,0,上櫃,G5498,NA,NA,NA,NA,NA,NA
+2016,5498,Advisor Move Investments Limited,昆山滬崴電子有限公司,1,china,0,1,0,1,0,上櫃,G5498,NA,NA,NA,NA,NA,NA
+2016,5498,昆山滬崴電子有限公司,昆山鐳崴光電科技有限公司,1,china,0,1,0,1,0,上櫃,G5498,NA,NA,NA,NA,NA,NA
+2016,5498,佳駒投資有限公司,凱崴電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5498,16602464,97326828,NA,NA,NA,NA
+2016,5498,漢友財務管理顧問股份有限公司,凱崴電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5498,89471550,97326828,NA,NA,NA,NA
+2016,5498,漢友投資顧問股份有限公司,凱崴電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5498,89477365,97326828,NA,NA,NA,NA
+2016,5498,敏駒投資股份有限公司,凱崴電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5498,80490943,97326828,NA,NA,NA,NA
+2016,5498,積善投資股份有限公司,凱崴電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5498,28000564,97326828,NA,NA,NA,NA
+2016,5498,凱崴電子股份有限公司,榮沛科技股份有限公司,0.2273,台灣,1,0,1,0,0,上櫃,G5498,97326828,54684389,NA,NA,NA,NA
+2016,5498,凱崴電子股份有限公司,慧朋科技股份有限公司,0.9999,台灣,1,1,0,0,0,上櫃,G5498,97326828,24782308,NA,NA,NA,NA

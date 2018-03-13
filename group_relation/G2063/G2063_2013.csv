@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2063,世鎧精密股份有限公司,BI-METAL LIMITED,1,薩摩亞,1,1,0,0,0,上櫃,G2063,86637206,NA,NA,NA,NA,NA
+2013,2063,BI-METAL LIMITED,世鎧貿易(上海)有限公司,1,中國大陸,0,0,1,0,0,上櫃,G2063,NA,NA,NA,NA,NA,NA
+2013,2063,冠逸投資股份有限公司,世鎧精密股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2063,27688354,86637206,NA,NA,NA,NA
+2013,2063,承銘投資股份有限公司,世鎧精密股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2063,53063382,86637206,NA,NA,NA,NA

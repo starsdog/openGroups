@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3526,凡甲科技股份有限公司,A-LIST International Ltd.,1,薩摩亞,1,1,0,0,0,上櫃,G3526,16691156,NA,NA,NA,NA,NA
+2016,3526,A-LIST International Ltd.,Alltop Holding Ltd.,1,香港,0,0,1,0,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,A-LIST International Ltd.,Harvest Technology International Ltd.,1,薩摩亞,0,1,0,0,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,Alltop Holding Ltd,"Mettle Enterprise Co., Ltd.",0.294,塞席爾,0,1,0,0,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,Topwise Technology Ltd.,"Mettle Enterprise Co., Ltd.",0.706,塞席爾,0,1,0,0,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,A-LIST International Ltd.,Topwise Technology Ltd.,1,薩摩亞,0,1,0,0,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,A-LIST International Ltd.,凡甲科技(蘇州)有限公司,1,china,0,0,0,1,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,延華投資有限公司,凡甲科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3526,28683384,16691156,NA,NA,NA,NA
+2016,3526,立瑩有限公司,凡甲科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3526,84535680,16691156,NA,NA,NA,NA
+2016,3526,Alltop Holding Ltd,凡甲電子(蘇州)有限公司,1,不明,0,1,0,0,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,凡甲科技股份有限公司,永冠投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3526,16691156,53416479,NA,NA,NA,NA
+2016,3526,"Mettle Enterprise Co., Ltd.",立全科技(太倉)有限公司,1,china,0,1,0,1,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,Alltop Holding Ltd.,盛凱吉電子科技(太倉)有限公司,0.2308,china,0,0,0,1,0,上櫃,G3526,NA,NA,NA,NA,NA,NA
+2016,3526,Alltop Holding Ltd.,盛輝有限公司,0.231,薩摩亞,0,0,1,0,0,上櫃,G3526,NA,NA,NA,NA,NA,NA

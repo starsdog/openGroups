@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3632,研勤科技股份有限公司,"A Maction Co., Ltd.",0.49,泰國,1,0,1,0,0,上櫃,G3632,12894047,NA,NA,NA,NA,NA
+2014,3632,研鼎崧圖股份有限公司,"GOLIFE, Inc.",1,薩摩亞,0,0,1,0,0,上櫃,G3632,29044837,NA,NA,NA,NA,NA
+2014,3632,"GOLIFE, Inc.",GOYOURLIFE Limited,1,香港,0,0,1,0,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2014,3632,研勤科技股份有限公司,Maction International Inc.,1,美國,1,1,0,0,0,上櫃,G3632,12894047,NA,NA,NA,NA,NA
+2014,3632,Maction International Inc.,Maction Technologies Limited,1,香港,0,1,0,0,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2014,3632,研勤科技股份有限公司,PAPAGO (H.K.) Limited,1,香港,1,1,0,0,0,上櫃,G3632,12894047,NA,NA,NA,NA,NA
+2014,3632,研勤科技股份有限公司,PAPAGO (Singapore) Pte. Ltd.,1,新加坡,1,1,0,0,0,上櫃,G3632,12894047,NA,NA,NA,NA,NA
+2014,3632,研勤科技股份有限公司,"PAPAGO (Thailand) Co., Ltd.",0.7,泰國,1,1,0,0,0,上櫃,G3632,12894047,NA,NA,NA,NA,NA
+2014,3632,研鼎崧圖股份有限公司,"PAPAGO (Thailand) Co., Ltd.",0,泰國,0,0,1,0,0,上櫃,G3632,29044837,NA,NA,NA,NA,NA
+2014,3632,PAPAGO (H.K.) Limited,PAPAGO JAPAN株式會社,0.45,日本,0,0,1,0,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2014,3632,PAPAGO (H.K.) Limited,"PAPAGO, Inc.",0.4,美國,0,0,1,0,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2014,3632,Maction Technologies Limited,上海研亞軟件信息技術有限公司,1,china,0,1,0,1,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2014,3632,GOYOURLIFE Limited,研崧(上海)信息科技有限公司,1,china,0,1,0,1,0,上櫃,G3632,NA,NA,NA,NA,NA,NA
+2014,3632,研勤科技股份有限公司,研鼎崧圖股份有限公司,0.42,台灣,1,1,0,0,0,上櫃,G3632,12894047,29044837,NA,NA,NA,NA
+2014,3632,研勤科技股份有限公司,研釀生技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3632,12894047,54685508,NA,NA,NA,NA

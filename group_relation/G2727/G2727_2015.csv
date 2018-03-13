@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2727,台品股份有限公司,Sufood Singapore Pte. Ltd.,0.3,新加坡,0,0,1,0,0,上市,G2727,NA,NA,NA,NA,NA,NA
+2015,2727,台品股份有限公司,WJ Investments Limited,0.225,香港,0,0,1,0,0,上市,G2727,NA,NA,NA,NA,NA,NA
+2015,2727,合品股份有限公司,WJ Investments Limited,0.225,香港,0,0,1,0,0,上市,G2727,NA,NA,NA,NA,NA,NA
+2015,2727,王品有限公司,王品(中國)餐飲有限公司,1,china,0,1,0,1,0,上市,G2727,NA,NA,NA,NA,NA,NA
+2015,2727,王品餐飲股份有限公司,王品餐飲(北京)有限公司,1,china,0,1,0,1,0,上市,G2727,NA,NA,NA,NA,NA,NA
+2015,2727,王品有限公司,王品餐飲(北京)有限公司,1,中國大陸,0,0,1,0,0,上市,G2727,24912576,NA,NA,NA,NA,NA
+2015,2727,合品股份有限公司,王品有限公司,1,薩摩亞,0,1,0,0,0,上市,G2727,NA,NA,NA,NA,NA,NA
+2015,2727,王品餐飲股份有限公司,王莆餐飲股份有限公司,0.7,台灣,1,1,0,0,0,上市,G2727,84630426,42672887,NA,NA,NA,NA
+2015,2727,王品餐飲股份有限公司,台品股份有限公司,1,汶萊,1,1,0,0,0,上市,G2727,84630426,NA,NA,NA,NA,NA
+2015,2727,WJ Investments Limited,石二鍋(上海)餐飲管理有限公司,1,china,0,0,1,1,0,上市,G2727,NA,NA,NA,NA,NA,NA
+2015,2727,台品股份有限公司,合品股份有限公司,0.51,開曼群島,0,1,0,0,0,上市,G2727,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3202,樺晟電子股份有限公司,"HIGH-TEK HARNESS ENTERPRISE CO.,LTD. (BVI)",1,英屬維京群島,0,0,1,0,0,上櫃,G3202,39607700,NA,NA,NA,NA,NA
+2016,3202,樺晟電子股份有限公司,"HIGH-TEK HARNESS ENTERPRISE CO.,LTD. (SAMOA)",1,薩摩亞,0,1,0,0,0,上櫃,G3202,39607700,NA,NA,NA,NA,NA
+2016,3202,"HIGH-TEK HARNESS ENTERPRISE CO.,LTD. (BVI)",HIGH-TEK PTE LTD,0.1349,新加坡,0,1,0,0,0,上櫃,G3202,NA,NA,NA,NA,NA,NA
+2016,3202,"HIGH-TEK HARNESS ENTERPRISE CO.,LTD. (SAMOA)",HIGH-TEK PTE LTD,0.799,新加坡,0,0,1,0,0,上櫃,G3202,NA,NA,NA,NA,NA,NA
+2016,3202,樺晟電子股份有限公司,HIGH-TEK PTE LTD,0.0661,新加坡,0,0,1,0,0,上櫃,G3202,39607700,NA,NA,NA,NA,NA
+2016,3202,樺晟電子股份有限公司,"HSIEH-YUH TECHNOLOGY CO.,LTD.",0.7392,英屬維京群島,0,0,1,0,0,上櫃,G3202,39607700,NA,NA,NA,NA,NA
+2016,3202,"HSIEH-YUH TECHNOLOGY CO.,LTD.",協昱電子科技(中山)有限公司,1,china,0,1,0,1,0,上櫃,G3202,NA,NA,NA,NA,NA,NA
+2016,3202,樺晟電子股份有限公司,莯可生物科技股份有限公司,0,台灣,0,0,1,0,0,上櫃,G3202,39607700,54549096,NA,NA,NA,NA
+2016,3202,樺晟電子股份有限公司,樺晟科技股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3202,39607700,53716546,NA,NA,NA,NA
+2016,3202,HIGH-TEK PTE LTD,樺晟電子(昆山)有限公司,1,china,0,1,0,1,0,上櫃,G3202,NA,NA,NA,NA,NA,NA
+2016,3202,HIGH-TEK PTE LTD,樺晟電子(青島)有限公司,1,china,0,1,0,1,0,上櫃,G3202,NA,NA,NA,NA,NA,NA
+2016,3202,HIGH-TEK PTE LTD,樺晟電子(重慶)有限公司,1,china,0,1,0,1,0,上櫃,G3202,NA,NA,NA,NA,NA,NA
+2016,3202,辰鑫投資有限公司,樺晟電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3202,42860558,39607700,NA,NA,NA,NA
+2016,3202,錦江投資有限公司,樺晟電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3202,42860086,39607700,NA,NA,NA,NA

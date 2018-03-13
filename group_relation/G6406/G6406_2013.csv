@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,6406,永美科技材料股份有限公司,"ACE FORCE CO.,LTD.",0.01,塞席爾,1,1,0,0,0,公開發行,G6406,27446933,NA,NA,NA,NA,NA
+2013,6406,"ACE FORCE CO.,LTD.","ACTIVE EXPRESS CO.,LTD.",0.01,塞席爾,0,0,1,0,0,公開發行,G6406,NA,NA,NA,NA,NA,NA
+2013,6406,"ACTIVE EXPRESS CO.,LTD",仰德電子科技(昆山)有限公司,0.01,china,0,1,0,1,0,公開發行,G6406,NA,NA,NA,NA,NA,NA

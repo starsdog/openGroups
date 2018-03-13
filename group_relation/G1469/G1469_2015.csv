@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1469,理隆纖維工業股份有限公司,Lilon Investment Limited,1,英屬維京群島,0,0,1,0,0,上市,G1469,01175920,NA,NA,NA,NA,NA
+2015,1469,義理德投資股份有限公司,理隆纖維工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1469,97105753,01175920,NA,NA,NA,NA
+2015,1469,東明投資股份有限公司,理隆纖維工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1469,97103734,01175920,NA,NA,NA,NA
+2015,1469,敏理投資股份有限公司,理隆纖維工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1469,97106916,01175920,NA,NA,NA,NA
+2015,1469,理隆纖維工業股份有限公司,理達投資股份有限公司,0.9994,台灣,0,1,0,0,0,上市,G1469,01175920,70832999,NA,NA,NA,NA

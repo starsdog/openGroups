@@ -1,0 +1,46 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5609,Dimerco Express (Malaysia) Sdn. Bhd.,Danau Muhibbah Sdn. Bhd.,1,馬來西亞,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Interational Logistic Corp.,Dimerco Air Forwarders (HK) Ltd.,0.9999,香港,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Express (U.S.A.) Corp.,Dimerco Customs Brokerage Co. Ltd,1,美國,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Dimerco Express (Australia) Pty Ltd,1,澳大利亞,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Dimerco Express (Canada) Corp.,1,加拿大,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Express (Singapore) Pte Ltd.,Dimerco Express (India) Pte Ltd.,0.6,印度,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Dimerco Express (Korea) Corp.,1,南韓,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Dimerco Express (Malaysia) Sdn. Bhd.,1,馬來西亞,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Interational Logistic Corp.,Dimerco Express (Singapore) Pte Ltd.,0.1389,新加坡,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,中菲行國際物流股份有限公司,Dimerco Express (Singapore) Pte Ltd.,0.8611,新加坡,1,1,0,0,0,上櫃,G5609,01176152,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Dimerco Express (Thailand) Corp. Ltd.,0.49,泰國,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Interational Logistic Corp.,Dimerco Express (U.K.) Ltd.,1,英國,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Interational Logistic Corp.,Dimerco Express (U.S.A.) Corp.,1,美國,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,中菲行國際物流股份有限公司,"Dimerco Express Holding Co., Ltd.",1,不明,1,1,0,0,0,上櫃,G5609,01176152,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Dimerco Express Netherlands B.V.,1,荷蘭,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Dimerco Express Phils. Inc.,0.4,菲律賓,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,中菲行國際物流股份有限公司,Dimerco Interational Logistic Corp.,1,英屬維京群島,1,1,0,0,0,上櫃,G5609,01176152,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Dimerco Logistics Sdn Bhd.,0.49,馬來西亞,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Air Forwarders (HKG) Ltd.,"Dimerco Vietfracht (JV) Co., Ltd.",0.75,越南,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Diversified Freight System Ltd.,0.99,香港,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.",Diversified International Service Logistics System Corporation,1,美國,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Diversified Freight System Ltd.,"Diversified International Transportation (Shanghai) Co., Ltd.",1,不明,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Diversified Transportation (HK & China) Co., Ltd.","Diversified Transportation (China) Co., Ltd.",1,china,0,1,0,1,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,"Dimerco Express Holding Co., Ltd.","Diversified Transportation (HK & China) Co., Ltd.",1,香港,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Air Forwarders (HKG) Ltd.,"Foreign Settlement Co., Ltd.",0.35,英屬維京群島,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Express (Singapore) Pte Ltd.,"Foreign Settlement Co., Ltd.",0.2,英屬維京群島,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Express (U.K.) Ltd.,"Foreign Settlement Co., Ltd.",0.2,英屬維京群島,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Express (U.S.A.) Corp.,"Foreign Settlement Co., Ltd.",0,英屬維京群島,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Diversified Freight System Ltd.,"Foreign Settlement Co., Ltd.",0.35,英屬維京群島,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,中菲行國際物流股份有限公司,"Foreign Settlement Co., Ltd.",0.2,英屬維京群島,1,1,0,0,0,上櫃,G5609,01176152,NA,NA,NA,NA,NA
+2016,5609,得美行股份有限公司,"Foreign Settlement Co., Ltd.",0.15,英屬維京群島,0,1,0,0,0,上櫃,G5609,04378245,NA,NA,NA,NA,NA
+2016,5609,Dimerco Air Forwarders (HKG) Ltd.,"Foreign Settlement Co., Ltd.(FSC HK)",0.35,香港,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Diversified Freight System Ltd.,"Foreign Settlement Co., Ltd.(FSC HK)",0.35,香港,0,0,1,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,中菲行國際物流股份有限公司,"Foreign Settlement Co., Ltd.(FSC HK)",0.15,香港,1,0,1,0,0,上櫃,G5609,01176152,NA,NA,NA,NA,NA
+2016,5609,得美行股份有限公司,"Foreign Settlement Co., Ltd.(FSC HK)",0.15,香港,0,0,1,0,0,上櫃,G5609,04378245,NA,NA,NA,NA,NA
+2016,5609,Dimerco Interational Logistic Corp.,"Global Marketing System Co., Ltd.",1,香港,0,1,0,0,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,龍翰興業股份有限公司,中菲行國際物流股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5609,12111831,01176152,NA,NA,NA,NA
+2016,5609,Dimerco Air Forwarders (HK) Ltd.,中菲行國際貨運代理(上海)有限公司,1,china,0,1,0,1,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Air Forwarders (HK) Ltd.,中菲物流(上海)有限公司,0.9999,china,0,1,0,1,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Air Forwarders (HK) Ltd.,中菲物流(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5609,Dimerco Air Forwarders (HK) Ltd.,中經得美國際快運代理有限公司,0.75,china,0,1,0,1,0,上櫃,G5609,NA,NA,NA,NA,NA,NA
+2016,5403,中菲電腦股份有限公司,中慧通金融科技股份有限公司,0.6,台灣,0,1,0,0,0,上櫃,G5609,12358067,42843670,NA,NA,NA,NA
+2016,5403,中菲電腦股份有限公司,仁大資訊股份有限公司,0.3533,台灣,0,0,1,0,0,上櫃,G5609,12358067,16890535,NA,NA,NA,NA
+2016,5609,中菲行國際物流股份有限公司,得美行股份有限公司,0.9999,台灣,1,1,0,0,0,上櫃,G5609,01176152,04378245,NA,NA,NA,NA
+2016,5609,中菲電腦股份有限公司,中菲行國際物流股份有限公司,0.0139,NA,0,0,0,0,1,上櫃,G5609,12358067,01176152,NA,NA,NA,NA

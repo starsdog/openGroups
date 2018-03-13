@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2067,嘉義鋼鐵股份有限公司,Elite Star International Ltd.,0.8,薩摩亞,1,0,1,0,0,上櫃,G2067,66402912,NA,NA,NA,NA,NA
+2016,2067,嘉義鋼鐵股份有限公司,High Standard Limited,0.8,薩摩亞,1,1,0,0,0,上櫃,G2067,66402912,NA,NA,NA,NA,NA
+2016,2067,Star Bridge Holding Limited,Leading Best Group Limited,1,薩摩亞,0,1,0,0,0,上櫃,G2067,NA,NA,NA,NA,NA,NA
+2016,2067,嘉義鋼鐵股份有限公司,Star Bridge Holding Limited,1,薩摩亞,1,1,0,0,0,上櫃,G2067,66402912,NA,NA,NA,NA,NA
+2016,2067,嘉義鋼鐵股份有限公司,Wise Elite Limited,1,薩摩亞,1,1,0,0,0,上櫃,G2067,66402912,NA,NA,NA,NA,NA
+2016,2067,昱群精密機械股份有限公司,Wise Elite Limited,0,薩摩亞,0,1,0,0,0,上櫃,G2067,24591960,NA,NA,NA,NA,NA
+2016,2067,Star Bridge Holding Limited,Wishing Pond International Limited,1,薩摩亞,0,1,0,0,0,上櫃,G2067,NA,NA,NA,NA,NA,NA
+2016,2067,Leading Best Group Limited,中佑鑄造(唐山)有限公司,1,china,0,0,0,1,0,上櫃,G2067,NA,NA,8,NA,NA,NA
+2016,2067,Elite Star International Ltd.,太倉中佑機械工業有限公司,0.8,china,0,0,0,1,0,上櫃,G2067,NA,NA,8,NA,NA,NA
+2016,2067,Wise Elite Limited,昆山昱美克精密機械有限公司,1,china,0,0,0,1,0,上櫃,G2067,NA,NA,8,NA,NA,NA
+2016,2067,嘉義鋼鐵股份有限公司,昱群精密機械股份有限公司,0,台灣,1,1,0,0,0,上櫃,G2067,66402912,24591960,NA,NA,NA,NA
+2016,2067,維昱股份有限公司,嘉義鋼鐵股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2067,22094179,66402912,NA,NA,NA,NA

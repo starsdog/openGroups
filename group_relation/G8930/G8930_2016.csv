@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8930,青鋼金屬建材股份有限公司,自立股份有限公司,1,薩摩亞,1,1,0,0,0,上櫃,G8930,69797158,NA,NA,NA,NA,NA
+2016,8930,自立股份有限公司,青鋼金屬建材(上海)有限公司,1,china,0,1,0,0,0,上櫃,G8930,NA,NA,NA,NA,NA,NA
+2016,8930,柏森投資股份有限公司,青鋼金屬建材股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8930,97331266,69797158,NA,NA,NA,NA

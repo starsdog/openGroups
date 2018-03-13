@@ -1,0 +1,3 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3265,台星科股份有限公司,台星科企業股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3265,70552666,27925949,NA,NA,NA,NA
+2016,3265,新加坡商Bloomeria Limited,台星科股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3265,NA,70552666,NA,NA,NA,NA

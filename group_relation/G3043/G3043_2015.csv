@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3043,科風國際股份有限公司,POWERCOM AMERICA INC.,0.7305,美國,0,1,0,0,0,上市,G3043,NA,NA,NA,NA,NA,NA
+2015,3043,科美洲股份有限公司,US PCM ENERGY INC.,0,美國,0,1,0,0,0,上市,G3043,NA,NA,NA,NA,NA,NA
+2015,3043,科風國際股份有限公司,中山冠虹電子有限公司,1,china,0,1,0,1,0,上市,G3043,NA,NA,NA,NA,NA,NA
+2015,3043,科風國際股份有限公司,東莞科風電子有限公司,1,china,0,1,0,1,0,上市,G3043,NA,NA,NA,NA,NA,NA
+2015,3043,科風股份有限公司,科美洲股份有限公司,0.51,台灣,1,1,0,0,0,上市,G3043,22485794,NA,NA,NA,NA,NA
+2015,3043,玖業投資股份有限公司,科風股份有限公司,NA,NA,0,0,0,0,1,上市,G3043,54045145,22485794,NA,NA,NA,NA
+2015,3043,科風股份有限公司,科風國際股份有限公司,1,薩摩亞,1,1,0,0,0,上市,G3043,22485794,NA,NA,NA,NA,NA
+2015,3043,科風股份有限公司,科勝能源科技股份有限公司,0.1093,台灣,1,0,1,0,0,上市,G3043,22485794,53190161,NA,NA,NA,NA
+2015,3043,科風股份有限公司,蓄源科技股份有限公司,0.4,台灣,1,1,0,0,0,上市,G3043,22485794,97462105,NA,NA,NA,NA

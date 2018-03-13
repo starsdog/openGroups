@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,8082,Pro-Nets Holding Ltd.,Gstek Inc.,1,開曼群島,0,0,1,0,0,上櫃,G8082,NA,NA,NA,NA,NA,NA
+2015,8082,漢承泰企業股份有限公司,Pro-Nets Holding Ltd.,1,英屬維京群島,1,0,1,0,0,上櫃,G8082,84611899,NA,NA,NA,NA,NA
+2015,8082,漢承泰企業股份有限公司,"Transward International Co., Ltd.",1,貝里斯,1,0,1,0,0,上櫃,G8082,84611899,NA,NA,NA,NA,NA
+2015,8082,漢承泰企業股份有限公司,捷禾投資有限公司,1,台灣,1,1,0,0,0,上櫃,G8082,84611899,25086546,NA,NA,NA,NA
+2015,8082,Gstek Inc.,捷普特科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G8082,NA,NA,NA,NA,NA,NA
+2015,8082,勁捷投資有限公司,漢承泰企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8082,24472681,84611899,NA,NA,NA,NA
+2015,8082,齊芯投資股份有限公司,漢承泰企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8082,27740513,84611899,NA,NA,NA,NA
+2015,8082,亞星娛樂科技有限公司,漢承泰企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8082,53235370,84611899,NA,NA,NA,NA
+2015,8082,漢承泰企業股份有限公司,耀星娛樂股份有限公司,1,台灣,1,1,0,0,0,上櫃,G8082,84611899,53351216,NA,NA,NA,NA

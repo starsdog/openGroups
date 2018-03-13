@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1722,台灣肥料股份有限公司,"TAIFER (CAMBODIA) CO., LTD.",1,柬埔寨,1,1,0,0,0,上市,G1722,03795101,NA,NA,NA,NA,NA
+2015,1722,台灣肥料股份有限公司,"TAIFER (CAYMAN) INTERNATIONAL GROUP CO., LTD.",1,開曼群島,1,1,0,0,0,上市,G1722,03795101,NA,NA,NA,NA,NA
+2015,1722,"TAIFER INTERNATIONAL (Samoa) GROUP CO.,LTD.","TAIFER CHEMICAL INTERNATIONAL CO., LTD.",1,不明,0,1,0,0,0,上市,G1722,NA,NA,NA,NA,NA,NA
+2015,1722,台灣肥料股份有限公司,"TAIFER INTERNATIONAL (SAMOA) CO., LTD.",1,薩摩亞,1,1,0,0,0,上市,G1722,03795101,NA,NA,NA,NA,NA
+2015,1722,台莊資產管理開發股份有限公司,"TAIFER INTERNATIONAL (Samoa) GROUP CO.,LTD.",1,薩摩亞,0,0,1,0,0,上市,G1722,70749612,NA,NA,NA,NA,NA
+2015,1722,"TAIFER (CAYMAN) INTERNATIONAL GROUP CO., LTD.","TR ELECTRONIC CHEMICAL CO., LTD.",0.51,開曼群島,0,0,1,0,0,上市,G1722,NA,NA,NA,NA,NA,NA
+2015,1722,台灣肥料股份有限公司,台肥生技行銷股份有限公司,1,台灣,1,1,0,0,0,上市,G1722,03795101,53563942,NA,NA,NA,NA
+2015,1722,台灣肥料股份有限公司,台莊資產管理開發股份有限公司,1,台灣,1,1,0,0,0,上市,G1722,03795101,70749612,NA,NA,NA,NA
+2015,1722,行政院農業委員會,台灣肥料股份有限公司,NA,NA,0,0,0,0,1,上市,G1722,NA,03795101,NA,NA,NA,1
+2015,1722,中華郵政股份有限公司,台灣肥料股份有限公司,NA,NA,0,0,0,0,1,上市,G1722,03741302,03795101,NA,NA,NA,1
+2015,1722,台灣肥料股份有限公司,台灣海洋深層水股份有限公司,1,台灣,1,1,0,0,0,上市,G1722,03795101,28223066,NA,NA,NA,NA
+2015,1722,"TAIFER (CAYMAN) INTERNATIONAL GROUP CO., LTD.",旭昌化學科技(崑山)有限公司,0.51,china,0,0,0,1,0,上市,G1722,NA,NA,NA,NA,NA,NA
+2015,1722,台灣肥料股份有限公司,朱拜爾肥料股份有限公司,0.5,沙烏地阿拉伯,1,0,1,0,0,上市,G1722,03795101,NA,NA,NA,NA,NA
+2015,1722,台灣肥料股份有限公司,百泰生物科技股份有限公司,0.2062,台灣,1,0,1,0,0,上市,G1722,03795101,80328421,NA,NA,NA,NA
+2015,1722,台灣海洋深層水股份有限公司,海之寶生技股份有限公司,1,台灣,0,1,0,0,0,上市,G1722,28223066,28676757,NA,NA,NA,NA

@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5523,豐謙建設股份有限公司,宏羽營造股份有限公司,0.9283,台灣,0,1,0,0,0,上櫃,G5523,66629349,66525718,NA,NA,NA,NA
+2016,5523,豐謙建設股份有限公司,宏都阿里山國際開發股份有限公司,0.7134,台灣,0,1,0,0,0,上櫃,G5523,66629349,28094577,NA,NA,NA,NA
+2016,5523,宏羽營造股份有限公司,宏都阿里山國際開發股份有限公司,0.0152,台灣,0,1,0,0,0,上櫃,G5523,66525718,28094577,NA,NA,NA,NA
+2016,5523,晨譽投資股份有限公司,豐謙建設股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5523,25138501,66629349,NA,NA,NA,NA
+2016,5523,品翔投資股份有限公司,豐謙建設股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5523,27881344,66629349,NA,NA,NA,NA
+2016,5523,佳成建設股份有限公司,豐謙建設股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5523,28944846,66629349,NA,NA,NA,NA

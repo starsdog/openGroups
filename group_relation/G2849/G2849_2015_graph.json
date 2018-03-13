@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "安泰商業銀行股份有限公司", "no_holder": false, "taxcode": "86928561"}, {"is_core": false, "source": [{"holder": "1", "name": "安泰商業銀行股份有限公司"}], "name": "安銀保險經紀人股份有限公司", "no_holder": false, "taxcode": "29045147"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2015"}

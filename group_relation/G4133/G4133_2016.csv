@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4133,Abnova Holding Corporation,Abnova (Cayman) Corporation,1,開曼群島,0,1,0,0,0,上市,G4133,NA,NA,NA,NA,NA,NA
+2016,4133,Abnova (Cayman) Corporation,Abnova (HK) Limited,1,香港,0,1,0,0,0,上市,G4133,NA,NA,NA,NA,NA,NA
+2016,4133,亞諾法生技股份有限公司,Abnova GmbH,1,德國,1,0,1,0,0,上市,G4133,12974421,NA,NA,NA,NA,NA
+2016,4133,亞諾法生技股份有限公司,Abnova Holding Corporation,1,英屬維京群島,1,1,0,0,0,上市,G4133,12974421,NA,NA,NA,NA,NA
+2016,4133,Abnova (Cayman) Corporation,上元株式會社,1,日本,0,1,0,0,0,上市,G4133,NA,NA,NA,NA,NA,NA
+2016,4133,容浩投資股份有限公司,亞諾法生技股份有限公司,NA,NA,0,0,0,0,1,上市,G4133,80522635,12974421,NA,NA,NA,NA
+2016,4133,中華電線電纜股份有限公司,亞諾法生技股份有限公司,NA,NA,0,0,0,0,1,上市,G4133,35882520,12974421,NA,NA,NA,1
+2016,4133,昆睦投資股份有限公司,亞諾法生技股份有限公司,NA,NA,0,0,0,0,1,上市,G4133,16136572,12974421,NA,NA,NA,NA
+2016,4133,博泓投資股份有限公司,亞諾法生技股份有限公司,NA,NA,0,0,0,0,1,上市,G4133,96924776,12974421,NA,NA,NA,NA
+2016,4133,再投資大陸公司,杭州華得森生物技術有限公司,0.3,china,0,0,0,1,0,上市,G4133,NA,NA,11,NA,NA,NA
+2016,4133,Abnova (HK) Limited,東莞上元生物科技有限公司,1,china,0,1,0,1,0,上市,G4133,NA,NA,NA,NA,NA,NA

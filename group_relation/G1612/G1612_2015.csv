@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1612,宏泰電工股份有限公司,Moneywin International Limited,1,不明,1,1,0,0,0,上市,G1612,43125162,NA,NA,NA,NA,NA
+2015,1612,勁王國際控股有限公司,石獅市勁昌鞋服有限公司,0.0032,china,0,0,0,1,0,上市,G1612,NA,NA,2,NA,NA,NA
+2015,1612,宏泰電工股份有限公司,宏弘工程股份有限公司,0.8083,台灣,1,1,0,0,0,上市,G1612,43125162,27601370,NA,NA,NA,NA
+2015,1612,信福投資股份有限公司,宏弘工程股份有限公司,0.1,台灣,0,0,1,0,0,上市,G1612,84942808,27601370,NA,NA,NA,NA
+2015,1612,宏泰電工股份有限公司,宏金工業股份有限公司,0,台灣,1,1,0,0,0,上市,G1612,43125162,16210473,NA,NA,NA,NA
+2015,1612,信邦投資股份有限公司,宏泰電工股份有限公司,NA,NA,0,0,0,0,1,上市,G1612,84945777,43125162,NA,NA,NA,NA
+2015,1612,久疆投資股份有限公司,宏泰電工股份有限公司,NA,NA,0,0,0,0,1,上市,G1612,84445885,43125162,NA,NA,NA,NA
+2015,1612,志泰投資股份有限公司,宏泰電工股份有限公司,NA,NA,0,0,0,0,1,上市,G1612,12880851,43125162,NA,NA,NA,NA
+2015,1612,宏泰電工股份有限公司,亞迪電子股份有限公司,0.3,台灣,0,0,1,0,0,上市,G1612,43125162,53226837,NA,NA,NA,NA
+2015,1612,"Great Team Backend Foundry, Inc.",杰群電子科技(東莞)有限公司,0.0205,china,0,0,0,1,0,上市,G1612,NA,NA,2,NA,NA,NA
+2015,1612,宏泰電工股份有限公司,信福投資股份有限公司,0.9987,台灣,1,1,0,0,0,上市,G1612,43125162,84942808,NA,NA,NA,NA
+2015,1612,宏泰電工股份有限公司,南非South Ocean Holdings Ltd.,0.2508,南非,0,0,1,0,0,上市,G1612,43125162,NA,NA,NA,NA,NA
+2015,1612,Moneywin International Limited,南非South Ocean Holdings Ltd.,0.0306,南非,0,0,1,0,0,上市,G1612,NA,NA,NA,NA,NA,NA
+2015,1612,宏泰電工股份有限公司,晶精科技股份有限公司,1,台灣,1,1,0,0,0,上市,G1612,43125162,24490225,NA,NA,NA,NA

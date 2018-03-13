@@ -1,0 +1,3 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6583,友松娛樂股份有限公司,三鳳有限公司,1,台灣,1,1,0,0,0,興櫃,G6583,12654975,29037174,NA,NA,NA,NA
+2016,6583,秀英全富有限公司,友松娛樂股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6583,54180079,12654975,NA,NA,NA,NA

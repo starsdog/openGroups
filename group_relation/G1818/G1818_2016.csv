@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1818,願景國際事業股份有限公司,Global Vision Group Limited,1,薩摩亞,1,1,0,0,0,興櫃,G1818,79975624,NA,NA,NA,NA,NA
+2016,1818,Global Vision Group Limited,PANCERA INTERNATIONAL STOCK COMPANY,1,越南,0,1,0,0,0,興櫃,G1818,NA,NA,NA,NA,NA,NA
+2016,1818,沛力富國際有限公司,願景國際事業股份有限公司,NA,NA,0,0,0,0,1,興櫃,G1818,80440352,79975624,NA,NA,NA,NA
+2016,1818,雄暉股份有限公司,願景國際事業股份有限公司,NA,NA,0,0,0,0,1,興櫃,G1818,28920252,79975624,NA,NA,NA,NA

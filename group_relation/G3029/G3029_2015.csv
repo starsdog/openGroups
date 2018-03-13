@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3029,零壹科技股份有限公司,依德科技股份有限公司,0.8375,台灣,1,1,0,0,0,上市,G3029,30922431,53758995,NA,NA,NA,NA
+2015,3029,零壹科技股份有限公司,源壹科技股份有限公司,0.9211,台灣,1,1,0,0,0,上市,G3029,30922431,24560100,NA,NA,NA,NA
+2015,3029,零壹科技股份有限公司,碁達國際股份有限公司,0.3,台灣,1,0,1,0,0,上市,G3029,30922431,54677330,NA,NA,NA,NA
+2015,3029,亞洲世界電通股份有限公司,零壹科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3029,13086819,30922431,NA,NA,NA,NA
+2015,3029,凱衛資訊股份有限公司,零壹科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3029,21261212,30922431,NA,NA,NA,NA

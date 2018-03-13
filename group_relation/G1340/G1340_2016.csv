@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1340,勝悅新材料有限公司,"Super Light Shoe Soles Co., Ltd.",1,美國,1,1,0,0,0,上市,G1340,NA,NA,NA,NA,NA,NA
+2016,1340,勝悅新材料有限公司,世紀勝悅新材料科技有限公司,1,china,1,1,0,1,0,上市,G1340,NA,NA,NA,NA,NA,NA
+2016,1340,"Super Light Shoe Soles Co., Ltd.",成昌鞋業有限公司,1,香港,0,1,0,0,0,上市,G1340,NA,NA,NA,NA,NA,NA
+2016,1340,成昌鞋業有限公司,晉江成昌鞋業有限公司,1,china,0,1,0,1,0,上市,G1340,NA,NA,NA,NA,NA,NA

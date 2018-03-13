@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3362,先進光電科技股份有限公司,"Elite Optical Technology Co.,Ltd",1,英屬維京群島,1,1,0,0,0,上櫃,G3362,22301825,NA,NA,NA,NA,NA
+2015,3362,"Elite Optical Technology Co.,Ltd","Excellence Electro Optical Technology Co., Ltd.",1,薩摩亞,0,1,0,0,0,上櫃,G3362,NA,NA,NA,NA,NA,NA
+2015,3362,"Elite Optical Technology Co.,Ltd","Shian Jinn Optical Technology Co., Ltd",1,開曼群島,0,1,0,0,0,上櫃,G3362,NA,NA,NA,NA,NA,NA
+2015,3362,"Excellence Electro Optical Technology Co., Ltd.",先進光電科技(鎮江)有限公司,1,china,0,1,0,1,0,上櫃,G3362,NA,NA,NA,NA,NA,NA
+2015,3362,全超投資股份有限公司,先進光電科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3362,16578345,22301825,NA,NA,NA,NA
+2015,3362,宏都投資有限公司,先進光電科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3362,16007346,22301825,NA,NA,NA,NA
+2015,3362,總益投資有限公司,先進光電科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3362,12835420,22301825,NA,NA,NA,NA
+2015,3362,先進光電科技股份有限公司,先進光電科技責任有限公司,0.0238,越南,1,1,0,0,0,上櫃,G3362,22301825,NA,NA,NA,NA,NA
+2015,3362,"Shian Jinn Optical Technology Co., Ltd",先進光電科技責任有限公司,0.9762,越南,0,1,0,0,0,上櫃,G3362,NA,NA,NA,NA,NA,NA
+2015,3362,先進光電科技股份有限公司,昶星股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3362,22301825,12108218,NA,NA,NA,NA

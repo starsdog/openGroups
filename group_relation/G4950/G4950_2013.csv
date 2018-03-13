@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,4950,牧東光電股份有限公司,Mutto Optronics Group Limited,1,英屬維京群島,1,1,0,0,0,上櫃,G4950,24302624,NA,NA,NA,NA,NA
+2013,4950,Mutto Optronics Group Limited,牧東光電(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G4950,NA,NA,NA,NA,NA,NA
+2013,4950,QimingTechnologiesHoldingLimit,牧東光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4950,NA,24302624,NA,NA,NA,NA
+2013,4950,英屬維京群島商創義貳創業投資,牧東光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4950,NA,24302624,NA,NA,NA,NA

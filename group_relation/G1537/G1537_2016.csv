@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1537,Kung Long International Ltd.,Forte Ability Group S.A.,1,薩摩亞,0,1,0,0,0,上市,G1537,NA,NA,NA,NA,NA,NA
+2016,1537,廣隆光電科技股份有限公司,Kung Long International Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G1537,23556563,NA,NA,NA,NA,NA
+2016,1537,Kung Long International Ltd.,"Kung Tay Plastic Co., Ltd.",0.6,薩摩亞,0,1,0,0,0,上市,G1537,NA,NA,NA,NA,NA,NA
+2016,1537,"Kung Tay Plastic Co., Ltd.",永旭有限公司,1,塞席爾,0,1,0,0,0,上市,G1537,NA,NA,NA,NA,NA,NA
+2016,1537,廣隆光電科技股份有限公司,利隆(越南) 責任有限公司,1,越南,1,1,0,0,0,上市,G1537,23556563,NA,NA,NA,NA,NA
+2016,1537,"Kung Tay Plastic Co., Ltd.",廣泰塑膠(越南)責任有限公司,1,越南,0,1,0,0,0,上市,G1537,NA,NA,NA,NA,NA,NA
+2016,1537,茂隆投資有限公司,廣隆光電科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1537,27400129,23556563,NA,NA,NA,NA
+2016,1537,利大電池有限公司,廣隆光電科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1537,70646236,23556563,NA,NA,NA,NA
+2016,6174,安碁科技股份有限公司,AKER Tech (Hong Kong) Limited,1,香港,1,1,0,0,0,上櫃,G1537,22100469,NA,NA,NA,NA,NA
+2016,6174,安碁科技股份有限公司,AKER Technology USA Corp.,1,美國,1,1,0,0,0,上櫃,G1537,22100469,NA,NA,NA,NA,NA
+2016,6174,安聖電子科技股份有限公司,安碁科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1537,70832479,22100469,NA,NA,NA,NA
+2016,6174,廣隆光電科技股份有限公司,安碁科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1537,23556563,22100469,NA,NA,NA,NA
+2016,6174,懷鴈投資有限公司,安碁科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1537,24476618,22100469,NA,NA,NA,NA
+2016,6174,AKER Tech (Hong Kong) Limited,安碁科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G1537,NA,NA,NA,NA,NA,NA

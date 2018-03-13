@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3430,奇鈦科技股份有限公司,Chitec Chemical (BVI) Ltd.,0,英屬維京群島,1,0,1,0,0,興櫃,G3430,16297788,NA,NA,NA,NA,NA
+2015,3430,奇鈦科技股份有限公司,Chitec Technology Co. Ltd.,1,美國,1,0,1,0,0,興櫃,G3430,16297788,NA,NA,NA,NA,NA
+2015,3430,奇鈦科技股份有限公司,Chitec Technology (Samoa) Ltd.,1,薩摩亞,1,1,0,0,0,興櫃,G3430,16297788,NA,NA,NA,NA,NA
+2015,3430,怡德特化投資有限公司,奇鈦科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3430,80687376,16297788,NA,NA,NA,NA
+2015,3430,Chitec Technology (Samoa) Ltd.,奇優米(上海)化學科技有限公司,1,china,0,1,0,1,0,興櫃,G3430,NA,NA,NA,NA,NA,NA

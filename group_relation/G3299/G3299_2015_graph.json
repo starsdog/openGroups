@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "友茂投資股份有限公司", "no_holder": false, "taxcode": "89405428"}, {"is_core": true, "source": [{"holder": "NA", "name": "友茂投資股份有限公司"}], "name": "帛漢股份有限公司", "no_holder": false, "taxcode": "86533770"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2015"}

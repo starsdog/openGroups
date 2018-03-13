@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2243,宏旭控股股份有限公司,"HORNG SHIUE INDUSTRIAL CO., LTD.",1,模里西斯,1,1,0,0,0,公開發行,G2243,55996613,NA,NA,NA,NA,NA
+2015,2243,"HORNG SHIUE INDUSTRIAL CO., LTD.",上海宏旭模具工業有限公司,1,china,0,1,0,1,0,公開發行,G2243,NA,NA,NA,NA,NA,NA
+2015,2243,"HORNG SHIUE INDUSTRIAL CO., LTD.",上海宏憲精密模具有限公司,0.3225,china,0,0,0,1,0,公開發行,G2243,NA,NA,NA,NA,NA,NA

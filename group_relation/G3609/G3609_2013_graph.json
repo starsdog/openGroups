@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "億光電子工業股份有限公司", "no_holder": false, "taxcode": "34516147"}, {"is_core": true, "source": [{"holder": "NA", "name": "億光電子工業股份有限公司"}], "name": "東林科技股份有限公司", "no_holder": false, "taxcode": "13073151"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

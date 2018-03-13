@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3580,友威科技股份有限公司,Dexson,1,薩摩亞,0,1,0,0,0,上櫃,G3580,80072814,NA,NA,NA,NA,NA
+2016,3580,友威科技股份有限公司,Elite Power,1,薩摩亞,0,1,0,0,0,上櫃,G3580,80072814,NA,NA,NA,NA,NA
+2016,3580,Elite Power,友威深圳,1,china,0,1,0,1,0,上櫃,G3580,NA,NA,NA,NA,NA,NA
+2016,3580,友威深圳,重慶光威,1,china,0,1,0,1,0,上櫃,G3580,NA,NA,NA,NA,NA,NA
+2016,3580,Elite Power,德威昆山,1,china,0,1,0,1,0,上櫃,G3580,NA,NA,NA,NA,NA,NA

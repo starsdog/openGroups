@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3554,精品科技股份有限公司,日本精品株式會社,1,日本,0,0,1,0,0,興櫃,G3554,23491751,NA,NA,NA,NA,NA
+2014,3554,精品科技股份有限公司,精品科技股份有限公司,1,不明,0,1,0,0,0,興櫃,G3554,23491751,23491751,NA,NA,NA,NA
+2014,3554,雅品投資股份有限公司,精品科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G3554,12635555,23491751,NA,NA,NA,NA
+2014,3554,台大創新育成股份有限公司,精品科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G3554,13083186,23491751,NA,NA,NA,NA
+2014,3554,泛雅特投資股份有限公司,精品科技股份有限公司,NA,NA,0,0,0,0,1,公開發行,G3554,12635746,23491751,NA,NA,NA,NA

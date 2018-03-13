@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1595,川康汶萊公司,川康上海公司,1,china,0,1,0,1,0,上櫃,G1595,NA,NA,NA,NA,NA,NA
+2015,1595,川寶科技股份有限公司,川康汶萊公司,1,汶萊,0,1,0,0,0,上櫃,G1595,NA,NA,NA,NA,NA,NA
+2015,1595,川寶科技股份有限公司,雲璟科技股份有限公司,0.27,台灣,0,0,1,0,0,上櫃,G1595,NA,53501236,NA,NA,NA,NA

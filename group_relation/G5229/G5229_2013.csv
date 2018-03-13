@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,5229,立宇高新科技股份有限公司,Hwa Deng Investments (BVI) Limited,1,英屬維京群島,0,1,0,0,0,興櫃,G5229,89408190,NA,NA,NA,NA,NA
+2013,5229,旭松投資股份有限公司,Shisong Investments (Samoa) Limited,1,薩摩亞,0,1,0,0,0,興櫃,G5229,70434269,NA,NA,NA,NA,NA
+2013,5229,光芫投資股份有限公司,Shisong Investments (Samoa) Limited,0,薩摩亞,0,1,0,0,0,興櫃,G5229,80380919,NA,NA,NA,NA,NA
+2013,5229,旭芫投資股份有限公司,Shisong Investments (Samoa) Limited,0,薩摩亞,0,1,0,0,0,興櫃,G5229,28292485,NA,NA,NA,NA,NA
+2013,5229,瑞茂投資股份有限公司,立宇高新科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G5229,70447270,89408190,NA,NA,NA,NA
+2013,5229,立宇高新科技股份有限公司,光芫投資股份有限公司,0,不明,0,1,0,0,0,興櫃,G5229,89408190,80380919,NA,NA,NA,NA
+2013,5229,立高新科技(股)公司,旭松投資股份有限公司,1,不明,0,1,0,0,0,興櫃,G5229,NA,70434269,NA,NA,NA,NA
+2013,5229,立宇高新科技股份有限公司,旭松投資股份有限公司,1,台灣,0,0,1,0,0,興櫃,G5229,89408190,70434269,NA,NA,NA,NA
+2013,5229,立宇高新科技股份有限公司,旭芫投資股份有限公司,0,不明,0,1,0,0,0,興櫃,G5229,89408190,28292485,NA,NA,NA,NA
+2013,5229,立宇高新科技股份有限公司,隆登電子科技(深圳)有限公司,1,中國大陸,0,0,1,0,0,興櫃,G5229,89408190,NA,NA,NA,NA,NA
+2013,5229,Hwa Deng Investments (BVI) Limited,榮登電子塑膠有限公司,1,china,0,1,0,1,0,興櫃,G5229,NA,NA,NA,NA,NA,NA
+2013,5229,Shisong Investments (Samoa) Limited,蘇州隆登電子科技有限公司,1,china,0,1,0,1,0,興櫃,G5229,NA,NA,NA,NA,NA,NA
+2013,5229,Shisong Investments (Samoa) Limited,蘇州瑞登科技有限公司,1,china,0,1,0,1,0,興櫃,G5229,NA,NA,NA,NA,NA,NA

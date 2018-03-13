@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,5356,美亞鋼管廠股份有限公司,協益電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5356,44680700,35229109,NA,NA,NA,NA
+2013,5356,台灣領航資產投資股份有限公司,協益電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5356,27923512,35229109,NA,NA,NA,NA
+2013,5356,領航投資開發股份有限公司,協益電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5356,89664992,35229109,NA,NA,NA,NA
+2013,5356,弘磐投資有限公司,協益電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5356,53922341,35229109,NA,NA,NA,NA
+2013,5878,台灣領航資產投資股份有限公司,台名保險經紀人股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5356,27923512,80287239,NA,NA,NA,NA
+2013,5878,正融實業股份有限公司,台名保險經紀人股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5356,25067105,80287239,NA,NA,NA,NA
+2013,5878,台名保險經紀人股份有限公司,貞觀財務管理顧問股份有限公司,1,台灣,1,1,0,0,0,興櫃,G5356,80287239,80179766,NA,NA,NA,NA
+2013,5878,台名保險經紀人股份有限公司,富陽市台金企業管理諮詢有限公司,1,china,1,1,0,1,0,興櫃,G5356,80287239,NA,NA,NA,NA,NA

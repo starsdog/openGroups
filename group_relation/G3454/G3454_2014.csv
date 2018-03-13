@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3454,晶睿通訊股份有限公司,"Vivotek Holdings, Inc.",1,美國,1,1,0,0,0,上市,G3454,70703897,NA,NA,NA,NA,NA
+2014,3454,晶睿通訊股份有限公司,Vivotek Netherlands B.V.,1,荷蘭,1,1,0,0,0,上市,G3454,70703897,NA,NA,NA,NA,NA
+2014,3454,"Vivotek Holdings, Inc.","Vivotek USA, Inc.",1,美國,0,1,0,0,0,上市,G3454,NA,NA,NA,NA,NA,NA
+2014,3454,睿盈投資股份有限公司,"Wellstates Investment, LLC",1,美國,0,1,0,0,0,上市,G3454,53680701,NA,NA,NA,NA,NA
+2014,3454,睿盈投資股份有限公司,行品股份有限公司,0.189,台灣,0,0,1,0,0,上市,G3454,53680701,53554628,NA,NA,NA,NA
+2014,3454,金群投資股份有限公司,晶睿通訊股份有限公司,NA,NA,0,0,0,0,1,上市,G3454,84901308,70703897,NA,NA,NA,NA
+2014,3454,三安投資有限公司,晶睿通訊股份有限公司,NA,NA,0,0,0,0,1,上市,G3454,54164583,70703897,NA,NA,NA,NA
+2014,3454,晶睿通訊股份有限公司,睿盈投資股份有限公司,1,台灣,1,1,0,0,0,上市,G3454,70703897,53680701,NA,NA,NA,NA
+2014,3454,晶睿通訊股份有限公司,睿緻科技股份有限公司,0.5085,台灣,1,1,0,0,0,上市,G3454,70703897,28791166,NA,NA,NA,NA
+2014,3454,睿盈投資股份有限公司,歐特斯股份有限公司,0.8467,台灣,0,1,0,0,0,上市,G3454,53680701,54692297,NA,NA,NA,NA

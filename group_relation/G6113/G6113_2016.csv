@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6113,IDEA Success Limited,ASEC Intertional (H.K.) Limited,1,香港,0,0,1,0,0,上櫃,G6113,NA,NA,NA,NA,NA,NA
+2016,6113,IDEA Success Limited,Gold Tender Limited.,1,香港,0,0,1,0,0,上櫃,G6113,NA,NA,NA,NA,NA,NA
+2016,6113,亞矽科技股份有限公司,IDEA Success Limited,1,薩摩亞,1,0,1,0,0,上櫃,G6113,22033899,NA,NA,NA,NA,NA
+2016,6113,長兆投資股份有限公司,金青科技股份有限公司,1,台灣,0,0,1,0,0,上櫃,G6113,16779906,89948801,NA,NA,NA,NA
+2016,6113,亞矽科技股份有限公司,長兆投資股份有限公司,1,台灣,1,0,1,0,0,上櫃,G6113,22033899,16779906,NA,NA,NA,NA
+2016,6113,亞矽科技股份有限公司,科毅光電股份有限公司,0.052,台灣,1,0,1,0,0,上櫃,G6113,22033899,79983498,NA,NA,NA,NA
+2016,6113,長兆投資股份有限公司,科毅光電股份有限公司,0.156,台灣,0,0,1,0,0,上櫃,G6113,16779906,79983498,NA,NA,NA,NA

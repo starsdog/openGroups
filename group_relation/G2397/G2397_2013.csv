@@ -1,0 +1,17 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2397,友通資訊股份有限公司,"DFI Co., Ltd.",1,日本,1,1,0,0,0,上市,G2397,30950652,NA,NA,NA,NA,NA
+2013,2397,友通資訊股份有限公司,"DFI-ITOX, LLC.",1,美國,1,1,0,0,0,上市,G2397,30950652,NA,NA,NA,NA,NA
+2013,2397,友通資訊股份有限公司,Diamond Flower Information (NL) B.V.,1,荷蘭,1,1,0,0,0,上市,G2397,30950652,NA,NA,NA,NA,NA
+2013,2397,友通資訊股份有限公司,"Dual-Tech International Co., Ltd.",0.9999,不明,1,1,0,0,0,上市,G2397,30950652,NA,NA,NA,NA,NA
+2013,2397,友通資訊股份有限公司,"Dual–Tech International Co., Ltd.",0.9999,香港,1,0,1,0,0,上市,G2397,30950652,NA,NA,NA,NA,NA
+2013,2397,友通資訊股份有限公司,Yan Tong Technology Ltd.,1,模里西斯,1,1,0,0,0,上市,G2397,30950652,NA,NA,NA,NA,NA
+2013,2397,Yan Tong Technology Ltd.,東莞日通商貿有限公司,1,china,0,1,0,1,0,上市,G2397,NA,NA,NA,NA,NA,NA
+2013,2397,Yan Tong Technology Ltd.,東莞衍通電子資訊有限公司,1,china,0,1,0,1,0,上市,G2397,NA,NA,NA,NA,NA,NA
+2013,5487,通泰積體電路股份有限公司,TTSHINE TRADING LIMITED,1,塞席爾,1,1,0,0,0,上櫃,G2397,22321575,NA,NA,NA,NA,NA
+2013,5487,通泰積體電路股份有限公司,香港商聖泰貿易有限公司,1,香港,1,1,0,0,0,上櫃,G2397,22321575,NA,NA,NA,NA,NA
+2013,5487,友立投資股份有限公司,通泰積體電路股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2397,16330267,22321575,NA,NA,NA,NA
+2013,5487,TTSHINE TRADING LIMITED,通泰鴻電子科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G2397,NA,NA,NA,NA,NA,NA
+2013,2397,嘉通投資股份有限公司,友通資訊股份有限公司,0.0292,NA,0,0,0,0,1,上市,G2397,16581290,30950652,NA,NA,NA,NA
+2013,2397,友上投資股份有限公司,友通資訊股份有限公司,0.0324,NA,0,0,0,0,1,上市,G2397,16591282,30950652,NA,NA,NA,NA
+2013,2397,友立投資股份有限公司,友通資訊股份有限公司,0.027,NA,0,0,0,0,1,上市,G2397,16330267,30950652,NA,NA,NA,NA
+2013,5487,嘉通投資股份有限公司,通泰積體電路股份有限公司,0.1018,NA,0,0,0,0,1,上櫃,G2397,16330267,22321575,NA,NA,NA,NA

@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6264,富裔實業股份有限公司,快意管理顧問股份有限公司,1,台灣,1,1,0,0,0,上櫃,G6264,97477509,52470690,NA,NA,NA,NA
+2016,6264,富裔實業股份有限公司,捍強生技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G6264,97477509,45039156,NA,NA,NA,NA
+2016,6264,亞瑟士國際工程股份有限公司,富裔實業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6264,23456585,97477509,NA,NA,NA,NA
+2016,6264,順捷投資股份有限公司,富裔實業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6264,25106206,97477509,NA,NA,NA,NA
+2016,6264,富裔實業股份有限公司,德士通國際股份有限公司,0.3,台灣,1,0,1,0,0,上櫃,G6264,97477509,52417844,NA,NA,NA,NA

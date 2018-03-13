@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1531,喜路堡拉丁美洲公司,Young Da LLC,1,美國,0,1,0,0,0,上市,G1531,NA,NA,NA,NA,NA,NA
+2015,1531,高林股份有限公司,喜路堡拉丁美洲公司,1,美國,1,1,0,0,0,上市,G1531,NA,NA,NA,NA,NA,NA
+2015,1531,高林股份有限公司,新加坡喜路堡投資公司,1,新加坡,1,1,0,0,0,上市,G1531,NA,NA,NA,NA,NA,NA
+2015,1531,新加坡喜路堡投資公司,寧波高林銀箭機電有限公司,1,china,0,1,0,1,0,上市,G1531,NA,NA,NA,NA,NA,NA

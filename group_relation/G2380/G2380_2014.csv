@@ -1,0 +1,20 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2380,虹光精密工業股份有限公司,Avision Brasil Ltda.,0.99,巴西,1,1,0,0,0,上市,G2380,22099759,NA,NA,NA,NA,NA
+2014,2380,虹光精密工業股份有限公司,Avision Development Inc.,1,薩摩亞,1,1,0,0,0,上市,G2380,22099759,NA,NA,NA,NA,NA
+2014,2380,虹光精密工業股份有限公司,Avision Enterprise (BVI) Inc.,1,英屬維京群島,1,1,0,0,0,上市,G2380,22099759,NA,NA,NA,NA,NA
+2014,2380,光量子投資股份有限公司,Avision Europe GmbH,1,德國,0,1,0,0,0,上市,G2380,70785763,NA,NA,NA,NA,NA
+2014,2380,虹光精密工業股份有限公司,Avision International Inc.,1,薩摩亞,1,1,0,0,0,上市,G2380,NA,NA,NA,NA,NA,NA
+2014,2380,Sunglow International Inc.,"Avision Labs, Inc.",0.9639,美國,0,1,0,0,0,上市,G2380,NA,NA,NA,NA,NA,NA
+2014,2380,Avision International Inc.,Fortune Investment Ltd.,1,薩摩亞,0,0,1,0,0,上市,G2380,NA,NA,NA,NA,NA,NA
+2014,2380,Avision Development Inc.,Sunglow International Inc.,1,薩摩亞,0,1,0,0,0,上市,G2380,NA,NA,NA,NA,NA,NA
+2014,2380,Sunglow International Inc.,Sunglow North America Inc.,1,美國,0,1,0,0,0,上市,G2380,NA,NA,NA,NA,NA,NA
+2014,2380,虹光精密工業股份有限公司,光量子投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2380,22099759,70785763,NA,NA,NA,NA
+2014,2380,虹光精密工業股份有限公司,印通科技股份有限公司,0.0855,台灣,0,0,1,0,0,上市,G2380,22099759,80290229,NA,NA,NA,NA
+2014,2380,光量子投資股份有限公司,印通科技股份有限公司,0.1805,台灣,0,0,1,0,0,上市,G2380,70785763,80290229,NA,NA,NA,NA
+2014,2380,Fortune Investment Ltd.,艾唯數碼辦公設備(上海)貿易有限公司,1,china,0,1,0,1,0,上市,G2380,NA,NA,NA,NA,NA,NA
+2014,2380,再投資大陸公司,河南先博多媒體技術有限公司,0.15,china,0,0,0,1,0,上市,G2380,NA,NA,11,NA,NA,NA
+2014,2380,再投資大陸公司,矽彩科技(北京)有限公司,0.25,china,0,0,0,1,0,上市,G2380,NA,NA,11,NA,NA,NA
+2014,2380,Fortune Investment Ltd.,虹光精密工業(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2380,NA,NA,NA,NA,NA,NA
+2014,2380,再投資大陸公司,虹華精密工業工業(蘇州)有限公司,0.1924,china,0,0,0,1,0,上市,G2380,NA,NA,11,NA,NA,NA
+2014,2380,光量子投資股份有限公司,華通科技股份有限公司,0.2567,台灣,0,0,1,0,0,上市,G2380,70785763,70457641,NA,NA,NA,NA
+2014,2380,光量子投資股份有限公司,群力光電股份有限公司,0.3172,台灣,0,0,1,0,0,上市,G2380,70785763,13014941,NA,NA,NA,NA

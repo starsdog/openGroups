@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6495,英屬開曼群島商納諾股份有限公司,Always Successful Holding Corp.,1,英屬維京群島,1,1,0,0,0,興櫃,G6495,54396079,NA,NA,NA,NA,NA
+2016,6495,英屬開曼群島商納諾股份有限公司,"Nanoplus Technology Co., Limited",1,香港,1,1,0,0,0,興櫃,G6495,54396079,NA,NA,NA,NA,NA
+2016,6495,"Nanoplus Technology Co., Limited",昆山納諾新材料科技有限公司,1,china,0,1,0,1,0,興櫃,G6495,NA,NA,NA,NA,NA,NA
+2016,6495,"Nanoplus Technology Co., Limited",昆山納諾環保科技有限公司,1,china,0,1,0,1,0,興櫃,G6495,NA,NA,NA,NA,NA,NA
+2016,6495,台灣日亞化學股份有限公司,英屬開曼群島商納諾股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6495,47297242,54396079,NA,NA,NA,NA
+2016,6495,NANOKING LTD.,英屬開曼群島商納諾股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6495,NA,54396079,NA,NA,NA,NA
+2016,6495,"Nanoplus Technology Co., Limited",深圳納諾光電有限公司,1,china,0,1,0,1,0,興櫃,G6495,NA,NA,NA,NA,NA,NA
+2016,6495,昆山納諾新材料科技有限公司,深圳納諾新材料科技有限公司,0,不明,0,1,0,0,0,興櫃,G6495,NA,NA,NA,NA,NA,NA
+2016,6495,英屬開曼群島商納諾股份有限公司,鴻超光電科技股份有限公司,1,台灣,1,1,0,0,0,興櫃,G6495,54396079,54278586,NA,NA,NA,NA

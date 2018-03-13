@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "中華開發工業銀行股份有限公司", "no_holder": false, "taxcode": "11147207"}, {"is_core": true, "source": [{"holder": "NA", "name": "中華開發工業銀行股份有限公司"}], "name": "華矽半導體股份有限公司", "no_holder": false, "taxcode": "84276023"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8092,建暐精密科技股份有限公司,NEW HONOR GLOBAL GROUP LTD.,1,薩摩亞,1,1,0,0,0,上櫃,G8092,76470282,NA,NA,NA,NA,NA
+2016,8092,NEW HONOR GLOBAL GROUP LTD.,昆山長豐精密儀器有限公司,1,china,0,1,0,1,0,上櫃,G8092,NA,NA,NA,NA,NA,NA
+2016,8092,長豐投資股份有限公司,建暐精密科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8092,89468751,76470282,NA,NA,NA,NA

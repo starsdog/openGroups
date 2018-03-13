@@ -1,0 +1,21 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3289,Samoa IST,Brunei IST,1,汶萊,0,1,0,0,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,Samoa IST,IC Service Ltd.,0.44,日本,0,0,1,0,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,Samoa IST,Innovative Service Technology Inc.,1,美國,0,1,0,0,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,Samoa IST,"Mauritius Ample Fortress Co ., Ltd.",1,模里西斯,0,1,0,0,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,宜特科技股份有限公司,Samoa IST,1,薩摩亞,0,1,0,0,0,上櫃,G3289,89845410,NA,NA,NA,NA,NA
+2013,3289,宜特科技(昆山)有限公司,良品貿易有限公司,1,china,0,1,0,1,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,Brunei IST,宜特科技(昆山)有限公司,0.78,china,0,1,0,1,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,漢勝投資股份有限公司,宜特科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3289,80102401,89845410,NA,NA,NA,NA
+2013,3289,鴻德投資股份有限公司,宜特科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3289,NA,89845410,NA,NA,NA,NA
+2013,3289,品文股份有限公司,宜智發科技股份有限公司,0.3,台灣,0,0,1,0,0,上櫃,G3289,53039855,80012648,NA,NA,NA,NA
+2013,3289,宜特科技股份有限公司,宜準科技股份有限公司,0.85,台灣,0,1,0,0,0,上櫃,G3289,89845410,27270174,NA,NA,NA,NA
+2013,3289,Brunei IST,宜碩科技(上海)有限公司,0.25,china,0,1,0,1,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,宜特科技(昆山)有限公司,宜碩科技(上海)有限公司,0.75,中國大陸,0,1,0,0,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,宜特科技(昆山)有限公司,宜碩科技(北京)有限公司,1,china,0,1,0,1,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,宜特科技股份有限公司,品文股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3289,89845410,53039855,NA,NA,NA,NA
+2013,3289,宜特科技(昆山)有限公司,深圳宜特科技有限公司,1,china,0,1,0,1,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,宜特科技(昆山)有限公司,廈門宜特電子科技有限公司,0,不明,0,1,0,0,0,上櫃,G3289,NA,NA,NA,NA,NA,NA
+2013,3289,宜特科技股份有限公司,標準科技股份有限公司,0.33,台灣,0,1,0,0,0,上櫃,G3289,89845410,80299777,NA,NA,NA,NA
+2013,3289,品文股份有限公司,標準科技股份有限公司,0.07,台灣,0,1,0,0,0,上櫃,G3289,53039855,80299777,NA,NA,NA,NA
+2013,3289,品文股份有限公司,魔狐科技股份有限公司,0.42,台灣,0,0,1,0,0,上櫃,G3289,53039855,28682152,NA,NA,NA,NA

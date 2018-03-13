@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3577,泓格科技股份有限公司,ADVANCE AHEAD LTD.,1,英屬維京群島,1,1,0,0,0,上櫃,G3577,84517297,NA,NA,NA,NA,NA
+2016,3577,泓格科技股份有限公司,ICP DAS INVEST LTD.,1,英屬維京群島,1,1,0,0,0,上櫃,G3577,84517297,NA,NA,NA,NA,NA
+2016,3577,ADVANCE AHEAD LTD.,上海金泓格國際貿易有限公司,1,china,0,1,0,1,0,上櫃,G3577,NA,NA,NA,NA,NA,NA
+2016,3577,ICP DAS INVEST LTD.,泓格通科技(武漢)有限公司,1,china,0,1,0,1,0,上櫃,G3577,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6612,應用奈米醫材科技股份有限公司,"AST Products, Inc.",1,美國,0,1,0,0,0,興櫃,G6612,28113167,NA,NA,NA,NA,NA
+2016,6612,"AST Products, Inc.","EMEMBRANE, Inc.",0.3307,美國,0,1,0,0,0,興櫃,G6612,NA,NA,NA,NA,NA,NA
+2016,6612,宗源國際有限公司,應用奈米醫材科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6612,24768805,28113167,NA,NA,NA,NA
+2016,6612,WTSENGHOLDINGSLLC,應用奈米醫材科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6612,NA,28113167,NA,NA,NA,NA

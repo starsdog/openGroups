@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2530,友利實業股份有限公司,大華建設股份有限公司,NA,NA,0,0,0,0,1,上市,G2530,11106509,11059409,NA,NA,NA,NA
+2013,2530,大昕投資股份有限公司,大華建設股份有限公司,NA,NA,0,0,0,0,1,上市,G2530,70544006,11059409,NA,NA,NA,NA
+2013,2530,大華建設股份有限公司,大陽不動產開發股份有限公司,0.99,台灣,0,1,0,0,0,上市,G2530,11059409,16137468,NA,NA,NA,NA
+2013,2530,大華建設股份有限公司,華建開發股份有限公司,0.57,台灣,0,1,0,0,0,上市,G2530,11059409,16450895,NA,NA,NA,NA

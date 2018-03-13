@@ -1,0 +1,19 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3680,Rich Point Global Corp.,"Gudeng Investment Co., LTD",1,薩摩亞,0,0,1,0,0,上櫃,G3680,NA,NA,NA,NA,NA,NA
+2016,3680,家登精密工業股份有限公司,Rich Point Global Corp.,1,薩摩亞,1,1,0,0,0,上櫃,G3680,16406379,NA,NA,NA,NA,NA
+2016,3680,Rich Point Global Corp.,Sun Park Development Limited,1,香港,0,1,0,0,0,上櫃,G3680,NA,NA,NA,NA,NA,NA
+2016,3680,Sun Park Development Limited,上海家登貿易有限公司,1,china,0,1,0,1,0,上櫃,G3680,NA,NA,NA,NA,NA,NA
+2016,3680,家登精密工業股份有限公司,家崎科技股份有限公司,0.9594,不明,1,1,0,0,0,上櫃,G3680,16406379,53878400,NA,NA,NA,NA
+2016,3680,家登精密工業股份有限公司,家登自動化股份有限公司,1,不明,1,1,0,0,0,上櫃,G3680,16406379,47086838,NA,NA,NA,NA
+2016,3680,家登精密工業股份有限公司,家登創業投資股份有限公司,1,不明,1,1,0,0,0,上櫃,G3680,16406379,53453516,NA,NA,NA,NA
+2016,3680,"貝里斯商雙全國際股份有限公司FULL DOUBLE CO.,LTD.",家登精密工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3680,56247700,16406379,NA,NA,NA,NA
+2016,3680,家登創業投資股份有限公司,軒帆光電科技股份有限公司,0.4348,台灣,0,0,1,0,0,上櫃,G3680,53453516,42695869,NA,NA,NA,NA
+2016,3680,Sun Park Development Limited,蘇州方方土鉅貿易有限公司,1,china,0,1,0,1,0,上櫃,G3680,NA,NA,NA,NA,NA,NA
+2016,3680,"Gudeng Investment Co., LTD",蘇州市吳江新創汽車貿易有限公司,1,china,0,1,0,1,0,上櫃,G3680,NA,NA,NA,NA,NA,NA
+2016,3680,家登精密工業股份有限公司,蘇州市吳江新創汽車貿易有限公司,0,中國大陸,0,0,1,0,0,上櫃,G3680,16406379,NA,NA,NA,NA,NA
+2016,6438,迅得機械股份有限公司,Symtek Automation Ltd.,1,英屬維京群島,1,1,0,0,0,興櫃,G3680,70753397,NA,NA,NA,NA,NA
+2016,6438,迅得機械股份有限公司,Symtek Automation Trading Ltd.,1,英屬維京群島,1,1,0,0,0,興櫃,G3680,70753397,NA,NA,NA,NA,NA
+2016,6438,Symtek Automation Ltd.,迅得機械(東莞)有限公司,1,china,0,1,0,1,0,興櫃,G3680,NA,NA,NA,NA,NA,NA
+2016,6438,致盛控股有限公司,迅得機械股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3680,NA,70753397,NA,NA,NA,NA
+2016,6438,京達投資股份有限公司,迅得機械股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3680,16433117,70753397,NA,NA,NA,NA
+2016,6438,家登精密工業股份有限公司,迅得機械股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3680,16406379,70753397,NA,NA,NA,NA

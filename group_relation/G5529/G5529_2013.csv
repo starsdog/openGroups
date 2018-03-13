@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,5529,榮嘉投資股份有限公司,志嘉建設股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5529,84445421,58250510,NA,NA,NA,NA
+2013,5529,勤慈租賃股份有限公司,志嘉建設股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5529,16925210,58250510,NA,NA,NA,NA
+2013,5529,再投資大陸公司,深圳六星車友匯酒店管理有限公司,0.0464,china,0,0,0,1,0,上櫃,G5529,NA,NA,11,NA,NA,NA
+2013,5529,志嘉建設股份有限公司,新嘉投資顧問有限公司,1,台灣,1,1,0,0,0,上櫃,G5529,58250510,84971964,NA,NA,NA,NA

@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9960,Dacome International (Samoa) Limited,Dacome International (HK) Limited,1,香港,0,1,0,0,0,上櫃,G9960,NA,NA,NA,NA,NA,NA
+2016,9960,邁達康網路事業股份有限公司,Dacome International (Samoa) Limited,1,薩摩亞,1,1,0,0,0,上櫃,G9960,16824183,NA,NA,NA,NA,NA
+2016,9960,邁達康網路事業股份有限公司,MDC Sports International Limited,1,香港,1,1,0,0,0,上櫃,G9960,16824183,NA,NA,NA,NA,NA
+2016,9960,Dacome International (HK) Limited,巨將貿易(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G9960,NA,NA,NA,NA,NA,NA
+2016,9960,Dacome International (Samoa) Limited,深圳名將貿易有限公司,1,china,0,1,0,1,0,上櫃,G9960,NA,NA,NA,NA,NA,NA
+2016,9960,深圳名將貿易有限公司,通邁(北京)貿易有限公司,1,china,0,1,0,1,0,上櫃,G9960,NA,NA,NA,NA,NA,NA
+2016,9960,邁達康網路事業股份有限公司,彭博實業有限公司,1,台灣,1,1,0,0,0,上櫃,G9960,16824183,28300773,NA,NA,NA,NA
+2016,9960,彭博實業有限公司,鼎昌挺投資控股股份有限公司,0.49,台灣,0,0,1,0,0,上櫃,G9960,28300773,42793783,NA,NA,NA,NA
+2016,9960,向利股份有限公司,邁達康網路事業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G9960,54643986,16824183,NA,NA,NA,NA

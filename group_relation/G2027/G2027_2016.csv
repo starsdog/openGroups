@@ -1,0 +1,35 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2027,Brighton-Best International Inc.,Brighton-Best International Inc.,0,開曼群島,0,1,0,0,0,上市,G2027,NA,NA,NA,NA,NA,NA
+2016,2027,大成國際鋼鐵股份有限公司,Brighton-Best International Inc.,0,薩摩亞,0,0,1,0,0,上市,G2027,28754606,NA,NA,NA,NA,NA
+2016,2027,大成國際鋼鐵股份有限公司,"Brighton-Best International(AU), Pty Ltd.",1,澳大利亞,0,1,0,0,0,上市,G2027,28754606,NA,NA,NA,NA,NA
+2016,2027,"Brighton-Best International, Inc.","Brighton-Best International(Brasil), Comerciode Parafusos Ltda.",0.999,巴西,0,0,1,0,0,上市,G2027,NA,NA,NA,NA,NA,NA
+2016,2027,大成國際鋼鐵股份有限公司,"Brighton-Best International(Canada), Inc.",1,加拿大,0,1,0,0,0,上市,G2027,28754606,NA,NA,NA,NA,NA
+2016,2027,大成國際鋼鐵股份有限公司,"Brighton-Best International(NZ), Limited.",1,紐西蘭,0,1,0,0,0,上市,G2027,28754606,NA,NA,NA,NA,NA
+2016,2027,大成國際鋼鐵股份有限公司,"Brighton-Best International(UK), Limited.",1,英國,0,1,0,0,0,上市,G2027,28754606,NA,NA,NA,NA,NA
+2016,2027,大成國際鋼鐵股份有限公司,"Brighton-Best International, Inc.",1,美國,0,1,0,0,0,上市,G2027,28754606,NA,NA,NA,NA,NA
+2016,2027,大成不銹鋼工業股份有限公司,TA CHEN(Samoa) Holdings Ltd.,0,不明,1,1,0,0,0,上市,G2027,22318348,NA,NA,NA,NA,NA
+2016,2027,大成不銹鋼工業股份有限公司,TA CHEN(SAMOA)Holdings LTD.,0,薩摩亞,1,0,1,0,0,上市,G2027,22318348,NA,NA,NA,NA,NA
+2016,2027,美國大成國際公司,"TCI Investment Group, Inc.",1,美國,0,1,0,0,0,上市,G2027,NA,NA,NA,NA,NA,NA
+2016,2027,大成維京控股有限公司,大成(常熟)機械有限公司,1,china,0,1,0,1,0,上市,G2027,NA,NA,NA,NA,NA,NA
+2016,2027,大成維京控股有限公司,大成(博野)機械有限公司,1,china,0,1,0,1,0,上市,G2027,NA,NA,NA,NA,NA,NA
+2016,2027,立基工業股份有限公司,大成不銹鋼工業股份有限公司,NA,NA,0,0,0,0,1,上市,G2027,83744344,22318348,NA,NA,NA,NA
+2016,2027,財團法人台北市林芳瑾社會福利慈善事業基金會,大成不銹鋼工業股份有限公司,NA,NA,0,0,0,0,1,上市,G2027,48842142,22318348,NA,NA,NA,NA
+2016,2027,大成不銹鋼工業股份有限公司,大成國際鋼鐵股份有限公司,0.4719,台灣,1,1,0,0,0,上市,G2027,22318348,28754606,NA,NA,NA,NA
+2016,2027,大成不銹鋼工業股份有限公司,大成維京控股有限公司,1,英屬維京群島,1,1,0,0,0,上市,G2027,22318348,NA,NA,NA,NA,NA
+2016,2027,大成不銹鋼工業股份有限公司,大鼎興業股份有限公司,0.7,台灣,1,1,0,0,0,上市,G2027,NA,64306415,NA,NA,NA,NA
+2016,2027,大成維京控股有限公司,山西大瀚不銹鋼有限公司,0,china,0,1,0,1,0,上市,G2027,NA,NA,NA,NA,NA,NA
+2016,2027,大成國際鋼鐵股份有限公司,尹融(上海)投資管理有限公司,1,china,1,1,0,1,0,上市,G2027,22318348,NA,NA,NA,NA,NA
+2016,2027,大成維京控股有限公司,石家庄大成冀台機械有限公司,0.9314,china,0,1,0,1,0,上市,G2027,NA,NA,NA,NA,NA,NA
+2016,2027,大成國際鋼鐵股份有限公司,美國大成國際公司,1,美國,1,1,0,0,0,上市,G2027,22318348,NA,NA,NA,NA,NA
+2016,8415,Brighton Best International Inc.,Brighton-Best International Inc.(Cayman),0,不明,0,1,0,0,0,上櫃,G2027,NA,NA,NA,NA,NA,NA
+2016,8415,Brighton-Best International Inc.(Samoa),Brighton-Best International Inc.(Cayman),0,開曼群島,0,0,1,0,0,上櫃,G2027,NA,NA,NA,NA,NA,NA
+2016,8415,大成國際鋼鐵股份有限公司,Brighton-Best International Inc.(Samoa),0,薩摩亞,1,1,0,0,0,上櫃,G2027,28754606,NA,NA,NA,NA,NA
+2016,8415,"Brighton Best International, Inc.","Brighton-Best International(Brasil), Comercio de Parafusos Ltda.",0.999,不明,0,1,0,0,0,上櫃,G2027,NA,NA,NA,NA,NA,NA
+2016,8415,"Brighton-Best International, Inc.","Brighton-Best International(Brasil), Comercio de Parafusos Ltda.",0.999,巴西,0,0,1,0,0,上櫃,G2027,NA,NA,NA,NA,NA,NA
+2016,8415,大成國際鋼鐵股份有限公司,"Brighton-Best International(NZ), Limited",1,紐西蘭,1,1,0,0,0,上櫃,G2027,28754606,NA,NA,NA,NA,NA
+2016,8415,大成國際鋼鐵股份有限公司,"Brighton-Best International(UK), Limited",1,英國,1,1,0,0,0,上櫃,G2027,28754606,NA,NA,NA,NA,NA
+2016,8415,立基工業股份有限公司,大成國際鋼鐵股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2027,83744344,28754606,NA,NA,NA,NA
+2016,8415,中盈投資開發股份有限公司,大成國際鋼鐵股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2027,96975508,28754606,NA,NA,NA,NA
+2016,8415,晉禾企業股份有限公司,大成國際鋼鐵股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2027,88680066,28754606,NA,NA,NA,NA
+2016,8415,朝勝股份有限公司,大成國際鋼鐵股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2027,28767068,28754606,NA,NA,NA,NA
+2016,8415,"Brighton-Best International, Inc.",成融(上海)國際貿易有限公司,0,china,0,1,0,1,0,上櫃,G2027,NA,NA,NA,NA,NA,NA

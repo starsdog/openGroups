@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3483,力致科技股份有限公司,"Forcecon Technology Co., Ltd.",1,模里西斯,1,1,0,0,0,上櫃,G3483,89588475,NA,NA,NA,NA,NA
+2013,3483,力致科技股份有限公司,力明光電股份有限公司,0.4367,台灣,1,1,0,0,0,上櫃,G3483,89588475,29120840,NA,NA,NA,NA
+2013,3483,文士企管顧問股份有限公司,力致科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3483,80519420,89588475,NA,NA,NA,NA
+2013,3483,蘇州聚力電機有限公司,重慶力耀科技有限公司,1,china,0,1,0,1,0,上櫃,G3483,NA,NA,NA,NA,NA,NA
+2013,3483,"Forcecon Technology Co., Ltd.",蘇州聚力電機有限公司,1,中國大陸,0,0,1,0,0,上櫃,G3483,NA,NA,NA,NA,NA,NA
+2013,3483,蘇州聚力電機有限公司,蘇州興力鑫電機有限公司,0.49,china,0,1,0,1,0,上櫃,G3483,NA,NA,NA,NA,NA,NA

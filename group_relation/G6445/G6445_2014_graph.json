@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "薩摩亞商凱旋有限公司", "no_holder": false, "taxcode": "NA"}, {"is_core": true, "source": [{"holder": "NA", "name": "薩摩亞商凱旋有限公司"}], "name": "經絡動力醫學股份有限公司", "no_holder": false, "taxcode": "27533161"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

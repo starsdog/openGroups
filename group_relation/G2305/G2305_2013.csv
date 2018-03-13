@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2305,全友電腦股份有限公司,Go Top Investment Limited,1,薩摩亞,1,1,0,0,0,上市,G2305,47226140,NA,NA,NA,NA,NA
+2013,2305,"Microtek Lab, Inc.","Microtek International Development Systems Division, Inc.",1,美國,0,1,0,0,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,全友電腦股份有限公司,"Microtek Lab, Inc.",1,美國,1,1,0,0,0,上市,G2305,47226140,NA,NA,NA,NA,NA
+2013,2305,全友電腦股份有限公司,Next Top International Limited,1,英屬維京群島,1,1,0,0,0,上市,G2305,47226140,NA,NA,NA,NA,NA
+2013,2305,中南自動化有限公司,上海中晶科技有限公司,1,china,0,1,0,1,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,上海中晶科技有限公司,上海中晶貿易有限公司,1,china,0,1,0,1,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,上海中晶科技有限公司,上海中晶醫療器械有限公司,1,china,0,1,0,1,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,上海中晶貿易有限公司,上海晶彩貿易有限公司,1,china,0,1,0,1,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,上海中晶科技有限公司,上海嘉慧光電子技術有限公司,0.6592,china,0,1,0,1,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,上海嘉慧光電子技術有限公司,上海嘉慧通訊設備有限公司,0,china,0,1,0,1,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,上海嘉慧光電子技術有限公司,上海豐天信息技術有限公司,0.7,china,0,1,0,1,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,全友電腦股份有限公司,中南自動化有限公司,1,香港,1,1,0,0,0,上市,G2305,47226140,NA,NA,NA,NA,NA
+2013,2305,伯光企業股份有限公司,全友電腦股份有限公司,NA,NA,0,0,0,0,1,上市,G2305,75947561,47226140,NA,NA,NA,NA
+2013,2305,新友科技股份有限公司,全友電腦股份有限公司,NA,NA,0,0,0,0,1,上市,G2305,23119640,47226140,NA,NA,NA,NA
+2013,2305,上海中晶科技有限公司,全友電腦科技(吳江)有限公司,1,china,0,1,0,1,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,Go Top Investment Limited,全友電腦科技(吳江)有限公司,1,china,0,1,0,0,0,上市,G2305,NA,NA,NA,NA,NA,NA
+2013,2305,全友電腦股份有限公司,新友科技股份有限公司,1,台灣,1,1,0,0,0,上市,G2305,47226140,23119640,NA,NA,NA,NA

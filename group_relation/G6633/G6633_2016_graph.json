@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "萊鎂醫療器材股份有限公司", "no_holder": false, "taxcode": "25181598"}, {"is_core": false, "source": [{"holder": "1", "name": "萊鎂醫療器材股份有限公司"}], "name": "SOMNICS UG", "no_holder": false, "taxcode": "NA"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2016"}

@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,8225,華矽半導體股份有限公司,Ucomm Enterprise Corp.,1,塞席爾,1,1,0,0,0,公開發行,G8225,84276023,NA,NA,NA,NA,NA
+2015,8225,Ucomm Enterprise Corp.,科駿康電子(深圳)有限公司,1,china,0,1,0,0,0,公開發行,G8225,NA,NA,NA,NA,NA,NA
+2015,8225,華矽半導體股份有限公司,首崴電子股份有限公司,0.4233,台灣,1,0,1,0,0,公開發行,G8225,84276023,28123806,NA,NA,NA,NA
+2015,8225,中華開發工業銀行股份有限公司,華矽半導體股份有限公司,NA,NA,0,0,0,0,1,公開發行,G8225,11147207,84276023,NA,NA,NA,NA

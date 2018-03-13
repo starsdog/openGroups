@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3472,友荃科技實業股份有限公司,"Epoch Energy (SAMOA)Co.,Ltd.",0.0403,薩摩亞,1,1,0,0,0,興櫃,G3472,12882675,NA,NA,NA,NA,NA
+2014,3472,擷能科技實業股份有限公司,"Epoch Energy (SAMOA)Co.,Ltd.",0.9597,薩摩亞,0,1,0,0,0,興櫃,G3472,28608533,NA,NA,NA,NA,NA
+2014,3472,友荃科技實業股份有限公司,"Epoch Technology(SAMOA) Co., Ltd.",0.5667,薩摩亞,1,1,0,0,0,興櫃,G3472,12882675,NA,NA,NA,NA,NA
+2014,3472,"Epoch Technology(SAMOA) Co., Ltd.",友荃科技(江蘇)有限公司,1,china,0,1,0,1,0,興櫃,G3472,NA,NA,NA,NA,NA,NA
+2014,3472,"Epoch Energy (SAMOA)Co.,Ltd.",東莞友荃能源科技有限公司,1,china,0,1,0,1,0,興櫃,G3472,NA,NA,NA,NA,NA,NA
+2014,3472,友荃科技實業股份有限公司,擷能科技實業股份有限公司,1,台灣,1,1,0,0,0,興櫃,G3472,12882675,28608533,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1732,Pacific Worldwide Holdings Ltd.,Mao Bao Vietnam Inc.,1,越南,0,1,0,0,0,上市,G1732,NA,NA,NA,NA,NA,NA
+2014,1732,毛寶股份有限公司,Pacific Worldwide Holdings Ltd.,1,薩摩亞,1,1,0,0,0,上市,G1732,34245356,NA,NA,NA,NA,NA
+2014,1732,Pacific Worldwide Holdings Ltd.,毛寶(上海)商貿有限公司,1,china,0,1,0,1,0,上市,G1732,NA,NA,NA,NA,NA,NA
+2014,1732,泛洋投資股份有限公司,毛寶股份有限公司,NA,NA,0,0,0,0,1,上市,G1732,16168010,34245356,NA,NA,NA,NA

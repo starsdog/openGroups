@@ -1,0 +1,17 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3085,東京著衣國際股份有限公司,Mayuki SDN.BHD.,1,馬來西亞,0,0,1,0,0,上櫃,G3085,27632090,NA,NA,NA,NA,NA
+2016,3085,Tokyo Fashion Singapore PTE. Ltd.,Toki Choi Fashion SDN. BHD.,1,馬來西亞,0,1,0,0,0,上櫃,G3085,NA,NA,NA,NA,NA,NA
+2016,3085,東京著衣國際股份有限公司,"Tokyo Fashion CO., Ltd.",1,薩摩亞,0,0,1,0,0,上櫃,G3085,27632090,NA,NA,NA,NA,NA
+2016,3085,東京著衣國際股份有限公司,Tokyo Fashion Singapore PTE. Ltd.,1,新加坡,0,0,1,0,0,上櫃,G3085,27632090,NA,NA,NA,NA,NA
+2016,3085,"Tokyo Fashion CO., Ltd.",Mayuki Company LTD.,1,薩摩亞,0,0,1,0,0,上櫃,G3085,NA,NA,NA,NA,NA,NA
+2016,3085,皇庭投資有限公司,久大資訊網路股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3085,53695970,89836340,NA,NA,NA,NA
+2016,3085,ＢＵＳＩＮＥＳＳＳＴＡＲ,久大資訊網路股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3085,NA,89836340,NA,NA,NA,NA
+2016,3085,特蘭企管顧問有限公司,久大資訊網路股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3085,53335188,89836340,NA,NA,NA,NA
+2016,3085,科比數位有限公司,久大資訊網路股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3085,24427321,89836340,NA,NA,NA,NA
+2016,3085,布斐特投資股份有限公司,久大資訊網路股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3085,80129339,89836340,NA,NA,NA,NA
+2016,3085,BUSINESSSTAR,久大資訊網路股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3085,NA,89836340,NA,NA,NA,NA
+2016,3085,久大資訊網路股份有限公司,光旭網路科技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3085,89836340,25058393,NA,NA,NA,NA
+2016,3085,東京著衣國際股份有限公司,東京著衣日本株式會社,1,日本,0,0,1,0,0,上櫃,G3085,NA,NA,NA,NA,NA,NA
+2016,3085,久大資訊網路股份有限公司,東京著衣國際股份有限公司,0.5872,台灣,1,1,0,0,0,上櫃,G3085,89836340,27632090,NA,NA,NA,NA
+2016,3085,光旭網路科技股份有限公司,東京著衣國際股份有限公司,0.0966,台灣,0,0,1,0,0,上櫃,G3085,NA,27632090,NA,NA,NA,NA
+2016,3085,Mayuki Company LTD.,瑪薇琦貿易(上海)有限公司,1,china,0,1,0,1,0,上櫃,G3085,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4195,Genome Holding Ltd.,Genedragon Holding Ltd.,1,薩摩亞,0,1,0,0,0,興櫃,G4195,NA,NA,NA,NA,NA,NA
+2016,4195,基龍米克斯生物科技股份有限公司,Genome Holding Ltd.,1,薩摩亞,1,1,0,0,0,興櫃,G4195,NA,NA,NA,NA,NA,NA
+2016,4195,基龍米克斯生物科技股份有限公司,Genomics Bioscience & Technology Sdn Bhd,1,馬來西亞,1,1,0,0,0,興櫃,G4195,NA,NA,NA,NA,NA,NA
+2016,4195,世基生物醫學股份有限公司,"Pharmigene, Inc.",1,美國,0,0,1,0,0,興櫃,G4195,27953682,NA,NA,NA,NA,NA
+2016,4195,Genedragon Holding Ltd.,上海基龍生物科技有限公司,1,china,0,1,0,1,0,興櫃,G4195,NA,NA,NA,NA,NA,NA
+2016,4195,基龍米克斯生物科技股份有限公司,世基生物醫學股份有限公司,0.6988,台灣,1,1,0,0,0,興櫃,G4195,NA,27953682,NA,NA,NA,NA

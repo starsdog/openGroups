@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6128,巨福投資股份有限公司,"COLOR IMAGING, INC.",0.37,美國,0,0,1,0,0,上市,G6128,13061015,NA,NA,NA,NA,NA
+2016,6128,"GPI CO.,(SAMOA) Ltd.","GENERAL PLASTIC INDUSTRIAL (CAMBODIA) Co., LTD",1,柬埔寨,0,0,1,0,0,上市,G6128,NA,NA,NA,NA,NA,NA
+2016,6128,上福全球科技股份有限公司,"GPI CO.,(SAMOA) Ltd.",1,薩摩亞,1,0,1,0,0,上市,G6128,56625344,NA,NA,NA,NA,NA
+2016,6128,上福全球科技股份有限公司,"GPI USA, INC.",1,美國,1,1,0,0,0,上市,G6128,56625344,NA,NA,NA,NA,NA
+2016,6128,上福全球科技股份有限公司,久福興業股份有限公司,1,台灣,1,1,0,0,0,上市,G6128,56625344,28501336,NA,NA,NA,NA
+2016,6128,上福全球科技股份有限公司,巨福投資股份有限公司,1,台灣,1,1,0,0,0,上市,G6128,56625344,13061015,NA,NA,NA,NA
+2016,6128,上福全球科技股份有限公司,昆山五福興貿易有限公司,0,china,1,1,0,1,0,上市,G6128,56625344,NA,NA,NA,NA,NA

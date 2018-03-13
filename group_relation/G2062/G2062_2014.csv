@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2062,Sunspring Holding Corporation,Golden Faith International Corporation,1,開曼群島,0,1,0,0,0,上市,G2062,NA,NA,NA,NA,NA,NA
+2014,2062,Sunspring North America Holding Corp.,Sunspring America Inc.,1,美國,0,1,0,0,0,上市,G2062,NA,NA,NA,NA,NA,NA
+2014,2062,橋椿金屬股份有限公司,Sunspring Holding Corporation,1,薩摩亞,1,1,0,0,0,上市,G2062,59353423,NA,NA,NA,NA,NA
+2014,2062,Sunspring Holding Corporation,Sunspring International Corporation.,1,薩摩亞,0,1,0,0,0,上市,G2062,NA,NA,NA,NA,NA,NA
+2014,2062,Sunspring Holding Corporation,Sunspring North America Holding Corp.,1,薩摩亞,0,1,0,0,0,上市,G2062,NA,NA,NA,NA,NA,NA
+2014,2062,Golden Faith International Corporation,肇慶市寶信金屬實業有限公司,1,china,0,1,0,1,0,上市,G2062,NA,NA,NA,NA,NA,NA
+2014,2062,Sunspring International Corporation.,橋椿金屬(珠海)有限公司,1,china,0,1,0,1,0,上市,G2062,NA,NA,NA,NA,NA,NA
+2014,2062,禾益投資股份有限公司,橋椿金屬股份有限公司,NA,NA,0,0,0,0,1,上市,G2062,70682870,59353423,NA,NA,NA,NA

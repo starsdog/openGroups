@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3624,"Viking Global Tech Co., Ltd.",Grand Barry International Limited,1,英屬維京群島,0,1,0,0,0,上櫃,G3624,NA,NA,NA,NA,NA,NA
+2016,3624,"Viking Global Tech Co., Ltd.","Lead Brand Co., Ltd.",1,聖文森島,0,1,0,0,0,上櫃,G3624,NA,NA,NA,NA,NA,NA
+2016,3624,光頡科技股份有限公司,"Viking Global Tech Co., Ltd.",1,英屬維京群島,0,1,0,0,0,上櫃,G3624,16130084,NA,NA,NA,NA,NA
+2016,3624,Grand Barry International Limited,Viking Tech America Corporation,0.76,美國,0,1,0,0,0,上櫃,G3624,NA,NA,NA,NA,NA,NA
+2016,3624,"Viking Global Tech Co., Ltd.",Viking Tech Electronics Limited,1,香港,0,1,0,0,0,上櫃,G3624,NA,NA,NA,NA,NA,NA
+2016,3624,領勝投資有限公司,光頡科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3624,43679965,16130084,NA,NA,NA,NA
+2016,3624,泰銘實業股份有限公司,光頡科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3624,79875202,16130084,NA,NA,NA,NA
+2016,3624,大陸商廣東風華高新科技股份有限公司,光頡科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3624,NA,16130084,NA,NA,NA,NA
+2016,3624,Viking Tech Electronics Limited,無錫泰銘電子有限公司,1,不明,0,1,0,0,0,上櫃,G3624,NA,NA,NA,NA,NA,NA

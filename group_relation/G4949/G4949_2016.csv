@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4949,WINAICO Immobilien GmbH,ENERVITABIO SAN COSIMO SOCIETA AGRICOLA S.R.L.,1,義大利,0,0,1,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,WINAICO B.V.,SET ENERGIA S.R.L.,1,義大利,0,1,0,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,WINAICO B.V.,SRH AUGUSTAPRIMA S.R.L.,1,義大利,0,1,0,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,有成精密股份有限公司,WINAICO AUSTRALIA PTY LTD.,1,澳大利亞,1,1,0,0,0,興櫃,G4949,80581850,NA,NA,NA,NA,NA
+2016,4949,有成精密股份有限公司,WINAICO B.V.,1,荷蘭,1,1,0,0,0,興櫃,G4949,80581850,NA,NA,NA,NA,NA
+2016,4949,有成精密股份有限公司,"WINAICO Cayman Co., Ltd.",1,開曼群島,1,1,0,0,0,興櫃,G4949,80581850,NA,NA,NA,NA,NA
+2016,4949,"WINAICO Cayman Co., Ltd.","WINAICO Delaware Co., Ltd.",1,美國,0,1,0,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,WINAICO B.V.,WINAICO Deutschland GmbH,1,德國,0,1,0,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,WINAICO B.V.,WINAICO Immobilien GmbH,0.1522,德國,0,0,1,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,WINAICO Solar Projekt 1 GmbH,WINAICO Immobilien GmbH,0.1222,德國,0,0,1,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,WINAICO B.V.,WINAICO ITALIA S.R.L.,1,義大利,0,1,0,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,有成精密股份有限公司,WINAICO Japan K.K.,1,日本,1,1,0,0,0,興櫃,G4949,80581850,NA,NA,NA,NA,NA
+2016,4949,WINAICO B.V.,WINAICO Solar Projekt 1 GmbH,0.5,德國,0,1,0,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,WINAICO B.V.,WINAICO Solar Projekt 2 GmbH,1,德國,0,1,0,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,WINAICO B.V.,WINAICO UK LTD,1,英國,0,1,0,0,0,興櫃,G4949,NA,NA,NA,NA,NA,NA
+2016,4949,有成精密股份有限公司,有立精密股份有限公司,1,台灣,1,1,0,0,0,興櫃,G4949,80581850,24287102,NA,NA,NA,NA
+2016,4949,聯電新投資事業股份有限公司,有成精密股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4949,28982926,80581850,NA,NA,NA,NA

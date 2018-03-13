@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6499,益安生醫股份有限公司,"Medeon International,Inc.",1,薩摩亞,0,1,0,0,0,上櫃,G6499,54150856,NA,NA,NA,NA,NA
+2016,6499,益安生醫股份有限公司,"MedeonBio,Inc.",1,美國,0,1,0,0,0,上櫃,G6499,54150856,NA,NA,NA,NA,NA
+2016,6499,"Medeon International,Inc.","MedeonBiosurgical,Inc.",0,開曼群島,0,1,0,0,0,上櫃,G6499,NA,NA,NA,NA,NA,NA
+2016,6499,"英屬開曼群島商Medeon,Inc",益安生醫股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6499,NA,54150856,NA,NA,NA,NA
+2016,6499,晟德大藥廠股份有限公司,益安生醫股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6499,18606304,54150856,NA,NA,NA,NA
+2016,6499,上智生技創業投資股份有限公司,益安生醫股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6499,27258523,54150856,NA,NA,NA,NA
+2016,6499,益安生醫股份有限公司,意能生技股份有限公司,0.6,台灣,0,1,0,0,0,上櫃,G6499,54150856,42457923,NA,NA,NA,NA
+2016,6499,益安生醫股份有限公司,達亞國際股份有限公司,0.7,台灣,0,1,0,0,0,上櫃,G6499,54150856,27491562,NA,NA,NA,NA

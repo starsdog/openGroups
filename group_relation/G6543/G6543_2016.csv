@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6543,普惠醫工股份有限公司,"PERFECT MEDICAL INDUSTRY CO., LTD.",1,汶萊,0,1,0,0,0,公開發行,G6543,23243578,NA,NA,NA,NA,NA
+2016,6543,普惠醫工股份有限公司,上海定軍實業有限公司,1,china,0,1,0,1,0,公開發行,G6543,23243578,NA,NA,NA,NA,NA
+2016,6543,普惠醫工股份有限公司,美德來有限公司,1,台灣,0,1,0,0,0,公開發行,G6543,23243578,54227320,NA,NA,NA,NA
+2016,6543,東大發資產管理股份有限公司,普惠醫工股份有限公司,NA,NA,0,0,0,0,1,公開發行,G6543,53788317,23243578,NA,NA,NA,NA
+2016,6543,普惠醫工股份有限公司,越南普惠醫療工藝責任有限公司,0.7794,越南,0,1,0,0,0,公開發行,G6543,23243578,NA,NA,NA,NA,NA
+2016,6543,"PERFECT MEDICAL INDUSTRY CO., LTD.",越南普惠醫療工藝責任有限公司,0.2206,汶萊,0,1,0,0,0,公開發行,G6543,NA,NA,NA,NA,NA,NA

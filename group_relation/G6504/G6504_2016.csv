@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6504,南六企業股份有限公司,"NANLIU ENTERPRISE CO., LTD.",1,不明,1,1,0,0,0,上市,G6504,75989858,NA,NA,NA,NA,NA
+2016,6504,南六企業股份有限公司,"NANLIU ENTERPRISE(SAMOA) CO.,LTD",1,薩摩亞,1,0,1,0,0,上市,G6504,75989858,NA,NA,NA,NA,NA
+2016,6504,筆秀投資股份有限公司,南六企業股份有限公司,NA,NA,0,0,0,0,1,上市,G6504,27303652,75989858,NA,NA,NA,NA
+2016,6504,田子頂投資股份有限公司,南六企業股份有限公司,NA,NA,0,0,0,0,1,上市,G6504,80242748,75989858,NA,NA,NA,NA

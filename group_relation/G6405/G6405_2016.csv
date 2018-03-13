@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6405,悅城科技股份有限公司,"ONANO CO., LTD.",1,塞席爾,1,1,0,0,0,上市,G6405,27340208,NA,NA,NA,NA,NA
+2016,6405,"ONANO CO., LTD.","YESCHEN CO., LTD.",1,模里西斯,0,1,0,0,0,上市,G6405,NA,NA,NA,NA,NA,NA
+2016,6405,冠營投資股份有限公司,悅城科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6405,80172829,27340208,NA,NA,NA,NA
+2016,6405,"YESCHEN CO., LTD.",福州悅城電子 科技有限公司,0,不明,0,1,0,0,0,上市,G6405,NA,NA,NA,NA,NA,NA

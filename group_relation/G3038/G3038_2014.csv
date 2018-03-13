@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3038,全台晶像股份有限公司,EDT-Europe ApS,1,丹麥,1,1,0,0,0,上市,G3038,89261652,NA,NA,NA,NA,NA
+2014,3038,全台晶像股份有限公司,EDT-Japan Corp.,1,日本,1,1,0,0,0,上市,G3038,89261652,NA,NA,NA,NA,NA
+2014,3038,全台晶像股份有限公司,Emerging Display International (Samoa) Corp.,0.7849,薩摩亞,1,1,0,0,0,上市,G3038,89261652,NA,NA,NA,NA,NA
+2014,3038,盈達投資開發股份有限公司,Emerging Display International (Samoa) Corp.,0.059,薩摩亞,0,1,0,0,0,上市,G3038,13149791,NA,NA,NA,NA,NA
+2014,3038,百浩投資開發股份有限公司,Emerging Display International (Samoa) Corp.,0.1141,薩摩亞,0,1,0,0,0,上市,G3038,13149785,NA,NA,NA,NA,NA
+2014,3038,全台晶像股份有限公司,"Emerging Display Technologies Co., U.S.A.",1,美國,1,1,0,0,0,上市,G3038,89261652,NA,NA,NA,NA,NA
+2014,3038,全台晶像股份有限公司,Emerging Display Technologies Korea,1,南韓,1,1,0,0,0,上市,G3038,89261652,NA,NA,NA,NA,NA
+2014,3038,全台晶像股份有限公司,Tremendous Explore Corp.,1,英屬維京群島,1,1,0,0,0,上市,G3038,89261652,NA,NA,NA,NA,NA
+2014,3038,盈達投資開發股份有限公司,全台晶像股份有限公司,NA,NA,0,0,0,0,1,上市,G3038,13149791,89261652,NA,NA,NA,NA
+2014,3038,百浩投資開發股份有限公司,全台晶像股份有限公司,NA,NA,0,0,0,0,1,上市,G3038,13149785,89261652,NA,NA,NA,NA
+2014,3038,全台晶像股份有限公司,百浩投資開發股份有限公司,1,台灣,1,1,0,0,0,上市,G3038,89261652,13149785,NA,NA,NA,NA
+2014,3038,Emerging Display International (Samoa) Corp.,東莞全台電子有限公司,1,china,0,1,0,1,0,上市,G3038,NA,NA,NA,NA,NA,NA
+2014,3038,全台晶像股份有限公司,盈成投資股份有限公司,0.525,台灣,1,1,0,0,0,上市,G3038,89261652,54205705,NA,NA,NA,NA
+2014,3038,全台晶像股份有限公司,盈達投資開發股份有限公司,1,台灣,1,1,0,0,0,上市,G3038,89261652,13149791,NA,NA,NA,NA

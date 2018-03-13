@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1231,"LIAN HWA INVESTMENT CO., LTD.","CADINA INTERNATIONAL HOLDINGS CO., LTD.",1,開曼群島,0,1,0,0,0,上市,G1231,NA,NA,NA,NA,NA,NA
+2013,1231,聯華食品工業股份有限公司,"LIAN HWA INVESTMENT CO., LTD.",1,英屬維京群島,1,1,0,0,0,上市,G1231,07569627,NA,NA,NA,NA,NA
+2013,1231,"CADINA INTERNATIONAL HOLDINGS CO., LTD.",北京聯華食品工業有限公司,0.9272,china,0,1,0,1,0,上市,G1231,NA,NA,NA,NA,NA,NA
+2013,1231,聯華食品工業股份有限公司,成吉投資股份有限公司,1,台灣,1,1,0,0,0,上市,G1231,07569627,16450781,NA,NA,NA,NA
+2013,1231,聯華食品工業股份有限公司,康立為生醫科技股份有限公司,0.6316,台灣,1,1,0,0,0,上市,G1231,07569627,53942917,NA,NA,NA,NA
+2013,1231,"CADINA INTERNATIONAL HOLDINGS CO., LTD.",新疆喀什卡迪那農業科技有限公司,0.4549,china,0,1,0,1,0,上市,G1231,NA,NA,NA,NA,NA,NA
+2013,1231,鑫德投資有限公司,聯華食品工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1231,54160165,07569627,NA,NA,NA,NA
+2013,1231,國衡投資有限公司,聯華食品工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1231,16314013,07569627,NA,NA,NA,NA

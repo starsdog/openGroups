@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4207,虎欣實業股份有限公司,"HOOVER ENTERPRISE CO., LTD.",0.99,泰國,0,1,0,0,0,上櫃,G4207,34683411,NA,NA,NA,NA,NA
+2016,4207,環泰企業股份有限公司,"HSINHOMEI LAND HOLDING CO., INC.",0.4,菲律賓,0,1,0,0,0,上櫃,G4207,12529007,NA,NA,NA,NA,NA
+2016,4207,環泰企業股份有限公司,"PURE CHEM CO., LTD.",0.08,泰國,0,1,0,0,0,上櫃,G4207,12529007,NA,NA,NA,NA,NA
+2016,4207,"TAIWAN FRUCTOSE (THAI) CO., LTD.","PURE CHEM CO., LTD.",0.8007,泰國,0,1,0,0,0,上櫃,G4207,NA,NA,NA,NA,NA,NA
+2016,4207,TAIWAN FRUCTOSE (M) SDN. BHD.,SARABATI (M) SDN. BHD.,1,馬來西亞,0,0,1,0,0,上櫃,G4207,NA,NA,NA,NA,NA,NA
+2016,4207,環泰企業股份有限公司,TAIWAN FRUCTOSE (M) SDN. BHD.,1,馬來西亞,0,1,0,0,0,上櫃,G4207,12529007,NA,NA,NA,NA,NA
+2016,4207,環泰企業股份有限公司,"TAIWAN FRUCTOSE (PHILIPPINES), INC.",1,菲律賓,0,1,0,0,0,上櫃,G4207,12529007,NA,NA,NA,NA,NA
+2016,4207,環泰企業股份有限公司,"TAIWAN FRUCTOSE (THAI) CO., LTD.",0.48,泰國,0,1,0,0,0,上櫃,G4207,12529007,NA,NA,NA,NA,NA
+2016,4207,環泰企業股份有限公司,東京假期企業股份有限公司,0.25,台灣,1,0,1,0,0,上櫃,G4207,12529007,NA,NA,NA,NA,NA
+2016,4207,環泰企業股份有限公司,虎欣實業股份有限公司,0.642,台灣,0,1,0,0,0,上櫃,G4207,12529007,34683411,NA,NA,NA,NA
+2016,4207,六順實業股份有限公司,環泰企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4207,12536534,12529007,NA,NA,NA,NA
+2016,4207,東京假期企業股份有限公司,環泰企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4207,NA,12529007,NA,NA,NA,NA

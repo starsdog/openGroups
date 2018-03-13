@@ -1,0 +1,23 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5388,Sercomm USA Inc.,HawXeye Inc.,0.28,美國,0,0,1,0,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,Zealous Investments Ltd.,HawXeye Inc.,0.28,美國,0,0,1,0,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,中磊電子股份有限公司,Presciense Limited,0.25,英國,1,0,1,0,0,上市,G5388,86690573,NA,NA,NA,NA,NA
+2016,5388,中磊電子股份有限公司,Sercomm Deutschland GmbH,1,德國,1,1,0,0,0,上市,G5388,86690573,NA,NA,NA,NA,NA
+2016,5388,中磊電子股份有限公司,Sercomm France SARL.,1,法國,1,0,1,0,0,上市,G5388,86690573,NA,NA,NA,NA,NA
+2016,5388,Sercomm France SARL.,Sercomm Italian SRL.,1,義大利,0,0,1,0,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,中磊電子股份有限公司,Sercomm Japan Corp.,1,日本,1,1,0,0,0,上市,G5388,86690573,NA,NA,NA,NA,NA
+2016,5388,中磊電子股份有限公司,Sercomm Russia LLC.,1,俄羅斯,1,1,0,0,0,上市,G5388,86690573,NA,NA,NA,NA,NA
+2016,5388,中磊電子股份有限公司,Sercomm Trading Co. Ltd.,1,薩摩亞,1,1,0,0,0,上市,G5388,86690573,NA,NA,NA,NA,NA
+2016,5388,中磊電子股份有限公司,Sercomm USA Inc.,1,美國,1,1,0,0,0,上市,G5388,86690573,NA,NA,NA,NA,NA
+2016,5388,Sercomm Trading Co. Ltd.,Smart Trade Inc.,1,薩摩亞,0,1,0,0,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,Sercomm Trading Co. Ltd.,Zealous Investments Ltd.,1,薩摩亞,0,0,1,0,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,Smart Trade Inc.,中怡數寬科技(蘇州)有限公司,1,china,0,1,0,1,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,Zealous Investments Ltd.,中磊電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,怡和財務顧問股份有限公司,中磊電子股份有限公司,NA,NA,0,0,0,0,1,上市,G5388,97311992,86690573,NA,NA,NA,NA
+2016,5388,焯見投資股份有限公司,中磊電子股份有限公司,NA,NA,0,0,0,0,1,上市,G5388,13113169,86690573,NA,NA,NA,NA
+2016,5388,安隆興業股份有限公司,中磊電子股份有限公司,NA,NA,0,0,0,0,1,上市,G5388,12478957,86690573,NA,NA,NA,NA
+2016,5388,永勤興業有限公司,中磊電子股份有限公司,NA,NA,0,0,0,0,1,上市,G5388,53096139,86690573,NA,NA,NA,NA
+2016,5388,蘇州飛烽通信有限公司,南京飛烽通信有限公司,1,china,0,1,0,1,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,中磊電子股份有限公司,數寬投資股份有限公司,1,台灣,1,1,0,0,0,上市,G5388,86690573,80147435,NA,NA,NA,NA
+2016,5388,中磊電子(蘇州)有限公司,蘇州飛烽通信有限公司,1,china,0,1,0,1,0,上市,G5388,NA,NA,NA,NA,NA,NA
+2016,5388,中磊電子(蘇州)有限公司,蘇州華怡通信科技有限公司,1,china,0,1,0,1,0,上市,G5388,NA,NA,NA,NA,NA,NA

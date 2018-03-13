@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2102,Federal International Holding Inc.,Amberg Investments Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G2102,NA,NA,NA,NA,NA,NA
+2014,2102,泰豐輪胎股份有限公司,Federal International Holding Inc.,1,開曼群島,0,1,0,0,0,上市,G2102,44721408,NA,NA,NA,NA,NA
+2014,2102,泰豐輪胎股份有限公司,Highpoint Trading Ltd.,1,開曼群島,0,1,0,0,0,上市,G2102,44721408,NA,NA,NA,NA,NA
+2014,2102,泰豐輪胎股份有限公司,飛得力國際股份有限公司,1,台灣,1,1,0,0,0,上市,G2102,44721408,86284667,NA,NA,NA,NA
+2014,2102,泰豐輪胎股份有限公司,泰誠開發股份有限公司,1,不明,0,1,0,0,0,上市,G2102,44721408,27558726,NA,NA,NA,NA
+2014,2102,Amberg Investments Pte. Ltd.,泰豐輪胎(江西)有限公司,1,china,0,1,0,1,0,上市,G2102,NA,NA,NA,NA,NA,NA
+2014,2102,美克森企業股份有限公司,泰豐輪胎股份有限公司,NA,NA,0,0,0,0,1,上市,G2102,84743977,44721408,NA,NA,NA,NA
+2014,2102,幻象投資股份有限公司,泰豐輪胎股份有限公司,NA,NA,0,0,0,0,1,上市,G2102,16092434,44721408,NA,NA,NA,NA
+2014,2102,財團法人馬岐山基金會,泰豐輪胎股份有限公司,NA,NA,0,0,0,0,1,上市,G2102,09956434,44721408,NA,NA,NA,NA
+2014,2102,泰富投資股份有限公司,泰豐輪胎股份有限公司,NA,NA,0,0,0,0,1,上市,G2102,16437351,44721408,NA,NA,NA,NA
+2014,2102,泰豐輪胎股份有限公司,泰鑫建設股份有限公司,1,不明,0,1,0,0,0,上市,G2102,44721408,97166717,NA,NA,NA,NA

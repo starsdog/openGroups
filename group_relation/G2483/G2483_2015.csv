@@ -1,0 +1,26 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2483,百容電子股份有限公司,"Chu Mao International Co., Ltd.",1,模里西斯,0,1,0,0,0,上市,G2483,52753108,NA,NA,NA,NA,NA
+2015,2483,百容電子股份有限公司,"Chu Mao Precision Industry Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G2483,52753108,NA,NA,NA,NA,NA
+2015,2483,百容電子股份有限公司,"Excel Cell Electronic (U.S.A.)Co.,Ltd.",1,美國,1,0,1,0,0,上市,G2483,52753108,NA,NA,NA,NA,NA
+2015,2483,百容電子股份有限公司,Fulltron Investments Limited,1,薩摩亞,0,1,0,0,0,上市,G2483,52753108,NA,NA,NA,NA,NA
+2015,2483,"Chu Mao Precision Industry Co., Ltd.",Good Sky Electric(BVI)Ltd.,0.3,英屬維京群島,0,1,0,0,0,上市,G2483,NA,NA,NA,NA,NA,NA
+2015,2483,國興電工股份有限公司,Good Sky Electric(BVI)Ltd.,0.7,英屬維京群島,0,1,0,0,0,上市,G2483,27518598,NA,NA,NA,NA,NA
+2015,2483,Good Sky Electric(BVI)Ltd.,Good Sky Electric(Malaysia)Ltd.,1,馬來西亞,0,1,0,0,0,上市,G2483,NA,NA,NA,NA,NA,NA
+2015,2483,百容電子股份有限公司,UPC Electronic Pte.Ltd.,0.25,新加坡,1,0,1,0,0,上市,G2483,52753108,NA,NA,NA,NA,NA
+2015,2483,"Chu Mao International Co., Ltd.",巨貿高強精密組件(蘇州)有限公司,0,china,0,0,0,1,0,上市,G2483,NA,NA,8,NA,NA,NA
+2015,2483,"Excel Cell Electronic (U.S.A.)Co.,Ltd.",百容電子(東莞)有限公司,0,china,0,0,0,1,0,上市,G2483,NA,NA,8,NA,NA,NA
+2015,2483,Fulltron Investments Limited,百容電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2483,NA,NA,NA,NA,NA,NA
+2015,2483,百合投資股份有限公司,百容電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2483,16333763,52753108,NA,NA,NA,NA
+2015,2483,"Chu Mao Precision Industry Co., Ltd.",東莞巨貿電子金屬有限公司,1,china,0,1,0,1,0,上市,G2483,NA,NA,NA,NA,NA,NA
+2015,2483,百容電子股份有限公司,國興電工股份有限公司,1,台灣,0,1,0,0,0,上市,G2483,52753108,27518598,NA,NA,NA,NA
+2015,2483,Good Sky Electric(BVI)Ltd.,國興繼電器(深圳)有限公司,1,china,0,1,0,1,0,上市,G2483,NA,NA,NA,NA,NA,NA
+2015,2483,百容電子股份有限公司,富致科技股份有限公司,0.3,台灣,1,0,1,0,0,上市,G2483,52753108,70670235,NA,NA,NA,NA
+2015,2483,百容電子股份有限公司,廣容科技股份有限公司,0.8,台灣,0,1,0,0,0,上市,G2483,52753108,23544363,NA,NA,NA,NA
+2015,2483,廣容實業(香港)有限公司,廣容實業(上海)有限公司,1,china,0,1,0,1,0,上市,G2483,NA,NA,NA,NA,NA,NA
+2015,2483,廣容科技股份有限公司,廣容實業(香港)有限公司,1,香港,0,0,1,0,0,上市,G2483,23544363,NA,NA,NA,NA,NA
+2015,8109,博大科技股份有限公司,P-Duke Technology Inc.,1,美國,1,1,0,0,0,上櫃,G2483,86757291,NA,NA,NA,NA,NA
+2015,8109,Power Mate (Samoa) Holding Ltd.,Power Mate (B.V.I.) Company Ltd.,1,英屬維京群島,0,1,0,0,0,上櫃,G2483,NA,NA,NA,NA,NA,NA
+2015,8109,博大科技股份有限公司,Power Mate (Samoa) Holding Ltd.,1,薩摩亞,1,1,0,0,0,上櫃,G2483,NA,NA,NA,NA,NA,NA
+2015,8109,Power Mate (B.V.I.) Company Ltd.,博大科技(無錫)有限公司,1,china,0,1,0,1,0,上櫃,G2483,NA,NA,NA,NA,NA,NA
+2015,8109,廖氏家族,博大科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2483,NA,86757291,NA,NA,NA,NA
+2015,2483,廖氏家族,百容電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2483,NA,52753108,NA,NA,NA,NA

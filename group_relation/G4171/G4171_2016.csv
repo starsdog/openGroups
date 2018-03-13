@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4171,瑞基海洋生物科技股份有限公司,"Genereach USA, Inc.",1,美國,1,1,0,0,0,上櫃,G4171,27489806,NA,NA,NA,NA,NA
+2016,4171,瑞基海洋生物科技股份有限公司,Grand View Group Limited,1,薩摩亞,1,1,0,0,0,上櫃,G4171,27489806,NA,NA,NA,NA,NA
+2016,4171,再投資大陸公司,金瑞鴻捷(廈門)生物科技有限公司,0.5,china,0,0,0,1,0,上櫃,G4171,NA,NA,1,NA,NA,NA
+2016,4171,瑞基海洋生物科技股份有限公司,科城生物科技股份有限公司,0.2,台灣,1,0,1,0,0,上櫃,G4171,27489806,54573454,NA,NA,NA,NA

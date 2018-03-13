@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,5225,東亞科技(香港)有限公司,東弘電子(惠陽)有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2013,5225,東科控股股份有限公司,東亞科技(香港)有限公司,1,香港,1,1,0,0,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2013,5225,DJRINTERNATION,東科控股股份有限公司,NA,NA,0,0,0,0,1,上市,G9102,NA,NA,NA,NA,NA,NA
+2013,5225,東亞科技(香港)有限公司,深圳型色方格貿易有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2013,5225,東亞科技(香港)有限公司,惠陽東亞電子製品有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2013,5225,東亞科技(香港)有限公司,惠陽東美音響製品有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA

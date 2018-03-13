@@ -1,0 +1,17 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5302,太欣半導體股份有限公司,SYNTEK INTERNATIONAL HOLDING LTD.,1,開曼群島,0,0,1,0,0,上櫃,G5302,47255828,NA,NA,NA,NA,NA
+2016,5302,SYNTEK INTERNATIONAL HOLDING LTD.,WIN ESSENCE HOLDINGS CORPORATION,1,塞席爾,0,1,0,0,0,上櫃,G5302,NA,NA,NA,NA,NA,NA
+2016,5302,台灣曉奇股份有限公司,太欣半導體股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5302,23320069,47255828,NA,NA,NA,NA
+2016,5302,太欣半導體股份有限公司,世欣投資開發股份有限公司,1,台灣,1,1,0,0,0,上櫃,G5302,47255828,16099767,NA,NA,NA,NA
+2016,5302,WIN ESSENCE HOLDINGS CORPORATION,盛華微電子(上海)有限公司,0.8005,china,0,1,0,1,0,上櫃,G5302,NA,NA,NA,NA,NA,NA
+2016,5302,太欣半導體股份有限公司,創艦科技股份有限公司,0.2948,台灣,1,1,0,0,0,上櫃,G5302,47255828,12969026,NA,NA,NA,NA
+2016,5302,世欣投資開發股份有限公司,創艦科技股份有限公司,0.1837,台灣,0,0,1,0,0,上櫃,G5302,16099767,12969026,NA,NA,NA,NA
+2016,6104,崴懋科技股份有限公司,"Baleen Systems, Inc.",1,美國,0,1,0,0,0,上櫃,G5302,80307333,NA,NA,NA,NA,NA
+2016,6104,創惟科技股份有限公司,Eclat Holding Ltd.,1,薩摩亞,1,1,0,0,0,上櫃,G5302,97435451,NA,NA,NA,NA,NA
+2016,6104,創惟科技股份有限公司,"Genesys Logic America, Inc.",1,美國,1,1,0,0,0,上櫃,G5302,97435451,NA,NA,NA,NA,NA
+2016,6104,"Baleen Systems, Inc.",百立(杭州)電子系統有限公司,1,china,0,1,0,1,0,上櫃,G5302,NA,NA,NA,NA,NA,NA
+2016,6104,世創投資開發有限公司,創惟科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5302,16413040,97435451,NA,NA,NA,NA
+2016,6104,創惟科技股份有限公司,博惟科技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G5302,97435451,28894233,NA,NA,NA,NA
+2016,6104,創惟科技股份有限公司,崴懋科技股份有限公司,0.8832,台灣,1,1,0,0,0,上櫃,G5302,97435451,80307333,NA,NA,NA,NA
+2016,5302,太欣王家,台灣曉奇股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5302,NA,23320069,NA,NA,NA,NA
+2016,6104,太欣王家,世創投資開發有限公司,NA,NA,0,0,0,0,1,上櫃,G5302,NA,16413040,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "永純化學工業股份有限公司", "no_holder": false, "taxcode": "35108702"}, {"is_core": false, "source": [{"holder": "1", "name": "永純化學工業股份有限公司"}], "name": "神揚工業股份有限公司", "no_holder": false, "taxcode": "24494361"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2015"}

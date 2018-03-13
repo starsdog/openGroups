@@ -1,0 +1,31 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2404,盈正豫順電子股份有限公司,Ablerex Corporation,1,美國,0,0,1,0,0,上市,G2404,16444732,NA,NA,NA,NA,NA
+2015,3628,"Ablerex Overseas Co., Ltd.","Ablerex Electronics (Beijing) Co.,Ltd.",0.8,不明,0,1,0,0,0,上櫃,G2404,NA,NA,NA,NA,NA,NA
+2015,2404,盈正豫順電子股份有限公司,Ablerex Electronics (S) Pte Limited,1,新加坡,0,0,1,0,0,上市,G2404,16444732,NA,NA,NA,NA,NA
+2015,3628,盈正豫順電子股份有限公司,"Ablerex Electronics (Samoa) Co., Ltd.",1,薩摩亞,1,1,0,0,0,上櫃,G2404,16444732,NA,NA,NA,NA,NA
+2015,3628,"Ablerex Overseas Co., Ltd.","Ablerex Electronics (Suzhou) Co., Ltd.",1,不明,0,1,0,0,0,上櫃,G2404,NA,NA,NA,NA,NA,NA
+2015,3628,Ablerex Electronics U.K. Ltd.,Ablerex Electronics Italy S.R.L.,1,不明,0,1,0,0,0,上櫃,G2404,NA,NA,NA,NA,NA,NA
+2015,3628,盈正豫順電子股份有限公司,Ablerex Electronics U.K. Ltd.,1,英國,1,1,0,0,0,上櫃,G2404,16444732,NA,NA,NA,NA,NA
+2015,2404,盈正豫順電子股份有限公司,Ablerex International Corporation Limited,1,香港,0,0,1,0,0,上市,G2404,16444732,NA,NA,NA,NA,NA
+2015,3628,"Ablerex Electronics (Samoa) Co., Ltd.","Ablerex Overseas Co., Ltd.",1,香港,0,1,0,0,0,上櫃,G2404,NA,NA,NA,NA,NA,NA
+2015,3628,"Ablerex Overseas Co., Ltd.",Ablerex-BJ,0.8,china,0,0,0,1,0,上櫃,G2404,NA,NA,8,NA,NA,NA
+2015,3628,"Ablerex Electronics (Samoa) Co., Ltd.",Ablerex-SZ,1,china,0,0,0,1,0,上櫃,G2404,NA,NA,8,NA,NA,NA
+2015,3628,盈正豫順電子股份有限公司,Joint Rewards Trading Corp.,1,英屬維京群島,1,1,0,0,0,上櫃,G2404,16444732,NA,NA,NA,NA,NA
+2015,2404,WHOLETECH SYSTEM HITECH INC.,WHOLETECH GROUP INTERNATIONAL TRADING LIMITED,1,模里西斯,0,0,1,0,0,上市,G2404,NA,NA,NA,NA,NA,NA
+2015,2404,漢科系統科技股份有限公司,WHOLETECH SYSTEM HITECH INC.,1,模里西斯,0,0,1,0,0,上市,G2404,23830295,NA,NA,NA,NA,NA
+2015,2404,漢科系統科技股份有限公司,WHOLETECH SYSTEM HITECH LIMITED,1,英屬維京群島,0,0,1,0,0,上市,G2404,23830295,NA,NA,NA,NA,NA
+2015,2404,"WHOLETECH SYSTEM HITECH(S) PTE,LTD.",WHOLETECH SYSTEM HITECH(M) SDN.BHD.,1,馬來西亞,0,0,1,0,0,上市,G2404,NA,NA,NA,NA,NA,NA
+2015,2404,漢科系統科技股份有限公司,"WHOLETECH SYSTEM HITECH(S) PTE,LTD.",1,新加坡,0,0,1,0,0,上市,G2404,23830295,NA,NA,NA,NA,NA
+2015,2404,漢唐集成股份有限公司,友麗系統製造股份有限公司,0.1949,台灣,1,0,1,0,0,上市,G2404,20938096,80509582,NA,NA,NA,NA
+2015,2404,漢唐集成有限公司,北京漢和唐醫療器械有限公司,1,china,0,1,0,1,0,上市,G2404,NA,NA,NA,NA,NA,NA
+2015,2404,再投資大陸公司,江西省建工集團有限責任公司,0.198,china,0,0,0,1,0,上市,G2404,NA,NA,11,NA,NA,NA
+2015,2404,漢唐集成股份有限公司,江西漢唐系統集成有限公司,0.75,china,1,1,0,1,0,上市,G2404,20938096,NA,NA,NA,NA,NA
+2015,2404,漢唐集成股份有限公司,盈正豫順電子股份有限公司,0.3273,台灣,1,0,1,0,0,上市,G2404,20938096,16444732,NA,NA,NA,NA
+2015,2404,漢唐集成股份有限公司,新加坡漢唐系統集成有限公司,1,新加坡,1,0,1,0,0,上市,G2404,20938096,NA,NA,NA,NA,NA
+2015,2404,漢唐集成股份有限公司,漢太投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2404,20938096,16441496,NA,NA,NA,NA
+2015,2404,漢唐集成股份有限公司,漢科系統科技股份有限公司,0.1361,台灣,1,0,1,0,0,上市,G2404,20938096,23830295,NA,NA,NA,NA
+2015,2404,漢唐集成股份有限公司,漢唐集成有限公司,1,不明,1,1,0,0,0,上市,G2404,20938096,NA,NA,NA,NA,NA
+2015,2404,中慶投資股份有限公司,漢唐集成股份有限公司,NA,NA,0,0,0,0,1,上市,G2404,20998538,20938096,NA,NA,NA,NA
+2015,2404,漢唐集成股份有限公司,漢唐集成股份有限公司,1,英屬維京群島,1,0,1,0,0,上市,G2404,20938096,20938096,NA,NA,NA,NA
+2015,2404,漢唐集成有限公司,蘇元貿易(上海)有限公司,1,china,0,1,0,1,0,上市,G2404,NA,NA,NA,NA,NA,NA
+2015,2404,漢唐集成有限公司,蘇州漢太系統集成有限公司,1,china,0,1,0,1,0,上市,G2404,NA,NA,NA,NA,NA,NA

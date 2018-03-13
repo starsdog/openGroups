@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3097,"P&J Investment Holding Co., Ltd.",P&D International Trading Corp,1,薩摩亞,0,1,0,0,0,興櫃,G3097,NA,NA,NA,NA,NA,NA
+2013,3097,拍檔科技股份有限公司,"P&J Investment Holding Co., Ltd.",1,英屬維京群島,1,1,0,0,0,興櫃,G3097,23622986,NA,NA,NA,NA,NA
+2013,3097,"P&J Investment Holding Co., Ltd.","P&S Investment Holding Co., Ltd.",1,英屬維京群島,0,1,0,0,0,興櫃,G3097,NA,NA,NA,NA,NA,NA
+2013,3097,拍檔科技股份有限公司,Partner Tech Europe GmbH,0.2509,德國,1,0,1,0,0,興櫃,G3097,23622986,NA,NA,NA,NA,NA
+2013,3097,拍檔科技股份有限公司,"Partner Tech UK Corp., Ltd.",1,英國,1,1,0,0,0,興櫃,G3097,23622986,NA,NA,NA,NA,NA
+2013,3097,"P&S Investment Holding Co., Ltd.",Partner Tech USA. Inc.,1,美國,0,1,0,0,0,興櫃,G3097,NA,NA,NA,NA,NA,NA
+2013,3097,拍檔科技股份有限公司,"PTK International Co., Ltd.",1,南韓,1,1,0,0,0,興櫃,G3097,23622986,NA,NA,NA,NA,NA
+2013,3097,凱爾投資股份有限公司,拍檔科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3097,29131213,23622986,NA,NA,NA,NA
+2013,3097,旭晟科技股份有限公司,拍檔科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3097,27543490,23622986,NA,NA,NA,NA
+2013,3097,環隆科技股份有限公司,拍檔科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3097,52878846,23622986,NA,NA,NA,NA
+2013,3097,"P&S Investment Holding Co., Ltd.",拍檔電子科技(上海)有限公司,1,china,0,1,0,1,0,興櫃,G3097,NA,NA,NA,NA,NA,NA
+2013,3097,"P&J Investment Holding Co., Ltd.",派忒能貿易(上海)有限公司,1,china,0,0,1,1,0,興櫃,G3097,NA,NA,NA,NA,NA,NA
+2013,3097,拍檔科技股份有限公司,美麗科技股份有限公司,1,台灣,1,1,0,0,0,興櫃,G3097,23622986,24361221,NA,NA,NA,NA
+2013,3097,拍檔科技股份有限公司,普士科技股份有限公司,0.6815,台灣,1,1,0,0,0,興櫃,G3097,23622986,28091121,NA,NA,NA,NA
+2013,3097,拍檔科技股份有限公司,聯暘電子股份有限公司,0,台灣,1,0,1,0,0,興櫃,G3097,23622986,86282112,NA,NA,NA,NA

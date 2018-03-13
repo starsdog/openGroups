@@ -1,0 +1,45 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1903,八仙樂園育樂股份有限公司,士林紙業股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,22091588,11038101,NA,NA,NA,NA
+2013,1903,怡兆企業股份有限公司,士林紙業股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,12335804,11038101,NA,NA,NA,NA
+2013,1903,臺實貿易股份有限公司,士林紙業股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,11898002,11038101,NA,NA,NA,NA
+2013,1903,財團法人萬海航運社會福利慈善事業基金會,士林紙業股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,99029802,11038101,NA,NA,NA,NA
+2013,1903,大興投資股份有限公司,士林紙業股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,22266539,11038101,NA,NA,NA,NA
+2013,1903,兆世國際開發股份有限公司,士林紙業股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,12234480,11038101,NA,NA,NA,NA
+2013,1903,藍月投資股份有限公司,士林紙業股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,31120727,11038101,NA,NA,NA,NA
+2013,1903,勇春股份有限公司,士林紙業股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,04491669,11038101,NA,NA,NA,NA
+2013,1903,士林紙業股份有限公司,士林環境淨化股份有限公司,1,台灣,1,1,0,0,0,上市,G1903,11038101,23131264,NA,NA,NA,NA
+2013,1903,陽光士林開發股份有限公司,大地都更建設股份有限公司,1,台灣,0,1,0,0,0,上市,G1903,12971037,24481366,NA,NA,NA,NA
+2013,1903,士林紙業股份有限公司,陽光士林開發股份有限公司,1,台灣,1,1,0,0,0,上市,G1903,11038101,12971037,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Hong Kong) Limited,Dawin Logistics (International) Ltd.,1,香港,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,萬海航運股份有限公司,k.k. WH Corporation,1,日本,1,1,0,0,0,上市,G1903,11395000,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,Wan Hai (Vietnam) Ltd.,1,越南,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,Wan Hai International Pte Ltd.,1,新加坡,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,萬海航運股份有限公司,Wan Hai Lines (America) Ltd.,1,美國,1,1,0,0,0,上市,G1903,11395000,NA,NA,NA,NA,NA
+2013,2615,萬海航運股份有限公司,Wan Hai Lines (Germany) GmbH,1,德國,1,1,0,0,0,上市,G1903,11395000,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,Wan Hai Lines (H.K.) Limited,1,香港,0,0,1,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,Wan Hai Lines (Hong Kong) Limited,1,不明,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Wan Hai International Pte Ltd.,Wan Hai Lines (India) PVT Ltd.,1,印度,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,Wan Hai Lines (Korea) Ltd.,1,南韓,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,Wan Hai Lines (M) Sdn. Bhd.,1,馬來西亞,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,"Wan Hai Lines (Phils.), Inc.",1,菲律賓,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,萬海航運股份有限公司,Wan Hai Lines (Singapore) Pte Ltd,1,新加坡,1,1,0,0,0,上市,G1903,11395000,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,Wan Hai Lines (Thailand) Limited,0.49,泰國,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Wan Hai International Pte Ltd.,Wan Hai Lines (UAE) LLC.,0.49,阿拉伯聯合大公國,0,0,1,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Singapore) Pte Ltd,Yi Chun Shipping Agencies Sdn. Bhd.,1,馬來西亞,0,1,0,0,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,深圳聯豐國際貨運(股)公司,上海聯駿國際船舶代理有限公司,0.49,china,0,1,0,1,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,萬海航運股份有限公司,台基國際物流股份有限公司,0.55,台灣,1,1,0,0,0,上市,G1903,11395000,27901897,NA,NA,NA,NA
+2013,2615,Dawin Logistics (International) Ltd.,勁海物流(上海)有限公司,1,china,0,1,0,1,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Dawin Logistics (International) Ltd.,深圳亞世倉儲有限公司,1,china,0,1,0,1,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,深圳聯豐國際貨運(股)公司,深圳勇春國際船舶管理有限公司,0.9,china,0,1,0,1,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,Dawin Logistics (International) Ltd.,深圳聯豐國際貨運(股)公司,1,china,0,1,0,1,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,萬海航運股份有限公司,新港蓋梅國際碼頭有限公司,0.2133,越南,1,0,1,0,0,上市,G1903,11395000,NA,NA,NA,NA,NA
+2013,2615,八仙樂園育樂股份有限公司,萬海航運股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,22091588,11395000,NA,NA,NA,NA
+2013,2615,泰力實業股份有限公司,萬海航運股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,97298772,11395000,NA,NA,NA,NA
+2013,2615,財團法人勇源教育發展基金會,萬海航運股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,18478384,11395000,NA,NA,NA,NA
+2013,2615,如禧股份有限公司,萬海航運股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,89442198,11395000,NA,NA,NA,NA
+2013,2615,大興投資股份有限公司,萬海航運股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,22266539,11395000,NA,NA,NA,NA
+2013,2615,藍月投資股份有限公司,萬海航運股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,31120727,11395000,NA,NA,NA,NA
+2013,2615,怡興股份有限公司,萬海航運股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,28444981,11395000,NA,NA,NA,NA
+2013,2615,誼德光電科技股份有限公司,萬海航運股份有限公司,NA,NA,0,0,0,0,1,上市,G1903,12667649,11395000,NA,NA,NA,NA
+2013,2615,Wan Hai Lines (Hong Kong) Limited,廣州萬海資訊科技有限公司,1,china,0,1,0,1,0,上市,G1903,NA,NA,NA,NA,NA,NA
+2013,2615,萬海航運股份有限公司,寶昇船務代理股份有限公司,0.7001,台灣,1,1,0,0,0,上市,G1903,11395000,25182148,NA,NA,NA,NA

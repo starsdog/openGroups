@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6238,KINGPAK HOLDING INC,Grand Lucky Limited,0,不明,0,1,0,0,0,上櫃,G8126,NA,NA,NA,NA,NA,NA
+2016,6238,勝麗國際股份有限公司,KINGPAK HOLDING INC,0,薩摩亞,0,0,1,0,0,上櫃,G8126,86126696,NA,NA,NA,NA,NA
+2016,6238,勝創科技股份有限公司,勝麗國際股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8126,84560548,86126696,NA,NA,NA,NA
+2016,6238,勝麗國際股份有限公司,勝麗國際香港有限公司,1,香港,1,1,0,0,0,上櫃,G8126,86126696,NA,NA,NA,NA,NA

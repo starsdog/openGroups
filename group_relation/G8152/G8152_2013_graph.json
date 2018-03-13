@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "瑞星投資顧問股份有限公司", "no_holder": false, "taxcode": "16625614"}, {"is_core": true, "source": [{"holder": "NA", "name": "瑞星投資顧問股份有限公司"}], "name": "峻新電腦股份有限公司", "no_holder": false, "taxcode": "86297564"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

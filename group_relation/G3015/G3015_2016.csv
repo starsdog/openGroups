@@ -1,0 +1,31 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3015,善元科技股份有限公司,3Y Power Technology Inc.,1,美國,0,1,0,0,0,上市,G3015,97351852,NA,NA,NA,NA,NA
+2016,3015,"Amacrox Technology Co., Ltd.",Amacrox GmbH,1,德國,0,1,0,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,全漢企業股份有限公司,"Amacrox Technology Co., Ltd.",1,不明,1,1,0,0,0,上市,G3015,84239055,NA,NA,NA,NA,NA
+2016,3015,FSP International Inc.,Famous Holding Ltd.,1,薩摩亞,0,1,0,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,全漢企業股份有限公司,FSP Group Inc.,1,開曼群島,1,1,0,0,0,上市,G3015,84239055,NA,NA,NA,NA,NA
+2016,3015,"Amacrox Technology Co., Ltd.",FSP Group USA Corp.,0.45,美國,0,0,1,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,FSP International Inc.,FSP International (HK) Limited,1,香港,0,0,1,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,全漢企業股份有限公司,FSP International Inc.,1,英屬維京群島,1,1,0,0,0,上市,G3015,84239055,NA,NA,NA,NA,NA
+2016,3015,FSP International Inc.,FSP Technology Inc.,1,不明,0,1,0,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,全漢企業股份有限公司,FSP Technology USA Inc,1,美國,1,1,0,0,0,上市,G3015,84239055,NA,NA,NA,NA,NA
+2016,3015,全漢企業股份有限公司,Harmony Trading (HK) Ltd.,1,香港,1,1,0,0,0,上市,G3015,84239055,NA,NA,NA,NA,NA
+2016,3015,善元科技股份有限公司,"Luckyield Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G3015,97351852,NA,NA,NA,NA,NA
+2016,3015,FSP International Inc.,"Power Electronics Co., Ltd.",1,不明,0,1,0,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,FSP International Inc.,Proteck Electronics (Samoa) Corp.,1,薩摩亞,0,1,0,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,"Amacrox Technology Co., Ltd.",Proteck Power North America Inc.,1,美國,0,0,1,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,"Power Electronics Co., Ltd.",仲漢電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,向美有限公司,全漢企業股份有限公司,NA,NA,0,0,0,0,1,上市,G3015,54337234,84239055,NA,NA,NA,NA
+2016,3015,貝里斯商DATAZONELIMITED,全漢企業股份有限公司,NA,NA,0,0,0,0,1,上市,G3015,NA,84239055,NA,NA,NA,NA
+2016,3015,英屬維京群島商２KINDUSTRIES.INC.,全漢企業股份有限公司,NA,NA,0,0,0,0,1,上市,G3015,NA,84239055,NA,NA,NA,NA
+2016,3015,3Y Power Technology Inc.,江蘇全漢電能技術研發有限公司,0.4,china,0,1,0,0,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,FSP Technology Inc.,江蘇全漢電能技術研發有限公司,0.6,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,Proteck Electronics (Samoa) Corp.,東莞浦特電子有限公司,1,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,江蘇全漢電能技術研發有限公司,南京博蘭得公司,0.26,china,0,0,0,1,0,上市,G3015,NA,NA,8,NA,NA,NA
+2016,3015,FSP International (HK) Limited,浩漢電子科技(吉安)有限公司,1,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,無錫仲漢科技有限公司,深圳市眾漢科技有限公司,1,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,FSP International Inc.,深圳輝力電子有限公司,1,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,全漢企業股份有限公司,善元科技股份有限公司,0.6717,台灣,1,1,0,0,0,上市,G3015,84239055,97351852,NA,NA,NA,NA
+2016,3015,Famous Holding Ltd.,無錫仲漢科技有限公司,1,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,Famous Holding Ltd.,無錫全漢科技有限公司,1,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA
+2016,3015,"Luckyield Co., Ltd.",無錫向元電子科技有限公司,1,china,0,1,0,1,0,上市,G3015,NA,NA,NA,NA,NA,NA

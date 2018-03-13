@@ -1,0 +1,35 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3504,Masterview Enterprises Limited,Best Alpha Investments Limited,1,薩摩亞,0,1,0,0,0,上市,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,奧圖碼科技股份有限公司,Dynamic Time,1,開曼群島,1,1,0,0,0,公開發行,G5371,70795143,NA,NA,NA,NA,NA
+2013,3565,奧圖碼科技股份有限公司,Excel Global Limited,1,開曼群島,1,1,0,0,0,公開發行,G5371,70795143,NA,NA,NA,NA,NA
+2013,3504,Masterview Enterprises Limited,Grace China Investments Limited,1,開曼群島,0,1,0,0,0,上市,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,琉璃工房志業股份有限公司,"LIU LI GONG FANG (U.S.A.), INC.",1,美國,0,1,0,0,0,公開發行,G5371,84919969,NA,NA,NA,NA,NA
+2013,3565,琉璃工房志業股份有限公司,LIULIGONGFANG(SINGAPORE) PTE. LTD.,1,新加坡,0,1,0,0,0,公開發行,G5371,84919969,NA,NA,NA,NA,NA
+2013,3565,琉璃工房志業股份有限公司,LLGF (MALAYSIA) SDN. BHD.,1,馬來西亞,0,1,0,0,0,公開發行,G5371,84919969,NA,NA,NA,NA,NA
+2013,3504,揚明光學股份有限公司,Masterview Enterprises Limited,1,英屬維京群島,1,1,0,0,0,上市,G5371,12800061,NA,NA,NA,NA,NA
+2013,3565,Dynamic Time,Modern Smart,1,英屬維京群島,0,0,1,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Dynamic Time,Optoma (China&HK) Ltd.,1,香港,0,0,1,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Optoma Europe,Optoma Benelux B.V.,1,荷蘭,0,1,0,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Optoma Europe,Optoma Deutschland GmbH,1,德國,0,1,0,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Optoma Europe,"Optoma Espana, S.L.",1,西班牙,0,1,0,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Dynamic Time,Optoma Europe,1,英國,0,0,1,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Optoma Europe,"Optoma France, S.A.S.",1,法國,0,1,0,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Optoma Europe,Optoma Scandinavia AS,1,挪威,0,1,0,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,"Optoma Technology, Inc.",Optoma Technology,1,加拿大,0,1,0,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Dynamic Time,"Optoma Technology, Inc.",1,美國,0,0,1,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3504,揚明光學股份有限公司,Young Optics Inc. USA,1,美國,1,1,0,0,0,上市,G5371,12800061,NA,NA,NA,NA,NA
+2013,3504,Grace China Investments Limited,Young Optics(BD) LTD.,0.5,孟加拉,0,1,0,0,0,上市,G5371,NA,NA,NA,NA,NA,NA
+2013,3504,Masterview Enterprises Limited,Young Optics(BD) LTD.,0.5,孟加拉,0,1,0,0,0,上市,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,香港琉璃工房志業股份有限公司,上海琉璃工房琉璃藝術品有限公司,0.5227,中國大陸,0,1,0,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,琉璃工房志業股份有限公司,上海琉璃工房琉璃藝術品有限公司,0.4773,china,0,1,0,1,0,公開發行,G5371,84919969,NA,NA,NA,NA,NA
+2013,3565,台灣工房,上海透明思考琉璃藝術品有限公司,0,china,0,0,0,1,0,公開發行,G5371,NA,NA,2,NA,NA,NA
+2013,5371,迅捷投資股份有限公司,中強光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5371,70761592,22099907,NA,NA,NA,NA
+2013,3504,揚明光學股份有限公司,光芒光學股份有限公司,1,台灣,1,1,0,0,0,上市,G5371,12800061,27405145,NA,NA,NA,NA
+2013,3504,Best Alpha Investments Limited,昆山揚明光學有限公司,0.2455,china,0,1,0,0,0,上市,G5371,NA,NA,NA,NA,NA,NA
+2013,3504,Grace China Investments Limited,昆山揚明光學有限公司,0.7545,china,0,1,0,1,0,上市,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Excel Global Limited,香港琉璃工房志業股份有限公司,1,香港,0,1,0,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,琉璃奧圖碼科技股份有限公司,琉璃工房志業股份有限公司,1,台灣,1,1,0,0,0,公開發行,G5371,NA,84919969,NA,NA,NA,NA
+2013,3565,Modern Smart Technology Limited,琉璃奧圖碼數碼科技(上海)有限公司,1,china,0,1,0,1,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3565,Modern Smart Technology Ltd.,琉璃奧圖碼數碼科技(上海)有限公司,1,中國大陸,0,0,1,0,0,公開發行,G5371,NA,NA,NA,NA,NA,NA
+2013,3504,中強光電股份有限公司,揚明光學股份有限公司,NA,NA,0,0,0,0,1,上市,G5371,22099907,12800061,NA,NA,NA,NA
+2013,3504,Best Alpha Investments Limited,蘇州揚明光學有限公司,1,china,0,1,0,1,0,上市,G5371,NA,NA,NA,NA,NA,NA

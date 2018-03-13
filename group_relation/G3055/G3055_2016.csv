@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3055,蔚華科技股份有限公司,Spirox Cayman Corporation,1,開曼群島,1,1,0,0,0,上市,G3055,22729784,NA,NA,NA,NA,NA
+2016,3055,Spirox Cayman Corporation,Spirox Corporation USA,1,美國,0,1,0,0,0,上市,G3055,NA,NA,NA,NA,NA,NA
+2016,3055,Spirox Cayman Corporation,Spirox International Limited,1,香港,0,1,0,0,0,上市,G3055,NA,NA,NA,NA,NA,NA
+2016,3055,浩網科技股份有限公司,Stockton Pacific Inc.,1,英屬維京群島,0,1,0,0,0,上市,G3055,70710139,NA,NA,NA,NA,NA
+2016,3055,浩網科技股份有限公司,上海浩網一電子科技有限公司,1,china,0,1,0,1,0,上市,G3055,70710139,NA,NA,NA,NA,NA
+2016,3055,浩網科技股份有限公司,安盟科技股份有限公司,1,台灣,0,1,0,0,0,上市,G3055,70710139,25046658,NA,NA,NA,NA
+2016,3055,欣傳投資股份有限公司,承新國際科技股份有限公司,1,台灣,0,1,0,0,0,上市,G3055,96866240,53375483,NA,NA,NA,NA
+2016,3055,蔚華科技股份有限公司,欣傳投資股份有限公司,1,台灣,1,1,0,0,0,上市,G3055,22729784,96866240,NA,NA,NA,NA
+2016,3055,欣傳投資股份有限公司,浩網科技股份有限公司,0.9848,台灣,0,1,0,0,0,上市,G3055,96866240,70710139,NA,NA,NA,NA
+2016,3055,欣傳投資股份有限公司,德能光源股份有限公司,0,不明,0,1,0,0,0,上市,G3055,96866240,29069457,NA,NA,NA,NA
+2016,3055,錦雲投資股份有限公司,蔚華科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3055,70524439,22729784,NA,NA,NA,NA
+2016,3055,Spirox Cayman Corporation,蔚華集成電路(上海)有限公司,1,china,0,1,0,1,0,上市,G3055,NA,NA,NA,NA,NA,NA
+2016,3055,Spirox Cayman Corporation,蔚華電子科技(上海)有限公司,1,china,0,1,0,1,0,上市,G3055,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5271,紘通企業股份有限公司,High Achieve International Limited,1,塞席爾,1,1,0,0,0,興櫃,G5271,NA,NA,NA,NA,NA,NA
+2016,5271,High Achieve International Limited,完全科技有限公司,1,薩摩亞,0,1,0,0,0,興櫃,G5271,NA,NA,NA,NA,NA,NA
+2016,5271,完全科技有限公司,宏通電子(蘇州)有限公司,1,china,0,1,0,1,0,興櫃,G5271,NA,NA,NA,NA,NA,NA
+2016,5271,深圳市宏懋電子有限公司,深圳市宏練精密工業有限公司,0.5097,china,0,1,0,1,0,興櫃,G5271,NA,NA,NA,NA,NA,NA
+2016,5271,豪威有限公司,深圳市宏懋電子有限公司,1,china,0,1,0,1,0,興櫃,G5271,NA,NA,NA,NA,NA,NA
+2016,5271,豪威有限公司,深圳市紘通電子有限公司,1,china,0,1,0,1,0,興櫃,G5271,NA,NA,NA,NA,NA,NA
+2016,5271,豪威有限公司,深圳市寶安區后亭宏通電子廠,1,china,0,0,0,1,0,興櫃,G5271,NA,NA,10,NA,NA,NA
+2016,5271,深圳市紘通電子有限公司,湖北高宏通電子科技有限公司,1,china,0,1,0,1,0,興櫃,G5271,NA,NA,NA,NA,NA,NA
+2016,5271,紘通企業股份有限公司,瑞燁科技有限公司,0.2757,台灣,1,0,1,0,0,興櫃,G5271,NA,28190585,NA,NA,NA,NA
+2016,5271,High Achieve International Limited,豪威有限公司,1,薩摩亞,0,1,0,0,0,興櫃,G5271,NA,NA,NA,NA,NA,NA

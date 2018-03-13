@@ -1,0 +1,26 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5425,台灣半導體股份有限公司,Ever Energetic Int'l Ltd.,1,英屬維京群島,1,1,0,0,0,上櫃,G5425,34286449,NA,NA,NA,NA,NA
+2016,5425,台灣半導體股份有限公司,"Ever Winner Int'l Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上櫃,G5425,34286449,NA,NA,NA,NA,NA
+2016,3611,TSC Auto Technology America Inc.,Printronix Auto ID Technology Inc.,0.95,美國,0,0,1,0,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,3611,鼎翰科技股份有限公司,Printronix Auto ID Technology Inc.,1,美國,1,1,0,0,0,上櫃,G5425,28624652,NA,NA,NA,NA,NA
+2016,5425,台灣半導體股份有限公司,Skyrise Int'l Ltd.,1,英屬維京群島,1,1,0,0,0,上櫃,G5425,34286449,NA,NA,NA,NA,NA
+2016,5425,Ever Energetic Int'l Ltd.,"Taiwan Semiconductor (H.K.) Co., Ltd.",0.3696,香港,0,1,0,0,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,5425,"Ever Winner Int'l Co., Ltd.","Taiwan Semiconductor (H.K.) Co., Ltd.",0.3782,香港,0,1,0,0,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,5425,台灣半導體股份有限公司,"Taiwan Semiconductor (H.K.) Co., Ltd.",0.2522,香港,1,1,0,0,0,上櫃,G5425,34286449,NA,NA,NA,NA,NA
+2016,5425,台灣半導體股份有限公司,Taiwan Semiconductor Europe GmbH,1,德國,1,1,0,0,0,上櫃,G5425,34286449,NA,NA,NA,NA,NA
+2016,5425,台灣半導體股份有限公司,Taiwan Semiconductor Japan Ltd.,1,日本,1,1,0,0,0,上櫃,G5425,34286449,NA,NA,NA,NA,NA
+2016,5425,Ever Energetic Int'l Ltd.,"TSC America, Inc.",0.75,美國,0,1,0,0,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,5425,"Ever Winner Int'l Co., Ltd.","TSC America, Inc.",0.25,美國,0,1,0,0,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,3611,鼎翰科技股份有限公司,TSC Auto ID (H.K.) Ltd.,1,香港,1,1,0,0,0,上櫃,G5425,28624652,NA,NA,NA,NA,NA
+2016,3611,鼎翰科技股份有限公司,TSC Auto ID Technology EMEA GmbH,1,德國,1,1,0,0,0,上櫃,G5425,28624652,NA,NA,NA,NA,NA
+2016,3611,TSC Auto ID Technology EMEA GmbH,"TSC Auto ID Technology ME, Ltd. FZE",1,阿拉伯聯合大公國,0,1,0,0,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,3611,TSC Auto ID Technology EMEA GmbH,"TSC Auto ID Technology Spain, S.L.",1,西班牙,0,1,0,0,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,3611,鼎翰科技股份有限公司,TSC Auto Technology America Inc.,1,美國,1,1,0,0,0,上櫃,G5425,28624652,NA,NA,NA,NA,NA
+2016,5425,"Ever Winner Int'l Co., Ltd.",上海瀚科國際貿易有限公司,1,china,0,1,0,1,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,5425,"Taiwan Semiconductor (H.K.) Co., Ltd.",天津長威科技有限公司,1,china,0,1,0,1,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,3611,TSC Auto ID (H.K.) Ltd.,天津國聚科技有限公司,1,china,0,1,0,1,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,5425,鼎翰科技股份有限公司,台灣半導體股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5425,28624652,34286449,NA,NA,NA,NA
+2016,3611,TSC Auto ID (H.K.) Ltd.,深圳鼎貫科技有限公司,1,china,0,1,0,1,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,5425,"Taiwan Semiconductor (H.K.) Co., Ltd.",陽信長威電子有限公司,1,china,0,1,0,1,0,上櫃,G5425,NA,NA,NA,NA,NA,NA
+2016,3611,鼎翰科技股份有限公司,鼎貫科技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G5425,28624652,42697634,NA,NA,NA,NA
+2016,5425,台灣半導體股份有限公司,鼎翰科技股份有限公司,0.3644,台灣,1,1,0,0,0,上櫃,G5425,34286449,28624652,NA,NA,NA,NA

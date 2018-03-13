@@ -1,0 +1,55 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2481,"JOYSTAR INTERNATIONAL CO., LTD.","Aide Energy (Cayman) Holding Co., Ltd.",0.0369,開曼群島,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,PAN-JIT ASIA INTERNATIONAL INC.,"Aide Energy (Cayman) Holding Co., Ltd.",0.8863,開曼群島,0,1,0,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,AIDE Energy Europe Cooperatie U.A.,AIDE Energy Europe B.V.,1,荷蘭,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,"Aide Energy (Cayman) Holding Co., Ltd.",AIDE Energy Europe Cooperatie U.A.,0.9998,荷蘭,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,Aide Solar Energy (HK) Holding Limited,AIDE Energy Europe Cooperatie U.A.,0.0002,荷蘭,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,"Aide Energy (Cayman) Holding Co., Ltd.",Aide Solar Energy (HK) Holding Limited,1,香港,0,1,0,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,"Aide Energy (Cayman) Holding Co., Ltd.","AIDE SOLAR USA,INC.",1,美國,0,1,0,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,Aide Solar Energy (HK) Holding Limited,"AIDE SOLAR USA,INC.",0.4828,美國,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,PAN-JIT ASIA INTERNATIONAL INC.,CONTINENTAL LIMITED,1,薩摩亞,0,1,0,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,"JOYSTAR INTERNATIONAL CO., LTD.",DYNAMIC TECH GROUP LIMITED,0.3914,薩摩亞,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,PAN-JIT ASIA INTERNATIONAL INC.,DYNAMIC TECH GROUP LIMITED,1,薩摩亞,0,1,0,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,AIDE Energy Europe B.V.,EC Solar C1 SRL,1,義大利,0,1,0,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,AIDE Energy Europe B.V.,Energia Fotovoltaica 12 Societa' Agricola ar.l,1,義大利,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,AIDE Energy Europe B.V.,Energia Fotovoltaica 22 Societa' Agricola ar.l,1,義大利,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,"Mildex Asia Co.,Ltd.","Full Sunny International Co.,Ltd.",0.6361,汶萊,0,1,0,0,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,"Mildex Asia Co.,Ltd.","Good Top Technology Holding (Cayman) Co., Ltd.",0,開曼群島,0,1,0,0,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,璟茂科技股份有限公司,"JOYSTAR INTERNATIONAL CO., LTD.",1,汶萊,0,1,0,0,0,上市,G2481,16824557,NA,NA,NA,NA,NA
+2016,4729,"Mildex Technology Holding (Cayman) Co.,Ltd","Jumplus Co., Ltd.",1,薩摩亞,0,0,1,0,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,熒茂光學股份有限公司,"Mildex Asia Co.,Ltd.",1,英屬維京群島,1,1,0,0,0,上櫃,G2481,27800048,NA,NA,NA,NA,NA
+2016,4729,"Mildex Asia Co.,Ltd.",Mildex Optical USA Inc,1,美國,0,0,1,0,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,"Mildex Asia Co.,Ltd.","Mildex Technology Holding (Cayman) Co.,Ltd",1,開曼群島,0,0,1,0,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,熒茂光學股份有限公司,"New Popular Technology Co., Ltd.",0.7256,汶萊,1,1,0,0,0,上櫃,G2481,27800048,NA,NA,NA,NA,NA
+2016,2481,PAN-JIT ASIA INTERNATIONAL INC.,Pan Jit Americas Inc.,0.9586,美國,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,PAN-JIT ASIA INTERNATIONAL INC.,Pan Jit Europe GmbH,1,德國,0,1,0,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,PAN-JIT ASIA INTERNATIONAL INC.,"PAN JIT KOREA Co.,Ltd.",0.6,南韓,0,0,1,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,強茂股份有限公司,PAN-JIT ASIA INTERNATIONAL INC.,1,英屬維京群島,1,1,0,0,0,上市,G2481,22145016,NA,NA,NA,NA,NA
+2016,2481,PAN-JIT ASIA INTERNATIONAL INC.,PAN-JIT INTERNATIONAL (H.K.) LTD.,1,香港,0,1,0,0,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,"Mildex Technology Holding (Cayman) Co.,Ltd",Sinano Technology Corp.,1,薩摩亞,0,0,1,0,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,熒茂光學股份有限公司,Tycoon Power International Ltd.,1,塞席爾,0,1,0,0,0,上市,G2481,27800048,NA,NA,NA,NA,NA
+2016,2481,強茂股份有限公司,山東強茂電子科技有限公司,0.4,china,0,0,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,Aide Solar Energy (HK) Holding Limited,江蘇艾德太陽能科技有限公司,1,china,0,1,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,Sinano Technology Corp.,亞納科技(深圳)有限公司,0.19,china,0,0,0,1,0,上櫃,G2481,NA,NA,1,NA,NA,NA
+2016,2481,熒茂光學股份有限公司,東莞龍冠真空科技有限公司,0,china,0,0,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,強茂股份有限公司,茂迪(蘇州)新能源有限公司,0.0461,china,0,0,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,熒茂光學股份有限公司,浙江星星科技股份有限公司,0.0732,china,0,0,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,金茂投資股份有限公司,強茂股份有限公司,NA,NA,0,0,0,0,1,上市,G2481,16121331,22145016,NA,NA,NA,NA
+2016,2481,強茂電子(無錫)有限公司,強茂照明科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,強茂電子(無錫)有限公司,強茂電子(北京)有限公司,1,china,0,1,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,PAN-JIT ASIA INTERNATIONAL INC.,強茂電子(無錫)有限公司,1,china,0,1,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,強茂股份有限公司,強德電能股份有限公司,0.533,台灣,1,1,0,0,0,上市,G2481,22145016,24438919,NA,NA,NA,NA
+2016,4729,"New Popular Technology Co., Ltd.",深圳巿聯懋塑膠有限公司,0,china,0,1,0,1,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,Tycoon Power International Ltd.,深圳巿聯懋塑膠有限公司,0,china,0,1,0,0,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,DYNAMIC TECH GROUP LIMITED,深圳威銓電子有限公司,1,china,0,1,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,"Full Sunny International Co.,Ltd.",凱茂科技(深圳)有限公司,0.5515,china,0,1,0,1,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,強茂股份有限公司,無錫鈦昇半導體材料有限公司,0,china,0,0,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,熒茂光學股份有限公司,鼎熒精密股份有限公司,0.48,台灣,0,0,1,0,0,上市,G2481,27800048,24994859,NA,NA,NA,NA
+2016,4729,"Mildex Asia Co.,Ltd.",熒茂光電(徐州)有限公司,1,china,0,1,0,1,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,4729,秀芳國際投資有限公司,熒茂光學股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2481,53888809,27800048,NA,NA,NA,NA
+2016,2481,強茂股份有限公司,熒茂光學股份有限公司,0.439,台灣,1,1,0,0,0,上市,G2481,22145016,27800048,NA,NA,NA,NA
+2016,2481,璟茂科技股份有限公司,熒茂光學股份有限公司,0.0829,台灣,0,0,1,0,0,上市,G2481,16824557,27800048,NA,NA,NA,NA
+2016,4729,"Jumplus Co., Ltd.",熒茂科技(無錫)有限公司,1,china,0,1,0,1,0,上櫃,G2481,NA,NA,NA,NA,NA,NA
+2016,2481,強德電能股份有限公司,德茂綠能股份有限公司,0.5,台灣,0,0,1,0,0,上市,G2481,24438919,54855334,NA,NA,NA,NA
+2016,2481,強茂股份有限公司,璟茂科技股份有限公司,0.9443,台灣,1,1,0,0,0,上市,G2481,22145016,16824557,NA,NA,NA,NA
+2016,2481,CONTINENTAL LIMITED,蘇州群鑫電子有限公司,1,china,0,1,0,1,0,上市,G2481,NA,NA,NA,NA,NA,NA

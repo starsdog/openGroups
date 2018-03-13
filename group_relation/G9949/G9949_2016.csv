@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9949,琉園國際公司,上海琉園公司,1,中國大陸,0,1,0,0,0,上櫃,G9949,NA,NA,NA,NA,NA,NA
+2016,9949,再投資大陸公司,上海琉園水晶制品有限公司,1,china,0,0,0,1,0,上櫃,G9949,NA,NA,1,NA,NA,NA
+2016,9949,琉園股份有限公司,大觀控股公司,1,薩摩亞,0,1,0,0,0,上櫃,G9949,84767175,NA,NA,NA,NA,NA
+2016,9949,琉園股份有限公司,香港琉園公司,1,香港,0,1,0,0,0,上櫃,G9949,84767175,NA,NA,NA,NA,NA
+2016,9949,大觀控股公司,琉園國際公司,1,薩摩亞,0,1,0,0,0,上櫃,G9949,NA,NA,NA,NA,NA,NA
+2016,9949,大觀控股公司,藝術水晶公司,1,薩摩亞,0,1,0,0,0,上櫃,G9949,NA,NA,NA,NA,NA,NA

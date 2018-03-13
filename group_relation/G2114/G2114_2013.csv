@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2114,"HSIN YUNG CHIEN INTERNATIONAL CO., LTD.","HSIN YUNG CHIEN HOLDING CO., LTD.",1,塞席爾,0,0,1,0,0,上市,G2114,NA,NA,NA,NA,NA,NA
+2013,2114,鑫永銓股份有限公司,"HSIN YUNG CHIEN INTERNATIONAL CO., LTD.",1,塞席爾,1,0,1,0,0,上市,G2114,51704734,NA,NA,NA,NA,NA
+2013,2114,"HSIN YUNG CHIENINTERNATIONALCO., LTD","HSIN YUNG CHIENHOLDING CO., LTD",1,不明,0,1,0,0,0,上市,G2114,NA,NA,NA,NA,NA,NA
+2013,2114,鑫永銓股份有限公司,"HSIN YUNG CHIENINTERNATIONALCO., LTD",1,不明,1,1,0,0,0,上市,G2114,51704734,NA,NA,NA,NA,NA
+2013,2114,佶佑投資股份有限公司,鑫永銓股份有限公司,NA,NA,0,0,0,0,1,上市,G2114,12747881,51704734,NA,NA,NA,NA
+2013,2114,"HSIN YUNG CHIENHOLDING CO., LTD",鑫永銓橡膠(天津)有限公司,1,china,0,1,0,1,0,上市,G2114,NA,NA,NA,NA,NA,NA

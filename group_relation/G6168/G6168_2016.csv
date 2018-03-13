@@ -1,0 +1,39 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6261,"YTEC Holding (Samoa)Co., Ltd.",Clear Reach Limited,1,英屬維京群島,0,1,0,0,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6168,HONOR LIGHT LIMITED,Harvatek(HK) Limited,1,香港,0,1,0,0,0,上市,G6168,NA,NA,NA,NA,NA,NA
+2016,6168,HONOR LIGHT LIMITED,Harvatek Europe GmbH,0.51,德國,0,1,0,0,0,上市,G6168,NA,NA,NA,NA,NA,NA
+2016,6168,宏齊科技股份有限公司,Harvatek International (USA) Corp.,1,美國,1,1,0,0,0,上市,G6168,89358419,NA,NA,NA,NA,NA
+2016,6168,宏齊科技股份有限公司,HONOR LIGHT LIMITED,1,薩摩亞,1,1,0,0,0,上市,G6168,89358419,NA,NA,NA,NA,NA
+2016,6168,Harvatek International (USA) Corp.,Inolux Corporation,0.4,美國,0,0,1,0,0,上市,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,久元電子股份有限公司,"YTEC Holding (Samoa)Co., Ltd.",1,薩摩亞,1,1,0,0,0,上櫃,G6168,86244737,NA,NA,NA,NA,NA
+2016,6261,"YTEC Holding (Samoa)Co., Ltd.",YTEC(Hong Kong)Global Limited,1,香港,0,1,0,0,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,立陽投資股份有限公司,久元電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6168,13046182,86244737,NA,NA,NA,NA
+2016,6261,忠釋實業股份有限公司,久元電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6168,70530713,86244737,NA,NA,NA,NA
+2016,6261,久元電子股份有限公司,久宏鑫科技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G6168,86244737,53961511,NA,NA,NA,NA
+2016,6261,久元電子股份有限公司,天正國際精密機械股份有限公司,0.1995,台灣,1,0,1,0,0,上櫃,G6168,86244737,53900846,NA,NA,NA,NA
+2016,6261,久元電子股份有限公司,天曜投資有限公司,1,台灣,1,1,0,0,0,上櫃,G6168,86244737,53289305,NA,NA,NA,NA
+2016,6261,"YTEC Holding (Samoa)Co., Ltd.",巨豐半導體有限公司,0.6,香港,0,1,0,0,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,巨豐半導體有限公司,巨豐電子有限公司,1,香港,0,1,0,0,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,巨豐半導體有限公司,吳江巨豐電子有限公司,1,china,0,1,0,1,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6168,宏齊科技股份有限公司,宏正投資股份有限公司,0.416,台灣,1,1,0,0,0,上市,G6168,89358419,24353968,NA,NA,NA,NA
+2016,6168,HONOR LIGHT LIMITED,宏瑞光電科技(深圳)有限公司,0,china,0,1,0,1,0,上市,G6168,NA,NA,NA,NA,NA,NA
+2016,6168,宏正投資股份有限公司,宏齊(香港)貿易有限公司,0.05,香港,0,1,0,0,0,上市,G6168,24353968,NA,NA,NA,NA,NA
+2016,6168,宏齊科技股份有限公司,宏齊(香港)貿易有限公司,0.8,香港,1,1,0,0,0,上市,G6168,89358419,NA,NA,NA,NA,NA
+2016,6168,久元電子股份有限公司,宏齊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6168,86244737,89358419,NA,NA,NA,NA
+2016,6168,立齊投資有限公司,宏齊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6168,27419443,89358419,NA,NA,NA,NA
+2016,6168,迅捷投資股份有限公司,宏齊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6168,70761592,89358419,NA,NA,NA,NA
+2016,6168,忠釋實業股份有限公司,宏齊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6168,70530713,89358419,NA,NA,NA,NA
+2016,6168,宏齊科技股份有限公司,宏銳投資股份有限公司,0.3529,台灣,0,0,1,0,0,上市,G6168,89358419,54136118,NA,NA,NA,NA
+2016,6168,宏齊科技股份有限公司,宏興光電股份有限公司,0.7,台灣,1,1,0,0,0,上市,G6168,89358419,42577722,NA,NA,NA,NA
+2016,6261,久元電子股份有限公司,矽金光學股份有限公司,0.4,台灣,1,0,1,0,0,上櫃,G6168,86244737,42573612,NA,NA,NA,NA
+2016,6261,久元電子股份有限公司,威控有限公司(Samoa),1,薩摩亞,1,1,0,0,0,上櫃,G6168,86244737,NA,NA,NA,NA,NA
+2016,6261,久元電子股份有限公司,威控自動化機械有限公司,1,台灣,1,1,0,0,0,上櫃,G6168,86244737,24880321,NA,NA,NA,NA
+2016,6261,威控有限公司(Samoa),威控商貿(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,Clear Reach Limited,朗富科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,YTEC(Hong Kong)Global Limited,常州久元光電有限公司,1,china,0,1,0,1,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,YTEC(Hong Kong)Global Limited,揚州久元電子有限公司,1,china,0,1,0,1,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,久元電子股份有限公司,晶準精密股份有限公司,1,台灣,1,1,0,0,0,上櫃,G6168,86244737,54004502,NA,NA,NA,NA
+2016,6168,宏齊(香港)貿易有限公司,無錫宏齊光電科技有限公司,1,china,0,1,0,1,0,上市,G6168,NA,NA,NA,NA,NA,NA
+2016,6261,YTEC(Hong Kong)Global Limited,廈門久元電子有限公司,1,china,0,1,0,1,0,上櫃,G6168,NA,NA,NA,NA,NA,NA
+2016,6168,HONOR LIGHT LIMITED,廈門久宏鑫光電有限公司,0.9955,china,0,1,0,1,0,上市,G6168,NA,NA,NA,NA,NA,NA
+2016,6168,HONOR LIGHT LIMITED,廣州久宏仡貿易有限公司,1,china,0,1,0,1,0,上市,G6168,NA,NA,NA,NA,NA,NA

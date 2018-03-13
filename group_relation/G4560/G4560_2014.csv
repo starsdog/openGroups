@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,4560,強信機械科技股份有限公司,FAITH LIGHT INTERNATIONAL CORPORATION,1,薩摩亞,1,1,0,0,0,公開發行,G4560,NA,NA,NA,NA,NA,NA
+2014,4560,強信機械科技股份有限公司,"VANDEN INTERNATIONAL CO., LTD.",1,薩摩亞,1,0,1,0,0,公開發行,G4560,NA,NA,NA,NA,NA,NA
+2014,4560,FAITH LIGHT INTERNATIONAL CORPORATION,浩強精密機械(青島)有限公司,1,china,0,1,0,1,0,公開發行,G4560,NA,NA,NA,NA,NA,NA
+2014,4560,"VANDEN INTERNATIONAL CO., LTD.",強信機械科技(萊州)有限公司,1,china,0,1,0,1,0,公開發行,G4560,NA,NA,NA,NA,NA,NA

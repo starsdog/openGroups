@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "松和工業股份有限公司", "no_holder": false, "taxcode": "NA"}, {"is_core": false, "source": [{"holder": "0.9569", "name": "松和工業股份有限公司"}], "name": "SONG HO VIETNAM INDUSTRIAL CO., LTD", "no_holder": false, "taxcode": "NA"}], "links": [{"target": 1, "holder": "95.690000", "source": 0}], "y": "2013"}

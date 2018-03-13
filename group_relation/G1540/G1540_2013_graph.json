@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "喬福機械工業股份有限公司", "no_holder": false, "taxcode": "52903090"}, {"is_core": false, "source": [{"holder": "0.9994", "name": "喬福機械工業股份有限公司"}], "name": "喬邦投資股份有限公司", "no_holder": false, "taxcode": "16742021"}], "links": [{"target": 1, "holder": "99.940000", "source": 0}], "y": "2013"}

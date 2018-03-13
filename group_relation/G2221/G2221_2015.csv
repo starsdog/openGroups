@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2221,大甲永和機械工業股份有限公司,MATE ENTERPRISES LTD.,1,英屬維京群島,1,1,0,0,0,上櫃,G2221,NA,NA,NA,NA,NA,NA
+2015,2221,大甲永和機械工業股份有限公司,PIPEMATE INTERNATIONAL ENTERPRISE LTD.,1,模里西斯,1,1,0,0,0,上櫃,G2221,NA,NA,NA,NA,NA,NA
+2015,2221,PIPEMATE INTERNATIONAL ENTERPRISE LTD.,上海大甲機械國際貿易有限公司,1,china,0,1,0,1,0,上櫃,G2221,NA,NA,NA,NA,NA,NA
+2015,2221,大甲永和機械工業股份有限公司,大川研科技股份有限公司,0.67,台灣,1,1,0,0,0,上櫃,G2221,NA,53963813,NA,NA,NA,NA
+2015,2221,大川研科技股份有限公司,大川研真空股份有限公司,0.8,不明,0,1,0,0,0,上櫃,G2221,53963813,54100385,NA,NA,NA,NA

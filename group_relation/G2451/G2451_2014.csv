@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2451,Saffire Investment Ltd.,Memhiro Pte Ltd.,1,新加坡,0,0,1,0,0,上市,G2451,NA,NA,NA,NA,NA,NA
+2014,2451,創見資訊股份有限公司,Saffire Investment Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G2451,23446187,NA,NA,NA,NA,NA
+2014,2451,Memhiro Pte Ltd.,Transcend Information Europe B.V.,1,荷蘭,0,1,0,0,0,上市,G2451,NA,NA,NA,NA,NA,NA
+2014,2451,創見資訊股份有限公司,Transcend Information Inc.,1,美國,0,0,1,0,0,上市,G2451,23446187,NA,NA,NA,NA,NA
+2014,2451,Memhiro Pte Ltd.,"Transcend Information Trading GmbH, Hamburg",1,德國,0,1,0,0,0,上市,G2451,NA,NA,NA,NA,NA,NA
+2014,2451,創見資訊股份有限公司,Transcend Japan Inc.,1,日本,0,0,1,0,0,上市,G2451,23446187,NA,NA,NA,NA,NA
+2014,2451,創見資訊股份有限公司,Transcend Korea Inc.,1,南韓,0,0,1,0,0,上市,G2451,23446187,NA,NA,NA,NA,NA
+2014,2451,創見資訊股份有限公司,台灣典範半導體股份有限公司,0.1288,台灣,0,0,1,0,0,上市,G2451,23446187,22101544,NA,NA,NA,NA
+2014,2451,Memhiro Pte Ltd.,創見資訊(上海)有限公司 ,1,china,0,1,0,1,0,上市,G2451,NA,NA,NA,NA,NA,NA
+2014,2451,Memhiro Pte Ltd.,創見資訊(香港)股份有限公司,1,香港,0,0,1,0,0,上市,G2451,NA,NA,NA,NA,NA,NA
+2014,2451,萬全投資股份有限公司,創見資訊股份有限公司,NA,NA,0,0,0,0,1,上市,G2451,97300637,23446187,NA,NA,NA,NA
+2014,2451,萬民投資股份有限公司,創見資訊股份有限公司,NA,NA,0,0,0,0,1,上市,G2451,97307688,23446187,NA,NA,NA,NA
+2014,2451,中華開發工銀科技顧問股份有限公司,創見資訊股份有限公司,NA,NA,0,0,0,0,1,上市,G2451,12678097,23446187,NA,NA,NA,1
+2014,2451,Memhiro Pte Ltd.,創歆貿易(上海)有限公司 ,1,china,0,1,0,1,0,上市,G2451,NA,NA,NA,NA,NA,NA
+2014,3372,台灣典範半導體股份有限公司,典強投資股份有限公司,0,不明,1,1,0,0,0,上櫃,G2451,NA,16800133,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3583,辛耘企業股份有限公司,FORWARD SCIENCE PTE. LTD.,0.21,新加坡,1,0,1,0,0,上市,G3583,30901647,NA,NA,NA,NA,NA
+2016,3583,SCIENTECH INVESTMENT CORP.,SCIENTECH ENGINEERING USA CORP.,1,美國,0,1,0,0,0,上市,G3583,NA,NA,NA,NA,NA,NA
+2016,3583,辛耘企業股份有限公司,SCIENTECH INVESTMENT CORP.,1,模里西斯,0,0,1,0,0,上市,G3583,NA,NA,NA,NA,NA,NA
+2016,3583,SCIENTECH INVESTMENT CORP.,SIMPLE INVESTMENT CORP.,1,模里西斯,0,1,0,0,0,上市,G3583,NA,NA,NA,NA,NA,NA
+2016,3583,辛耘企業股份有限公司,肌活麗學創研所股份有限公司,0.31,台灣,1,0,1,0,0,上市,G3583,30901647,54340435,NA,NA,NA,NA
+2016,3583,辛耘企業股份有限公司,自然百點股份有限公司,1,台灣,1,1,0,0,0,上市,G3583,30901647,25142385,NA,NA,NA,NA
+2016,3583,富蔚投資股份有限公司,辛耘企業股份有限公司,NA,NA,0,0,0,0,1,上市,G3583,27423523,30901647,NA,NA,NA,NA
+2016,3583,辛耘企業股份有限公司,普晶材料股份有限公司,1,台灣,1,1,0,0,0,上市,G3583,30901647,54639619,NA,NA,NA,NA
+2016,3583,SIMPLE INVESTMENT CORP.,新耕(上海)貿易有限公司,1,china,0,1,0,1,0,上市,G3583,NA,NA,NA,NA,NA,NA
+2016,3583,新耕(上海)貿易有限公司,新耕(香港)有限公司,1,香港,0,1,0,0,0,上市,G3583,NA,NA,NA,NA,NA,NA
+2016,3583,辛耘企業股份有限公司,譜光儀器股份有限公司,1,台灣,1,1,0,0,0,上市,G3583,30901647,53115348,NA,NA,NA,NA

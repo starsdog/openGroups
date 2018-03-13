@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3664,"Array Networks, Inc. (Array US)",Array Networks Japan Kabishiki Kaisha,1,日本,0,1,0,0,0,上櫃,G3664,NA,NA,NA,NA,NA,NA
+2016,3664,安瑞科技股份有限公司,"Array Networks, Inc. (Array Cayman)",1,開曼群島,1,1,0,0,0,上櫃,G3664,28984305,NA,NA,NA,NA,NA
+2016,3664,"Array Networks, Inc. (Array Cayman)","Array Networks, Inc. (Array US)",1,美國,0,1,0,0,0,上櫃,G3664,NA,NA,NA,NA,NA,NA
+2016,3664,"Array Networks, Inc. (Array Cayman)","Infosec Technologies Holdings, Inc.",0,開曼群島,0,1,0,0,0,上櫃,G3664,NA,NA,NA,NA,NA,NA
+2016,3664,北京華耀偉業科技有限公司,北京信安世紀科技有限公司,0,china,0,1,0,0,0,上櫃,G3664,NA,NA,NA,NA,NA,NA
+2016,3664,"Infosec Technologies Holdings, Inc.",北京華耀偉業科技有限公司,0,china,0,1,0,0,0,上櫃,G3664,NA,NA,NA,NA,NA,NA
+2016,3664,"Array Networks, Inc. (Array Cayman)",華耀(中國)科技有限公司,1,china,0,1,0,1,0,上櫃,G3664,NA,NA,NA,NA,NA,NA

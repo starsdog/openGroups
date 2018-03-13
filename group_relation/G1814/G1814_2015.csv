@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1814,"UOG Holding Co., Ltd","SCG Investing Co., Ltd",0,薩摩亞,0,0,1,0,0,興櫃,G1814,NA,NA,NA,NA,NA,NA
+2015,1814,東聯光訊玻璃股份有限公司,"UOG Holding Co., Ltd",1,薩摩亞,1,0,1,0,0,興櫃,G1814,23902451,NA,NA,NA,NA,NA
+2015,1814,"UOG Holding Co., Ltd","UOG Investing Co., Ltd",1,薩摩亞,0,0,1,0,0,興櫃,G1814,NA,NA,NA,NA,NA,NA
+2015,1814,東聯光訊玻璃股份有限公司,"YI XION Co., Ltd",1,英屬維京群島,1,1,0,0,0,興櫃,G1814,23902451,NA,NA,NA,NA,NA
+2015,1814,"UOG Investing Co., Ltd",上海卡利肯商貿有限公司,0,china,0,1,0,1,0,興櫃,G1814,NA,NA,NA,NA,NA,NA
+2015,1814,"SCG Investing Co., Ltd",上海卡利肯商貿有限公司,0,china,0,1,0,0,0,興櫃,G1814,NA,NA,NA,NA,NA,NA
+2015,1814,億象投資股份有限公司,東聯光訊玻璃股份有限公司,NA,NA,0,0,0,0,1,興櫃,G1814,80070219,23902451,NA,NA,NA,NA
+2015,1814,日茂國際投資股份有限公司,東聯光訊玻璃股份有限公司,NA,NA,0,0,0,0,1,興櫃,G1814,33660853,23902451,NA,NA,NA,NA
+2015,1814,朝愷投資股份有限公司,東聯光訊玻璃股份有限公司,NA,NA,0,0,0,0,1,興櫃,G1814,80071667,23902451,NA,NA,NA,NA
+2015,1814,台元創業投資股份有限公司,東聯光訊玻璃股份有限公司,NA,NA,0,0,0,0,1,興櫃,G1814,16084997,23902451,NA,NA,NA,NA
+2015,1814,"UOG Investing Co., Ltd",蘇州卡利肯新光訊科技有限公司,1,china,0,1,0,1,0,興櫃,G1814,NA,NA,NA,NA,NA,NA

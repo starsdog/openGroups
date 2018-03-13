@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "班友投資股份有限公司", "no_holder": false, "taxcode": "04943896"}, {"is_core": true, "source": [{"holder": "NA", "name": "班友投資股份有限公司"}], "name": "寶齡富錦生技股份有限公司", "no_holder": false, "taxcode": "04742997"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

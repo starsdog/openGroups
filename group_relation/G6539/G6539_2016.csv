@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6539,UnicoCell Biomed (BVI) CO. LTD,GOODEAL ENTERPRISES LIMITED,1,英屬維京群島,0,1,0,0,0,興櫃,G6539,NA,NA,NA,NA,NA,NA
+2016,6539,翔宇生醫科技股份有限公司,UnicoCell Biomed (BVI) CO. LTD,1,英屬維京群島,1,1,0,0,0,興櫃,G6539,53350764,NA,NA,NA,NA,NA
+2016,6539,UnicoCell Biomed (BVI) CO. LTD,UNICOCELL BIOMED (HK) LIMITED,1,不明,0,1,0,0,0,興櫃,G6539,NA,NA,NA,NA,NA,NA
+2016,6539,Unicocell Biomed (BVI) CO. LTD,UNICOCELL BIOMED (HK) LIMITED,1,香港,0,0,1,0,0,興櫃,G6539,NA,NA,NA,NA,NA,NA
+2016,6539,上海翔佑實業有限公司,上海采妮美容有限公司,1,china,0,1,0,1,0,興櫃,G6539,NA,NA,NA,NA,NA,NA
+2016,6539,上海翔佑實業有限公司,上海婷妮美容有限公司,1,china,0,1,0,1,0,興櫃,G6539,NA,NA,NA,NA,NA,NA
+2016,6539,GOODEAL ENTERPRISES LIMITED,上海翔佑實業有限公司,1,china,0,1,0,1,0,興櫃,G6539,NA,NA,NA,NA,NA,NA
+2016,6539,茂康投資股份有限公司,洛澤貿易股份有限公司,1,台灣,0,1,0,0,0,興櫃,G6539,43843038,43943590,NA,NA,NA,NA
+2016,6539,翔宇生醫科技股份有限公司,茂康投資股份有限公司,1,台灣,1,1,0,0,0,興櫃,G6539,53350764,43843038,NA,NA,NA,NA
+2016,6539,英屬維京群島商GOLDFIX,翔宇生醫科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6539,NA,53350764,NA,NA,NA,NA
+2016,6539,益嘉投資股份有限公司,翔宇生醫科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6539,54353753,53350764,NA,NA,NA,NA

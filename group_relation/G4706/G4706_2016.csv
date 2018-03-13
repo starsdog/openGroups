@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4706,TKC International Investment Corp.,TKC Global Investment Corp.,1,模里西斯,0,0,1,0,0,上櫃,G4706,NA,NA,NA,NA,NA,NA
+2016,4706,大恭化學工業股份有限公司,TKC International Investment Corp.,1,薩摩亞,1,0,1,0,0,上櫃,G4706,11051504,NA,NA,NA,NA,NA
+2016,4706,住化色料株式會社,大恭化學工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4706,NA,11051504,NA,NA,NA,NA
+2016,4706,TKC Global Investment Corp.,大恭精細化工(昆山)有限公司,1,china,0,1,0,1,0,上櫃,G4706,NA,NA,NA,NA,NA,NA
+2016,4706,大恭化學工業股份有限公司,廣佑國際投資股份有限公司,0.9807,台灣,1,1,0,0,0,上櫃,G4706,11051504,12657163,NA,NA,NA,NA

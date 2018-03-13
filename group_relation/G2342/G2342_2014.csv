@@ -1,0 +1,20 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2342,台灣茂矽電子股份有限公司,Giant Haven Investments Ltd. (BVI),1,英屬維京群島,1,1,0,0,0,上市,G2342,22099110,NA,NA,NA,NA,NA
+2014,2342,Giant Haven Investments Ltd. (BVI),Great Wall Semiconductor corporation,0.42,美國,0,0,1,0,0,上市,G2342,NA,NA,NA,NA,NA,NA
+2014,2342,Vision2000 Venture Ltd.(Cayman),"Integrated Memory Technologies, Inc.",0.23,美國,0,0,1,0,0,上市,G2342,NA,NA,NA,NA,NA,NA
+2014,2342,Vision2000 Venture Ltd.(Cayman),PacMOS Technologies Holdings Limited,0.32,香港,0,0,1,0,0,上市,G2342,NA,NA,NA,NA,NA,NA
+2014,2342,Giant Haven Investments Ltd. (BVI),"Third Dimension Semiconductor, Inc",0.38,美國,0,0,1,0,0,上市,G2342,NA,NA,NA,NA,NA,NA
+2014,2342,台灣茂矽電子股份有限公司,Vision2000 Venture Ltd.(Cayman),1,開曼群島,1,1,0,0,0,上市,G2342,22099110,NA,NA,NA,NA,NA
+2014,2342,國泰世華商業銀行受託保管宏達投資公司投資專戶,台灣茂矽電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2342,NA,22099110,NA,NA,NA,NA
+2014,2342,國泰世華商業銀行受託保管百樂國際股份有限公司投資專戶,台灣茂矽電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2342,NA,22099110,NA,NA,NA,NA
+2014,2342,台灣茂矽電子股份有限公司,茂福開發股份有限公司,1,台灣,1,1,0,0,0,上市,G2342,22099110,96976400,NA,NA,NA,NA
+2014,2342,台灣茂矽電子股份有限公司,敦茂科技股份有限公司,0.48,台灣,1,1,0,0,0,上市,G2342,22099110,70803164,NA,NA,NA,NA
+2014,2342,茂福開發股份有限公司,敦茂科技股份有限公司,0.04,台灣,0,0,1,0,0,上市,G2342,96976400,70803164,NA,NA,NA,NA
+2014,2342,台灣茂矽電子股份有限公司,寶德投資股份有限公司,0.97,台灣,1,1,0,0,0,上市,G2342,22099110,16094171,NA,NA,NA,NA
+2014,2342,茂福開發股份有限公司,寶德投資股份有限公司,0.5,台灣,0,0,1,0,0,上市,G2342,96976400,16094171,NA,NA,NA,NA
+2014,5466,泰林科技股份有限公司,MODERN MIND TECHNOLOGY LIMITED,1,英屬維京群島,1,1,0,0,0,上櫃,G2342,96977956,NA,NA,NA,NA,NA
+2014,5466,MODERN MIND TECHNOLOGY LIMITED,宏茂微電子(上海)有限公司,1,china,0,1,0,1,0,上櫃,G2342,NA,NA,NA,NA,NA,NA
+2014,8150,南茂科技股份有限公司,"ChipMOS U.S.A., Inc.",1,美國,1,1,0,0,0,上市,G2342,16130042,NA,NA,NA,NA,NA
+2014,8150,百慕達商南茂科技股份有限公司,南茂科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2342,NA,16130042,NA,NA,NA,NA
+2014,8150,南茂科技股份有限公司,泰林科技股份有限公司,0.48,台灣,1,1,0,0,0,上市,G2342,16130042,96977956,NA,NA,NA,NA
+2014,8150,PacMOS Technologies Holdings Limited,百慕達商南茂科技股份有限公司,0.0252,NA,0,0,0,0,1,上市,G2342,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3033,威健實業股份有限公司,"Weikeng International Co., Ltd.",1,香港,1,1,0,0,0,上市,G3033,04648938,NA,NA,NA,NA,NA
+2013,3033,威健實業股份有限公司,Weikeng Technology Ptd. Ltd.,1,新加坡,1,1,0,0,0,上市,G3033,04648938,NA,NA,NA,NA,NA
+2013,3033,"Weikeng International Co., Ltd.","Weitech International Co., Ltd.",1,香港,0,1,0,0,0,上市,G3033,NA,NA,NA,NA,NA,NA
+2013,3033,"Weikeng International Co., Ltd.",威健國際貿易(上海)有限公司,1,china,0,1,0,1,0,上市,G3033,NA,NA,NA,NA,NA,NA
+2013,3033,威健實業股份有限公司,威健資通股份有限公司,1,台灣,1,1,0,0,0,上市,G3033,04648938,23014408,NA,NA,NA,NA
+2013,3033,威記投資股份有限公司,威健實業股份有限公司,NA,NA,0,0,0,0,1,上市,G3033,16162944,04648938,NA,NA,NA,NA

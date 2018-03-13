@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2643,Soonest Express (S) Pte Ltd,Soonest Express (Malaysia) Sdn Bhd,1,馬來西亞,0,1,0,0,0,上櫃,G2643,NA,NA,NA,NA,NA,NA
+2015,2643,捷迅(香港)有限公司,Soonest Express (S) Pte Ltd,1,新加坡,0,1,0,0,0,上櫃,G2643,NA,NA,NA,NA,NA,NA
+2015,2643,捷迅股份有限公司,"Soonest Express, Inc.",1,美國,1,1,0,0,0,上櫃,G2643,12479610,NA,NA,NA,NA,NA
+2015,2643,捷迅(香港)有限公司,捷迅(中國)國際貨運有限公司,1,china,0,1,0,1,0,上櫃,G2643,NA,NA,NA,NA,NA,NA
+2015,2643,捷迅股份有限公司,捷迅(香港)有限公司,1,香港,1,1,0,0,0,上櫃,G2643,12479610,NA,NA,NA,NA,NA
+2015,2643,捷迅(香港)有限公司,捷迅倉儲(東莞)有限公司,1,china,0,1,0,1,0,上櫃,G2643,NA,NA,NA,NA,NA,NA
+2015,2643,捷迅(香港)有限公司,捷迅國際物流(香港)有限公司,1,香港,0,1,0,0,0,上櫃,G2643,NA,NA,NA,NA,NA,NA
+2015,2643,捷迅(香港)有限公司,捷迅運輸(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G2643,NA,NA,NA,NA,NA,NA

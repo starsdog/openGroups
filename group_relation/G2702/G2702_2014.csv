@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2702,華園飯店股份有限公司,Holiday Garden International Ltd.,1,不明,1,1,0,0,0,上市,G2702,75560601,NA,NA,NA,NA,NA
+2014,2702,Holiday Garden U.S. CORP.,Holiday Garden S.F. CORP.,1,美國,0,0,1,0,0,上市,G2702,NA,NA,NA,NA,NA,NA
+2014,2702,Holiday Garden U.S. CORP.,Holiday Garden S.N. CORP.,1,美國,0,0,1,0,0,上市,G2702,NA,NA,NA,NA,NA,NA
+2014,2702,Holiday Garden International Ltd.,Holiday Garden U.S. CORP.,1,美國,0,0,1,0,0,上市,G2702,NA,NA,NA,NA,NA,NA
+2014,2702,華園飯店股份有限公司,Holiday GardenInternational Ltd.,1,百慕達群島,1,0,1,0,0,上市,G2702,75560601,NA,NA,NA,NA,NA
+2014,2702,穎川國際企業股份有限公司,華園飯店股份有限公司,NA,NA,0,0,0,0,1,上市,G2702,82095996,75560601,NA,NA,NA,NA

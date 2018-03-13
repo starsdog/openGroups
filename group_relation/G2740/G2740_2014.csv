@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2740,"Mr. Onion Int'l.,LTD","Mr. Onion Holding Co.,LTD.",1,薩摩亞,0,0,1,0,0,興櫃,G2740,NA,NA,NA,NA,NA,NA
+2014,2740,天蔥國際股份有限公司,"Mr. Onion Int'l.,LTD",1,薩摩亞,0,0,1,0,0,興櫃,G2740,28581041,NA,NA,NA,NA,NA
+2014,2740,"Mr. Onion Holding Co.,LTD.",上海盈源餐飲管理有限公司,1,china,0,1,0,1,0,興櫃,G2740,NA,NA,NA,NA,NA,NA
+2014,2740,方元投資股份有限公司,天蔥國際股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2740,28831786,28581041,NA,NA,NA,NA

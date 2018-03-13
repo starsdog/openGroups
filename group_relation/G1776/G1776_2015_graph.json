@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "遊龍投資股份有限公司", "no_holder": false, "taxcode": "80550907"}, {"is_core": true, "source": [{"holder": "NA", "name": "遊龍投資股份有限公司"}], "name": "展宇科技材料股份有限公司", "no_holder": false, "taxcode": "47061800"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2015"}

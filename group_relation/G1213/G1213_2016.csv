@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1213,大西洋飲料股份有限公司,大西洋飲料(上海)有限公司,1,china,1,1,0,1,0,上市,G1213,35012903,NA,NA,NA,NA,NA
+2016,1213,嘉隆國際實業有限公司,大西洋飲料股份有限公司,NA,NA,0,0,0,0,1,上市,G1213,70481712,35012903,NA,NA,NA,NA
+2016,1213,錫標有限公司,大西洋飲料股份有限公司,NA,NA,0,0,0,0,1,上市,G1213,12175721,35012903,NA,NA,NA,NA
+2016,1213,國信食品股份有限公司,大西洋飲料股份有限公司,NA,NA,0,0,0,0,1,上市,G1213,04275677,35012903,NA,NA,NA,NA
+2016,1213,陽翼有限公司,大西洋飲料股份有限公司,NA,NA,0,0,0,0,1,上市,G1213,80660720,35012903,NA,NA,NA,NA

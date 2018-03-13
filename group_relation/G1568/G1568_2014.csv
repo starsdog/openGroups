@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1568,倉佑實業股份有限公司,All-Aspect International Corp.,1,英屬維京群島,0,1,0,0,0,上市,G1568,66654986,NA,NA,NA,NA,NA
+2014,1568,Giant Finance Inc.,Business International Corp.,0.7502,薩摩亞,0,1,0,0,0,上市,G1568,NA,NA,NA,NA,NA,NA
+2014,1568,倉佑實業股份有限公司,Giant Finance Inc.,1,薩摩亞,0,1,0,0,0,上市,G1568,66654986,NA,NA,NA,NA,NA
+2014,1568,Giant Finance Inc.,Powerful International Group Ltd.,0.6179,薩摩亞,0,1,0,0,0,上市,G1568,NA,NA,NA,NA,NA,NA
+2014,1568,富澤投資股份有限公司,倉佑實業股份有限公司,NA,NA,0,0,0,0,1,上市,G1568,80093156,66654986,NA,NA,NA,NA
+2014,1568,頂鑫投資股份有限公司,倉佑實業股份有限公司,NA,NA,0,0,0,0,1,上市,G1568,80100754,66654986,NA,NA,NA,NA
+2014,1568,Business International Corp.,無錫倉佑汽車配件有限公司,1,china,0,1,0,1,0,上市,G1568,NA,NA,NA,NA,NA,NA
+2014,1568,Powerful International Group Ltd.,無錫德賓汽車變速器有限公司,1,china,0,1,0,1,0,上市,G1568,NA,NA,NA,NA,NA,NA

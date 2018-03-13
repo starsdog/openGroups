@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6239,力成科技股份有限公司,POWERTECH HOLDING (BVI) INC.,1,英屬維京群島,1,1,0,0,0,上市,G6239,16082267,NA,NA,NA,NA,NA
+2016,6239,力成科技股份有限公司,POWERTECH TECHNOLOGY (SINGAPORE) PTE. LTD.,1,新加坡,1,0,1,0,0,上市,G6239,16082267,NA,NA,NA,NA,NA
+2016,6239,POWERTECH HOLDING (BVI) INC.,PTI TECHNOLOGY (SINGAPORE) PTE. LTD.,1,新加坡,0,0,1,0,0,上市,G6239,NA,NA,NA,NA,NA,NA
+2016,6239,POWERTECH TECHNOLOGY (SINGAPORE) PTE. LTD.,力成半導體(西安)有限公司,1,china,0,1,0,1,0,上市,G6239,NA,NA,NA,NA,NA,NA
+2016,6239,PTI TECHNOLOGY (SINGAPORE) PTE. LTD.,力成科技(蘇州)有限公司,1,china,0,1,0,1,0,上市,G6239,NA,NA,NA,NA,NA,NA
+2016,6239,美商KTC－SUN公司,力成科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6239,NA,16082267,NA,NA,NA,NA
+2016,6239,台灣東芝先進半導體股份有限公司,力成科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6239,22101657,16082267,NA,NA,NA,NA
+2016,6239,美商KTC－TU公司,力成科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6239,NA,16082267,NA,NA,NA,NA
+2016,6239,力成科技股份有限公司,晶兆成科技股份有限公司,0.49,台灣,1,0,1,0,0,上市,G6239,16082267,28438025,NA,NA,NA,NA
+2016,6239,力成科技股份有限公司,超豐電子股份有限公司,0.43,台灣,1,1,0,0,0,上市,G6239,16082267,05126366,NA,NA,NA,NA

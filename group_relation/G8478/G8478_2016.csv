@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8478,Alexander Marine USA Inc.,Alexander Marine California Inc.,1,不明,0,1,0,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,"Alexander Marine International Co., Limited",Alexander Marine Holding Inc.,0,不明,0,1,0,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,東哥企業股份有限公司,"Alexander Marine International Co., Limited",1,香港,1,1,0,0,0,興櫃,G8478,85798816,NA,NA,NA,NA,NA
+2016,8478,Alexander Marine USA Inc.,Alexander Marine Service LLC.,0,不明,0,1,0,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,Alexander Marine Holding Inc.,Alexander Marine USA Inc.,0,美國,0,1,0,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,"Alexander Marine International Co., Limited",Alexander Marine USA Inc.,1,美國,0,1,0,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,Alexander Marine USA Inc.,Alexander Marine Washington LLC.,1,不明,0,1,0,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,"Alexander Marine International Co., Limited",Merritt Island Boat Works Inc.,1,美國,0,0,1,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,不明,"Ocean Alexander Co., Ltd.",0,不明,0,1,0,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,不明,Ocean Alexander Marine Yacht Sales Inc.,0,不明,0,1,0,0,0,興櫃,G8478,NA,NA,NA,NA,NA,NA
+2016,8478,東哥企業股份有限公司,鵬群工業股份有限公司,0.1,台灣,1,0,1,0,0,興櫃,G8478,85798816,82055495,NA,NA,NA,NA

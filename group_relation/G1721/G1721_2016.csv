@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1721,Power Hero Corp,Giant Way Inc.,0.51,模里西斯,0,1,0,0,0,上市,G1721,NA,NA,NA,NA,NA,NA
+2016,1721,三晃股份有限公司,Power Hero Corp,1,模里西斯,1,1,0,0,0,上市,G1721,55738290,NA,NA,NA,NA,NA
+2016,1721,三晃股份有限公司,"Sunko Co.,Ltd.(Sunko)",0,不明,1,1,0,0,0,上市,G1721,55738290,NA,NA,NA,NA,NA
+2016,1721,三晃股份有限公司,三晃生物科技股份有限公司,0.2232,台灣,1,0,1,0,0,上市,G1721,55738290,28036556,NA,NA,NA,NA
+2016,1721,凱棣股份有限公司,三晃股份有限公司,NA,NA,0,0,0,0,1,上市,G1721,86661681,55738290,NA,NA,NA,NA
+2016,1721,翹麗投資股份有限公司,三晃股份有限公司,NA,NA,0,0,0,0,1,上市,G1721,80103268,55738290,NA,NA,NA,NA
+2016,1721,茀利祿投資股份有限公司,三晃股份有限公司,NA,NA,0,0,0,0,1,上市,G1721,80102129,55738290,NA,NA,NA,NA
+2016,1721,三晃股份有限公司,台灣石墨烯股份有限公司,0.825,台灣,1,1,0,0,0,上市,G1721,55738290,24655041,NA,NA,NA,NA
+2016,1721,三晃股份有限公司,助福社會企業股份有限公司,1,台灣,1,1,0,0,0,上市,G1721,55738290,45146439,NA,NA,NA,NA
+2016,1721,Giant Way Inc.,邑泓貿易(上海)有限公司,1,china,0,1,0,1,0,上市,G1721,NA,NA,NA,NA,NA,NA
+2016,1721,三晃股份有限公司,國智生化股份有限公司,0.49,台灣,1,0,1,0,0,上市,G1721,55738290,45133032,NA,NA,NA,NA

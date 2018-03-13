@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5225,東亞科技(香港)有限公司,Scan-Speak A,1,丹麥,0,1,0,0,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2016,5225,東亞科技(香港)有限公司,東弘電子(惠陽)有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2016,5225,東科控股股份有限公司,東亞科技(香港)有限公司,1,香港,1,1,0,0,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2016,5225,東雅電子股份有限公司,東科控股股份有限公司,NA,NA,0,0,0,0,1,上市,G9102,86980876,NA,NA,NA,NA,NA
+2016,5225,東雅電子股份有限公司,東雅電子(香港)股份有限公司,1,香港,0,1,0,0,0,上市,G9102,86980876,NA,NA,NA,NA,NA
+2016,5225,東亞科技(香港)有限公司,東雅電子股份有限公司,0.9998,台灣,0,1,0,0,0,上市,G9102,NA,86980876,NA,NA,NA,NA
+2016,5225,東亞科技(香港)有限公司,深圳型色方格貿易有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2016,5225,東亞科技(香港)有限公司,惠陽東亞電子製品有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2016,5225,東雅電子(香港)股份有限公司,惠陽東威電子製品有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA
+2016,5225,東亞科技(香港)有限公司,惠陽東美音響製品有限公司,1,china,0,1,0,1,0,上市,G9102,NA,NA,NA,NA,NA,NA

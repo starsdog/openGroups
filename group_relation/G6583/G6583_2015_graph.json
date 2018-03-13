@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "友松娛樂股份有限公司", "no_holder": false, "taxcode": "12654975"}, {"is_core": false, "source": [{"holder": "1", "name": "友松娛樂股份有限公司"}], "name": "三鳳有限公司", "no_holder": false, "taxcode": "29037174"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2015"}

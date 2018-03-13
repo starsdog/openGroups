@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "金石獎建設股份有限公司", "no_holder": false, "taxcode": "16410563"}, {"is_core": true, "source": [{"holder": "NA", "name": "金石獎建設股份有限公司"}], "name": "海灣國際開發股份有限公司", "no_holder": false, "taxcode": "84919932"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

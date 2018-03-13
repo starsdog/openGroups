@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3257,虹冠電子工業股份有限公司,Wisdom Bright Inc.,1,塞席爾,0,1,0,0,0,上市,G3257,16130417,NA,NA,NA,NA,NA
+2014,3257,Wisdom Bright Inc.,Wisdom Toprich Technology Limited,1,塞席爾,0,1,0,0,0,上市,G3257,NA,NA,NA,NA,NA,NA
+2014,3257,萬鴻投資有限公司,虹冠電子工業股份有限公司,NA,NA,0,0,0,0,1,上市,G3257,16121825,16130417,NA,NA,NA,NA
+2014,3257,光量子投資股份有限公司,虹冠電子工業股份有限公司,NA,NA,0,0,0,0,1,上市,G3257,70785763,16130417,NA,NA,NA,NA
+2014,3257,Wisdom Toprich Technology Limited,深圳冠順微電子有限公司,1,china,0,1,0,1,0,上市,G3257,NA,NA,NA,NA,NA,NA
+2014,3257,虹冠電子工業股份有限公司,富可投資有限公司,1,台灣,0,1,0,0,0,上市,G3257,16130417,24710591,NA,NA,NA,NA

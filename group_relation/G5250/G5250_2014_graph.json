@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "葆弘投資有限公司", "no_holder": false, "taxcode": "53920202"}, {"is_core": true, "source": [{"holder": "NA", "name": "葆弘投資有限公司"}], "name": "奇岩電子股份有限公司", "no_holder": false, "taxcode": "80452223"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

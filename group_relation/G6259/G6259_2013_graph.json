@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "兆豐銀受託保管新曄科技有限公司", "no_holder": false, "taxcode": "NA"}, {"is_core": true, "source": [{"holder": "NA", "name": "兆豐銀受託保管新曄科技有限公司"}], "name": "百徽股份有限公司", "no_holder": false, "taxcode": "84497335"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

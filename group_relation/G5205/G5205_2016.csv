@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5205,漢康科技股份有限公司,南京漢邦科技發展有限公司,0.2,china,1,0,1,1,0,上櫃,G5205,23533366,NA,NA,NA,NA,NA
+2016,5205,漢峰鑫股份有限公司,國發創投香港有限公司,0.51,香港,0,1,0,0,0,上櫃,G5205,24752563,NA,NA,NA,NA,NA
+2016,5205,再投資大陸公司,雲南金塔礦業有限公司,0.049,china,0,0,0,1,0,上櫃,G5205,NA,NA,1,NA,NA,NA
+2016,5205,漢康科技股份有限公司,漢峰鑫股份有限公司,1,台灣,1,1,0,0,0,上櫃,G5205,23533366,24752563,NA,NA,NA,NA
+2016,5205,阜瑞豐投資股份有限公司,漢康科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5205,54172872,23533366,NA,NA,NA,NA
+2016,5205,富霖國際資產管理開發有限公司,漢康科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5205,27732871,23533366,NA,NA,NA,NA
+2016,5205,泓豐投資股份有限公司,漢康科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5205,54174365,23533366,NA,NA,NA,NA
+2016,5205,國發創投香港有限公司,廣康(上海)貿易有限公司,1,china,0,1,0,1,0,上櫃,G5205,NA,NA,NA,NA,NA,NA

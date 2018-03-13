@@ -1,0 +1,17 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2731,Lion International Holding Limited,Lion AKL,1,紐西蘭,0,1,0,0,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,Lion International Holding Limited,Lion HK,1,香港,0,1,0,0,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,雄獅旅行社股份有限公司,Lion International Holding Limited,1,香港,1,1,0,0,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,Lion International Holding Limited,Lion JPN,1,日本,0,1,0,0,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,Lion International Holding Limited,Lion SYD,1,澳大利亞,0,1,0,0,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,雄獅資訊科技股份有限公司,Lion Technology Holding Ltd.,1,薩摩亞,0,0,1,0,0,上市,G2731,86147849,NA,NA,NA,NA,NA
+2013,2731,Lion International Holding Limited,Lion THA,0.49,泰國,0,1,0,0,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,Lion International Holding Limited,Lion YVR,1,加拿大,0,1,0,0,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,Lion International Holding Limited,US Lion,1,美國,0,1,0,0,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,雙獅投資股份有限公司,安捷遊覽車股份有限公司,1,台灣,0,1,0,0,0,上市,G2731,53737367,27878586,NA,NA,NA,NA
+2013,2731,Lion HK,雄獅國際旅行社(上海)有限公司,1,china,0,1,0,1,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,雙獅投資股份有限公司,雄獅通運股份有限公司,1,台灣,0,1,0,0,0,上市,G2731,53737367,53210201,NA,NA,NA,NA
+2013,2731,雙獅投資股份有限公司,雄獅資訊科技股份有限公司,1,台灣,0,1,0,0,0,上市,G2731,53737367,86147849,NA,NA,NA,NA
+2013,2731,Lion Technology Holding Ltd.,廣州雄獅數碼科技有限公司,1,china,0,1,0,1,0,上市,G2731,NA,NA,NA,NA,NA,NA
+2013,2731,雄獅旅行社股份有限公司,雙獅投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2731,NA,53737367,NA,NA,NA,NA
+2013,2731,雄獅旅行社股份有限公司,寶獅旅行社股份有限公司,1,台灣,1,1,0,0,0,上市,G2731,NA,23755606,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "易宏生物科技股份有限公司", "no_holder": false, "taxcode": "53090439"}, {"is_core": false, "source": [{"holder": "1", "name": "易宏生物科技股份有限公司"}], "name": "三楓生物科技(上海)有限公司", "no_holder": false, "taxcode": "NA"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2015"}

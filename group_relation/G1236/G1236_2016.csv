@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1236,HUNYA INTERNATIONAL LIMITED,ABSOLUBEST INVESTMENTS LIMITED,1,英屬維京群島,0,1,0,0,0,上市,G1236,NA,NA,NA,NA,NA,NA
+2016,1236,宏亞食品股份有限公司,HUNYA INTERNATIONAL LIMITED,1,英屬維京群島,1,1,0,0,0,上市,G1236,34106066,NA,NA,NA,NA,NA
+2016,1236,承添投資股份有限公司,宏亞食品股份有限公司,NA,NA,0,0,0,0,1,上市,G1236,54860343,34106066,NA,NA,NA,NA
+2016,1236,統懋投資股份有限公司,宏亞食品股份有限公司,NA,NA,0,0,0,0,1,上市,G1236,89463334,34106066,NA,NA,NA,NA

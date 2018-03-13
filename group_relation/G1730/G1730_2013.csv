@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1730,花仙子企業股份有限公司,"Eutech International Co., Ltd.",1,美國,1,1,0,0,0,上市,G1730,07708830,NA,NA,NA,NA,NA
+2013,1730,"Farcent International (Samoa) Co., Ltd.","Farcent Group (Mauritius) Co., Ltd.",1,模里西斯,0,1,0,0,0,上市,G1730,NA,NA,NA,NA,NA,NA
+2013,1730,花仙子企業股份有限公司,"Farcent International (Samoa) Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G1730,07708830,NA,NA,NA,NA,NA
+2013,1730,"Farcent Group (Mauritius) Co., Ltd.",花仙子(廈門)日用化學品有限公司,1,china,0,1,0,1,0,上市,G1730,NA,NA,NA,NA,NA,NA
+2013,1730,花仙子企業股份有限公司,花仙子生技股份有限公司,1,台灣,1,1,0,0,0,上市,G1730,07708830,28462869,NA,NA,NA,NA
+2013,1730,優特投資股份有限公司,花仙子企業股份有限公司,NA,NA,0,0,0,0,1,上市,G1730,84913281,07708830,NA,NA,NA,NA
+2013,1730,"Farcent International (Samoa) Co., Ltd.",揚倫(上海)貿易有限公司,1,china,0,1,0,1,0,上市,G1730,NA,NA,NA,NA,NA,NA
+2013,1730,"Eutech International Co., Ltd.",蘇州花仙子環保科技有限公司,1,china,0,1,0,1,0,上市,G1730,NA,NA,NA,NA,NA,NA

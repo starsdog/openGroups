@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,5250,奇岩電子股份有限公司,MIDAS公司,1,馬來西亞,0,1,0,0,0,公開發行,G5250,80452223,NA,NA,NA,NA,NA
+2013,5250,華盛國際投資股份有限公司,奇岩電子股份有限公司,NA,NA,0,0,0,0,1,公開發行,G5250,27526014,80452223,NA,NA,NA,NA
+2013,5250,薩摩亞商良茂投資有限公司,奇岩電子股份有限公司,NA,NA,0,0,0,0,1,公開發行,G5250,NA,80452223,NA,NA,NA,NA
+2013,5250,奇岩電子股份有限公司,奇星電子股份有限公司,0.98,台灣,0,1,0,0,0,公開發行,G5250,80452223,54536851,NA,NA,NA,NA

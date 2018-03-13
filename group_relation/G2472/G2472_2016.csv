@@ -1,0 +1,19 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2472,立隆電子工業股份有限公司,"ELNA-LELON ELECTRONICS (BVI) CO., LTD.",0.516,英屬維京群島,1,0,1,0,0,上市,G2472,52358985,NA,NA,NA,NA,NA
+2016,6175,立敦科技股份有限公司,"EVERTECH CAPA CO., LTD.",1,英屬維京群島,1,1,0,0,0,上櫃,G2472,84607396,NA,NA,NA,NA,NA
+2016,6175,"V-TECH CO., LTD.","FOREVER CO., LTD.",1,薩摩亞,0,1,0,0,0,上櫃,G2472,NA,NA,NA,NA,NA,NA
+2016,2472,立隆電子工業股份有限公司,"LIRO ELECTRONICS CO., LTD.",0.8395,英屬維京群島,1,0,1,0,0,上市,G2472,52358985,NA,NA,NA,NA,NA
+2016,6175,立敦科技股份有限公司,"LITON (BVI) CO., LTD.",1,英屬維京群島,1,1,0,0,0,上櫃,G2472,84607396,NA,NA,NA,NA,NA
+2016,2472,立隆電子工業股份有限公司,SURGE-LELON LLC,0.45,美國,1,0,1,0,0,上市,G2472,52358985,NA,NA,NA,NA,NA
+2016,6175,立敦科技股份有限公司,"V-TECH CO., LTD.",1,薩摩亞,1,1,0,0,0,上櫃,G2472,84607396,NA,NA,NA,NA,NA
+2016,6175,"V-TECH CO., LTD.",立盛科技貿易(惠州)有限公司,0,china,0,1,0,1,0,上櫃,G2472,NA,NA,NA,NA,NA,NA
+2016,2472,立隆電子工業股份有限公司,立敦科技股份有限公司,0.3236,台灣,1,1,0,0,0,上市,G2472,52358985,84607396,NA,NA,NA,NA
+2016,6175,"FOREVER CO., LTD.",立敦電子科技(阿壩州)有限公司,1,china,0,1,0,1,0,上櫃,G2472,NA,NA,NA,NA,NA,NA
+2016,6175,"LITON (BVI) CO., LTD.",立敦電子科技(惠州)有限公司,1,china,0,1,0,1,0,上櫃,G2472,NA,NA,NA,NA,NA,NA
+2016,2472,"LIRO ELECTRONICS CO., LTD.",立隆國際實業有限公司,1,香港,0,1,0,0,0,上市,G2472,NA,NA,NA,NA,NA,NA
+2016,2472,"LIRO ELECTRONICS CO., LTD.",立隆電子(惠州)有限公司,1,china,0,1,0,1,0,上市,G2472,NA,NA,NA,NA,NA,NA
+2016,2472,"LIRO ELECTRONICS CO., LTD.",立隆電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2472,NA,NA,NA,NA,NA,NA
+2016,6175,立敦科技股份有限公司,乳源縣立東電子科技有限公司,0.4,china,1,1,0,1,0,上櫃,G2472,84607396,NA,NA,NA,NA,NA
+2016,6175,立敦電子科技(惠州)有限公司,乳源縣立東電子科技有限公司,0.2,china,0,1,0,0,0,上櫃,G2472,NA,NA,NA,NA,NA,NA
+2016,2472,立隆國際實業有限公司,東莞立鴻貿易有限公司,1,china,0,1,0,1,0,上市,G2472,NA,NA,NA,NA,NA,NA
+2016,2472,立隆電子(蘇州)有限公司,蘇州立頂汽車科技有限公司,1,china,0,1,0,1,0,上市,G2472,NA,NA,NA,NA,NA,NA

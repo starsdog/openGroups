@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "中加顧問股份有限公司", "no_holder": false, "taxcode": "22900455"}, {"is_core": true, "source": [{"holder": "NA", "name": "中加顧問股份有限公司"}], "name": "瑪居禮電波工業股份有限公司", "no_holder": false, "taxcode": "04948484"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

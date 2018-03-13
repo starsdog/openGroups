@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1337,亞洲塑膠再生資源控股有限公司,BVI三斯達公司,1,不明,1,1,0,0,0,上市,G1337,26068617,NA,NA,NA,NA,NA
+2015,1337,三斯達(香港)有限公司,三斯達(江蘇)環保科技有限公司,1,china,0,0,1,1,0,上市,G1337,NA,NA,NA,NA,NA,NA
+2015,1337,三斯達控股有限公司,三斯達(香港)有限公司,1,香港,0,0,1,0,0,上市,G1337,NA,NA,NA,NA,NA,NA
+2015,1337,三斯達(香港)有限公司,三斯達(香港)貿易有限公司,1,香港,0,0,1,0,0,上市,G1337,NA,NA,NA,NA,NA,NA
+2015,1337,三斯達(香港)有限公司,三斯達(福建)塑膠有限公司,1,china,0,0,1,1,0,上市,G1337,NA,NA,NA,NA,NA,NA
+2015,1337,亞洲塑膠再生資源控股有限公司,三斯達控股有限公司,1,英屬維京群島,1,0,1,0,0,上市,G1337,26068617,NA,NA,NA,NA,NA
+2015,1337,香港三斯達公司,江蘇三斯達環保科技公司,1,不明,0,1,0,0,0,上市,G1337,NA,NA,NA,NA,NA,NA
+2015,1337,Ding Holding Limited,亞洲塑膠再生資源控股有限公司,NA,NA,0,0,0,0,1,上市,G1337,NA,26068617,NA,NA,NA,NA
+2015,1337,BVI三斯達公司,香港三斯達公司,1,不明,0,1,0,0,0,上市,G1337,NA,NA,NA,NA,NA,NA
+2015,1337,香港三斯達公司,香港三斯達貿易公司,1,不明,0,1,0,0,0,上市,G1337,NA,NA,NA,NA,NA,NA
+2015,1337,香港三斯達公司,福建三斯達塑膠公司,1,不明,0,1,0,0,0,上市,G1337,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6146,鼎吉投資股份有限公司,GVT,0.7609,台灣,0,1,0,0,0,上櫃,G6146,52428146,NA,NA,NA,NA,NA
+2016,6146,Sporton International (Korea) Inc.,SkyTL Inc.,0.2,南韓,0,0,1,0,0,上櫃,G6146,NA,NA,NA,NA,NA,NA
+2016,6146,耕興股份有限公司,Sporton Holding (SAMOA) Inc.,0.836,薩摩亞,1,1,0,0,0,上櫃,G6146,97491093,NA,NA,NA,NA,NA
+2016,6146,耕興股份有限公司,Sporton International (Korea) Inc.,1,南韓,1,1,0,0,0,上櫃,G6146,97491093,NA,NA,NA,NA,NA
+2016,6146,耕興股份有限公司,"Sporton Investment (SAMOA), Inc.",1,薩摩亞,1,1,0,0,0,上櫃,G6146,97491093,NA,NA,NA,NA,NA
+2016,6146,耕興股份有限公司,全球檢測股份有限公司,1,台灣,1,1,0,0,0,上櫃,G6146,97491093,53993540,NA,NA,NA,NA
+2016,6146,Sporton Holding (SAMOA) Inc.,昆山浩興電子科技有限公司,1,china,0,1,0,1,0,上櫃,G6146,NA,NA,NA,NA,NA,NA
+2016,6146,友興投資股份有限公司,耕興股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6146,16944238,97491093,NA,NA,NA,NA
+2016,6146,全球檢測股份有限公司,鼎吉投資股份有限公司,1,台灣,0,1,0,0,0,上櫃,G6146,53993540,52428146,NA,NA,NA,NA

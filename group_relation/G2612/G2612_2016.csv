@@ -1,0 +1,45 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9912,環偉國際財務股份有限公司,AG Neovo International Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,9912,偉聯科技股份有限公司,"AG Neovo Investment Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上市,G2612,20792640,NA,NA,NA,NA,NA
+2016,9912,偉聯科技股份有限公司,AG Neovo Technology B.V.,1,荷蘭,1,1,0,0,0,上市,G2612,20792640,NA,NA,NA,NA,NA
+2016,9912,環偉國際財務股份有限公司,AG Neovo Technology Corp.,1,美國,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Chartering Shipping Ltd,1,香港,0,0,1,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (S) Ltd.,China Enterprise shipping Pte. Ltd.,1,新加坡,0,0,1,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (S) Ltd.,China Fortune Shipping Pte. Ltd.,1,新加坡,0,0,1,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Harmony shipping Pte. Ltd.,1,香港,0,0,1,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Honour Shipping Ltd.,1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Peace Shipping Ltd.,1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Pioneer Shipping Ltd.,1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Pride Shipping Ltd.,1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Progress Shipping Ltd.,1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Prosperity Shipping Ltd.,1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Trade Shipping Ltd.,1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,China Triumph Shipping Ltd.,1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,Chinese Maritime Transport (Hong Kong) Limited.,1,香港,1,0,1,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,Chinese Maritime Transport (S) Ltd.,0.9949,新加坡,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,Chinese Maritime Transport (S) Ltd.,0.0051,新加坡,1,0,1,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,CMT Chartering Ltd.,1,不明,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,"CMT International Management Co., Limited",1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,Chinese Maritime Transport (Hong Kong) Limited.,"CMT Investment Co., Limited",1,香港,0,1,0,0,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,中航物流股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,36510597,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,中航空運股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,24560349,NA,NA,NA,NA
+2016,2612,航偉投資控股股份有限公司,中國航運股份有限公司,NA,NA,0,0,0,0,1,上市,G2612,23060922,NA,NA,NA,NA,NA
+2016,2612,晶茂管理顧問有限公司,中國航運股份有限公司,NA,NA,0,0,0,0,1,上市,G2612,25116154,NA,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,台灣航業股份有限公司,0.0746,台灣,1,0,1,0,0,上市,G2612,NA,03564713,NA,NA,NA,NA
+2016,2612,富望投資股份有限公司,台灣航業股份有限公司,0.0559,台灣,0,0,1,0,0,上市,G2612,28190558,03564713,NA,NA,NA,NA
+2016,2612,偉聯運輸股份有限公司,先鋒運輸股份有限公司,1,台灣,0,1,0,0,0,上市,G2612,80199881,42754249,NA,NA,NA,NA
+2016,2612,偉聯運輸股份有限公司,長順通運股份有限公司,1,台灣,0,1,0,0,0,上市,G2612,80199881,97411871,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,南海聯合石油股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,54184027,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,南海聯合開發股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,42792948,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,航偉旅行社股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,25112853,NA,NA,NA,NA
+2016,9912,晶茂管理顧問有限公司,偉聯科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2612,25116154,20792640,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,偉聯運輸股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,80199881,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,富望投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,28190558,NA,NA,NA,NA
+2016,2612,偉聯運輸股份有限公司,貿盛運輸股份有限公司,1,台灣,0,1,0,0,0,上市,G2612,80199881,27804614,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,貿華投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,27317662,NA,NA,NA,NA
+2016,2612,偉聯運輸股份有限公司,貿華運輸股份有限公司,1,台灣,0,1,0,0,0,上市,G2612,80199881,27271906,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,貿新投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2612,NA,28447306,NA,NA,NA,NA
+2016,9912,"AG Neovo Investment Co., Ltd.",霓歐商貿(上海)有限公司,1,china,0,1,0,1,0,上市,G2612,NA,NA,NA,NA,NA,NA
+2016,2612,中國航運股份有限公司,環能海運股份有限公司,0.12,台灣,1,0,1,0,0,上市,G2612,NA,53323205,NA,NA,NA,NA
+2016,9912,偉聯科技股份有限公司,環偉國際財務股份有限公司,1,英屬維京群島,1,1,0,0,0,上市,G2612,20792640,NA,NA,NA,NA,NA
+2016,2612,偉聯運輸股份有限公司,鴻運通運股份有限公司,1,台灣,0,1,0,0,0,上市,G2612,80199881,97423172,NA,NA,NA,NA

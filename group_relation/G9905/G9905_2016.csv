@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9905,大華金屬工業股份有限公司,"GCM HOLDING CO., LTD.",1,薩摩亞,1,1,0,0,0,上市,G9905,04403363,NA,NA,NA,NA,NA
+2016,9905,"GCM HOLDING CO., LTD.","GCM PACKAGING (VIETNAM) CO., LTD.",1,越南,0,1,0,0,0,上市,G9905,NA,NA,NA,NA,NA,NA
+2016,9905,大華金屬工業股份有限公司,"HAI HWA INVESTMENT CO.,LTD.",1,百慕達群島,1,1,0,0,0,上市,G9905,04403363,NA,NA,NA,NA,NA
+2016,9905,"HAI HWA INVESTMENT CO.,LTD.",上海聯合製罐有限公司,1,china,0,1,0,1,0,上市,G9905,NA,NA,NA,NA,NA,NA
+2016,9905,捷凱投資股份有限公司,大華金屬工業股份有限公司,NA,NA,0,0,0,0,1,上市,G9905,97294749,04403363,NA,NA,NA,NA
+2016,9905,黌達投資股份有限公司,大華金屬工業股份有限公司,NA,NA,0,0,0,0,1,上市,G9905,96961808,04403363,NA,NA,NA,NA
+2016,9905,中國製罐金屬股份有限公司,大華金屬工業股份有限公司,NA,NA,0,0,0,0,1,上市,G9905,NA,04403363,NA,NA,NA,NA
+2016,9905,"HAI HWA INVESTMENT CO.,LTD.",重慶聯合製罐有限公司,0.25,china,0,1,0,1,0,上市,G9905,NA,NA,NA,NA,NA,NA
+2016,9905,上海聯合製罐有限公司,重慶聯合製罐有限公司,0.75,不明,0,1,0,0,0,上市,G9905,NA,NA,NA,NA,NA,NA
+2016,9905,"HAI HWA INVESTMENT CO.,LTD.",華通聯合(南通)塑膠工業有限公司,1,china,0,1,0,1,0,上市,G9905,NA,NA,NA,NA,NA,NA
+2016,9905,"HAI HWA INVESTMENT CO.,LTD.",濟南聯合製罐有限公司,0.43,china,0,1,0,1,0,上市,G9905,NA,NA,NA,NA,NA,NA
+2016,9905,上海聯合製罐有限公司,濟南聯合製罐有限公司,0.43,不明,0,1,0,0,0,上市,G9905,NA,NA,NA,NA,NA,NA
+2016,9905,華通聯合(南通)塑膠工業有限公司,濟南聯合製罐有限公司,0.14,不明,0,1,0,0,0,上市,G9905,NA,NA,NA,NA,NA,NA

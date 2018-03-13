@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "元大銀行受託保管韓一水泥股份有", "no_holder": false, "taxcode": "NA"}, {"is_core": true, "source": [{"holder": "NA", "name": "元大銀行受託保管韓一水泥股份有"}], "name": "中國探針股份有限公司", "no_holder": false, "taxcode": "22059031"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "東貝光電科技股份有限公司", "no_holder": false, "taxcode": "84412694"}, {"is_core": true, "source": [{"holder": "NA", "name": "東貝光電科技股份有限公司"}], "name": "邑昇實業股份有限公司", "no_holder": false, "taxcode": "84808400"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

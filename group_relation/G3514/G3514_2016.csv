@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3514,Renewable Energy Solution Limited,Gintech(Thailand) Limited,1,泰國,0,1,0,0,0,上市,G3514,NA,NA,NA,NA,NA,NA
+2016,3514,Ultimate Energy Solution Limited,Renewable Energy Solution Limited,1,薩摩亞,0,1,0,0,0,上市,G3514,NA,NA,NA,NA,NA,NA
+2016,3514,昱晶能源科技股份有限公司,Ultimate Energy Solution Limited,1,薩摩亞,1,1,0,0,0,上市,G3514,27757133,NA,NA,NA,NA,NA
+2016,3514,昱晶能源科技股份有限公司,同昱能源科技股份有限公司,0.36,台灣,1,0,1,0,0,上市,G3514,27757133,27843412,NA,NA,NA,NA
+2016,3514,昱晶能源科技股份有限公司,昱成光能股份有限公司,0.45,台灣,1,0,1,0,0,上市,G3514,27757133,53121904,NA,NA,NA,NA
+2016,3514,仲威投資股份有限公司,昱晶能源科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3514,27953705,27757133,NA,NA,NA,NA
+2016,3514,中鼎工程股份有限公司,昱晶能源科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3514,20817282,27757133,NA,NA,NA,NA
+2016,3514,昱晶能源科技股份有限公司,昱鼎能源科技開發股份有限公司,0.5,台灣,1,0,1,0,0,上市,G3514,27757133,53345334,NA,NA,NA,NA

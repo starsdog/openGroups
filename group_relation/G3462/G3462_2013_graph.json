@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "新美光股份有限公司", "no_holder": false, "taxcode": "07450418"}, {"is_core": true, "source": [{"holder": "NA", "name": "新美光股份有限公司"}], "name": "瑋鋒科技股份有限公司", "no_holder": false, "taxcode": "89686953"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

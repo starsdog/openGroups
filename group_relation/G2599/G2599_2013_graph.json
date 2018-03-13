@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "壕震投資股份有限公司", "no_holder": false, "taxcode": "16135551"}, {"is_core": true, "source": [{"holder": "NA", "name": "壕震投資股份有限公司"}], "name": "樂揚建設股份有限公司", "no_holder": false, "taxcode": "84271110"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

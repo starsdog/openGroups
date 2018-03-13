@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3595,"AMC Holding Co., Ltd.",ACE Forth Limited,1,薩摩亞,0,1,0,0,0,興櫃,G3595,NA,NA,NA,NA,NA,NA
+2016,3595,"AMC Holding Co., Ltd.",Allied Royal Limited Liability Company,0,美國,0,1,0,0,0,興櫃,G3595,NA,NA,NA,NA,NA,NA
+2016,3595,山太士股份有限公司,"AMC Holding Co., Ltd.",1,汶萊,0,1,0,0,0,興櫃,G3595,89716605,NA,NA,NA,NA,NA
+2016,3595,"AMC Holding Co., Ltd.","Asia Best Int’l Co., Ltd.",1,貝里斯,0,1,0,0,0,興櫃,G3595,NA,NA,NA,NA,NA,NA
+2016,3595,"AMC Holding Co., Ltd.","Profit Dragon Int’l Co., Ltd.",1,汶萊,0,1,0,0,0,興櫃,G3595,NA,NA,NA,NA,NA,NA
+2016,3595,"AMC Holding Co., Ltd.","Rainbow Bliss Co., Ltd.",1,薩摩亞,0,1,0,0,0,興櫃,G3595,NA,NA,NA,NA,NA,NA
+2016,3595,佶優科技股份有限公司,山太士股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3595,86266274,89716605,NA,NA,NA,NA
+2016,3595,朋程投資股份有限公司,山太士股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3595,28405024,89716605,NA,NA,NA,NA
+2016,3595,ACE Forth Limited,吳江太虹貿易有限公司,1,china,0,1,0,1,0,興櫃,G3595,NA,NA,NA,NA,NA,NA
+2016,3595,"Rainbow Bliss Co., Ltd.",東莞山太士光電技術有限公司(以下簡稱東莞山太士光電公司,1,china,0,1,0,1,0,興櫃,G3595,NA,NA,NA,NA,NA,NA
+2016,3595,"Profit Dragon Int’l Co., Ltd.",東莞山技光電科技有限公司,1,china,0,1,0,1,0,興櫃,G3595,NA,NA,NA,NA,NA,NA
+2016,3595,Allied Royal Limited Liability Company,蘇州山技光電科技有限公司,0,china,0,1,0,1,0,興櫃,G3595,NA,NA,NA,NA,NA,NA

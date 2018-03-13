@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3094,聯傑國際股份有限公司,Davicom America Corporation,0.8211,美國,1,0,1,0,0,上市,G3094,84149759,NA,NA,NA,NA,NA
+2013,3094,TSCC Inc.,Jubilink Ltd.,0.8211,英屬維京群島,0,0,1,0,0,上市,G3094,NA,NA,NA,NA,NA,NA
+2013,3094,聯傑國際股份有限公司,TSCC Inc.,1,薩摩亞,1,1,0,0,0,上市,G3094,84149759,NA,NA,NA,NA,NA
+2013,3094,Jubilink Ltd.,代維康集成電路(蘇州)有限公司,1,china,0,1,0,1,0,上市,G3094,NA,NA,NA,NA,NA,NA
+2013,3094,聯傑投資股份有限公司,艾果科技股份有限公司,0.8211,台灣,0,1,0,0,0,上市,G3094,28135922,27882343,NA,NA,NA,NA
+2013,3094,聯傑投資股份有限公司,凌誠科技股份有限公司,0.8211,台灣,0,0,1,0,0,上市,G3094,28135922,28143514,NA,NA,NA,NA
+2013,3094,聯傑國際股份有限公司,聯旺發股份有限公司,0.9936,台灣,1,1,0,0,0,上市,G3094,84149759,25199513,NA,NA,NA,NA
+2013,3094,聯傑國際股份有限公司,聯傑投資股份有限公司,1,台灣,1,1,0,0,0,上市,G3094,84149759,28135922,NA,NA,NA,NA

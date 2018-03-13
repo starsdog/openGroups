@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6215,和椿科技股份有限公司,AUROTEK INC.,1,日本,0,1,0,0,0,上市,G6215,12304443,NA,NA,NA,NA,NA
+2016,6215,和椿科技股份有限公司,AUROTEK SINGAPORE PTE. LTD.,1,新加坡,0,1,0,0,0,上市,G6215,12304443,NA,NA,NA,NA,NA
+2016,6215,和椿科技股份有限公司,"PLENTY ISLAND (THAI) CO., LTD.",0.25,泰國,1,0,1,0,0,上市,G6215,12304443,NA,NA,NA,NA,NA
+2016,6215,和椿科技股份有限公司,山奕電子股份有限公司,0.19,台灣,1,0,1,0,0,上市,G6215,12304443,28930081,NA,NA,NA,NA
+2016,6215,和椿科技股份有限公司,自潤元件工業股份有限公司,0.9,台灣,0,1,0,0,0,上市,G6215,12304443,12484260,NA,NA,NA,NA
+2016,6215,和椿科技股份有限公司,和椿自動化(上海)有限公司,1,china,0,1,0,1,0,上市,G6215,12304443,NA,NA,NA,NA,NA
+2016,6215,AUROTEK SINGAPORE PTE. LTD.,和椿科技(昆山)有限公司,1,china,0,1,0,1,0,上市,G6215,NA,NA,NA,NA,NA,NA
+2016,6215,和椿行銷顧問股份有限公司,和椿科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6215,86134099,12304443,NA,NA,NA,NA

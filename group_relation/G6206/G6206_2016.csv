@@ -1,0 +1,22 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6206,飛捷科技股份有限公司,Box Technologies (Holdings) Ltd.,1,英國,1,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,Box Technologies (Holdings) Ltd.,Box Technologies Limited,1,英國,0,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,Box Technologies (Holdings) Ltd.,BTechnologies AB,1,瑞典,0,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,飛捷科技股份有限公司,"Flytech CN International Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,飛捷科技股份有限公司,"Flytech HK International Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,飛捷科技股份有限公司,Flytech Japan BVI,1,英屬維京群島,1,0,1,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,飛捷科技股份有限公司,"Flytech JP International Co., Ltd.",1,不明,1,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,"Flytech USA International Co., Ltd.",Flytech Technology (U.S.A.) Inc.,1,不明,0,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,"Flytech HK International Co., Ltd.",Flytech Technology Hong Kong Ltd.,1,不明,0,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,飛捷科技股份有限公司,"Flytech USA International Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,普達系統股份有限公司,Poindus America Corp.,0.5121,美國,0,1,0,0,0,上市,G6206,29069127,NA,NA,NA,NA,NA
+2016,6206,普達投資有限公司,Poindus Systems GmbH GroBhandel mit EDV. Oberureel,0.5121,德國,0,1,0,0,0,上市,G6206,29079271,NA,NA,NA,NA,NA
+2016,6206,普達系統股份有限公司,Poindus Systems UK Limited,0.5121,英國,0,1,0,0,0,上市,G6206,29069127,NA,NA,NA,NA,NA
+2016,6206,"Flytech HK International Co., Ltd.",安捷系統有限公司,1,香港,0,1,0,0,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,飛迅投資股份有限公司,昱景科技股份有限公司,0.2727,台灣,0,0,1,0,0,上市,G6206,28839133,27799393,NA,NA,NA,NA
+2016,6206,飛捷科技股份有限公司,飛迅投資股份有限公司,1,台灣,1,1,0,0,0,上市,G6206,NA,28839133,NA,NA,NA,NA
+2016,6206,"Flytech CN International Co., Ltd.",飛捷電子(北京)有限公司,1,china,0,1,0,1,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,"Flytech CN International Co., Ltd.",飛懋電子(上海)有限公司,1,china,0,1,0,1,0,上市,G6206,NA,NA,NA,NA,NA,NA
+2016,6206,普達系統股份有限公司,普達投資有限公司,0.5121,台灣,0,1,0,0,0,上市,G6206,29069127,29079271,NA,NA,NA,NA
+2016,6206,飛迅投資股份有限公司,普達系統股份有限公司,0.5121,台灣,0,1,0,0,0,上市,G6206,28839133,29069127,NA,NA,NA,NA
+2016,6206,飛迅投資股份有限公司,羅捷系統股份有限公司,0.8,台灣,0,1,0,0,0,上市,G6206,28839133,42833201,NA,NA,NA,NA

@@ -1,0 +1,20 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6205,詮欣股份有限公司,"A&H INTERNATIONAL CO.,LTD.",1,英屬維京群島,1,1,0,0,0,上市,G6205,22115625,NA,NA,NA,NA,NA
+2016,6205,詮欣股份有限公司,"CHANT SINCERE TECHNOLOGY CO., LTD.",1,薩摩亞,1,1,0,0,0,上市,G6205,22115625,NA,NA,NA,NA,NA
+2016,6205,詮欣股份有限公司,"COXOC ELECTRONICS CO.,LTD.",1,英屬維京群島,1,1,0,0,0,上市,G6205,22115625,NA,NA,NA,NA,NA
+2016,6205,大衛電子股份有限公司,DAVID ELECTRONICS COMPANY (BVI) LTD.,1,不明,0,1,0,0,0,上市,G6205,05103595,NA,NA,NA,NA,NA
+2016,6205,大衛電子股份有限公司,"DAVID ELECTRONICS COMPANY (BVI)., LTD.",1,英屬維京群島,0,0,1,0,0,上市,G6205,05103595,NA,NA,NA,NA,NA
+2016,6205,大衛電子股份有限公司,"DAVID TECHNOLOGY CO., LTD.",1,薩摩亞,0,1,0,0,0,上市,G6205,05103595,NA,NA,NA,NA,NA
+2016,6205,鼎佳投資股份有限公司,"DINGJIA INTERNATIONAL CO., LTD.",0,不明,0,1,0,0,0,上市,G6205,28880189,NA,NA,NA,NA,NA
+2016,6205,詮欣股份有限公司,大衛電子股份有限公司,0.8472,台灣,1,1,0,0,0,上市,G6205,22115625,05103595,NA,NA,NA,NA
+2016,6205,DAVID ELECTRONICS COMPANY (BVI) LTD.,宏欣電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G6205,NA,NA,NA,NA,NA,NA
+2016,6205,"CHANT SINCERE TECHNOLOGY CO., LTD.",昆山詮訊連電子有限公司,1,china,0,1,0,1,0,上市,G6205,NA,NA,NA,NA,NA,NA
+2016,6205,"A&H INTERNATIONAL CO.,LTD.",東莞詮榮電子有限公司,1,china,0,1,0,1,0,上市,G6205,NA,NA,NA,NA,NA,NA
+2016,6205,DAVID ELECTRONICS COMPANY (BVI) LTD.,珠海大衛電子有限公司,1,china,0,1,0,1,0,上市,G6205,NA,NA,NA,NA,NA,NA
+2016,6205,鼎佳投資股份有限公司,高樂雅國際餐飲股份有限公司,0.423,台灣,0,1,0,0,0,上市,G6205,28880189,53438375,NA,NA,NA,NA
+2016,6205,大衛電子股份有限公司,高樂雅國際餐飲股份有限公司,0.423,台灣,0,1,0,0,0,上市,G6205,05103595,53438375,NA,NA,NA,NA
+2016,6205,"DAVID TECHNOLOGY CO., LTD.",深圳泰榮科技有限公司,1,china,0,1,0,1,0,上市,G6205,NA,NA,NA,NA,NA,NA
+2016,6205,祥和興投資股份有限公司,詮欣股份有限公司,NA,NA,0,0,0,0,1,上市,G6205,16641950,22115625,NA,NA,NA,NA
+2016,6205,詮欣股份有限公司,鼎佳投資股份有限公司,1,台灣,1,1,0,0,0,上市,G6205,22115625,28880189,NA,NA,NA,NA
+2016,6205,鼎佳投資股份有限公司,鼎極國際餐飲股份有限公司,0.6,台灣,0,1,0,0,0,上市,G6205,28880189,53213609,NA,NA,NA,NA
+2016,6205,大衛電子股份有限公司,鼎極國際餐飲股份有限公司,0.6,台灣,0,1,0,0,0,上市,G6205,05103595,53213609,NA,NA,NA,NA

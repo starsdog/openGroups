@@ -1,0 +1,17 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3679,SUN NICE LIMITED (SAMOA),NISHOKU HONG KONG HOLDING Ltd.,1,香港,0,1,0,0,0,上市,G3679,NA,NA,NA,NA,NA,NA
+2016,3679,新至陞科技股份有限公司,"NISHOKU TECHNOLOGY VIETNAM Co.,Ltd.",1,越南,0,1,0,0,0,上市,G3679,36011776,NA,NA,NA,NA,NA
+2016,3679,SUN NICE LIMITED (SAMOA),SAME START LIMITED (Anguilla),1,安奎拉,0,1,0,0,0,上市,G3679,NA,NA,NA,NA,NA,NA
+2016,3679,SUN NICE LIMITED (SAMOA),SUN NICE LIMITED (BVI),1,英屬維京群島,0,1,0,0,0,上市,G3679,NA,NA,NA,NA,NA,NA
+2016,3679,新至陞科技股份有限公司,SUN NICE LIMITED (SAMOA),1,薩摩亞,0,1,0,0,0,上市,G3679,36011776,NA,NA,NA,NA,NA
+2016,3679,SUN NICE LIMITED (BVI),昆山新日升電子科技有限公司,0,不明,0,1,0,0,0,上市,G3679,NA,NA,NA,NA,NA,NA
+2016,3679,NISHOKU HONG KONG HOLDING Ltd.,昆山新至升塑膠電子有限公司,0.7149,china,0,1,0,1,0,上市,G3679,NA,NA,NA,NA,NA,NA
+2016,3679,SUN NICE LIMITED (BVI),昆山新至升塑膠電子有限公司,0.2851,不明,0,1,0,0,0,上市,G3679,NA,NA,NA,NA,NA,NA
+2016,3679,NISHOKU HONG KONG HOLDING Ltd.,昆山新至升模具工業有限公司,0,不明,0,1,0,0,0,上市,G3679,NA,NA,NA,NA,NA,NA
+2016,3679,NISHOKU HONG KONG HOLDING Ltd.,新至升塑膠模具(深圳)有限公司,1,china,0,1,0,1,0,上市,G3679,NA,NA,NA,NA,NA,NA
+2016,3679,啟揚投資有限公司,新至陞科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3679,28900621,36011776,NA,NA,NA,NA
+2016,3679,衡陞投資有限公司,新至陞科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3679,28912112,36011776,NA,NA,NA,NA
+2016,3679,泉冠投資有限公司,新至陞科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3679,28893683,36011776,NA,NA,NA,NA
+2016,3679,展裕投資有限公司,新至陞科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3679,28920247,36011776,NA,NA,NA,NA
+2016,3679,展興投資有限公司,新至陞科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3679,28908399,36011776,NA,NA,NA,NA
+2016,3679,新至陞科技股份有限公司,新至銘股份有限公司,1,台灣,0,1,0,0,0,上市,G3679,36011776,28788079,NA,NA,NA,NA

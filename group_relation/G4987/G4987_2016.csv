@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4987,科誠股份有限公司,Godex Europe GmbH,1,德國,1,1,0,0,0,上櫃,G4987,84152965,NA,NA,NA,NA,NA
+2016,4987,科誠股份有限公司,Godex International America LLC,1,美國,1,1,0,0,0,上櫃,G4987,84152965,NA,NA,NA,NA,NA
+2016,4987,上海科誠電子技術有限公司,上海合勤色帶不乾膠製品有限公司,1,china,0,1,0,1,0,上櫃,G4987,NA,NA,NA,NA,NA,NA
+2016,4987,科誠股份有限公司,上海科誠電子技術有限公司,1,china,1,1,0,1,0,上櫃,G4987,84152965,NA,NA,NA,NA,NA
+2016,4987,泓泰投資股份有限公司,科誠股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4987,80720240,84152965,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "迅得機械(亞洲)有限公司", "no_holder": false, "taxcode": "NA"}, {"is_core": true, "source": [{"holder": "NA", "name": "迅得機械(亞洲)有限公司"}], "name": "迅得機械股份有限公司", "no_holder": false, "taxcode": "70753397"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

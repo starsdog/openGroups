@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3030,德律科技股份有限公司,DOLI TRADING LIMITED,1,英屬維京群島,1,1,0,0,0,上市,G3030,23292535,NA,NA,NA,NA,NA
+2016,3030,德律科技股份有限公司,"TEST RESEARCH USA, INC.",1,美國,1,0,1,0,0,上市,G3030,23292535,NA,NA,NA,NA,NA
+2016,3030,德律科技股份有限公司,TRI INVESTMENTS LIMITED,1,薩摩亞,1,1,0,0,0,上市,G3030,23292535,NA,NA,NA,NA,NA
+2016,3030,德律科技股份有限公司,TRI JAPAN CORPORATION,1,日本,1,1,0,0,0,上市,G3030,23292535,NA,NA,NA,NA,NA
+2016,3030,德律科技股份有限公司,TRI MALAYSIA SDN. BHD,1,馬來西亞,1,0,1,0,0,上市,G3030,23292535,NA,NA,NA,NA,NA
+2016,3030,德律科技股份有限公司,TRI TEST RESEARCH EUROPE GMBH,1,德國,1,1,0,0,0,上市,G3030,23292535,NA,NA,NA,NA,NA
+2016,3030,德鴻投資股份有限公司,德律科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3030,16796139,23292535,NA,NA,NA,NA
+2016,3030,TRI INVESTMENTS LIMITED,德律泰電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G3030,NA,NA,NA,NA,NA,NA
+2016,3030,TRI INVESTMENTS LIMITED,德律泰電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G3030,NA,NA,NA,NA,NA,NA
+2016,3030,TRI INVESTMENTS LIMITED,德律泰電子貿易(上海)有限公司,1,china,0,1,0,1,0,上市,G3030,NA,NA,NA,NA,NA,NA

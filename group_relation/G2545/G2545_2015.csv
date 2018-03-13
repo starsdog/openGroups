@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2545,皇翔建設股份有限公司,北昌營造股份有限公司,1,台灣,1,1,0,0,0,上市,G2545,86379024,23846206,NA,NA,NA,NA
+2015,2545,皇翔投資股份有限公司,皇翔建設股份有限公司,NA,NA,0,0,0,0,1,上市,G2545,97169469,86379024,NA,NA,NA,NA
+2015,2545,皇翔建設股份有限公司,富氏企業股份有限公司,1,台灣,1,1,0,0,0,上市,G2545,86379024,30424342,NA,NA,NA,NA
+2015,2545,皇翔建設股份有限公司,普立斯國際開發股份有限公司,1,台灣,1,1,0,0,0,上市,G2545,86379024,53751439,NA,NA,NA,NA

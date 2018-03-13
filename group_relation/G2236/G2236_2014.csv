@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2236,PATEC PTE.LTD.,Patec Precision Kft,1,匈牙利,0,1,0,0,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,百達精密工業股份有限公司,PATEC PTE.LTD.,1,新加坡,1,1,0,0,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,PATEC PTE.LTD.,Press Automation Technology Pte Ltd,1,新加坡,0,1,0,0,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,PT. PATEC PRESISI ENGINERRING,PT. API PRECISION,0.75,印尼,0,0,1,0,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,Press Automation Technology Pte Ltd,PT. PATEC PRESISI ENGINERRING,0.7,印尼,0,0,1,0,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,PT. PATEC PRESISI ENGINERRING,PT. PDF PRESISI ENGINEERING,0.7,不明,0,1,0,0,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,PATEC PTE.LTD.,PT. PATEC PRESISI ENGINERRING,0.7,不明,0,1,0,0,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,無錫晶心精密機械有限公司,無錫百達精密成型設備有限公司,1,china,0,1,0,1,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,PATEC PTE.LTD.,無錫晶心精密機械有限公司,0.85,china,0,1,0,1,0,上市,G2236,NA,NA,NA,NA,NA,NA
+2014,2236,無錫晶心精密機械有限公司,鹽城晶心精密機械有限公司,1,china,0,1,0,1,0,上市,G2236,NA,NA,NA,NA,NA,NA

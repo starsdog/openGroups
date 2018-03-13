@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1512,瑞德夏股份有限公司,"Jui Li Edscha Holding Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G1512,16090891,NA,NA,NA,NA,NA
+2016,1512,瑞利企業股份有限公司,Junion Holding Company Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G1512,85330636,NA,NA,NA,NA,NA
+2016,1512,常熟瑞利汽車部件有限公司,杭州瑞利佳合汽車零部件有限公司,1,中國大陸,0,1,0,0,0,上市,G1512,NA,NA,NA,NA,NA,NA
+2016,1512,Junion Holding Company Ltd.,海南瑞利工業有限公司,1,china,0,1,0,1,0,上市,G1512,NA,NA,NA,NA,NA,NA
+2016,1512,"Jui Li Edscha Holding Co., Ltd.",海南瑞德夏工業有限公司,1,china,0,1,0,1,0,上市,G1512,NA,NA,NA,NA,NA,NA
+2016,1512,Junion Holding Company Ltd.,常熟瑞利汽車部件有限公司,1,china,0,1,0,1,0,上市,G1512,NA,NA,NA,NA,NA,NA
+2016,1512,Junion Holding Company Ltd.,開封瑞利工業有限公司,1,china,0,1,0,1,0,上市,G1512,NA,NA,NA,NA,NA,NA
+2016,1512,瑞聯投資股份有限公司,瑞利企業股份有限公司,NA,NA,0,0,0,0,1,上市,G1512,89268260,85330636,NA,NA,NA,NA
+2016,1512,瑞利企業股份有限公司,瑞德夏股份有限公司,0.4994,台灣,1,1,0,0,0,上市,G1512,85330636,16090891,NA,NA,NA,NA

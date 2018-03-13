@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3296,DIGITAL WORLD INC.,BEST WISDOM LIMITED,1,薩摩亞,0,1,0,0,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,勝德國際研發股份有限公司,DIGITAL WORLD INC.,1,薩摩亞,1,1,0,0,0,上市,G3296,12702977,NA,NA,NA,NA,NA
+2014,3296,勝德國際研發股份有限公司,"OPPORTUNIST INT'L CO., LTD.",1,模里西斯,1,1,0,0,0,上市,G3296,12702977,NA,NA,NA,NA,NA
+2014,3296,"OPPORTUNIST INT'L CO., LTD.","PEREFCT SKY INT'L CO., LTD.",1,模里西斯,0,0,1,0,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,BEST WISDOM LIMITED,SURGELION INT'L LTD.,1,香港,0,1,0,0,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,"OPPORTUNIST INT'L CO., LTD.",TOTAL PLUS INT'L LTD.,1,模里西斯,0,0,1,0,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,DIGITAL WORLD INC.,TREASURE LUCK INC.,1,薩摩亞,0,0,1,0,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,DIGITAL WORLD INC.,TREASURE LUCK LTD.,1,不明,0,1,0,0,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,東莞詮盛電器有限公司,東莞市康齊貿易有限公司,1,china,0,1,0,1,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,TOTAL PLUS INT'L LTD.,東莞富鉅電器有限公司,1,china,0,1,0,1,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,SURGELION INT'L LTD.,東莞詮盛電器有限公司,1,china,0,1,0,1,0,上市,G3296,NA,NA,NA,NA,NA,NA
+2014,3296,中華開發工銀科技顧問股份有限公司,勝德國際研發股份有限公司,NA,NA,0,0,0,0,1,上市,G3296,12678097,12702977,NA,NA,NA,NA

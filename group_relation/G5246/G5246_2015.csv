@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,5246,勵華電子香港有限公司,無錫領先針測電子有限公司,1,china,0,1,0,1,0,公開發行,G5246,NA,NA,NA,NA,NA,NA
+2015,5246,無錫領先針測電子有限公司,無錫領先勵華電子貿易有限公司,1,china,0,1,0,1,0,公開發行,G5246,NA,NA,NA,NA,NA,NA
+2015,5246,勵威電子股份有限公司,勵威國際有限公司,1,薩摩亞,1,1,0,0,0,公開發行,G5246,80086182,NA,NA,NA,NA,NA
+2015,5246,宜威投資股份有限公司,勵威電子股份有限公司,NA,NA,0,0,0,0,1,公開發行,G5246,70840203,80086182,NA,NA,NA,NA
+2015,5246,山一電機株式會社,勵威電子股份有限公司,NA,NA,0,0,0,0,1,公開發行,G5246,NA,80086182,NA,NA,NA,NA
+2015,5246,華南金創業投資股份有限公司,勵威電子股份有限公司,NA,NA,0,0,0,0,1,公開發行,G5246,27231335,80086182,NA,NA,NA,1
+2015,5246,勵威國際有限公司,勵華電子香港有限公司,1,香港,0,1,0,0,0,公開發行,G5246,NA,NA,NA,NA,NA,NA

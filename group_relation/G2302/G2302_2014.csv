@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2302,麗正國際科技股份有限公司,Rectron Electronic Enterprises Inc. (USA),1,美國,1,1,0,0,0,上市,G2302,04982433,NA,NA,NA,NA,NA
+2014,2302,麗正國際科技股份有限公司,Rectron International Ltd.,1,薩摩亞,1,1,0,0,0,上市,G2302,04982433,NA,NA,NA,NA,NA
+2014,2302,麗正電子(中國)有限公司,上海麗正電子有限公司,1,china,0,1,0,1,0,上市,G2302,NA,NA,NA,NA,NA,NA
+2014,2302,麗正電子(中國)有限公司,浙江麗正電子有限公司,1,china,0,1,0,1,0,上市,G2302,NA,NA,NA,NA,NA,NA
+2014,2302,麗正國際科技股份有限公司,聚鼎興業股份有限公司,1,台灣,1,1,0,0,0,上市,G2302,04982433,16623263,NA,NA,NA,NA
+2014,2302,瑞業興業股份有限公司,麗正國際科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2302,96943859,04982433,NA,NA,NA,NA
+2014,2302,聚揚興業股份有限公司,麗正國際科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2302,53093442,04982433,NA,NA,NA,NA
+2014,2302,麗正國際科技股份有限公司,麗正電子(中國)有限公司,1,香港,1,1,0,0,0,上市,G2302,04982433,NA,NA,NA,NA,NA
+2014,2302,麗正國際科技股份有限公司,麗正電子(亞洲)有限公司,1,香港,1,1,0,0,0,上市,G2302,04982433,NA,NA,NA,NA,NA

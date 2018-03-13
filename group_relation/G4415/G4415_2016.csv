@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4415,台灣原生藥用植物股份有限公司,Taiwan Indigena Botanica Limited,1,香港,1,0,1,0,0,上櫃,G4415,07729080,NA,NA,NA,NA,NA
+2016,4415,台灣原生藥用植物股份有限公司,三十數位科技股份有限公司,0,台灣,1,1,0,0,0,上櫃,G4415,07729080,79981484,NA,NA,NA,NA
+2016,4415,再投資大陸公司,台原生藥(常州)生物科技有限公司,0,china,0,0,0,1,0,上櫃,G4415,NA,NA,1,NA,NA,NA
+2016,4415,台灣原生藥用植物股份有限公司,觀天下軟體股份有限公司,0,台灣,1,1,0,0,0,上櫃,G4415,07729080,12966695,NA,NA,NA,NA

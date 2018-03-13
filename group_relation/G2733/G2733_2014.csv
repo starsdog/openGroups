@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2733,維格餅家股份有限公司,Hearten Holding Inc.,1,薩摩亞,1,0,1,0,0,興櫃,G2733,80490319,NA,NA,NA,NA,NA
+2014,2733,維格餅家股份有限公司,Nextoo International Company Ltd.,1,模里西斯,1,1,0,0,0,興櫃,G2733,80490319,NA,NA,NA,NA,NA
+2014,2733,Hearten Holding Inc.,上海爆爆貿易有限公司,1,china,0,1,0,1,0,興櫃,G2733,NA,NA,NA,NA,NA,NA
+2014,2733,Nextoo International Company Ltd.,昆山采粢堂食品有限公司,1,china,0,1,0,1,0,興櫃,G2733,NA,NA,NA,NA,NA,NA
+2014,2733,Laxton Investments Limited,維格餅家股份有限公司,NA,NA,0,0,0,0,1,興櫃,G2733,NA,80490319,NA,NA,NA,NA

@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1215,台灣卜蜂企業股份有限公司,卜蜂（台灣）股份有限公司,0.9,台灣,1,1,0,0,0,上市,G1215,36514783,12123837,NA,NA,NA,NA
+2013,1215,百慕達商卜蜂(台灣)投資(股)公司,台灣卜蜂企業股份有限公司,NA,NA,0,0,0,0,1,上市,G1215,NA,36514783,NA,NA,NA,NA
+2013,1215,英屬維京群島商杰冠投資有限公司,台灣卜蜂企業股份有限公司,NA,NA,0,0,0,0,1,上市,G1215,NA,36514783,NA,NA,NA,NA
+2013,1215,台灣卜蜂企業股份有限公司,台灣愛拔益加股份有限公司,0.5,台灣,1,1,0,0,0,上市,G1215,36514783,04384204,NA,NA,NA,NA
+2013,1215,開曼沛式有限公司,香港正大連雲港有限公司,0.9999,香港,0,1,0,0,0,上市,G1215,NA,NA,NA,NA,NA,NA
+2013,1215,香港正大連雲港有限公司,連雲港正大農牧發展有限公司,0.7,china,0,1,0,1,0,上市,G1215,NA,NA,NA,NA,NA,NA
+2013,1215,台灣卜蜂企業股份有限公司,開曼沛式有限公司,1,開曼群島,1,1,0,0,0,上市,G1215,36514783,NA,NA,NA,NA,NA

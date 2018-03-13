@@ -1,0 +1,26 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6284,鈺邦科技股份有限公司,APAQ Samoa,1,薩摩亞,0,0,1,0,0,上櫃,G6284,28064644,NA,NA,NA,NA,NA
+2016,6284,佳邦科技股份有限公司,Canfield,0.3333,薩摩亞,1,0,1,0,0,上櫃,G6284,16599215,NA,NA,NA,NA,NA
+2016,6284,佳邦科技股份有限公司,Inpaq (BVI) Ltd.,1,英屬維京群島,1,1,0,0,0,上櫃,G6284,16599215,NA,NA,NA,NA,NA
+2016,6284,Inpaq (BVI) Ltd.,Inpaq (Cayman Islands) Ltd.,1,開曼群島,0,1,0,0,0,上櫃,G6284,NA,NA,NA,NA,NA,NA
+2016,6284,佳邦科技股份有限公司,Inpaq Korea,0.4477,南韓,1,0,1,0,0,上櫃,G6284,16599215,NA,NA,NA,NA,NA
+2016,6284,Inpaq (BVI) Ltd.,禾邦科技(香港)有限公司,1,香港,0,1,0,0,0,上櫃,G6284,NA,NA,NA,NA,NA,NA
+2016,6284,禾邦電子(蘇州)有限公司,禾邦貿易(蘇州)有限公司,1,不明,0,1,0,0,0,上櫃,G6284,NA,NA,NA,NA,NA,NA
+2016,6284,Inpaq (Cayman Islands) Ltd.,禾邦電子(中國)有限公司,1,china,0,1,0,1,0,上櫃,G6284,NA,NA,NA,NA,NA,NA
+2016,6284,Inpaq (Cayman Islands) Ltd.,禾邦電子(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G6284,NA,NA,NA,NA,NA,NA
+2016,6284,泰豐碩股份有限公司,佳邦科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6284,28829368,16599215,NA,NA,NA,NA
+2016,6284,信邦電子股份有限公司,佳邦科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6284,23542766,16599215,NA,NA,NA,NA
+2016,6284,優群科技股份有限公司,佳邦科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6284,22575850,16599215,NA,NA,NA,NA
+2016,6284,聿新生物科技股份有限公司,佳邦科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6284,16930971,16599215,NA,NA,NA,NA
+2016,6284,禾邦科技(香港)有限公司,佳邦貿易(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G6284,NA,NA,NA,NA,NA,NA
+2016,6284,佳邦科技股份有限公司,揚志股份有限公司,0.28,台灣,1,0,1,0,0,上櫃,G6284,16599215,53169006,NA,NA,NA,NA
+2016,6284,佳邦科技股份有限公司,鈺邦科技股份有限公司,0.1282,台灣,1,0,1,0,0,上櫃,G6284,16599215,28064644,NA,NA,NA,NA
+2016,6449,鈺邦科技股份有限公司,APAQ Investment Limited,1,薩摩亞,1,1,0,0,0,上市,G6284,28064644,NA,NA,NA,NA,NA
+2016,6449,華誠創業投資股份有限公司,鈺邦科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6284,29032115,28064644,NA,NA,NA,NA
+2016,6449,APAQ Investment Limited,鈺邦電子(無錫)有限公司,1,china,0,1,0,1,0,上市,G6284,NA,NA,NA,NA,NA,NA
+2016,8495,經緯航太科技股份有限公司,Geosat Aerospace Inc.,1,薩摩亞,1,1,0,0,0,興櫃,G6284,27285850,NA,NA,NA,NA,NA
+2016,8495,經緯航太科技股份有限公司,Geosat Artificial Intelligence Inc.,1,薩摩亞,1,0,1,0,0,興櫃,G6284,27285850,NA,NA,NA,NA,NA
+2016,8495,經緯航太科技股份有限公司,Geosat Geomatics Teconology Inc.,1,薩摩亞,1,0,1,0,0,興櫃,G6284,27285850,NA,NA,NA,NA,NA
+2016,8495,Geosat Aerospace Inc.,昆山龍智翔智能科技有限公司,0.45,china,0,0,0,1,0,興櫃,G6284,NA,NA,NA,NA,NA,NA
+2016,8495,經緯航太科技股份有限公司,經緯航天科技有限公司,1,香港,1,0,1,0,0,興櫃,G6284,27285850,NA,NA,NA,NA,NA
+2016,6449,佳邦科技股份有限公司,經緯航太科技股份有限公司,0.1594,NA,0,0,0,0,1,上市,G6284,16599215,27285850,NA,NA,NA,NA

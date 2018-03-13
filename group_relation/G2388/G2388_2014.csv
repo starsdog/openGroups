@@ -1,0 +1,123 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2498,HTC FRANCE CORPORATION,ABAXIA SAS,0,法國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.",Catchplay Media Holdings Ltd.,0.0373,開曼群島,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIA USA, INC.","CENTAUR TECHNOLOGY, INC.",1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC America Holding Inc.,"Dashwire, Inc.",1,美國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,H.T.C. (B.V.I.) Corp.,"East West Artists, LLC",0.125,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,H.T.C. (B.V.I.) Corp.,1,英屬維京群島,0,1,0,0,0,上市,G2388,16003518,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,High Tech Computer (H.K.) Limited,0,香港,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,High Tech Computer Asia Pacific Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G2388,16003518,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC (Australia and New Zealand) PTY LTD.,1,澳大利亞,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC (Thailand) Limited,1,泰國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC America Holding Inc.,"HTC America Content Services, Inc.",1,美國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,"HTC EUROPE CO., LTD.",HTC America Holding Inc.,1,美國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC America Holding Inc.,HTC America Inc.,1,美國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC America Holding Inc.,HTC America Innovation Inc.,1,美國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Belgium BVBA,1,比利時,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,ABAXIA SAS,HTC BLR,0,白俄羅斯,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC FRANCE CORPORATION,HTC BLR,1,白俄羅斯,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC BRASIL,0.9999,巴西,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,"HTC Communication Canada, Ltd.",1,加拿大,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Communication Sweden AB,1,瑞典,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,"HTC EUROPE CO., LTD.",1,英國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC FRANCE CORPORATION,1,法國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Germany GmbH.,1,德國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,"HTC HK, Limited",1,香港,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC Holding Cooperatief U.A.,0.9999,荷蘭,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,HTC Holding Cooperatief U.A.,0.0001,荷蘭,0,1,0,0,0,上市,G2388,16003518,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Iberia S.L.,1,西班牙,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC India Private Limited,0.99,印度,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Holding Cooperatief U.A.,HTC India Private Limited,0.01,印度,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC Innovation Limited,0,南韓,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,HTC Investment One (BVI) Corporation,1,英屬維京群島,0,1,0,0,0,上市,G2388,16003518,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Italia SRL,1,義大利,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Luxembourg S.a.r.l..,1,盧森保,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC Malaysia Sdn. Bhd.,1,馬來西亞,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Middle East FZ-LLC,1,阿拉伯聯合大公國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC Myanmar Company Limited,0.99,緬甸,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,"HTC HK, Limited",HTC Myanmar Company Limited,0.01,緬甸,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Holding Cooperatief U.A.,HTC Netherlands B.V.,1,荷蘭,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC NIPPON Corporation,1,日本,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Nordic ApS.,1,丹麥,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Norway AS.,1,挪威,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC Philippines Corporation,0.9999,菲律賓,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Poland sp. z o.o.,1,波蘭,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC RUS LLC,1,不明,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC Russia LLC.,1,俄羅斯,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Holding Cooperatief U.A.,HTC South Eastern Europe Limited liability Company,0.0067,希臘,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,HTC South Eastern Europe Limited liability Company,0.9933,希臘,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,HTC Vietnam Services One Member Limited Liability Company,1,越南,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIA-CYRIX, INC.","IC-Ensemble, Inc.",1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC America Holding Inc.,"Inquisitive Minds, Inc.",1,美國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.",IP-FIRST LLC.,1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC America Holding Inc.,"One & Company Design, Inc.",1,美國,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,PT. High Tech Computer Indonesia,0.99,印尼,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,PT. High Tech Computer Indonesia,0.01,印尼,0,1,0,0,0,上市,G2388,16003518,NA,NA,NA,NA,NA
+2014,2388,"TECHBASE CO., LTD.",S3 Graphics (HK) Limited,1,香港,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Investment One (BVI) Corporation,"S3 Graphics Co., Ltd.",1,不明,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"TECHBASE CO., LTD.",S3 Graphics Inc.,1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Investment One (BVI) Corporation,"S3 Graphics, Co., Ltd.",1,開曼群島,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC Netherlands B.V.,SPRL,1,比利時,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.",SURE VICTORY INVESTMENT LTD.,0.41,英屬維京群島,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,HTC America Holding Inc.,SYNCTV Corporation,0,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.",T. C. Connection Corporation,1,英屬維京群島,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.","TECHBASE CO., LTD.",1,開曼群島,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,TUNGBASE TECHNOLOGIES LTD.,1,英屬維京群島,1,0,1,0,0,上市,G2388,86870786,NA,NA,NA,NA,NA
+2014,2388,"VIA CPU PLATFORM CO., LTD.",VIA Alliance Technology Inc.,0,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.",VIA COMMUNICATIONS INC.,1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.","VIA CPU PLATFORM CO., LTD.",1,英屬維京群島,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIA USA, INC.","VIA CPU PLATFORM, INC.",1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIA USA, INC.","VIA CYRIX, INC",1,不明,0,1,0,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,VIA GmbH,1,不明,0,1,0,0,0,上市,G2388,86870786,NA,NA,NA,NA,NA
+2014,2388,"VIATECH CO., LTD.",VIA TECHNOLOGIES (HK) INC. LTD.,1,香港,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,VIA TECHNOLOGIES GmbH,1,德國,1,0,1,0,0,上市,G2388,86870786,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.",VIA TECHNOLOGIES JAPAN K.K.,1,日本,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIA USA, INC.","VIA TECHNOLOGIES, INC.",1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.","VIA TELECOM CO., LTD.",0.4831,開曼群島,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,"VIABASE CO., LTD.","VIA USA, INC.",1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,"VIABASE CO., LTD.",1,英屬維京群島,1,0,1,0,0,上市,G2388,86870786,NA,NA,NA,NA,NA
+2014,2388,"VIA USA, INC.","VIA-CYRIX, INC.",1,美國,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,"VIATECH CO., LTD.",1,英屬維京群島,1,0,1,0,0,上市,G2388,86870786,NA,NA,NA,NA,NA
+2014,2498,"HTC HK, Limited",上海方付通商務服務有限公司,0,china,0,0,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,VIA TECHNOLOGIES (HK) INC. LTD.,上海兆芯集成電路有限公司,0.199,china,0,0,0,1,0,上市,G2388,NA,NA,8,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,世界通全球驗證股份有限公司,1,台灣,0,1,0,0,0,上市,G2388,16003518,16645977,NA,NA,NA,NA
+2014,2388,"VIA CPU PLATFORM CO., LTD.",北京威盛芯科技有限公司,1,台灣,0,0,1,0,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,威盛電子(中國)有限公司,北京威盛芯科技有限公司,0,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,立衛科技股份有限公司,0.6628,台灣,0,1,0,0,0,上市,G2388,86870786,22099316,NA,NA,NA,NA
+2014,8068,全達國際(香港)有限公司,全達威電子(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G2388,NA,NA,NA,NA,NA,NA
+2014,8068,全達國際股份有限公司,全達國際(香港)有限公司,0.9999,香港,1,1,0,0,0,上櫃,G2388,16003714,NA,NA,NA,NA,NA
+2014,8068,弘茂投資股份有限公司,全達國際股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2388,16310311,16003714,NA,NA,NA,NA
+2014,2388,S3 Graphics (HK) Limited,旭上電子(上海)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,宏達通訊科技(上海)有限公司,艾齊迪通訊科技(北京)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,"HTC HK, Limited",艾齊迪電子(上海)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,威智投資股份有限公司,宏達國際電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2388,16309969,16003518,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,宏達通訊有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,High Tech Computer Asia Pacific Pte. Ltd.,宏達通訊科技(上海)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,H.T.C. (B.V.I.) Corp.,宏達電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,宏達電投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2388,16003518,29047665,NA,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,宏達電壹投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2388,16003518,24463368,NA,NA,NA,NA
+2014,2388,VIA TECHNOLOGIES (HK) INC. LTD.,京睿科技(北京)有限公司,0.4831,china,0,0,0,1,0,上市,G2388,NA,NA,8,NA,NA,NA
+2014,2388,VIA TECHNOLOGIES (HK) INC. LTD.,長芯盛(武漢)科技有限公司,0.3077,china,0,0,0,1,0,上市,G2388,NA,NA,8,NA,NA,NA
+2014,2498,"HTC HK, Limited",威宏電子(上海)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,威信科電股份有限公司,1,台灣,0,1,0,0,0,上市,G2388,86870786,24222657,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,威恩科技股份有限公司,1,台灣,0,1,0,0,0,上市,G2388,86870786,12879221,NA,NA,NA,NA
+2014,2388,旭上電子(上海)有限公司,威盛芯集成電路(上海)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,VIA TECHNOLOGIES (HK) INC. LTD.,威盛電子(中國)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,VIA TECHNOLOGIES (HK) INC. LTD.,威盛電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G2388,NA,NA,NA,NA,NA,NA
+2014,2388,利威投資股份有限公司,威盛電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2388,89621066,86870786,NA,NA,NA,NA
+2014,2388,宏達國際電子股份有限公司,威盛電子股份有限公司,NA,NA,0,0,0,0,1,上市,G2388,16003518,86870786,NA,NA,NA,NA
+2014,2388,VIA TECHNOLOGIES (HK) INC. LTD.,威睿電通(杭州)有限公司,0.4831,china,0,0,0,1,0,上市,G2388,NA,NA,8,NA,NA,NA
+2014,2388,威盛電子股份有限公司,威鋒電子股份有限公司,1,台灣,0,1,0,0,0,上市,G2388,86870786,29125676,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,威鴻通訊股份有限公司,1,台灣,0,1,0,0,0,上市,G2388,86870786,80227155,NA,NA,NA,NA
+2014,6118,弘茂投資股份有限公司,建達國際股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2388,16310311,89621848,NA,NA,NA,NA
+2014,2498,宏達電投資股份有限公司,御達有限公司,1,台灣,0,1,0,0,0,上市,G2388,29047665,54011285,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,惟翔科技股份有限公司,0.4583,台灣,1,0,1,0,0,上市,G2388,86870786,70394652,NA,NA,NA,NA
+2014,2498,宏達國際電子股份有限公司,華達數位股份有限公司,0.5,台灣,1,0,1,0,0,上市,G2388,16003518,24493102,NA,NA,NA,NA
+2014,2498,再投資大陸公司,極之索信息技術(上海)有限公司,0.1032,china,0,0,0,1,0,上市,G2388,NA,NA,1,NA,NA,NA
+2014,6118,建達國際股份有限公司,鉑達科技股份有限公司,0.45,台灣,1,1,0,0,0,上櫃,G2388,89621848,12949943,NA,NA,NA,NA
+2014,6118,建達國際股份有限公司,鼎漢國際股份有限公司,1,台灣,1,1,0,0,0,上櫃,G2388,89621848,80293112,NA,NA,NA,NA
+2014,2388,威盛電子股份有限公司,碩網資訊股份有限公司,0.0811,台灣,1,0,1,0,0,上市,G2388,86870786,70364799,NA,NA,NA,NA
+2014,8068,財團法人基督教中華信望愛基金會,威智投資股份有限公司,0.1,NA,0,0,0,0,1,上櫃,G2388,NA,16309969,NA,NA,NA,NA
+2014,8068,財團法人基督教中華信望愛基金會,弘茂投資股份有限公司,0.1,NA,0,0,0,0,1,上櫃,G2388,NA,16310311,NA,NA,NA,NA
+2014,8068,財團法人基督教中華信望愛基金會,全德投資股份有限公司,0.1,NA,0,0,0,0,1,上櫃,G2388,NA,89621299,NA,NA,NA,NA
+2014,8068,財團法人基督教中華信望愛基金會,利威投資股份有限公司,0.1,NA,0,0,0,0,1,上櫃,G2388,NA,89621066,NA,NA,NA,NA

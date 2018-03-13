@@ -1,0 +1,21 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3543,DA-REN INVESTMENT (CAYMAN) LTD.,DA-REN INTERNATIONAL (CAYMAN) LTD.,1,開曼群島,0,0,1,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,JOCHU INVESTMENT LTD.,DA-REN INVESTMENT (CAYMAN) LTD.,1,開曼群島,0,0,1,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,JOCHU INVESTMENT LTD.,JOCHU GLOBAL INVESTMENT (CAYMAN) LTD.,1,開曼群島,0,1,0,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,JOCHU GLOBAL INVESTMENT (CAYMAN) LTD.,JOCHU INTERNATIONAL (CAYMAN) LTD.,1,開曼群島,0,1,0,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,州巧科技股份有限公司,JOCHU INVESTMENT LTD.,1,英屬維京群島,1,1,0,0,0,興櫃,G3543,70526133,NA,NA,NA,NA,NA
+2016,3543,JOCHU INVESTMENT LTD.,禾鑫國際有限公司,1,英屬維京群島,0,1,0,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,JOCHU INTERNATIONAL (CAYMAN) LTD.,州巧科技(廈門)有限公司,0.6667,china,0,1,0,1,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,蘇州州巧精密金屬有限公司,州巧科技(廈門)有限公司,0.3333,中國大陸,0,1,0,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,中華開發工業銀行股份有限公司,州巧科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3543,11147207,70526133,NA,NA,NA,NA
+2016,3543,亨興投資股份有限公司,州巧科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3543,25015796,70526133,NA,NA,NA,NA
+2016,3543,佛山振宣精密科技工業有限公司,佛山昇鼎貿易有限公司,1,china,0,1,0,1,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,禾鑫國際有限公司,佛山振宣精密科技工業有限公司,0.7183,china,0,1,0,1,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,蘇州州巧精密金屬有限公司,佛山振宣精密科技工業有限公司,0.2817,中國大陸,0,1,0,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,蘇州州巧精密金屬有限公司,昇鼎貿易(蘇州)有限公司,1,china,0,1,0,1,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,JOCHU INVESTMENT LTD.,寧波州巧精密金屬有限公司,0,china,0,1,0,1,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,蘇州州巧精密金屬有限公司,寧波州巧精密金屬有限公司,0,中國大陸,0,1,0,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,州巧科技(廈門)有限公司,麒鼎貿易(廈門)有限公司,1,china,0,1,0,1,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,蘇州州巧精密金屬有限公司,蘇州元智自動化設備有限公司,0.3127,中國大陸,0,1,0,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,DA-REN INTERNATIONAL (CAYMAN) LTD.,蘇州元智自動化設備有限公司,0.6873,中國大陸,0,0,1,0,0,興櫃,G3543,NA,NA,NA,NA,NA,NA
+2016,3543,JOCHU INVESTMENT LTD.,蘇州州巧精密金屬有限公司,1,china,0,1,0,1,0,興櫃,G3543,NA,NA,NA,NA,NA,NA

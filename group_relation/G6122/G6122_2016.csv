@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3379,彬台科技股份有限公司,PT. Taiwan Benefit Indonesia,0.95,印尼,1,1,0,0,0,上櫃,G6122,05087498,NA,NA,NA,NA,NA
+2016,3379,Taiwan Benefit Technology (SAMOA) Corporation,PT. Taiwan Benefit Indonesia,0.05,不明,0,1,0,0,0,上櫃,G6122,NA,NA,NA,NA,NA,NA
+2016,3379,彬台科技股份有限公司,"Taibeco (Tailand) Co., Ltd.",0.45,泰國,1,0,1,0,0,上櫃,G6122,05087498,NA,NA,NA,NA,NA
+2016,3379,彬台科技股份有限公司,Taiwan Benefit Technology (SAMOA) Corporation,1,薩摩亞,1,1,0,0,0,上櫃,G6122,05087498,NA,NA,NA,NA,NA
+2016,3379,Taiwan Benefit Technology (SAMOA) Corporation,彬台自動化設備(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G6122,NA,NA,NA,NA,NA,NA
+2016,3379,啟台股份有限公司,彬台科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6122,11631200,05087498,NA,NA,NA,NA
+2016,3379,傳倫投資股份有限公司,彬台科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6122,12332601,05087498,NA,NA,NA,NA
+2016,3379,永嘉國際開發股份有限公司,彬台科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6122,96945792,05087498,NA,NA,NA,NA
+2016,3379,Taiwan Benefit Technology (SAMOA) Corporation,彬台機械(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G6122,NA,NA,NA,NA,NA,NA
+2016,3379,彬台科技股份有限公司,誠新建設開發股份有限公司,0.33,台灣,1,0,1,0,0,上櫃,G6122,05087498,24552609,NA,NA,NA,NA
+2016,6122,擎邦國際科技工程股份有限公司,吉倍克工程股份有限公司,0.35,台灣,1,0,1,0,0,上櫃,G6122,05114306,54366976,NA,NA,NA,NA
+2016,6122,擎邦國際科技工程股份有限公司,誠新建設開發股份有限公司,0.6667,台灣,1,1,0,0,0,上櫃,G6122,05114306,24552609,NA,NA,NA,NA
+2016,6122,擎邦國際科技工程股份有限公司,擎邦國際投資開發股份有限公司,1,英屬維京群島,1,1,0,0,0,上櫃,G6122,05114306,NA,NA,NA,NA,NA
+2016,6122,永嘉國際開發股份有限公司,擎邦國際科技工程股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6122,96945792,05114306,NA,NA,NA,NA
+2016,6122,傳倫投資股份有限公司,擎邦國際科技工程股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6122,12332601,05114306,NA,NA,NA,NA
+2016,6122,擎邦國際科技工程股份有限公司,鴻祥工程股份有限公司,0.9962,台灣,1,1,0,0,0,上櫃,G6122,05114306,11994005,NA,NA,NA,NA
+2016,6122,擎邦國際投資開發股份有限公司,蘇州擎邦電子科技工程有限公司,1,china,0,1,0,1,0,上櫃,G6122,NA,NA,NA,NA,NA,NA

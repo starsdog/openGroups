@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6259,"Visco International Co., Ltd.",SIGCUS USA INC.,1,美國,0,1,0,0,0,上櫃,G6259,NA,NA,NA,NA,NA,NA
+2016,6259,香港新曄投資有限公司,"Visco International Co., Ltd.",0.55,貝里斯,0,1,0,0,0,上櫃,G6259,NA,NA,NA,NA,NA,NA
+2016,6259,兆豐銀受託保管新曄科技有限公司,百徽股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6259,NA,84497335,NA,NA,NA,NA
+2016,6259,香港新曄投資有限公司,百徽電子有限公司,1,英屬維京群島,0,1,0,0,0,上櫃,G6259,NA,NA,NA,NA,NA,NA
+2016,6259,香港新曄投資有限公司,東莞兆康電子有限公司,1,china,0,1,0,1,0,上櫃,G6259,NA,NA,NA,NA,NA,NA
+2016,6259,百徽股份有限公司,香港百徽控股有限公司,1,香港,1,1,0,0,0,上櫃,G6259,84497335,NA,NA,NA,NA,NA
+2016,6259,香港百徽控股有限公司,香港新曄投資有限公司,1,香港,0,1,0,0,0,上櫃,G6259,NA,NA,NA,NA,NA,NA
+2016,6259,香港新曄投資有限公司,惠州百勤電子有限公司,1,china,0,1,0,1,0,上櫃,G6259,NA,NA,NA,NA,NA,NA
+2016,6259,香港新曄投資有限公司,惠州百徽電子有限公司,1,china,0,1,0,1,0,上櫃,G6259,NA,NA,NA,NA,NA,NA
+2016,6259,香港新曄投資有限公司,惠州君超電子有限公司,1,china,0,1,0,1,0,上櫃,G6259,NA,NA,NA,NA,NA,NA

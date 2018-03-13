@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6291,沛亨半導體股份有限公司,AIC Group Corporation,0,英屬維京群島,1,1,0,0,0,上櫃,G6291,86541238,NA,NA,NA,NA,NA
+2016,6291,AIC Group Corporation,Analog Holding Corporation,0,開曼群島,0,1,0,0,0,上櫃,G6291,NA,NA,NA,NA,NA,NA
+2016,6291,沛亨半導體股份有限公司,達鑫電子股份有限公司,1,台灣,1,1,0,0,0,上櫃,G6291,86541238,53953884,NA,NA,NA,NA

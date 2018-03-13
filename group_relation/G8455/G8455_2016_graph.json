@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "Daito Me Holdings Co., Ltd", "no_holder": false, "taxcode": "NA"}, {"is_core": false, "source": [{"holder": "1", "name": "Daito Me Holdings Co., Ltd"}], "name": "DAITO ME CO., LTD", "no_holder": false, "taxcode": "NA"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2016"}

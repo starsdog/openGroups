@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4117,GB Holdings Limited,Danner Laboratory Inc.,1,美國,0,0,1,0,0,興櫃,G4117,NA,NA,NA,NA,NA,NA
+2016,4117,普生股份有限公司,GB (China) Holdings Limited,1,薩摩亞,1,0,1,0,0,興櫃,G4117,47299918,NA,NA,NA,NA,NA
+2016,4117,普生股份有限公司,GB Holdings Limited,1,薩摩亞,1,0,1,0,0,興櫃,G4117,47299918,NA,NA,NA,NA,NA
+2016,4117,GB Holdings Limited,Pacgen Biomedical Inc.,1,美國,0,0,1,0,0,興櫃,G4117,NA,NA,NA,NA,NA,NA
+2016,4117,GB Holdings Limited,Pacgen Inc.,1,美國,0,0,1,0,0,興櫃,G4117,NA,NA,NA,NA,NA,NA
+2016,4117,普生股份有限公司,Pacgen Inc.,0,美國,1,1,0,0,0,興櫃,G4117,47299918,NA,NA,NA,NA,NA
+2016,4117,居禮股份有限公司,Pacgen Life Science Corporation,0.1039,加拿大,0,0,1,0,0,興櫃,G4117,97120902,NA,NA,NA,NA,NA
+2016,4117,普生股份有限公司,Pacgen Life Science Corporation,0.0793,加拿大,1,0,1,0,0,興櫃,G4117,47299918,NA,NA,NA,NA,NA
+2016,4117,普生股份有限公司,Pacgen Biomedical Inc.,0,不明,1,1,0,0,0,興櫃,G4117,47299918,NA,NA,NA,NA,NA
+2016,4117,普生股份有限公司,居禮股份有限公司,1,台灣,1,1,0,0,0,興櫃,G4117,47299918,97120902,NA,NA,NA,NA
+2016,4117,台灣新光商銀受託保管頂榮有限公司投資專戶,普生股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4117,NA,47299918,NA,NA,NA,NA
+2016,4117,台灣新光銀行受託保管長青盈有限公司投資專戶,普生股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4117,NA,47299918,NA,NA,NA,NA
+2016,4117,德慧國際股份有限公司,普生股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4117,23640056,47299918,NA,NA,NA,NA

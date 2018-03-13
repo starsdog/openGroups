@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1569,Hamagawa Holdings Limited,Ego Tech Holding Limited,1,香港,0,1,0,0,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,濱川企業股份有限公司,Hamagawa Corp.,1,開曼群島,0,1,0,0,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,濱川企業股份有限公司,Hamagawa Holdings Limited,1,薩摩亞,0,1,0,0,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,濱川企業股份有限公司,Hamagawa Malaysia,1,馬來西亞,0,1,0,0,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,Ego Tech Holding Limited,奇模精密工業(蘇州)公司,1,china,0,1,0,1,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,Ego Tech Holding Limited,重慶豐川電子科技公司,1,china,0,1,0,1,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,蘇州濱川精密工業公司,香港濱川公司,1,香港,0,1,0,0,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,Hamagawa Corp.,濱川金屬(東莞)公司,0,不明,0,1,0,0,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,Hamagawa Holdings Limited,蘇州濱川精密工業公司,1,china,0,1,0,1,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,Hamagawa Holdings Limited,蘇州豐川電子科技公司,0.8958,china,0,1,0,1,0,上櫃,G1569,NA,NA,NA,NA,NA,NA
+2013,1569,Ego Tech Holding Limited,蘇州豐川電子科技公司,0.1042,不明,0,1,0,0,0,上櫃,G1569,NA,NA,NA,NA,NA,NA

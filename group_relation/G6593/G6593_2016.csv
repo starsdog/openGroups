@@ -1,0 +1,3 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6593,台灣銘板股份有限公司,台明卡片系統股份有限公司,0,台灣,1,1,0,0,0,興櫃,G6593,20675832,86159128,NA,NA,NA,NA
+2016,6593,台銘投資股份有限公司,台灣銘板股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6593,97450728,20675832,NA,NA,NA,NA

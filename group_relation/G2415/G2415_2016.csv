@@ -1,0 +1,21 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2415,Merrimack River Precision Industrial(Samoa)Corporation,Merrimack River Precision Industrial Corporation,1,英屬維京群島,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,Merrimack River Precision Industrial Corporation,Merrimack River Precision Industrial (HCM) Co.Ltd,1,越南,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,Merrimack River Precision Industrial (HCM) Co.Ltd,Merrimack River Precision Industrial (HD) Co.Ltd,1,越南,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,富川精密工業股份有限公司,Merrimack River Precision Industrial(Samoa)Corporation,1,薩摩亞,0,1,0,0,0,上市,G2415,54358770,NA,NA,NA,NA,NA
+2016,2415,錩新投資顧問股份有限公司,Norrice Group Ltd.,0.674,英屬維京群島,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,錩新科技(越南)股份有限公司,PHU HUNG LIFE INSURANCE JOINT STOCK COMPANY,0.047,越南,0,0,1,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,富鑫錩泰控股股份有限公司,PHU HUNG LIFE INSURANCE JOINT STOCK COMPANY,0.08,越南,0,0,1,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,富鑫遠東控股股份有限公司,PHU HUNG SECURITIES CORPORATION,0.46,越南,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,錩新科技股份有限公司,富川精密工業股份有限公司,1,台灣,1,1,0,0,0,上市,G2415,44913118,54358770,NA,NA,NA,NA
+2016,2415,錩新科技(開曼)股份有限公司,富鑫遠東控股股份有限公司,1,英屬維京群島,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,錩新科技(開曼)股份有限公司,富鑫錩泰控股股份有限公司,1,英屬維京群島,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,錩新科技股份有限公司,錩新投資顧問股份有限公司,1,英屬維京群島,1,1,0,0,0,上市,G2415,44913118,NA,NA,NA,NA,NA
+2016,2415,錩新科技(開曼)股份有限公司,錩新科技(越南)股份有限公司,0.51,越南,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,錩新越南控股股份有限公司,錩新科技(越南)股份有限公司,0.49,越南,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,錩新科技股份有限公司,錩新科技(開曼)股份有限公司,1,開曼群島,1,1,0,0,0,上市,G2415,44913118,NA,NA,NA,NA,NA
+2016,2415,晉成投資控股股份有限公司,錩新科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2415,22818293,44913118,NA,NA,NA,NA
+2016,2415,亞洲富遠財匯股份有限公司,錩新科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2415,28699323,44913118,NA,NA,NA,NA
+2016,2415,錩新科技(開曼)股份有限公司,錩新越南控股股份有限公司,1,開曼群島,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,錩新科技(開曼)股份有限公司,錩新開發有限公司,1,香港,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA
+2016,2415,錩新開發有限公司,錩新電子科技(上海)有限公司,1,不明,0,1,0,0,0,上市,G2415,NA,NA,NA,NA,NA,NA

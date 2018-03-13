@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "鑫豐證券股份有限公司", "no_holder": false, "taxcode": "70779973"}, {"is_core": false, "source": [{"holder": "0.8463", "name": "鑫豐證券股份有限公司"}], "name": "鑫豐證券投資顧問", "no_holder": false, "taxcode": "84929832"}], "links": [{"target": 1, "holder": "84.630000", "source": 0}], "y": "2014"}

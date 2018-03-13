@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1763,泰奇投資股份有限公司,奇美實業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G1763,70802398,68387705,NA,NA,NA,NA
+2014,1763,三菱株式會社,奇美實業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G1763,NA,68387705,NA,NA,NA,NA
+2014,1763,悅理投資股份有限公司,奇美實業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G1763,12751511,68387705,NA,NA,NA,NA
+2014,4960,奇美材料科技股份有限公司,奇美材料投資公司,1,薩摩亞,1,1,0,0,0,上市,G1763,27790294,NA,NA,NA,NA,NA
+2014,4960,奇美實業股份有限公司,奇美材料科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1763,68387705,27790294,NA,NA,NA,NA
+2014,4960,奇美材料科技股份有限公司,奇美材料薩摩亞公司,1,薩摩亞,1,1,0,0,0,上市,G1763,27790294,NA,NA,NA,NA,NA
+2014,4960,奇美材料科技股份有限公司,奇美視像科技股份有限公司,0.57,台灣,1,1,0,0,0,上市,G1763,27790294,53152440,NA,NA,NA,NA
+2014,4960,奇美材料投資公司,昆山奇美材料公司,1,china,0,1,0,1,0,上市,G1763,NA,NA,NA,NA,NA,NA
+2014,4960,寧波奇美材料公司,昆山奇美材料貿易公司,1,china,0,1,0,1,0,上市,G1763,NA,NA,NA,NA,NA,NA
+2014,4960,奇美材料薩摩亞公司,寧波奇美材料公司,1,china,0,1,0,1,0,上市,G1763,NA,NA,NA,NA,NA,NA

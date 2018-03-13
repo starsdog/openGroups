@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4994,傳奇網路遊戲股份有限公司,X-LEGEND ENTERTAINMENT JAPAN,1,日本,1,1,0,0,0,上市,G4994,12975809,NA,NA,NA,NA,NA
+2016,4994,傳奇網路遊戲股份有限公司,X-LEGEND ENTERTAINMENT KOREA,1,南韓,0,1,0,0,0,上市,G4994,12975809,NA,NA,NA,NA,NA
+2016,4994,欣隆建設股份有限公司,傳奇網路遊戲股份有限公司,NA,NA,0,0,0,0,1,上市,G4994,23823371,12975809,NA,NA,NA,NA

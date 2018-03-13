@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5285,界霖科技股份有限公司,SPEEDY INVESTMENT LIMITED,1,美國,1,1,0,0,0,上市,G5285,12636560,NA,NA,NA,NA,NA
+2016,5285,界霖科技股份有限公司,界立科技股份有限公司,1,台灣,1,1,0,0,0,上市,G5285,12636560,53589703,NA,NA,NA,NA
+2016,5285,璟茂科技股份有限公司,界霖科技股份有限公司,NA,NA,0,0,0,0,1,上市,G5285,16824557,12636560,NA,NA,NA,NA
+2016,5285,SPEEDY INVESTMENT LIMITED,濟南界龍科技有限公司,1,china,0,1,0,1,0,上市,G5285,NA,NA,NA,NA,NA,NA

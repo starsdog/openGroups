@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3141,晶宏半導體股份有限公司,"JPS Group Holdings, Ltd.",1,英屬維京群島,1,1,0,0,0,上櫃,G3141,70392248,NA,NA,NA,NA,NA
+2015,3141,"JPS Group Holdings, Ltd.",Ultrachip HK Limited,1,香港,0,1,0,0,0,上櫃,G3141,NA,NA,NA,NA,NA,NA
+2015,3141,"JPS Group Holdings, Ltd.",Ultrachip Inc.,1,美國,0,1,0,0,0,上櫃,G3141,NA,NA,NA,NA,NA,NA
+2015,3141,Ultrachip HK Limited,東莞晶宏半導體有限公司,1,china,0,1,0,1,0,上櫃,G3141,NA,NA,NA,NA,NA,NA
+2015,3141,元太科技工業股份有限公司,晶宏半導體股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3141,22099890,70392248,NA,NA,NA,NA
+2015,3141,中盈投資開發股份有限公司,晶宏半導體股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3141,96975508,70392248,NA,NA,NA,NA
+2015,3141,崇智國際投資股份有限公司,晶宏半導體股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3141,27768265,70392248,NA,NA,NA,NA
+2015,3141,"JPS Group Holdings, Ltd.",晶鴻微電子(上海)有限公司,1,china,0,1,0,1,0,上櫃,G3141,NA,NA,NA,NA,NA,NA
+2015,3141,晶宏半導體股份有限公司,超核感科技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3141,70392248,42834068,NA,NA,NA,NA

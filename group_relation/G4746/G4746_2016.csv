@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4746,台耀化學股份有限公司,EpioneInvestment Cayman Limited,1,開曼群島,1,1,0,0,0,上市,G4746,96922622,NA,NA,NA,NA,NA
+2016,4746,EpioneInvestment Cayman Limited,Epione Investment HK Limited,1,香港,0,1,0,0,0,上市,G4746,NA,NA,NA,NA,NA,NA
+2016,4746,Epione Investment HK Limited,上海意必昂實業有限公司,1,china,0,1,0,1,0,上市,G4746,NA,NA,NA,NA,NA,NA
+2016,4746,台耀化學股份有限公司,台昂生技股份有限公司,1,台灣,1,1,0,0,0,上市,G4746,96922622,42753157,NA,NA,NA,NA
+2016,4746,台耀化學股份有限公司,台新藥股份有限公司,1,台灣,1,1,0,0,0,上市,G4746,96922622,53273211,NA,NA,NA,NA
+2016,4746,源慶投資股份有限公司,台耀化學股份有限公司,NA,NA,0,0,0,0,1,上市,G4746,27324930,96922622,NA,NA,NA,NA
+2016,4746,歐加司塔投資股份有限公司,台耀化學股份有限公司,NA,NA,0,0,0,0,1,上市,G4746,29034417,96922622,NA,NA,NA,NA
+2016,4746,昇進國際股份有限公司,台耀化學股份有限公司,NA,NA,0,0,0,0,1,上市,G4746,80659343,96922622,NA,NA,NA,NA
+2016,4746,建宏投資顧問有限公司,台耀化學股份有限公司,NA,NA,0,0,0,0,1,上市,G4746,27365452,96922622,NA,NA,NA,NA
+2016,4746,摩洛加投資股份有限公司,台耀化學股份有限公司,NA,NA,0,0,0,0,1,上市,G4746,80203914,96922622,NA,NA,NA,NA
+2016,4746,胡弼華投資有限公司,台耀化學股份有限公司,NA,NA,0,0,0,0,1,上市,G4746,29037414,96922622,NA,NA,NA,NA
+2016,4746,台耀化學股份有限公司,安而奇股份有限公司,0.5,台灣,1,0,1,0,0,上市,G4746,96922622,53097334,NA,NA,NA,NA

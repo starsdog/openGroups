@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3609,東林科技股份有限公司,"CHUAN WEI ELECTRONICS CO., LTD.",0.6524,薩摩亞,1,1,0,0,0,上櫃,G3609,13073151,NA,NA,NA,NA,NA
+2016,3609,東武投資股份有限公司,"CHUAN WEI ELECTRONICS CO., LTD.",0.3476,薩摩亞,0,1,0,0,0,上櫃,G3609,28164030,NA,NA,NA,NA,NA
+2016,3609,"CHUAN WEI ELECTRONICS CO., LTD.",HEP GmbH,1,德國,0,1,0,0,0,上櫃,G3609,NA,NA,NA,NA,NA,NA
+2016,3609,東林科技股份有限公司,"HEP GROUP USA,Inc.",1,美國,1,0,1,0,0,上櫃,G3609,13073151,NA,NA,NA,NA,NA
+2016,3609,東林科技股份有限公司,HSIN WEI ELECTRONIC LTD.,0,薩摩亞,1,1,0,0,0,上櫃,G3609,13073151,NA,NA,NA,NA,NA
+2016,3609,"CHUAN WEI ELECTRONICS CO., LTD.",全威電子(無錫)有限公司,1,china,0,1,0,1,0,上櫃,G3609,NA,NA,NA,NA,NA,NA
+2016,3609,東林科技股份有限公司,東武投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3609,13073151,28164030,NA,NA,NA,NA
+2016,3609,"CHUAN WEI ELECTRONICS CO., LTD.",威森電子(珠海)有限公司,1,china,0,1,0,1,0,上櫃,G3609,NA,NA,NA,NA,NA,NA

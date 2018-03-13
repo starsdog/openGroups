@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,5505,"HOWARM GROUP CO., LTD.",DRAGON BLOOM LIMITED,1,開曼群島,0,1,0,0,0,公開發行,G5505,NA,NA,NA,NA,NA,NA
+2014,5505,和旺聯合實業股份有限公司,"HOWARM GROUP CO., LTD.",1,英屬維京群島,1,1,0,0,0,公開發行,G5505,22660841,NA,NA,NA,NA,NA
+2014,5505,"HOWARM GROUP CO., LTD.",HW GOLDEN ISLAND HOLDINGS LIMITED,1,馬里亞納群島,0,1,0,0,0,公開發行,G5505,NA,NA,NA,NA,NA,NA
+2014,5505,紅利投資股份有限公司,和旺聯合實業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G5505,24421712,22660841,NA,NA,NA,NA
+2014,5505,寶居事業股份有限公司,和旺聯合實業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G5505,28354144,22660841,NA,NA,NA,NA
+2014,5505,和旺聯合實業股份有限公司,真旺開發股份有限公司,1,台灣,1,1,0,0,0,公開發行,G5505,22660841,53342913,NA,NA,NA,NA
+2014,5505,和旺聯合實業股份有限公司,勝裕營造工程股份有限公司,1,台灣,1,1,0,0,0,公開發行,G5505,22660841,83733206,NA,NA,NA,NA

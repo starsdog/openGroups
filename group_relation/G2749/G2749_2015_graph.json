@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "台灣欣恆美股份有限公司", "no_holder": false, "taxcode": "53331916"}, {"is_core": false, "source": [{"holder": "0", "name": "台灣欣恆美股份有限公司"}], "name": "天億寶石股份有限公司", "no_holder": true, "taxcode": "54517854"}], "links": [{"target": 1, "holder": "0.000000", "source": 0}], "y": "2015"}

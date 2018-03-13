@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2115,英屬蓋曼群島商六暉控股股份有限公司,ALLPRO INTERNATIONAL CORP.,1,貝里斯,1,1,0,0,0,上市,G2115,53019176,NA,NA,NA,NA,NA
+2014,2115,英屬蓋曼群島商六暉控股股份有限公司,LU HAI (BVI) INDUSTRIAL CORP.,1,英屬維京群島,1,1,0,0,0,上市,G2115,53019176,NA,NA,NA,NA,NA
+2014,2115,英屬蓋曼群島商六暉控股股份有限公司,"MEGA POWER CO., LTD.",1,貝里斯,1,1,0,0,0,上市,G2115,53019176,NA,NA,NA,NA,NA
+2014,2115,英屬蓋曼群島商六暉控股股份有限公司,PT.LUHAI INDUSTRIAL,0.8,印尼,1,1,0,0,0,上市,G2115,53019176,NA,NA,NA,NA,NA
+2014,2115,六暉實業股份有限公司,PT.LUHAI INDUSTRIAL,0.2,印尼,0,1,0,0,0,上市,G2115,60301064,NA,NA,NA,NA,NA
+2014,2115,英屬蓋曼群島商六暉控股股份有限公司,"YUANHUI INTERNATIONAL CO., LTD.",1,模里西斯,1,1,0,0,0,上市,G2115,53019176,NA,NA,NA,NA,NA
+2014,2115,英屬蓋曼群島商六暉控股股份有限公司,六暉實業股份有限公司,1,台灣,1,1,0,0,0,上市,G2115,53019176,60301064,NA,NA,NA,NA
+2014,2115,"YUANHUI INTERNATIONAL CO., LTD.",六暉橡膠金屬工業(昆山)有限公司,1,china,0,1,0,0,0,上市,G2115,NA,NA,NA,NA,NA,NA
+2014,2115,"DAYLIGHT BUSINESS CO., LTD",英屬蓋曼群島商六暉控股股份有限公司,NA,NA,0,0,0,0,1,上市,G2115,NA,53019176,NA,NA,NA,NA
+2014,2115,GETJOINT BUSINESS CORPORATION,英屬蓋曼群島商六暉控股股份有限公司,NA,NA,0,0,0,0,1,上市,G2115,NA,53019176,NA,NA,NA,NA
+2014,2115,LU HAI (BVI) INDUSTRIAL CORP.,廈門廈暉橡膠金屬工業有限公司,0.5714,china,0,1,0,1,0,上市,G2115,NA,NA,NA,NA,NA,NA
+2014,2115,ALLPRO INTERNATIONAL CORP.,廈門廈暉橡膠金屬工業有限公司,0.4286,不明,0,1,0,0,0,上市,G2115,NA,NA,NA,NA,NA,NA

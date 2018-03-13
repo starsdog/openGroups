@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8011,台通光電股份有限公司,SING TUNG TECHNOLOGIES PTE. LTD.,0.97,新加坡,0,1,0,0,0,上市,G8011,12362365,NA,NA,NA,NA,NA
+2016,8011,鑫通資源股份有限公司,UNION METRO TRADING LTD.,1,英屬維京群島,0,1,0,0,0,上市,G8011,54729371,NA,NA,NA,NA,NA
+2016,8011,台通光電股份有限公司,千通光電事業有限公司(模里西斯),1,模里西斯,0,1,0,0,0,上市,G8011,12362365,NA,NA,NA,NA,NA
+2016,8011,新弟投資股份有限公司,台通光電股份有限公司,NA,NA,0,0,0,0,1,上市,G8011,16749410,12362365,NA,NA,NA,NA
+2016,8011,台通光電股份有限公司,台灣智慧光網股份有限公司,0.6443,台灣,0,1,0,0,0,上市,G8011,12362365,53729177,NA,NA,NA,NA
+2016,8011,千通光電事業有限公司(模里西斯),安徽通華光電有限公司,0.97,china,0,1,0,1,0,上市,G8011,NA,NA,NA,NA,NA,NA
+2016,8011,鑫通資源股份有限公司,宏通能源股份有限公司,0.7,台灣,0,1,0,0,0,上市,G8011,54729371,66331874,NA,NA,NA,NA
+2016,8011,安徽通華光電有限公司,來安縣台萬商貿有限公司,1,china,0,1,0,1,0,上市,G8011,NA,NA,NA,NA,NA,NA
+2016,8011,再投資大陸公司,新富生光電(深圳)有限公司,0.0929,china,0,0,0,1,0,上市,G8011,NA,NA,1,NA,NA,NA
+2016,8011,台通光電股份有限公司,瓊蓮股份有限公司,1,台灣,0,1,0,0,0,上市,G8011,12362365,22738720,NA,NA,NA,NA
+2016,8011,台通光電股份有限公司,鑫通資源股份有限公司,0.65,台灣,0,1,0,0,0,上市,G8011,12362365,54729371,NA,NA,NA,NA

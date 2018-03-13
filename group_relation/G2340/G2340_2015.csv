@@ -1,0 +1,42 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2340,興華電子工業股份有限公司,Bright Investment International Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G2340,04686545,NA,NA,NA,NA,NA
+2015,5315,光聯科技股份有限公司,"BRIGHT YEH, LTD.",1,不明,1,1,0,0,0,上櫃,G2340,22100405,NA,NA,NA,NA,NA
+2015,2340,Bright Investment International Ltd.,Everyung Investment Ltd.,1,薩摩亞,0,0,1,0,0,上市,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,"Opto Technology International Group Co.,Ltd.",Everyung Investment Ltd.,1,薩摩亞,0,0,1,0,0,上市,G2340,NA,NA,NA,NA,NA,NA
+2015,3624,光頡科技股份有限公司,"Fast Success Co., Ltd.",0,薩摩亞,0,1,0,0,0,上櫃,G2340,16130084,NA,NA,NA,NA,NA
+2015,5315,光聯科技股份有限公司,FIRSTHILL LIMITED,1,英屬維京群島,1,1,0,0,0,上櫃,G2340,22100405,NA,NA,NA,NA,NA
+2015,3624,"Viking Global Tech Co., Ltd.",Grand Barry International Limited,1,英屬維京群島,0,1,0,0,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,3624,"Viking Global Tech Co., Ltd.","Lead Brand Co., Ltd.",1,聖文森島,0,1,0,0,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,3624,"Fast Success Co., Ltd.","Nice Start Co., Ltd.",0,不明,0,1,0,0,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,"Opto Technology International Group Co.,Ltd.","Opto Grand (Cayman) Co.,Ltd.",1,開曼群島,0,0,1,0,0,上市,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,"Opto Technology International Group Co.,Ltd.","Opto Tech (Cayman) Co.,Ltd.",1,開曼群島,0,0,1,0,0,上市,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,光磊科技股份有限公司,"Opto Technology International Group Co.,Ltd.",1,開曼群島,0,0,1,0,0,上市,G2340,47255947,NA,NA,NA,NA,NA
+2015,2340,光磊科技股份有限公司,Source Ever Limited,1,英屬維京群島,0,1,0,0,0,上市,G2340,47255947,NA,NA,NA,NA,NA
+2015,5315,光聯科技股份有限公司,"UNITED RADIANT TECHNOLOGY (H.K.) CO., LTD.",1,香港,1,1,0,0,0,上櫃,G2340,22100405,NA,NA,NA,NA,NA
+2015,5315,FIRSTHILL LIMITED,"UNITED RADIANT, LTD.",1,不明,0,1,0,0,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,3624,光頡科技股份有限公司,"Viking Global Tech Co., Ltd.",1,英屬維京群島,0,1,0,0,0,上櫃,G2340,16130084,NA,NA,NA,NA,NA
+2015,3624,Grand Barry International Limited,Viking Tech America Corporation,0.76,美國,0,1,0,0,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,3624,"Viking Global Tech Co., Ltd.",Viking Tech Electronics Limited,1,香港,0,1,0,0,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,合眾投資股份有限公司,VML TECHNOLOGIES B.V.,1,荷蘭,0,0,1,0,0,上市,G2340,16441405,NA,NA,NA,NA,NA
+2015,2340,光磊科技股份有限公司,巨鑫投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2340,47255947,12763946,NA,NA,NA,NA
+2015,2340,"Opto Tech (Cayman) Co.,Ltd.",光普電子(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,"Opto Tech (Cayman) Co.,Ltd.",光磊科技(澳門)有限公司,1,澳門,0,0,1,0,0,上市,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,台灣日亞化學股份有限公司,光磊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2340,47297242,47255947,NA,NA,NA,NA
+2015,2340,巨晶科技有限公司,光磊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2340,84990907,47255947,NA,NA,NA,NA
+2015,2340,信越光電股份有限公司,光磊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2340,84149420,47255947,NA,NA,NA,NA
+2015,2340,美勝投資股份有限公司,光磊科技股份有限公司,NA,NA,0,0,0,0,1,上市,G2340,22658520,47255947,NA,NA,NA,NA
+2015,2340,巨鑫投資股份有限公司,光頡科技股份有限公司,1,台灣,0,0,1,0,0,上市,G2340,12763946,16130084,NA,NA,NA,NA
+2015,2340,光磊科技股份有限公司,光頡科技股份有限公司,1,台灣,0,0,1,0,0,上市,G2340,47255947,16130084,NA,NA,NA,NA
+2015,2340,合眾投資股份有限公司,光頡科技股份有限公司,1,台灣,0,0,1,0,0,上市,G2340,16441405,16130084,NA,NA,NA,NA
+2015,3624,泰銘實業股份有限公司,光頡科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2340,79875202,16130084,NA,NA,NA,NA
+2015,5315,"BRIGHT YEH, LTD.",光曄光電科技(惠州)有限公司,1,china,0,1,0,1,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,5315,合眾投資股份有限公司,光聯科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2340,16441405,22100405,NA,NA,NA,NA
+2015,5315,易百益投資有限公司,光聯科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2340,54777062,22100405,NA,NA,NA,NA
+2015,5315,勤敏投資股份有限公司,光聯科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2340,25189043,22100405,NA,NA,NA,NA
+2015,2340,光磊科技股份有限公司,合眾投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2340,47255947,16441405,NA,NA,NA,NA
+2015,2340,Everyung Investment Ltd.,紹興歐柏斯光電科技有限公司,1,china,0,1,0,1,0,上市,G2340,NA,NA,NA,NA,NA,NA
+2015,3624,Viking Tech Electronics Limited,無錫泰銘電子有限公司,1,不明,0,1,0,0,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,"Opto Grand (Cayman) Co.,Ltd.",寧波光磊半導體科技有限公司,0,china,0,1,0,1,0,上市,G2340,NA,NA,NA,NA,NA,NA
+2015,2340,巨鑫投資股份有限公司,興華電子工業股份有限公司,0.9987,台灣,0,1,0,0,0,上市,G2340,12763946,04686545,NA,NA,NA,NA
+2015,5315,FIRSTHILL LIMITED,聯瑋光電科技(蘇州)有限公司,1,模里西斯,0,0,1,0,0,上櫃,G2340,NA,NA,NA,NA,NA,NA
+2015,5315,"UNITED RADIANT, LTD.",聯瑋光電科技(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G2340,NA,NA,NA,NA,NA,NA

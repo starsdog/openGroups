@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4130,健亞生物科技股份有限公司,"Genovate Biotechnology (Cayman) Co., Ltd.",1,開曼群島,1,1,0,0,0,上櫃,G4130,84149006,NA,NA,NA,NA,NA
+2016,4130,健亞生物科技股份有限公司,健如醫藥股份有限公司,1,台灣,1,1,0,0,0,上櫃,G4130,84149006,54162327,NA,NA,NA,NA
+2016,4130,"
+臺灣華懋投資股份有限公司",健亞生物科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4130,89283298,84149006,NA,NA,NA,NA
+2016,4130,行政院國家發展基金管理會,健亞生物科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4130,NA,84149006,NA,NA,NA,NA
+2016,4130,"Genovate Biotechnology (Cayman) Co., Ltd.",培力(南寧)藥業有限公司,0.01,china,0,0,0,1,0,上櫃,G4130,NA,NA,NA,NA,NA,NA

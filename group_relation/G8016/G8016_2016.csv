@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8016,矽創電子股份有限公司,Sitronix Technology (Belize) Corp.,1,貝里斯,1,1,0,0,0,上市,G8016,86735240,NA,NA,NA,NA,NA
+2016,8016,Sitronix Technology (Belize) Corp.,Sitronix Technology (Mauritius) Corp.,1,模里西斯,0,1,0,0,0,上市,G8016,NA,NA,NA,NA,NA,NA
+2016,8016,矽創電子股份有限公司,力領科技股份有限公司,0.68,台灣,1,1,0,0,0,上市,G8016,86735240,25086406,NA,NA,NA,NA
+2016,8016,矽創投資股份有限公司,力領科技股份有限公司,0,台灣,0,1,0,0,0,上市,G8016,54105179,25086406,NA,NA,NA,NA
+2016,8016,矽創電子股份有限公司,昇佳電子股份有限公司,0.61,台灣,1,1,0,0,0,上市,G8016,86735240,25079572,NA,NA,NA,NA
+2016,8016,矽創投資股份有限公司,昇佳電子股份有限公司,0,台灣,0,1,0,0,0,上市,G8016,54105179,25079572,NA,NA,NA,NA
+2016,8016,矽創電子股份有限公司,矽創投資股份有限公司,1,台灣,1,1,0,0,0,上市,G8016,86735240,54105179,NA,NA,NA,NA
+2016,8016,Sitronix Technology (Mauritius) Corp.,矽創科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G8016,NA,NA,NA,NA,NA,NA
+2016,8016,廣穎電通股份有限公司,矽創電子股份有限公司,NA,NA,0,0,0,0,1,上市,G8016,80161908,86735240,NA,NA,NA,NA
+2016,8016,矽創電子股份有限公司,鈊創電子股份有限公司,0.87,台灣,1,1,0,0,0,上市,G8016,86735240,25081367,NA,NA,NA,NA
+2016,8016,矽創電子股份有限公司,新特系統股份有限公司,0.6,台灣,1,1,0,0,0,上市,G8016,86735240,54782327,NA,NA,NA,NA
+2016,8016,矽創電子股份有限公司,極創電子股份有限公司,0.46,台灣,1,1,0,0,0,上市,G8016,86735240,25080085,NA,NA,NA,NA
+2016,8016,矽創投資股份有限公司,極創電子股份有限公司,0,台灣,0,1,0,0,0,上市,G8016,54105179,25080085,NA,NA,NA,NA

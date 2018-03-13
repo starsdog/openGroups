@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3555,兆隆投資股份有限公司,䳯鵬億極股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3555,23362362,80551862,NA,NA,NA,NA
+2016,3555,億生投資有限公司,䳯鵬億極股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3555,27540418,80551862,NA,NA,NA,NA
+2016,3555,䳯鵬億極股份有限公司,天行生技有限公司,1,香港,0,1,0,0,0,上櫃,G3555,80551862,NA,NA,NA,NA,NA
+2016,3555,䳯鵬億極股份有限公司,擎展科技股份有限公司,0.3128,台灣,0,0,1,0,0,上櫃,G3555,80551862,25022059,NA,NA,NA,NA

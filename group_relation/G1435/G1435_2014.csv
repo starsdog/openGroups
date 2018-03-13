@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1435,中福整合行銷有限公司,中福國際股份有限公司,NA,NA,0,0,0,0,1,上市,G1435,28783861,03101946,NA,NA,NA,NA
+2014,1435,中福國際股份有限公司,洛陽中合祥水泥有限公司,0.16,china,0,0,0,1,0,上市,G1435,NA,NA,NA,NA,NA,NA
+2014,1435,中福國際股份有限公司,福興投資股份有限公司,0.999,台灣,1,1,0,0,0,上市,G1435,03101946,23360218,NA,NA,NA,NA

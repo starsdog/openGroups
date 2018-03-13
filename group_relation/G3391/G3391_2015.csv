@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3391,佳得股份有限公司,Pacific Bay Group L.L.C.,1,美國,1,1,0,0,0,興櫃,G3391,23861037,NA,NA,NA,NA,NA
+2015,3391,佳得股份有限公司,Remotek Corporation (PTY) LTD.,0,南非,1,1,0,0,0,興櫃,G3391,23861037,NA,NA,NA,NA,NA
+2015,3391,佳得股份有限公司,Remotek Engineering Sdn. Bhd.,1,馬來西亞,1,0,1,0,0,興櫃,G3391,23861037,NA,NA,NA,NA,NA
+2015,3391,佳得股份有限公司,"Remotek Myanmar CO., LTD.",1,緬甸,1,1,0,0,0,興櫃,G3391,23861037,NA,NA,NA,NA,NA
+2015,3391,Pacific Bay Group L.L.C.,佳律通信設備(上海)有限公司,1,china,0,1,0,1,0,興櫃,G3391,NA,NA,NA,NA,NA,NA
+2015,3391,上金投資股份有限公司,佳得股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3391,12832606,23861037,NA,NA,NA,NA
+2015,3391,歐普羅科技股份有限公司,佳得股份有限公司,NA,NA,0,0,0,0,1,興櫃,G3391,84626464,23861037,NA,NA,NA,NA
+2015,3391,佳得股份有限公司,明偉投資有限公司,1,台灣,1,1,0,0,0,興櫃,G3391,23861037,54854551,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "鑽全實業股份有限公司", "no_holder": false, "taxcode": "NA"}, {"is_core": false, "source": [{"holder": "0", "name": "鑽全實業股份有限公司"}], "name": "Yokata Tool, Inc.", "no_holder": true, "taxcode": "NA"}], "links": [{"target": 1, "holder": "0.000000", "source": 0}], "y": "2013"}

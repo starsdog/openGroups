@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8091,翔名科技股份有限公司,Soaring Converge公司,1,塞席爾,1,0,1,0,0,上櫃,G8091,86436593,NA,NA,NA,NA,NA
+2016,8091,翔名科技股份有限公司,上海翔名慶國際貿易有限公司,0.9,china,1,1,0,1,0,上櫃,G8091,86436593,NA,NA,NA,NA,NA
+2016,8091,翔名科技股份有限公司,立達特股份有限公司,0.95,台灣,1,1,0,0,0,上櫃,G8091,86436593,80559251,NA,NA,NA,NA
+2016,8091,鴻予科技管理股份有限公司,翔名科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8091,12839426,86436593,NA,NA,NA,NA
+2016,8091,寶虹科技股份有限公司,慶柏科技股份有限公司,0,台灣,0,1,0,0,0,上櫃,G8091,28140684,28641940,NA,NA,NA,NA
+2016,8091,翔名科技股份有限公司,寶虹科技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G8091,86436593,28140684,NA,NA,NA,NA

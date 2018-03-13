@@ -1,0 +1,94 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2601,First Steamship S.A.,Ahead Capital Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Alliance Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Best Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Black Sea Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Mariner Holding Ltd.,First Mariner Capital Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,益航股份有限公司,First Mariner Holding Ltd.,1,英屬維京群島,1,0,1,0,0,上市,G2601,03353007,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,First Navigation S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,First Steamship Germany GmbH,0,德國,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,益航股份有限公司,First Steamship S.A.,1,巴拿馬,1,0,1,0,0,上市,G2601,03353007,NA,NA,NA,NA,NA
+2016,5907,Grand Ocean Retail Group Ltd.,GRAND CITI LTD.,1,香港,1,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,Ahead Capital Ltd.,Grand Ocean Retail Group Ltd.,0.0191,開曼群島,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Grand Ocean Retail Group Ltd.,0.5007,開曼群島,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,MERIT DAY LIMITED,Grand Ocean Retail Group Ltd.,NA,NA,0,0,0,0,1,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,益航股份有限公司,Grand Ocean Retail Group Ltd.,0.0395,開曼群島,1,0,1,0,0,上市,G2601,03353007,NA,NA,NA,NA,NA
+2016,2601,益鑫投資股份有限公司,Grand Ocean Retail Group Ltd.,0.0181,開曼群島,0,0,1,0,0,上市,G2601,97291715,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Grand Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Heritage Riches Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,Grand Ocean Retail Group Ltd.,Heritage Riches Ltd.,0,英屬維京群島,1,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Leading Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Longevity Navigation S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Media Assets Global Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Nature Sources Ltd.,1,香港,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,New Urban Investments Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Praise Maritime S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Reliance Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Shining Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Ship Bulker Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Steamship S.A.,Sure Success Steamship S.A.,1,巴拿馬,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,上海友信汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,GRAND CITI LTD.,大洋百貨集團有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,中山友成租賃有限公司,1,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Mariner Holding Ltd.,友成融資租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,Nature Sources Ltd.,北京首海國際經濟技術諮詢服務有限公司,0.4,china,0,0,0,1,0,上市,G2601,NA,NA,8,NA,NA,NA
+2016,2601,益航股份有限公司,台境企業股份有限公司,0.0933,台灣,1,0,1,0,0,上市,G2601,03353007,80369745,NA,NA,NA,NA
+2016,2601,益鑫投資股份有限公司,台境企業股份有限公司,0.0168,台灣,0,0,1,0,0,上市,G2601,97291715,80369745,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,合肥友信汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,成都友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,南京大洋百貨有限公司,西安大洋百貨有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,西安友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢光谷大洋百貨有限公司,宜昌大洋百貨有限公司,0.99,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢龍陽大洋百貨有限公司,宜昌大洋百貨有限公司,0.01,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,東莞友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,泉州大洋百貨有限公司,武漢中山大洋百貨有限公司,0.3,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,福州中城大洋百貨有限公司,武漢中山大洋百貨有限公司,0.7,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,武漢友信汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢中山大洋百貨有限公司,武漢光谷大洋百貨有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢中山大洋百貨有限公司,武漢龍陽大洋百貨有限公司,0.5,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢光谷大洋百貨有限公司,武漢龍陽大洋百貨有限公司,0.5,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,金華友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,長沙友利汽車服務有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,青島友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,南京大洋百貨有限公司,南京大洋百貨合肥有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,大洋百貨集團有限公司,南京大洋百貨有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,南京友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,南通友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,大洋百貨集團有限公司,泉州大洋百貨有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,重慶友仁汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢中山大洋百貨有限公司,重慶光谷大洋百貨有限公司,0.5,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢光谷大洋百貨有限公司,重慶光谷大洋百貨有限公司,0.5,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,徐州友鴻汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,株洲友成租賃有限公司,1,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,迅東投資股份有限公司,益航股份有限公司,NA,NA,0,0,0,0,1,上市,G2601,84448118,03353007,NA,NA,NA,NA
+2016,2601,來捷投資股份有限公司,益航股份有限公司,NA,NA,0,0,0,0,1,上市,G2601,28855724,03353007,NA,NA,NA,NA
+2016,2601,旺誠投資股份有限公司,益航股份有限公司,NA,NA,0,0,0,0,1,上市,G2601,28855581,03353007,NA,NA,NA,NA
+2016,2601,恆華投資股份有限公司,益航股份有限公司,NA,NA,0,0,0,0,1,上市,G2601,12966294,03353007,NA,NA,NA,NA
+2016,2601,益航股份有限公司,益陽股份有限公司,1,台灣,1,1,0,0,0,上市,G2601,03353007,16170374,NA,NA,NA,NA
+2016,2601,益航股份有限公司,益鑫投資股份有限公司,1,台灣,1,1,0,0,0,上市,G2601,03353007,97291715,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,宿遷友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,淮安友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,泉州大洋百貨有限公司,莆田大洋百貨有限公司,0,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,連雲港友仁汽車服務有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢中山大洋百貨有限公司,湘潭大洋百貨有限公司,0.5,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢光谷大洋百貨有限公司,湘潭大洋百貨有限公司,0.5,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,廈門友鴻汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Mariner Capital Ltd.,萬基財務有限公司,1,香港,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,First Mariner Capital Ltd.,萬基證券有限公司,1,香港,0,0,1,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,寧波友仁汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,福州大洋百貨有限公司,福州大洋天地百貨有限公司,0.5,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,福州中城大洋百貨有限公司,福州大洋天地百貨有限公司,0.5,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,福州中城大洋百貨有限公司,福州大洋百貨有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,大洋百貨集團有限公司,福州中城大洋百貨有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,福州友利汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,南京大洋百貨有限公司,銅陵大洋百貨有限公司,0,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,廣州友強汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,武漢中山大洋百貨有限公司,衡陽大洋百貨有限公司,0.01,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,湘潭大洋百貨有限公司,衡陽大洋百貨有限公司,0.99,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,濟南友利汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,濰坊友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,益航股份有限公司,薪昇暘開發股份有限公司,0.55,台灣,1,1,0,0,0,上市,G2601,03353007,42643547,NA,NA,NA,NA
+2016,5907,大洋百貨集團有限公司,蘇州大洋百貨有限公司,0.8667,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,5907,南京大洋百貨有限公司,蘇州大洋百貨有限公司,0.0666,china,0,1,0,0,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,蘇州友成汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA
+2016,2601,友成融資租賃有限公司,鹽城友信汽車租賃有限公司,1,china,0,1,0,1,0,上市,G2601,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3264,欣銓科技股份有限公司,"Ardentec Korea Co., Ltd.",1,南韓,0,1,0,0,0,上櫃,G3264,70751779,NA,NA,NA,NA,NA
+2013,3264,欣銓科技股份有限公司,Ardentec Singapore Pte. Ltd.,1,新加坡,0,1,0,0,0,上櫃,G3264,70751779,NA,NA,NA,NA,NA
+2013,3264,欣銓科技股份有限公司,"Valucom Investment, Inc.",1,英屬維京群島,0,1,0,0,0,上櫃,G3264,70751779,NA,NA,NA,NA,NA
+2013,3264,欣銓科技股份有限公司,"Valutek, Inc.",1,英屬維京群島,0,1,0,0,0,上櫃,G3264,70751779,NA,NA,NA,NA,NA
+2013,3264,再投資大陸公司,杰群電子科技(東莞)有限公司,0.0661,china,0,0,0,1,0,上櫃,G3264,NA,NA,8,NA,NA,NA
+2013,3264,旺宏電子股份有限公司,欣銓科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3264,22099548,70751779,NA,NA,NA,1
+2013,3264,珒聿投資股份有限公司,欣銓科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3264,89616958,70751779,NA,NA,NA,NA
+2013,3264,盛唐投資有限公司,欣銓科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3264,70550338,70751779,NA,NA,NA,NA
+2013,3264,兆豐國際商業銀行股份有限公司,欣銓科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3264,03705903,70751779,NA,NA,NA,1
+2013,3264,久疆投資股份有限公司,欣銓科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3264,84445885,70751779,NA,NA,NA,NA
+2013,3264,欣銓科技股份有限公司,盛唐投資有限公司,1,台灣,0,1,0,0,0,上櫃,G3264,70751779,70550338,NA,NA,NA,NA

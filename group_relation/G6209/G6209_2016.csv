@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6209,今國光學工業股份有限公司,互商光學工業股份有限公司,1,薩摩亞,1,1,0,0,0,上市,G6209,56654500,NA,NA,NA,NA,NA
+2016,6209,今國光學工業股份有限公司,今偉光學工業股份有限公司,1,薩摩亞,1,1,0,0,0,上市,G6209,56654500,NA,NA,NA,NA,NA
+2016,6209,今國光學工業股份有限公司,今基投資股份有限公司,1,台灣,1,1,0,0,0,上市,G6209,56654500,28924449,NA,NA,NA,NA
+2016,6209,今國光學工業股份有限公司,今晶光學科技股份有限公司,0.4,薩摩亞,1,1,0,0,0,上市,G6209,56654500,NA,NA,NA,NA,NA
+2016,6209,今基投資股份有限公司,今晶光學科技股份有限公司,0.15,薩摩亞,0,1,0,0,0,上市,G6209,28924449,NA,NA,NA,NA,NA
+2016,6209,今晶光學科技股份有限公司,今華公司,1,china,0,1,0,0,0,上市,G6209,NA,NA,NA,NA,NA,NA
+2016,6209,今國光學工業股份有限公司,正國光學香港有限公司,1,香港,1,1,0,0,0,上市,G6209,56654500,NA,NA,NA,NA,NA
+2016,6209,正國光學香港有限公司,佛山華國公司,1,china,0,1,0,1,0,上市,G6209,NA,NA,NA,NA,NA,NA
+2016,6209,今國光學工業股份有限公司,新加坡華國光學器材有限公司,0.8,新加坡,1,1,0,0,0,上市,G6209,56654500,NA,NA,NA,NA,NA

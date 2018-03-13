@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3531,"Shian Yih (Samoa) Electronic Industry Co., Ltd.",Fair Some (Samoa) Industrial Ltd.,1,薩摩亞,0,1,0,0,0,上櫃,G3531,NA,NA,NA,NA,NA,NA
+2016,3531,先益電子工業股份有限公司,"Shian Yih (Samoa) Electronic Industry Co., Ltd.",1,薩摩亞,1,1,0,0,0,上櫃,G3531,52543363,NA,NA,NA,NA,NA
+2016,3531,"Shian Yih (Samoa) Electronic Industry Co., Ltd.",Wise Development Group Ltd.,1,薩摩亞,0,1,0,0,0,上櫃,G3531,NA,NA,NA,NA,NA,NA
+2016,3531,成宇投資有限公司,先益電子工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3531,28963287,52543363,NA,NA,NA,NA
+2016,3531,CORPORATE POWER INVESTMENTS LTD,先益電子工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3531,NA,52543363,NA,NA,NA,NA
+2016,3531,SKY GLORY DEVELOPMENTS LIMITED,先益電子工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3531,NA,52543363,NA,NA,NA,NA
+2016,3531,Wise Development Group Ltd.,東莞可盛光電有限公司,1,china,0,1,0,1,0,上櫃,G3531,NA,NA,NA,NA,NA,NA
+2016,3531,Fair Some (Samoa) Industrial Ltd.,東莞先益電子有限公司,1,china,0,1,0,1,0,上櫃,G3531,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,1593,祺驊股份有限公司,MANTEK (SAMOA) LIMITED,1,薩摩亞,1,0,1,0,0,上櫃,G1593,97432341,NA,NA,NA,NA,NA
+2013,1593,MANTEK (SAMOA) LIMITED,"RIGHTOP CO., LTD.",1,汶萊,0,0,1,0,0,上櫃,G1593,NA,NA,NA,NA,NA,NA
+2013,1593,祺驊股份有限公司,"VISTA CO., LTD.",1,汶萊,1,0,1,0,0,上櫃,G1593,97432341,NA,NA,NA,NA,NA
+2013,1593,祺驊股份有限公司,WATEK (SAMOA) LIMITED,1,薩摩亞,1,0,1,0,0,上櫃,G1593,97432341,NA,NA,NA,NA,NA
+2013,1593,"VISTA CO., LTD.",上海祺電電子科技有限公司,1,china,0,1,0,1,0,上櫃,G1593,NA,NA,NA,NA,NA,NA
+2013,1593,WATEK (SAMOA) LIMITED,上海誼驊運動器材有限公司,1,china,0,1,0,1,0,上櫃,G1593,NA,NA,NA,NA,NA,NA
+2013,1593,祺驊股份有限公司,京倉股份有限公司,0.212,台灣,1,0,1,0,0,上櫃,G1593,97432341,28720986,NA,NA,NA,NA
+2013,1593,"RIGHTOP CO., LTD.",政輝(越南)責任有限公司,1,越南,0,1,0,0,0,上櫃,G1593,NA,NA,NA,NA,NA,NA
+2013,1593,祺驊股份有限公司,創鴻開發科技股份有限公司,0.32,台灣,1,0,1,0,0,上櫃,G1593,97432341,28775216,NA,NA,NA,NA
+2013,1593,MANTEK (SAMOA) LIMITED,祺驊(越南)責任有限公司,1,越南,0,0,1,0,0,上櫃,G1593,NA,NA,NA,NA,NA,NA
+2013,1593,碩昌投資股份有限公司,祺驊股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1593,29064565,97432341,NA,NA,NA,NA
+2013,1593,祺驊股份有限公司,維特馬達股份有限公司,0.6,台灣,0,1,0,0,0,上櫃,G1593,97432341,80609180,NA,NA,NA,NA
+2013,1593,祺驊股份有限公司,臺灣輔康醫療器材股份有限公司,0.51,台灣,0,1,0,0,0,上櫃,G1593,97432341,53161145,NA,NA,NA,NA

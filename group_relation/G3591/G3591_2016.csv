@@ -1,0 +1,24 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3591,Best Opto Corporation,Best Led Corporation,1,薩摩亞,0,1,0,0,0,上市,G3591,NA,NA,NA,NA,NA,NA
+2016,3591,艾笛森光電股份有限公司,Best Opto Corporation,1,薩摩亞,1,1,0,0,0,上市,G3591,12907747,NA,NA,NA,NA,NA
+2016,3591,"Smart LED Holdings Co., Ltd.","China Bond Holdings Co., Ltd.",1,薩摩亞,0,0,1,0,0,上市,G3591,NA,NA,NA,NA,NA,NA
+2016,3591,艾笛森光電股份有限公司,Edison Opto Corporation,1,薩摩亞,1,1,0,0,0,上市,G3591,12907747,NA,NA,NA,NA,NA
+2016,3591,艾發投資股份有限公司,Edison Opto Europe GmbH,1,德國,0,1,0,0,0,上市,G3591,53225035,NA,NA,NA,NA,NA
+2016,3591,艾發投資股份有限公司,Edison Opto USA Corporation,0.55,美國,0,1,0,0,0,上市,G3591,53225035,NA,NA,NA,NA,NA
+2016,3591,艾笛森光電股份有限公司,Edison-Litek Opto Corporation Limited,0.6197,香港,1,0,1,0,0,上市,G3591,12907747,NA,NA,NA,NA,NA
+2016,3591,雷笛揚照明股份有限公司,"Led Plus Co., Ltd.",1,不明,0,1,0,0,0,上市,G3591,29106615,NA,NA,NA,NA,NA
+2016,3591,雷笛揚照明股份有限公司,Led Plus Limited,1,薩摩亞,0,0,1,0,0,上市,G3591,29106615,NA,NA,NA,NA,NA
+2016,3591,艾笛森光電股份有限公司,Ledison Opto Corporation,1,薩摩亞,1,1,0,0,0,上市,G3591,12907747,NA,NA,NA,NA,NA
+2016,3591,琉明斯光電科技股份有限公司,"Smart LED Holdings Co., Ltd.",1,英屬維京群島,0,0,1,0,0,上市,G3591,28902276,NA,NA,NA,NA,NA
+2016,3591,久元電子股份有限公司,艾笛森光電股份有限公司,NA,NA,0,0,0,0,1,上市,G3591,86244737,12907747,NA,NA,NA,NA
+2016,3591,緯鑫投資有限公司,艾笛森光電股份有限公司,NA,NA,0,0,0,0,1,上市,G3591,27352668,12907747,NA,NA,NA,NA
+2016,3591,鉅基投資開發股份有限公司,艾笛森光電股份有限公司,NA,NA,0,0,0,0,1,上市,G3591,16601253,12907747,NA,NA,NA,NA
+2016,3591,艾笛森光電股份有限公司,艾發投資股份有限公司,1,台灣,1,1,0,0,0,上市,G3591,12907747,53225035,NA,NA,NA,NA
+2016,3591,Ledison Opto Corporation,東莞艾笛森光電有限公司,1,china,0,1,0,1,0,上市,G3591,NA,NA,NA,NA,NA,NA
+2016,3591,"Led Plus Co., Ltd.",東莞達文西光電有限公司,1,china,0,1,0,1,0,上市,G3591,NA,NA,NA,NA,NA,NA
+2016,3591,艾發投資股份有限公司,琉明斯光電科技股份有限公司,0.9206,台灣,0,1,0,0,0,上市,G3591,53225035,28902276,NA,NA,NA,NA
+2016,3591,Edison-Litek Opto Corporation Limited,揚州艾特光電有限公司,1,china,0,1,0,1,0,上市,G3591,NA,NA,NA,NA,NA,NA
+2016,3591,Best Led Corporation,揚州艾笛森光電有限公司,1,china,0,1,0,1,0,上市,G3591,NA,NA,NA,NA,NA,NA
+2016,3591,Best Opto Corporation,揚州雷笛森貿易有限公司,1,china,0,1,0,1,0,上市,G3591,NA,NA,NA,NA,NA,NA
+2016,3591,艾發投資股份有限公司,達文西光電股份有限公司,1,台灣,0,1,0,0,0,上市,G3591,53225035,54864116,NA,NA,NA,NA
+2016,3591,艾發投資股份有限公司,雷笛揚照明股份有限公司,0.6034,台灣,0,1,0,0,0,上市,G3591,53225035,29106615,NA,NA,NA,NA

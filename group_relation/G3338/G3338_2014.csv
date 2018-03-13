@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3338,泰碩電子股份有限公司,"TaiSol Electronics Japan Co., Ltd.",1,日本,1,1,0,0,0,上市,G3338,NA,NA,NA,NA,NA,NA
+2014,3338,泰碩電子股份有限公司,Techmaster Limited,1,薩摩亞,1,1,0,0,0,上市,G3338,NA,NA,NA,NA,NA,NA
+2014,3338,泰碩電子股份有限公司,世窗電子(香港)有限公司,1,香港,1,1,0,0,0,上市,G3338,NA,NA,NA,NA,NA,NA
+2014,3338,世窗電子(香港)有限公司,東莞泰碩電子有限公司,1,china,0,1,0,1,0,上市,G3338,NA,NA,NA,NA,NA,NA
+2014,3338,泰碩電子股份有限公司,泰碩電子(香港)有限公司,1,香港,1,1,0,0,0,上市,G3338,NA,NA,NA,NA,NA,NA
+2014,3338,泰碩電子(香港)有限公司,蘇州泰碩電子有限公司,1,china,0,1,0,1,0,上市,G3338,NA,NA,NA,NA,NA,NA
+2014,3338,再投資大陸公司,蘇州笠谷精密機電有限公司,0.49,china,0,0,0,1,0,上市,G3338,NA,NA,1,NA,NA,NA

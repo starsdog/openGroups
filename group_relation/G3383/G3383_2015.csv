@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3383,新世紀光電股份有限公司,GeneLite Inc.,0.4978,日本,0,0,1,0,0,上市,G3383,12979925,NA,NA,NA,NA,NA
+2015,3383,Genesis Energy Intelligence(Cayman) Limited,Genesis Energy Intelligence Limited,1,香港,0,1,0,0,0,上市,G3383,NA,NA,NA,NA,NA,NA
+2015,3383,新世紀光電股份有限公司,Genesis Energy Intelligence(Cayman) Limited,1,開曼群島,1,1,0,0,0,上市,G3383,12979925,NA,NA,NA,NA,NA
+2015,3383,英城控股有限公司,GPI Group H.K. Limited,1,香港,0,0,1,0,0,上市,G3383,NA,NA,NA,NA,NA,NA
+2015,3383,英城控股有限公司,東莞晶銳光電科技有限公司,1,china,0,1,0,1,0,上市,G3383,NA,NA,NA,NA,NA,NA
+2015,3383,新世紀光電股份有限公司,英城控股有限公司,1,薩摩亞,1,1,0,0,0,上市,G3383,12979925,NA,NA,NA,NA,NA
+2015,3383,Genesis Energy Intelligence Limited,捷能希斯光電(昆山)有限公司,1,china,0,1,0,1,0,上市,G3383,NA,NA,NA,NA,NA,NA
+2015,3383,GPI Group H.K. Limited,新世紀光電(昆山)有限公司,0.49,china,0,1,0,1,0,上市,G3383,NA,NA,NA,NA,NA,NA
+2015,3383,全盛和投資股份有限公司,新世紀光電股份有限公司,NA,NA,0,0,0,0,1,上市,G3383,28195770,12979925,NA,NA,NA,NA
+2015,3383,群光電子股份有限公司,新世紀光電股份有限公司,NA,NA,0,0,0,0,1,上市,G3383,20954200,12979925,NA,NA,NA,NA
+2015,3383,凱欣投資股份有限公司,新世紀光電股份有限公司,NA,NA,0,0,0,0,1,上市,G3383,28336322,12979925,NA,NA,NA,NA
+2015,3383,新世紀光電股份有限公司,顯明電子股份有限公司,0.4843,台灣,1,1,0,0,0,上市,G3383,12979925,84429528,NA,NA,NA,NA

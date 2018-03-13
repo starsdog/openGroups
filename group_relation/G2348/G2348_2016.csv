@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2348,海峽建設股份有限公司,悅大建設股份有限公司,0.55,台灣,0,1,0,0,0,上市,G2348,54330226,54341080,NA,NA,NA,NA
+2016,2348,海悅國際開發股份有限公司,海峽建設股份有限公司,1,台灣,1,1,0,0,0,上市,G2348,22624873,54330226,NA,NA,NA,NA
+2016,2348,海悅國際開發股份有限公司,海悅建設股份有限公司,0.9999,台灣,1,1,0,0,0,上市,G2348,22624873,54327524,NA,NA,NA,NA
+2016,2348,富悅投資股份有限公司,海悅國際開發股份有限公司,NA,NA,0,0,0,0,1,上市,G2348,16298864,22624873,NA,NA,NA,NA
+2016,2348,聖倫投資股份有限公司,海悅國際開發股份有限公司,NA,NA,0,0,0,0,1,上市,G2348,28486877,22624873,NA,NA,NA,NA
+2016,2348,仁典投資股份有限公司,海悅國際開發股份有限公司,NA,NA,0,0,0,0,1,上市,G2348,28672112,22624873,NA,NA,NA,NA
+2016,2348,海悅國際開發股份有限公司,端泰股份有限公司,0.3,台灣,1,0,1,0,0,上市,G2348,22624873,28838303,NA,NA,NA,NA

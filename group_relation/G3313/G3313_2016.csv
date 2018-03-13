@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3313,斐成企業股份有限公司,"Perfect Bass Co., Ltd.",1,模里西斯,1,1,0,0,0,上櫃,G3313,84341994,NA,NA,NA,NA,NA
+2016,3313,斐成企業股份有限公司,力士科技股份有限公司,0.1825,台灣,1,0,1,0,0,上櫃,G3313,84341994,28733011,NA,NA,NA,NA
+2016,3313,斐成企業股份有限公司,松木高分子科技股份有限公司,0.7921,台灣,1,1,0,0,0,上櫃,G3313,84341994,28285631,NA,NA,NA,NA
+2016,3313,斐成企業股份有限公司,松木精密陶瓷株式會社,1,日本,1,1,0,0,0,上櫃,G3313,84341994,NA,NA,NA,NA,NA
+2016,3313,松木高分子科技股份有限公司,紘鼎(香港)科技有限公司,0,香港,0,1,0,0,0,上櫃,G3313,28285631,NA,NA,NA,NA,NA
+2016,3313,"Perfect Bass Co., Ltd.",斐成(上海)貿易有限公司,1,china,0,1,0,1,0,上櫃,G3313,NA,NA,NA,NA,NA,NA
+2016,3313,豐農投資股份有限公司,斐成企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3313,45139845,84341994,NA,NA,NA,NA
+2016,3313,璽富投資股份有限公司,斐成企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3313,42803987,84341994,NA,NA,NA,NA
+2016,3313,麒富投資股份有限公司,斐成企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3313,45138389,84341994,NA,NA,NA,NA

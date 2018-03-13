@@ -1,0 +1,40 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,9921,巨大機械工業股份有限公司,Darzins Holdings Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G9921,56054251,NA,NA,NA,NA,NA
+2016,9921,Darzins Holdings Ltd.,Dolfor Profits Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,Gaiwin B.V.,1,荷蘭,1,1,0,0,0,上市,G9921,56054251,NA,NA,NA,NA,NA
+2016,9921,Giant Europe B.V.,Giant Benelux B.V.,1,荷蘭,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Gaiwin B.V.,Giant Bicycle Canada Inc.,1,加拿大,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Gaiwin B.V.,Giant Bicycle Company Pty. Ltd.,1,澳大利亞,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Gaiwin B.V.,Giant Bicycle Inc.,1,美國,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,Giant Bicycle Mexico S. de R.L. de C.V.,0.01,墨西哥,1,1,0,0,0,上市,G9921,56054251,NA,NA,NA,NA,NA
+2016,9921,Gaiwin B.V.,Giant Bicycle Mexico S. de R.L. de C.V.,0.99,墨西哥,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Gaiwin B.V.,"Giant Co., Ltd.",1,日本,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Giant Europe B.V.,Giant Deutschland GmbH,1,德國,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Gaiwin B.V.,Giant Europe B.V.,1,荷蘭,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Giant Europe B.V.,Giant Europe Manufacturing B.V.,1,荷蘭,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Giant Europe B.V.,Giant Italy S.R.L,1,義大利,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Gaiwin B.V.,"Giant Korea Co., Ltd.",1,南韓,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Giant Europe B.V.,Giant Polska Sp. ZO.O.,0.8,波蘭,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Giant Europe B.V.,Giant S.A.R.L.,1,法國,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Giant Europe B.V.,Giant U.K. Ltd.,1,英國,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,Growood Investment Ltd.,1,新加坡,1,1,0,0,0,上市,G9921,56054251,NA,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,Merdeka International Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G9921,56054251,NA,NA,NA,NA,NA
+2016,9921,元新投資股份有限公司,巨大機械工業股份有限公司,NA,NA,0,0,0,0,1,上市,G9921,16400262,56054251,NA,NA,NA,NA
+2016,9921,巨瀚科技股份有限公司,巨翔金屬股份有限公司,0.7,台灣,0,1,0,0,0,上市,G9921,70719877,28641569,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,巨瀚科技股份有限公司,1,台灣,1,1,0,0,0,上市,G9921,56054251,70719877,NA,NA,NA,NA
+2016,9921,捷安特(中國)有限公司,江蘇捷安特旅行社有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Darzins Holdings Ltd.,昆山捷安特輕合金科技有限公司,0.43,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Dolfor Profits Ltd.,昆山捷安特輕合金科技有限公司,0.57,不明,0,1,0,0,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,捷安特昆山有限公司,泉州微笑自行車有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Growood Investment Ltd.,捷安特(中國)有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Growood Investment Ltd.,捷安特(天津)有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Merdeka International Ltd.,捷安特(成都)有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,捷安特投資有限公司,1,china,1,1,0,1,0,上市,G9921,56054251,NA,NA,NA,NA,NA
+2016,9921,捷安特投資有限公司,捷安特昆山有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,捷安特股份有限公司,1,台灣,1,1,0,0,0,上市,G9921,56054251,20878766,NA,NA,NA,NA
+2016,9921,捷安特股份有限公司,捷安特旅行社股份有限公司,1,台灣,0,1,0,0,0,上市,G9921,20878766,24393455,NA,NA,NA,NA
+2016,9921,捷安特投資有限公司,捷安特單車運動服務(昆山)有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,Growood Investment Ltd.,捷安特電動車(昆山)有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,捷安特投資有限公司,捷安特福建有限公司,1,china,0,1,0,1,0,上市,G9921,NA,NA,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,微笑單車股份有限公司,1,台灣,1,1,0,0,0,上市,G9921,56054251,42670234,NA,NA,NA,NA
+2016,9921,巨大機械工業股份有限公司,微程式資訊股份有限公司,0.28,台灣,1,0,1,0,0,上市,G9921,56054251,89798198,NA,NA,NA,NA

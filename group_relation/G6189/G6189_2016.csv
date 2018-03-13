@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6189,豐藝電子股份有限公司,EAST PROFIT INTERNATIONAL LTD.,0.7,香港,1,1,0,0,0,上市,G6189,22151585,NA,NA,NA,NA,NA
+2016,6189,豐藝電子股份有限公司,HAPPY ON SUPPLY CHAIN MANAGEMENT LTD.,1,香港,1,1,0,0,0,上市,G6189,22151585,NA,NA,NA,NA,NA
+2016,6189,豐藝電子股份有限公司,PROMATE ELECTRONICS COMPANY USA,1,美國,1,1,0,0,0,上市,G6189,22151585,NA,NA,NA,NA,NA
+2016,6189,豐藝電子股份有限公司,"PROMATE INTERNATIONAL CO., LTD.",1,香港,1,1,0,0,0,上市,G6189,22151585,NA,NA,NA,NA,NA
+2016,6189,豐藝電子股份有限公司,勁豐電子股份有限公司,0.7792,台灣,1,1,0,0,0,上市,G6189,22151585,70565509,NA,NA,NA,NA
+2016,6189,"PROMATE INTERNATIONAL CO., LTD.",嘉合豐電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G6189,NA,NA,NA,NA,NA,NA
+2016,6189,豐藝電子股份有限公司,嘉合豐電子(深圳)有限公司,1,中國大陸,0,0,1,0,0,上市,G6189,22151585,NA,NA,NA,NA,NA
+2016,6189,豐藝電子股份有限公司,豐碩創投股份有限公司,0.2162,台灣,0,0,1,0,0,上市,G6189,22151585,NA,NA,NA,NA,NA
+2016,6189,"PROMATE INTERNATIONAL CO., LTD.",豐藝電子(上海)有限公司,1,china,0,1,0,1,0,上市,G6189,NA,NA,NA,NA,NA,NA
+2016,6189,豐藝電子股份有限公司,豐藝電子(上海)有限公司,1,中國大陸,0,0,1,0,0,上市,G6189,22151585,NA,NA,NA,NA,NA
+2016,6189,創豐投資股份有限公司,豐藝電子股份有限公司,NA,NA,0,0,0,0,1,上市,G6189,70545440,22151585,NA,NA,NA,NA

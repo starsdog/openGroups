@@ -1,0 +1,22 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3307,USA deView Inc.,deView Electronics Inc.,1,美國,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,IntelliCentrics Holding Corp.,InCeption Point Systems,1,英國,0,0,1,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,InCeption Point Systems,InCeption Point Systems,1,英國,0,0,1,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,Victos Holding Corp.,IntelliCentrics Holding Corp.,1,開曼群島,0,0,1,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,USA deView Inc.,IntelliCentrics Inc.,1,美國,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,InCeption Point Systems,IntelliCentrics Solution Inc.,1,加拿大,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,遠業科技股份有限公司,Quantum Corp.,1,薩摩亞,1,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,Quantum Corp.,Qubit Corp.,1,薩摩亞,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,新士國際股份有限公司,Security Manufacturing Ltd.,1,英國,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,IntelliCentrics Inc.,Status Blue LLC,1,不明,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,IntelliCentrics Inc.,"Status Blue,LLC",1,美國,0,0,1,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,InCeption Point Systems,IntelliCentrics UK Ltd.,1,不明,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,InCeption Point Systems,Zengine Limited,1,不明,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,InCeption Point Systems,USA deView Inc.,1,美國,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,IntelliCentrics Inc.,"Vendor Clear, LLC",1,美國,0,0,1,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,遠業科技股份有限公司,Victos Holding Corp.,1,薩摩亞,1,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,遠業電子(上海)有限公司,上海遠業信息技術有限公司,1,china,0,1,0,1,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,新士國際股份有限公司,季科國際貿易(上海)有限公司,1,china,0,1,0,1,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,遠業電子(上海)有限公司,貴州遠業科技有限公司,0,不明,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,Victos Holding Corp.,新士國際股份有限公司,1,薩摩亞,0,1,0,0,0,公開發行,G3307,NA,NA,NA,NA,NA,NA
+2015,3307,Qubit Corp.,遠業電子(上海)有限公司,1,china,0,1,0,1,0,公開發行,G3307,NA,NA,NA,NA,NA,NA

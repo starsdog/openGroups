@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4180,安成國際藥業股份有限公司,TWi Pharmaceutical Ltd.,1,英屬維京群島,1,1,0,0,0,上櫃,G4180,16284926,NA,NA,NA,NA,NA
+2016,4180,TWi Pharmaceutical Ltd.,TWi Pharmaceuticals Cayman Ltd.,0.9988,開曼群島,0,0,1,0,0,上櫃,G4180,NA,NA,NA,NA,NA,NA
+2016,4180,安成國際藥業股份有限公司,TWi Pharmaceuticals Europe Limited,1,英國,1,1,0,0,0,上櫃,G4180,16284926,NA,NA,NA,NA,NA
+2016,4180,安成國際藥業股份有限公司,"TWi Pharmaceuticals USA, Inc.",1,美國,1,1,0,0,0,上櫃,G4180,16284926,NA,NA,NA,NA,NA
+2016,4180,安成國際藥業股份有限公司,安成生物科技股份有限公司,0.7307,台灣,1,1,0,0,0,上櫃,G4180,16284926,25147136,NA,NA,NA,NA
+2016,4180,Opulent Assets Holdings Ltd.,安成國際藥業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4180,NA,16284926,NA,NA,NA,NA
+2016,4180,"TWI Pharmaceuticals Holding, Inc.",安成國際藥業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4180,NA,16284926,NA,NA,NA,NA
+2016,4180,海南華益泰康藥業有限公司,海南益健醫藥有限公司,1,不明,0,1,0,0,0,上櫃,G4180,NA,NA,NA,NA,NA,NA
+2016,4180,TWi Pharmaceuticals Cayman Ltd.,海南華益泰康藥業有限公司,0.6558,china,0,1,0,1,0,上櫃,G4180,NA,NA,NA,NA,NA,NA

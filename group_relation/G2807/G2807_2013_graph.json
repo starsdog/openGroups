@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "英商STANDARDCHAR", "no_holder": false, "taxcode": "NA"}, {"is_core": true, "source": [{"holder": "NA", "name": "英商STANDARDCHAR"}], "name": "渣打國際商業銀行股份有限公司", "no_holder": false, "taxcode": "46479103"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

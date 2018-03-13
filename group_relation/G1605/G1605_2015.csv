@@ -1,0 +1,278 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1605,華新麗華股份有限公司,Ace Result Global Limited,1,英屬維京群島,1,1,0,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,5469,Success Ocean Investments Ltd.,Always Up Investments Limited,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2344,Newfound Asian Corporation,Baystar Holdings Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,"Borrego Solar Systems, Inc.",0.7836,美國,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,瀚宇彩晶股份有限公司,Bradford Ltd.,1,薩摩亞,1,1,0,0,0,上市,G1605,16450500,NA,NA,NA,NA,NA
+2015,6116,HannSpirit (BVI) Holding Ltd.,Brightpro Resources Ltd.,1,薩摩亞,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,Dynamic Skyline Ltd.,Centralian Investments Limited,1,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Dynamic Skyline Ltd.,Class Choice Limited,1,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Success Ocean Investments Ltd.,CMK Global Brands Manufacture Ltd.,0.86,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Up First Investments Ltd.,Digital Sun Investments Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,精成科技股份有限公司,Dynamic Skyline Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G1605,81069921,NA,NA,NA,NA,NA
+2015,5469,Up First Investments Ltd.,Effort Growth Developments Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,Energy Pilot Limited,1,英屬維京群島,1,1,0,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,8183,台灣精星科技股份有限公司,EVERBROAD INTERNATIONAL LTD.,1,薩摩亞,1,1,0,0,0,上櫃,G1605,23984925,NA,NA,NA,NA,NA
+2015,5469,Digital Sun Investments Ltd.,Forever Line Ltd.,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,Up First Investments Ltd.,GBM UP (HK) Ltd.,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC- (MA) Easthampton, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC- (NJ) NACR 2, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC Development, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC Solar Fund II, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC Solar Fund V, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC Solar Fund VI, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC Solar Management II, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC Solar Management V, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC Solar Management VI, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC Solar Management VII, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) Aqua SD, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) CSD 1, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) CSD 2, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) Edwards, LLC",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) Helix, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) Madera, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) Morgan Hill, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) SCC, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) SDCCD, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) Sierra, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) Vista, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(CA) Z7 Water, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(MA) Acushnet, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(MA) BBN, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(MA) BCH, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(MA) Management, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(MA) Mashpee, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(MA) SHS, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(NJ) Management, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"GLC-(NJ) NACR 1, LLC.",0,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,4919,Marketplace Management Limited,Goldbond LLC,1,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"Green Lake Capital, LLC.",1,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"Green Lake Exchange, LLC.",1,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,"Green Lake Capital, LLC.","Green Lake Exchange, LLC.",1,美國,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,瀚宇彩晶股份有限公司,HannSpirit (BVI) Holding Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G1605,16450500,NA,NA,NA,NA,NA
+2015,6116,HannSpirit (BVI) Holding Ltd.,HANNSpree China Holdings Ltd.,1,模里西斯,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,Hannspree Europe Holdings B.V.,Hannspree Europe GmbH,1,德國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,Hannspree International Holdings Limited,Hannspree Europe Holdings B.V.,1,荷蘭,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,HannSpirit (BVI) Holding Ltd.,HANNSpree Great China Holdings Ltd.,0,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,HannSpirit (BVI) Holding Ltd.,Hannspree Inc.,0.2928,開曼群島,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,HannSpirit (BVI) Holding Ltd.,Hannspree International Holdings Limited,1,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,Hannspree Europe Holdings B.V.,Hannspree Italia S.R.L.,1,義大利,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,Hannspree North AmericaHoldings Limited,Hannspree North America Inc.,1,不明,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,Hannspree International Holdings Limited,Hannspree North AmericaHoldings Limited,1,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,Hannspree North AmericaHoldings Limited,Hannspree North AmericaHoldings Limited,1,美國,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,Hannspree Europe Holdings B.V.,Hannspree UK Ltd,1,英國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,瀚宇博德股份有限公司,HannStar Board (BVI) Holdings Corp.,1,英屬維京群島,0,1,0,0,0,上市,G1605,23225071,NA,NA,NA,NA,NA
+2015,5469,HannStar Board International Holdings Ltd.,HannStar Board (SAMOA) Holdings Corp.,1,薩摩亞,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,HannStar Board International Holdings Ltd.,HannStar Board Holdings (Hong Kong) Ltd.,1,不明,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,HannStar Board (BVI) Holdings Corp.,HannStar Board International Holdings Ltd.,1,開曼群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,HannStar Board (BVI) Holdings Corp.,HannStar Board Investments (Hong Kong) Limited,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8183,台灣精星科技股份有限公司,"INFO-TEK HOLDING CO., LTD.",1,英屬維京群島,1,1,0,0,0,上櫃,G1605,23984925,NA,NA,NA,NA,NA
+2015,1605,金澄建設股份有限公司,Joint Success Enterprises Limited,0.5095,英屬維京群島,0,1,0,0,0,上市,G1605,04378961,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,Joint Success Enterprises Limited,0.4905,英屬維京群島,1,1,0,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,2492,釜屋電機株式會社,Kamaya Electric (M) Sdn. Bhd.,1,不明,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,釜屋電機株式會社,"Kamaya, Inc.",1,不明,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,Landmark Group Holdings Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G1605,22099218,NA,NA,NA,NA,NA
+2015,8110,華東科技股份有限公司,Lead Success Inc.,1,英屬維京群島,1,1,0,0,0,上市,G1605,22101116,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,Market Pilot Limited,1,英屬維京群島,1,1,0,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,2344,新唐科技股份有限公司,Marketplace Management Limited,1,英屬維京群島,0,1,0,0,0,上市,G1605,28112646,NA,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,Newfound Asian Corporation,1,英屬維京群島,0,1,0,0,0,上市,G1605,22099218,NA,NA,NA,NA,NA
+2015,2344,新唐科技股份有限公司,Nuvoton Investment Holding Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G1605,28112646,NA,NA,NA,NA,NA
+2015,4919,"Pigeon Creek Holding Co., Ltd.",Nuvoton Technology Corporation America,1,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,4919,新唐科技股份有限公司,Nuvoton Technology India Private Limited,1,印度,0,1,0,0,0,上市,G1605,28112646,NA,NA,NA,NA,NA
+2015,4919,Nuvoton Investment Holding Ltd.,Nuvoton Technology Israel Ltd.,1,以色列,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,P.T Walsin Lippo Kabel,0.7,印尼,1,0,1,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,2492,信昌電子陶瓷股份有限公司,PDC Prime Holdings Limited,1,薩摩亞,0,1,0,0,0,上市,G1605,23641338,NA,NA,NA,NA,NA
+2015,2492,PDC Prime Holdings Limited,PDC Success Investments Ltd.,1,模里西斯,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2344,Landmark Group Holdings Ltd.,Peaceful River Corp.,1,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,4919,新唐科技股份有限公司,"Pigeon Creek Holding Co., Ltd.",1,英屬維京群島,0,1,0,0,0,上市,G1605,28112646,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,PT. WALSIN LIPPO KABEL,0.7,不明,1,1,0,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,3049,和鑫光電股份有限公司,Richest Investment Ltd.,1,開曼群島,1,1,0,0,0,上市,G1605,70750217,NA,NA,NA,NA,NA
+2015,1605,Energy Pilot Limited,"SDCCD Management, LLC.",0,不明,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,精成科技股份有限公司,Success Ocean Investments Ltd.,1,英屬維京群島,1,0,1,0,0,上市,G1605,81069921,NA,NA,NA,NA,NA
+2015,8183,台灣精星科技股份有限公司,SUN RISE CORPORATION,1,薩摩亞,1,1,0,0,0,上櫃,G1605,23984925,NA,NA,NA,NA,NA
+2015,6191,Dynamic Skyline Ltd.,Total Rich Holdings Ltd.,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,Dynamic Skyline Ltd.,Up Ever Holdings Ltd.,1,香港,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,精成科技股份有限公司,Up First Investments Ltd,1,英屬維京群島,0,1,0,0,0,上市,G1605,81069921,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,Walcom Chemicals Industrial Limited,0.65,香港,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8110,Walton Holding Universal Ltd.,Walton Holding (Hong Kong) Ltd.,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8110,華東科技股份有限公司,Walton Holding Universal Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G1605,22101116,NA,NA,NA,NA,NA
+2015,6191,Centralian Investments Limited,Will Grow Holdings Ltd.,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2344,Winbond International Corporation,Winbond Electronics Corporation America,1,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2344,Landmark Group Holdings Ltd.,Winbond Electronics Corporation Japan,1,日本,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,Winbond International Corporation,1,英屬維京群島,0,1,0,0,0,上市,G1605,22099218,NA,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,Winbond Technology LTD,1,以色列,0,1,0,0,0,上市,G1605,22099218,NA,NA,NA,NA,NA
+2015,6494,松勇投資股份有限公司,九齊科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1605,24534856,28509490,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,上海白鶴華新麗華特殊鋼製品有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新(中國)投資有限公司,上海華新麗華電力電纜有限公司,0.9571,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,上海華新麗華電力電纜有限公司,0.9571,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華通國際有限公司,上海蓬華機電工程諮詢有限公司,0,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新電通股份有限公司,上海蓬華機電工程諮詢有限公司,0,不明,0,1,0,0,0,上市,G1605,89475205,NA,NA,NA,NA,NA
+2015,2492,匯僑(英屬維爾京群島)投資股份有限公司,大輝科技有限公司,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Up First Investments Ltd.,川億電腦(重慶)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Up First Investments Ltd.,川億電腦(深圳)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,釜屋電機株式會社,日通工電子股份有限公司,0.7,不明,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8183,華俐投資股份有限公司,台灣精星科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1605,27962346,23984925,NA,NA,NA,NA
+2015,6191,精成科技股份有限公司,台灣精星科技股份有限公司,0.234,台灣,1,0,1,0,0,上市,G1605,81069921,23984925,NA,NA,NA,NA
+2015,2492,信昌電子陶瓷股份有限公司,弘電國際有限公司,1,英屬維京群島,0,1,0,0,0,上市,G1605,23641338,NA,NA,NA,NA,NA
+2015,2492,弘電電子有限公司,弘電電子(重慶)有限公司,1,china,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,PDC Prime Holdings Limited,弘電電子有限公司,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新(中國)投資有限公司,江陰華新特殊合金材料有限公司,0.1837,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,江陰華新特殊合金材料有限公司,0.8163,中國大陸,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,江陰華新特殊合金材料有限公司,0.1837,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新(中國)投資有限公司,江陰華新鋼纜有限公司,0.75,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,江陰華新鋼纜有限公司,0.75,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,江蘇台灣名品城開發有限公司,0.2,china,0,0,1,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,西安華新光電有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,西安華新金屬製品有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Market Pilot Limited,西安華新聯合科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,西安綠晶科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,4919,新唐科技股份有限公司,妙網連新股份有限公司,1,台灣,0,1,0,0,0,上市,G1605,28112646,24941262,NA,NA,NA,NA
+2015,6116,華俐投資股份有限公司,和鑫光電股份有限公司,0.075,台灣,0,0,1,0,0,上市,G1605,27962346,70750217,NA,NA,NA,NA
+2015,6116,瀚宇彩晶股份有限公司,和鑫光電股份有限公司,0.2678,台灣,1,0,1,0,0,上市,G1605,16450500,70750217,NA,NA,NA,NA
+2015,5469,Up First Investments Ltd.,怡寬電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Forever Line Ltd.,昆山元茂電子科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Will Grow Holdings Ltd.,昆山元崧電子科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,匯僑(英屬維爾京群島)投資股份有限公司,昆山華科采邑電子塑料有限公司,0.3932,china,0,0,0,1,0,上市,G1605,NA,NA,8,NA,NA,NA
+2015,5469,Effort Growth Developments Ltd.,昆山雄強電子科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Ace Result Global Limited,杭州華新電力電纜有限公司,0.327,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新(中國)投資有限公司,杭州華新電力線纜有限公司,0.1583,china,0,0,1,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,弘電國際有限公司,東莞弘電電子有限公司,1,china,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Always Up Investments Limited,東莞翔成電子科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華科香港控股有限公司,東莞華科電子有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華科香港控股有限公司,東莞華匯貿易有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新(中國)投資有限公司,東莞華新電線電纜有限公司,1,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,東莞華新電線電纜有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Total Rich Holdings Ltd.,東莞進成電子科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,CMK Global Brands Manufacture Ltd.,東莞瑞升電子有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Dynamic Skyline Ltd.,東莞裕嘉電子科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Up Ever Holdings Ltd.,東莞耀成電子科技有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,4919,新唐科技股份有限公司,松勇投資股份有限公司,1,台灣,0,1,0,0,0,上市,G1605,28112646,24534856,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,松智控股有限公司,1,香港,0,1,0,0,0,上市,G1605,22099218,NA,NA,NA,NA,NA
+2015,4919,Goldbond LLC,芯唐電子科技(上海)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,4919,新唐科技股份有限公司,芯唐電子科技(香港)有限公司,1,香港,0,1,0,0,0,上市,G1605,28112646,NA,NA,NA,NA,NA
+2015,4919,芯唐電子科技(香港)有限公司,芯唐電子科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,金澄企管顧問股份有限公司,0,台灣,1,1,0,0,0,上市,G1605,35412204,23322762,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,金澄建設股份有限公司,0.9922,台灣,1,1,0,0,0,上市,G1605,35412204,04378961,NA,NA,NA,NA
+2015,1605,金澄建設股份有限公司,金鑫投資股份有限公司,0.0067,台灣,0,0,1,0,0,上市,G1605,04378961,30965368,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,金鑫投資股份有限公司,0.38,台灣,1,0,1,0,0,上市,G1605,22099218,30965368,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,金鑫投資股份有限公司,0.37,台灣,1,0,1,0,0,上市,G1605,35412204,30965368,NA,NA,NA,NA
+2015,6116,華俐投資股份有限公司,信石躍馬投資股份有限公司,0.5,台灣,0,0,1,0,0,上市,G1605,27962346,24747289,NA,NA,NA,NA
+2015,6173,PDC Prime Holdings Limited,信昌國際發展(香港)有限公司,1,香港,0,1,0,0,0,上櫃,G1605,NA,NA,NA,NA,NA,NA
+2015,6173,PDC Success Investments Ltd.,信昌電子(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G1605,NA,NA,NA,NA,NA,NA
+2015,6173,華東科技股份有限公司,信昌電子陶瓷股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1605,22101116,23641338,NA,NA,NA,NA
+2015,2492,華新科技股份有限公司,信昌電子陶瓷股份有限公司,0.4313,台灣,1,1,0,0,0,上市,G1605,19004316,23641338,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,南京台灣名品城管理有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,3049,Richest Investment Ltd.,南京冠鑫光電有限公司,0.3112,china,0,0,0,1,0,上市,G1605,NA,NA,8,NA,NA,NA
+2015,1605,華新麗華控股有限公司,南京華新世博展覽有限公司,0.6,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華貴國際有限公司,南京華新有色金屬有限公司,0.9229,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新(中國)投資有限公司,南京華新有色金屬有限公司,0.0076,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,南京華新有色金屬有限公司,0.7826,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,金澄建設股份有限公司,南京華新物業管理有限公司,1,china,0,1,0,1,0,上市,G1605,04378961,NA,NA,NA,NA,NA
+2015,1605,華新(南京)置業開發有限公司,南京華新置業務業管理有限公司,1,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,Brightpro Resources Ltd.,南京瀚宇彩欣科技有限責任公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,東莞華科電子有限公司,重慶信天翁股權投資基金管理有限公司,1,中國大陸,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,瀚宇博德科技(江陰)有限公司,重慶信晟電子有限責任公司,0.2135,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,重慶碩宏投資有限公司,重慶美敦置業有限公司,1,中國大陸,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,重慶碩宏投資有限公司,重慶敦寧置業有限公司,1,中國大陸,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,重慶碩宏投資有限公司,重慶新敦置業有限公司,1,中國大陸,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,川億電腦(重慶)有限公司,重慶瑞雙科技有限責任公司,0.3451,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華盈科技(重慶)有限公司,重慶瑞雙科技有限責任公司,0.3454,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,川億電腦(深圳)有限公司,重慶碩宏投資有限公司,0.1283,中國大陸,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,昆山元崧電子科技有限公司,重慶碩宏投資有限公司,0.1283,中國大陸,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,瀚宇博德科技(江陰)有限公司,重慶碩宏投資有限公司,0.2565,中國大陸,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,蘇州華科電子有限公司,重慶碩宏投資有限公司,0.2565,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,開曼華新科技有限公司,香港華新被動元件有限公司,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,精成科技股份有限公司,晟成實業股份有限公司,1,台灣,0,1,0,0,0,上市,G1605,81069921,27353505,NA,NA,NA,NA
+2015,2492,釜屋電機株式會社,釜屋電機(香港)有限公司,1,不明,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,開曼華新科技有限公司,釜屋電機株式會社,0.999,日本,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,再投資大陸公司,陝西天宏硅材料有限責任公司,0.19,china,0,0,0,1,0,上市,G1605,NA,NA,11,NA,NA,NA
+2015,1605,再投資大陸公司,陝西光電科技有限公司,0.19,china,0,0,0,1,0,上市,G1605,NA,NA,11,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,常州中鋼精密鍛材有限公司,0.3,china,0,0,1,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,常熟華新特殊鋼有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,探微科技股份有限公司,1,台灣,1,1,0,0,0,上市,G1605,35412204,80744735,NA,NA,NA,NA
+2015,1605,金澄建設股份有限公司,頂新開發股份有限公司,0.3532,台灣,0,0,1,0,0,上市,G1605,04378961,04425346,NA,NA,NA,NA
+2015,2492,弘電國際有限公司,湖南弘電電子有限公司,1,不明,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,無錫興澄華新鋼材有限公司,0,china,0,0,1,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華新科技股份有限公司,華成自動化設備股份有限公司,0.439,台灣,1,0,1,0,0,上市,G1605,19004316,29186069,NA,NA,NA,NA
+2015,6191,精成科技股份有限公司,華成自動化設備股份有限公司,0.5024,台灣,0,1,0,0,0,上市,G1605,81069921,29186069,NA,NA,NA,NA
+2015,4919,Goldbond LLC,華邦科技(南京)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2344,松智控股有限公司,華邦集成電路(蘇州)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,華邦電子(香港)有限公司,1,香港,0,1,0,0,0,上市,G1605,22099218,NA,NA,NA,NA,NA
+2015,2344,金鑫投資股份有限公司,華邦電子股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,30965368,22099218,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,華邦電子股份有限公司,0.2266,台灣,1,0,1,0,0,上市,G1605,35412204,22099218,NA,NA,NA,NA
+2015,8110,Walton Holding Universal Ltd.,華東科技(蘇州)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8110,日商株式會社東芝,華東科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,NA,22101116,NA,NA,NA,NA
+2015,8110,珒贊投資股份有限公司,華東科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,70554995,22101116,NA,NA,NA,NA
+2015,8110,華邦電子股份有限公司,華東科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,22099218,22101116,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,華東科技股份有限公司,0.227,台灣,1,0,1,0,0,上市,G1605,35412204,22101116,NA,NA,NA,NA
+2015,6116,瀚宇彩晶股份有限公司,華俐投資股份有限公司,1,台灣,1,1,0,0,0,上市,G1605,16450500,27962346,NA,NA,NA,NA
+2015,2492,華科香港控股有限公司,華盈科技(重慶)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,信昌電子陶瓷股份有限公司,華科采邑股份有限公司,0.0202,台灣,0,0,1,0,0,上市,G1605,23641338,22875532,NA,NA,NA,NA
+2015,2492,華新科技股份有限公司,華科采邑股份有限公司,0.2662,台灣,1,0,1,0,0,上市,G1605,19004316,22875532,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,華科采邑股份有限公司,0.3397,台灣,1,0,1,0,0,上市,G1605,35412204,22875532,NA,NA,NA,NA
+2015,2492,開曼華新科技有限公司,華科香港控股有限公司,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新電通股份有限公司,華通國際有限公司,0,薩摩亞,0,1,0,0,0,上市,G1605,89475205,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,華貴國際有限公司,0.8397,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,華新(中國)投資有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,Joint Success Enterprises Limited,華新(南京)置業開發有限公司,1,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,金澄建設股份有限公司,華新(南京)置業開發有限公司,1,china,0,1,0,1,0,上市,G1605,04378961,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,華新力寶工業公司,0.7,印尼,1,1,0,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,2492,開曼華新科技有限公司,華新科技(美國)公司,1,美國,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,開曼華新科技有限公司,華新科技(香港)有限公司,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,智嘉投資股份有限公司,華新科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,70748347,19004316,NA,NA,NA,NA
+2015,2492,華邦電子股份有限公司,華新科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,22099218,19004316,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,華新科技股份有限公司,0.183,台灣,1,0,1,0,0,上市,G1605,35412204,19004316,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,華新特殊鋼控股有限公司,1,英屬維京群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,華新特殊鋼控股有限公司,1,英屬維京群島,1,1,0,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,1605,華新麗華控股有限公司,華新國際投資有限公司,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,開曼華新科技有限公司,華新國際管理(香港)有限公司,1,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華科香港控股有限公司,華新電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,開曼華新科技有限公司,華新電子(新加坡)公司,1,新加坡,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,華新電通股份有限公司,0.9887,台灣,1,1,0,0,0,上市,G1605,35412204,89475205,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,華新精密科技股份有限公司,1,馬來西亞,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,華新麗華(常州)投資有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新科技股份有限公司,華新麗華股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,19004316,35412204,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,華新麗華控股有限公司,1,英屬維京群島,1,1,0,0,0,上市,G1605,35412204,NA,NA,NA,NA,NA
+2015,2492,大輝科技有限公司,開曼華新科技有限公司,0.0523,開曼群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華新科技股份有限公司,開曼華新科技有限公司,0.9069,開曼群島,0,1,0,0,0,上市,G1605,19004316,NA,NA,NA,NA,NA
+2015,2492,匯僑(英屬維爾京群島)投資股份有限公司,開曼華新科技有限公司,0.0408,開曼群島,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華新科技股份有限公司,開曼華新科技有限公司[GALLATOWN],0.9069,開曼群島,1,0,1,0,0,上市,G1605,19004316,NA,NA,NA,NA,NA
+2015,2492,華新科技股份有限公司,匯僑(英屬維爾京群島)投資股份有限公司,1,英屬維京群島,0,1,0,0,0,上市,G1605,19004316,NA,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,微安科技股份有限公司,1,台灣,0,1,0,0,0,上市,G1605,22099218,12800344,NA,NA,NA,NA
+2015,4919,金鑫投資股份有限公司,新唐科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,30965368,28112646,NA,NA,NA,NA
+2015,2344,華邦電子股份有限公司,新唐科技股份有限公司,0.61,台灣,0,1,0,0,0,上市,G1605,22099218,28112646,NA,NA,NA,NA
+2015,1605,江陰華新特殊合金材料有限公司,煙台華新不鏽鋼有限公司,0.75,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新特殊鋼控股有限公司,煙台華新不鏽鋼有限公司,0.25,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,金澄建設股份有限公司,漢友創業投資股份有限公司,0.0017,台灣,0,0,1,0,0,上市,G1605,04378961,89406812,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,漢友創業投資股份有限公司,0.2667,台灣,1,0,1,0,0,上市,G1605,35412204,89406812,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,漢華創業投資股份有限公司,0.4324,台灣,1,0,1,0,0,上市,G1605,35412204,70767435,NA,NA,NA,NA
+2015,5469,Up First Investments Ltd.,精永再生資源回收(重慶)有限公司,0.7,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,Up First Investments Ltd.,精成元茂電子科技(重慶)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,華科采邑股份有限公司,精成科技股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,22875532,81069921,NA,NA,NA,NA
+2015,5469,瀚宇博德股份有限公司,精成科技股份有限公司,0.395,台灣,0,1,0,0,0,上市,G1605,23225071,81069921,NA,NA,NA,NA
+2015,5469,Dynamic Skyline Ltd.,精成科技電子(東莞)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8183,台灣精星科技股份有限公司,精星(香港)有限公司,1,香港,1,1,0,0,0,上櫃,G1605,23984925,NA,NA,NA,NA,NA
+2015,5469,精博信華實業(香港)有限公司,精博信華實業(重慶)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6191,GBM UP (HK) Ltd.,精博信華實業(香港)有限公司,0.3,香港,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,HannStar Board Investments (Hong Kong) Limited,精博信華實業(香港)有限公司,0.15,香港,0,1,0,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,HANNSTAR BOARD INVESTMENTS (HONG KONG) LIMITED.,精博信華實業(香港)有限公司,0.15,香港,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8110,Walton Holding (Hong Kong) Ltd.,精博信華實業(香港)有限公司,0.2,香港,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,信昌國際發展(香港)有限公司,精博信華實業(香港)有限公司,0.1,香港,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華新國際管理(香港)有限公司,精博信華實業(香港)有限公司,0.25,香港,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8183,SUN RISE CORPORATION,精華電子(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G1605,NA,NA,NA,NA,NA,NA
+2015,1605,華新麗華股份有限公司,銘懋工業股份有限公司,1,台灣,1,1,0,0,0,上市,G1605,35412204,36028100,NA,NA,NA,NA
+2015,2492,華科香港控股有限公司,廣州匯僑電子有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,華新麗華股份有限公司,瀚宇彩晶股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,35412204,16450500,NA,NA,NA,NA
+2015,5469,金鑫投資股份有限公司,瀚宇博德股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,30965368,23225071,NA,NA,NA,NA
+2015,2492,信昌電子陶瓷股份有限公司,瀚宇博德股份有限公司,0.0043,台灣,0,0,1,0,0,上市,G1605,23641338,23225071,NA,NA,NA,NA
+2015,5469,華科采邑股份有限公司,瀚宇博德股份有限公司,NA,NA,0,0,0,0,1,上市,G1605,22875532,23225071,NA,NA,NA,NA
+2015,2492,華新科技股份有限公司,瀚宇博德股份有限公司,0.2008,台灣,1,0,1,0,0,上市,G1605,19004316,23225071,NA,NA,NA,NA
+2015,5469,HannStar Board Holdings (Hong Kong) Ltd.,瀚宇博德科技(江陰)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,HANNSTAR BOARD HOLDINGS (HONG KONG) LTD.,瀚宇博德科技(江陰)有限公司,1,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,HannStar Board Holdings (Hong Kong) Ltd.,瀚宇博德科技(重慶)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,5469,HANNSTAR BOARD HOLDINGS (HONG KONG) LTD.,瀚宇博德科技(重慶)有限公司,1,中國大陸,0,0,1,0,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,HANNSpree China Holdings Ltd.,瀚斯寶麗科技(上海)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,HANNSpree China Holdings Ltd.,瀚斯寶麗顯示科技(南京)有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,2492,華科香港控股有限公司,蘇州華科電子有限公司,1,china,0,1,0,1,0,上市,G1605,NA,NA,NA,NA,NA,NA
+2015,8183,精華電子(蘇州)有限公司,蘇州貿富貿易有限公司,1,china,0,1,0,1,0,上櫃,G1605,NA,NA,NA,NA,NA,NA
+2015,6116,華俐投資股份有限公司,躍馬壹號投資股份有限公司,0.5,台灣,0,0,1,0,0,上市,G1605,27962346,24780625,NA,NA,NA,NA

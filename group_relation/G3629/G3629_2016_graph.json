@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "群富通科技股份有限公司", "no_holder": false, "taxcode": "12898395"}, {"is_core": false, "source": [{"holder": "1", "name": "群富通科技股份有限公司"}], "name": "群睿通科技股份有限公司", "no_holder": false, "taxcode": "42709478"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2016"}

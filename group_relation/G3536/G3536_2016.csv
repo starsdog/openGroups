@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3536,誠創科技股份有限公司,"SINTRONIC GLOBAL CO., LTD.",1,開曼群島,1,1,0,0,0,上市,G3536,70734477,NA,NA,NA,NA,NA
+2016,3536,誠創科技股份有限公司,"SINTRONIC HOLDINGS CO., LTD.",1,薩摩亞,1,1,0,0,0,上市,G3536,70734477,NA,NA,NA,NA,NA
+2016,3536,再投資大陸公司,山東海灣,0.8137,china,0,0,0,1,0,上市,G3536,NA,NA,1,NA,NA,NA
+2016,3536,"SINTRONIC GLOBAL CO., LTD.",香港海灣,0.6,香港,0,0,1,0,0,上市,G3536,NA,NA,NA,NA,NA,NA
+2016,3536,"SINTRONIC GLOBAL CO., LTD.",海灣電子(山東)有限公司,0.8137,不明,0,1,0,0,0,上市,G3536,NA,NA,NA,NA,NA,NA
+2016,3536,"SINTRONIC GLOBAL CO., LTD.",海灣電子有限公司,0.6,不明,0,1,0,0,0,上市,G3536,NA,NA,NA,NA,NA,NA
+2016,3536,"SINTRONIC HOLDINGS CO., LTD.",誠創科技(蘇州)有限公司,1,不明,0,1,0,0,0,上市,G3536,NA,NA,NA,NA,NA,NA
+2016,3536,友邦投資股份有限公司,誠創科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3536,16328038,70734477,NA,NA,NA,NA
+2016,3536,海華國際資產管理股份有限公司,誠創科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3536,53545924,70734477,NA,NA,NA,NA
+2016,3536,誠創科技股份有限公司,誠新資訊科技股份有限公司,1,台灣,1,1,0,0,0,上市,G3536,70734477,43907216,NA,NA,NA,NA
+2016,3536,"SINTRONIC HOLDINGS CO., LTD.",蘇州誠創貿易有限公司,1,china,0,1,0,1,0,上市,G3536,NA,NA,NA,NA,NA,NA

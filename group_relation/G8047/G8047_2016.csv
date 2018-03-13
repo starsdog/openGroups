@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8047,"GCC INTERNATIONAL CO., LTD.","GCC AMERICA, INC.",1,美國,0,1,0,0,0,上櫃,G8047,NA,NA,NA,NA,NA,NA
+2016,8047,"GCC INTERNATIONAL CO., LTD.",GCC EUROPE B.V.,1,荷蘭,0,1,0,0,0,上櫃,G8047,NA,NA,NA,NA,NA,NA
+2016,8047,星雲電腦股份有限公司,"GCC INTERNATIONAL CO., LTD.",1,薩摩亞,1,1,0,0,0,上櫃,G8047,23360202,NA,NA,NA,NA,NA
+2016,8047,星雲電腦(昆山)有限公司,星雲(香港)貿易有限公司,1,香港,0,1,0,0,0,上櫃,G8047,NA,NA,NA,NA,NA,NA
+2016,8047,"GCC INTERNATIONAL CO., LTD.",星雲電腦(昆山)有限公司,1,china,0,1,0,1,0,上櫃,G8047,NA,NA,NA,NA,NA,NA
+2016,8047,惠森投資股份有限公司,星雲電腦股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8047,80147929,23360202,NA,NA,NA,NA

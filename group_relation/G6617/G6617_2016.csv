@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6617,"PTS International, Inc.",PTS Asia Limited,1,香港,0,1,0,0,0,興櫃,G6617,NA,NA,NA,NA,NA,NA
+2016,6617,保勝光學股份有限公司,"PTS International, Inc.",1,美國,1,1,0,0,0,興櫃,G6617,55174031,NA,NA,NA,NA,NA
+2016,6617,共信醫藥科技控股股份有限公司,"PTS International, Inc.",1,美國,0,0,1,0,0,興櫃,G6617,NA,NA,NA,NA,NA,NA
+2016,6617,北京健達康新藥開發有限公司,天津紅日健達康醫藥科技有限公司,0.75,china,0,1,0,1,0,興櫃,G6617,NA,NA,NA,NA,NA,NA
+2016,6617,PTS Asia Limited,北京健達康新藥開發有限公司,1,china,0,1,0,1,0,興櫃,G6617,NA,NA,NA,NA,NA,NA
+2016,6617,保勝光學股份有限公司,共信醫藥科技股份有限公司,1,不明,1,1,0,0,0,興櫃,G6617,55174031,24751115,NA,NA,NA,NA
+2016,6617,共信醫藥科技控股股份有限公司,共信醫藥科技股份有限公司,1,台灣,0,0,1,0,0,興櫃,G6617,NA,24751115,NA,NA,NA,NA

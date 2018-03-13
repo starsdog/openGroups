@@ -1,0 +1,18 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1316,Victory Enterprises Limited,Acme International Management Inc.,1,薩摩亞,0,1,0,0,0,上市,G1316,NA,NA,NA,NA,NA,NA
+2015,1316,Triumph Investments Limited,Shun Yuh International Trading Limited,1,模里西斯,0,1,0,0,0,上市,G1316,NA,NA,NA,NA,NA,NA
+2015,1316,上曜建設開發股份有限公司,Success Investments Limited,0.7,薩摩亞,1,1,0,0,0,上市,G1316,73654033,NA,NA,NA,NA,NA
+2015,1316,Success Investments Limited,Triumph Investments Limited,1,薩摩亞,0,1,0,0,0,上市,G1316,NA,NA,NA,NA,NA,NA
+2015,1316,上曜建設開發股份有限公司,Victory Enterprises Limited,0.6436,薩摩亞,1,1,0,0,0,上市,G1316,73654033,NA,NA,NA,NA,NA
+2015,1316,上曜建設開發股份有限公司,上裕營造有限公司,1,台灣,1,1,0,0,0,上市,G1316,73654033,83715093,NA,NA,NA,NA
+2015,1316,中清科技股份有限公司,上曜建設開發股份有限公司,NA,NA,0,0,0,0,1,上市,G1316,27682653,73654033,NA,NA,NA,NA
+2015,1316,大都會網路科技股份有限公司,上曜建設開發股份有限公司,NA,NA,0,0,0,0,1,上市,G1316,70412188,73654033,NA,NA,NA,NA
+2015,1316,上曜建設開發股份有限公司,永固室內裝修股份有限公司,1,台灣,1,1,0,0,0,上市,G1316,73654033,54572259,NA,NA,NA,NA
+2015,1316,上曜建設開發股份有限公司,永捷高分子工業股份有限公司,0.1881,台灣,1,1,0,0,0,上市,G1316,73654033,86123874,NA,NA,NA,NA
+2015,4714,上曜開發科技股份有限公司,永捷高分子工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1316,73654033,86123874,NA,NA,NA,NA
+2015,4714,勁弘有限公司,永捷高分子工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G1316,29021519,86123874,NA,NA,NA,NA
+2015,1316,永捷高分子工業股份有限公司,永盛國際有限公司,1,薩摩亞,0,1,0,0,0,上市,G1316,86123874,NA,NA,NA,NA,NA
+2015,1316,上曜建設開發股份有限公司,永輝光電股份有限公司,0.9806,台灣,1,1,0,0,0,上市,G1316,73654033,13111872,NA,NA,NA,NA
+2015,1316,永盛國際有限公司,惠州永捷高分子有限公司,1,china,0,1,0,1,0,上市,G1316,NA,NA,NA,NA,NA,NA
+2015,1316,Success Investments Limited,越南上曜開發責任有限公司,1,越南,0,1,0,0,0,上市,G1316,NA,NA,NA,NA,NA,NA
+2015,4714,永捷高分子工業股份有限公司,越南永捷高分子責任有限公司,1,越南,1,1,0,0,0,上櫃,G1316,86123874,NA,NA,NA,NA,NA

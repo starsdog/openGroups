@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3360,尚亞(香港)公司,尚立(香港)公司,1,香港,0,1,0,0,0,上櫃,G3360,NA,NA,NA,NA,NA,NA
+2014,3360,尚立科技(薩摩亞)公司,尚立(新加坡)公司,1,新加坡,0,1,0,0,0,上櫃,G3360,NA,NA,NA,NA,NA,NA
+2014,3360,尚立股份有限公司,尚立科技(薩摩亞)公司,1,薩摩亞,0,0,1,0,0,上櫃,G3360,09473845,NA,NA,NA,NA,NA
+2014,3360,尚立科技(薩摩亞)公司,尚亞(香港)公司,1,香港,0,1,0,0,0,上櫃,G3360,NA,NA,NA,NA,NA,NA
+2014,3360,尚亞(香港)公司,尚亞(深圳)公司,1,china,0,1,0,1,0,上櫃,G3360,NA,NA,NA,NA,NA,NA
+2014,3360,尚立股份有限公司,尚茂智能科技股份有限公司,0.99,台灣,1,1,0,0,0,上櫃,G3360,09473845,53566455,NA,NA,NA,NA

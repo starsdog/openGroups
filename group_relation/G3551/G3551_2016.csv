@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3551,世禾科技股份有限公司,Minerva Works Pte Ltd.,0.368,新加坡,1,0,1,0,0,上櫃,G3551,16044341,NA,NA,NA,NA,NA
+2016,3551,Skill High Management Limited,Shih Full Management Limited,1,薩摩亞,0,1,0,0,0,上櫃,G3551,NA,NA,NA,NA,NA,NA
+2016,3551,Skill High Management Limited,Shih Hang Management Limited,1,薩摩亞,0,1,0,0,0,上櫃,G3551,NA,NA,NA,NA,NA,NA
+2016,3551,Skill High Management Limited,Shih Pu Management Limited,1,薩摩亞,0,1,0,0,0,上櫃,G3551,NA,NA,NA,NA,NA,NA
+2016,3551,世禾科技股份有限公司,Skill High Management Limited,1,薩摩亞,1,1,0,0,0,上櫃,G3551,16044341,NA,NA,NA,NA,NA
+2016,3551,Shih Hang Management Limited,世巨科技(合肥)有限公司,1,china,0,1,0,1,0,上櫃,G3551,NA,NA,NA,NA,NA,NA
+2016,3551,Shih Full Management Limited,世平科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G3551,NA,NA,NA,NA,NA,NA
+2016,3551,Shih Pu Management Limited,世田光電科技(廈門)有限公司,1,china,0,1,0,1,0,上櫃,G3551,NA,NA,NA,NA,NA,NA
+2016,3551,冠麟投資有限公司,世禾科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3551,27441249,16044341,NA,NA,NA,NA
+2016,3551,全勝國際有限公司,世禾科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3551,NA,16044341,NA,NA,NA,NA
+2016,3551,世禾科技股份有限公司,台灣高美可科技股份有限公司,0.25,台灣,1,0,1,0,0,上櫃,G3551,16044341,28124684,NA,NA,NA,NA
+2016,3551,世禾科技股份有限公司,昌昱科技股份有限公司,0.9688,台灣,1,1,0,0,0,上櫃,G3551,16044341,25028589,NA,NA,NA,NA
+2016,3551,世平科技(深圳)有限公司,東莞市世平光電科技有限公司,1,china,0,1,0,1,0,上櫃,G3551,NA,NA,NA,NA,NA,NA
+2016,3551,世平科技(深圳)有限公司,哲安科技(深圳)有限公司,0.3,china,0,0,1,1,0,上櫃,G3551,NA,NA,NA,NA,NA,NA

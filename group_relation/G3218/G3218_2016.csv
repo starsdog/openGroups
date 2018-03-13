@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3218,大學光學科技股份有限公司,UNIVERSAL GROUP (BVI) INC.,1,英屬維京群島,0,1,0,0,0,上櫃,G3218,84926791,NA,NA,NA,NA,NA
+2016,3218,"UNIVERSAL GROUP HOLDING CO., LTD.","UNIVERSAL GROUP (SAMOA) CO., LTD.",1,薩摩亞,0,1,0,0,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,UNIVERSAL GROUP (BVI) INC.,"UNIVERSAL GROUP HOLDING CO., LTD.",1,開曼群島,0,1,0,0,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,"UNIVERSAL GROUP (SAMOA) CO., LTD.","UNIVERSAL HOLDING (SAMOA) CO., LTD.",1,薩摩亞,0,1,0,0,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,"UNIVERSAL GROUP HOLDING CO., LTD.","UNIVERSAL INTERNATIONAL (SAMOA) CO., LTD.",1,薩摩亞,0,1,0,0,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,常福投資有限公司,大學光學科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3218,12971114,84926791,NA,NA,NA,NA
+2016,3218,"UNIVERSAL INTERNATIONAL (SAMOA) CO., LTD.",太學(上海)醫療器械貿易有限公司,1,china,0,1,0,1,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,太學(上海)醫療器械貿易有限公司,太學(江蘇)投資有限公司,1,china,0,1,0,1,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,太學(江蘇)投資有限公司,太學(江蘇)眼鏡有限公司,1,china,0,1,0,1,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,太學(江蘇)投資有限公司,太學(江蘇)醫療投資管理有限公司,1,china,0,1,0,1,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,大學光學科技股份有限公司,太學投資控股股份有限公司,1,台灣,0,1,0,0,0,上櫃,G3218,84926791,24770680,NA,NA,NA,NA
+2016,3218,"UNIVERSAL HOLDING (SAMOA) CO., LTD.",昆山優尼伯斯貿易有限公司,1,china,0,1,0,1,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,太學(江蘇)投資有限公司,寧波海曙太學眼科門診部有限公司,0.95,china,0,1,0,1,0,上櫃,G3218,NA,NA,NA,NA,NA,NA
+2016,3218,太學(江蘇)醫療投資管理有限公司,寧波海曙太學眼科門診部有限公司,0.05,不明,0,1,0,0,0,上櫃,G3218,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2029,盛餘股份有限公司,Sheng-Shing Corp.,0.45,模里西斯,0,1,0,0,0,上市,G2029,79837539,NA,NA,NA,NA,NA
+2015,2029,淀鋼國際股份有限公司,Yodoko International (HK) Ltd.,1,香港,0,1,0,0,0,上市,G2029,89399262,NA,NA,NA,NA,NA
+2015,2029,Sheng-Shing Corp.,東莞盛新五金制品有限公司,1,china,0,1,0,1,0,上市,G2029,NA,NA,NA,NA,NA,NA
+2015,2029,Sheng-Shing Corp.,東莞盛餘貿易有限公司,1,china,0,1,0,1,0,上市,G2029,NA,NA,NA,NA,NA,NA
+2015,2029,盛餘股份有限公司,淀川盛餘(合肥)高科技鋼板有限公司,0.35,china,0,0,0,1,0,上市,G2029,NA,NA,NA,NA,NA,NA
+2015,2029,Yodoko International (HK) Ltd.,淀鋼建材(杭州)有限公司,0.209,china,0,1,0,1,0,上市,G2029,NA,NA,NA,NA,NA,NA
+2015,2029,盛餘股份有限公司,淀鋼國際股份有限公司,0.78,台灣,0,1,0,0,0,上市,G2029,79837539,89399262,NA,NA,NA,NA
+2015,2029,日商淀川鋼鐵股份有限公司,盛餘股份有限公司,NA,NA,0,0,0,0,1,上市,G2029,NA,79837539,NA,NA,NA,NA
+2015,2029,日商豐田通商株式會社,盛餘股份有限公司,NA,NA,0,0,0,0,1,上市,G2029,NA,79837539,NA,NA,NA,NA
+2015,2029,永記造漆工業股份有限公司,盛餘股份有限公司,NA,NA,0,0,0,0,1,上市,G2029,75137605,79837539,NA,NA,NA,NA
+2015,2029,日商FUJIDEN株式會社,盛餘股份有限公司,NA,NA,0,0,0,0,1,上市,G2029,NA,79837539,NA,NA,NA,NA

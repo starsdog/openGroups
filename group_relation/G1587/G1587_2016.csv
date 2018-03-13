@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1587,CRYOMAX INTERNATIONAL LTD.,CROHAN INTERNATIONAL LTD.,1,薩摩亞,0,1,0,0,0,興櫃,G1587,NA,NA,NA,NA,NA,NA
+2016,1587,吉茂精密股份有限公司,CRYOMAX INTERNATIONAL LTD.,1,英屬維京群島,1,1,0,0,0,興櫃,G1587,24157564,NA,NA,NA,NA,NA
+2016,1587,吉茂精密股份有限公司,CRYOMAX U.S.A INC.,1,美國,1,0,1,0,0,興櫃,G1587,24157564,NA,NA,NA,NA,NA
+2016,1587,吉茂精密股份有限公司,CRYOMAX U.S.A.INC.,1,不明,1,1,0,0,0,興櫃,G1587,24157564,NA,NA,NA,NA,NA
+2016,1587,CRYOMAX INTERNATIONAL LTD.,STONG GOLD INTERNATIONAL LTD.,1,英屬維京群島,0,1,0,0,0,興櫃,G1587,NA,NA,NA,NA,NA,NA
+2016,1587,日商株式會社DENSO,吉茂精密股份有限公司,NA,NA,0,0,0,0,1,興櫃,G1587,NA,24157564,NA,NA,NA,NA
+2016,1587,翌達投資有限公司,吉茂精密股份有限公司,NA,NA,0,0,0,0,1,興櫃,G1587,80739775,24157564,NA,NA,NA,NA
+2016,1587,吉茂精密股份有限公司,吉茂聯德股份有限公司,0.5,台灣,1,1,0,0,0,興櫃,G1587,24157564,24847111,NA,NA,NA,NA
+2016,1587,CROHAN INTERNATIONAL LTD.,東莞吉旺汽車零件有限公司,1,china,0,1,0,1,0,興櫃,G1587,NA,NA,NA,NA,NA,NA
+2016,1587,CROHAN INTERNATIONAL LTD.,南京吉茂汽車零件有限公司,1,china,0,1,0,1,0,興櫃,G1587,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2801,再投資大陸公司,彰化商業銀行股份有限公司昆山分行,0,china,0,0,0,1,0,上市,G2801,NA,NA,11,NA,NA,NA
+2015,2801,再投資大陸公司,彰化商業銀行股份有限公司東莞分行,0,china,0,0,0,1,0,上市,G2801,NA,NA,11,NA,NA,NA
+2015,2801,再投資大陸公司,彰化商業銀行股份有限公司福州分行,0,china,0,0,0,1,0,上市,G2801,NA,NA,11,NA,NA,NA
+2015,2801,彰化商業銀行股份有限公司,彰銀人身保險代理人股份有限公司,1,台灣,0,1,0,0,0,上市,G2801,51811609,12876174,NA,NA,NA,NA
+2015,2801,彰化商業銀行股份有限公司,彰銀保險經紀人股份有限公司,1,台灣,0,1,0,0,0,上市,G2801,51811609,80175776,NA,NA,NA,NA

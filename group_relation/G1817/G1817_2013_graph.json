@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": true, "name": "凱撒衛浴股份有限公司", "no_holder": false, "taxcode": "NA"}, {"is_core": false, "source": [{"holder": "1", "name": "凱撒衛浴股份有限公司"}], "name": "越南凱撒衛浴股份有限公司", "no_holder": false, "taxcode": "NA"}], "links": [{"target": 1, "holder": "100.000000", "source": 0}], "y": "2013"}

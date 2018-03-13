@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6508,惠光股份有限公司,HKC AGROSCIENCE SDN. BHD.,1,馬來西亞,1,1,0,0,0,上櫃,G6508,69546202,NA,NA,NA,NA,NA
+2016,6508,惠光股份有限公司,"HUI KWANG (THAILAND) CO., LTD.",1,泰國,1,1,0,0,0,上櫃,G6508,69546202,NA,NA,NA,NA,NA
+2016,6508,惠光股份有限公司,"HUI KWANG INTERNATIONAL CO., LTD.",1,模里西斯,1,1,0,0,0,上櫃,G6508,69546202,NA,NA,NA,NA,NA
+2016,6508,"HUI KWANG INTERNATIONAL CO., LTD.",上海惠光環境科技有限公司,1,china,0,1,0,1,0,上櫃,G6508,NA,NA,NA,NA,NA,NA
+2016,6508,上海惠光環境科技有限公司,浙江喜萊士農產製品有限公司,1,china,0,1,0,1,0,上櫃,G6508,NA,NA,NA,NA,NA,NA
+2016,6508,"HUI KWANG INTERNATIONAL CO., LTD.",浙江惠光生化有限公司,0.682,china,0,1,0,1,0,上櫃,G6508,NA,NA,NA,NA,NA,NA
+2016,6508,上海惠光環境科技有限公司,浙江惠光生化有限公司,0.318,不明,0,1,0,0,0,上櫃,G6508,NA,NA,NA,NA,NA,NA
+2016,6508,惠光投資股份有限公司,惠光股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6508,23223411,69546202,NA,NA,NA,NA

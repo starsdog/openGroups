@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,6425,易發精機股份有限公司,East Field Holdings (H.K.) Limited,1,香港,1,1,0,0,0,興櫃,G6425,22994919,NA,NA,NA,NA,NA
+2015,6425,易發精機股份有限公司,Euro Treasure Inc.,1,薩摩亞,1,1,0,0,0,興櫃,G6425,22994919,NA,NA,NA,NA,NA
+2015,6425,易發精機股份有限公司,PEAK POWER & MFG INC.,0.5025,美國,1,1,0,0,0,興櫃,G6425,22994919,NA,NA,NA,NA,NA
+2015,6425,易發精機股份有限公司,Suncorp Visio Inc.,1,英屬維京群島,1,1,0,0,0,興櫃,G6425,22994919,NA,NA,NA,NA,NA
+2015,6425,東野精機股份有限公司,"Touno Seiki Co., Ltd.",0,日本,0,0,1,0,0,興櫃,G6425,84530329,NA,NA,NA,NA,NA
+2015,6425,易發精機股份有限公司,台灣應用模組股份有限公司,0,台灣,1,0,1,0,0,興櫃,G6425,22994919,53633898,NA,NA,NA,NA
+2015,6425,Euro Treasure Inc.,易發精機(上海)有限公司,1,china,0,1,0,1,0,興櫃,G6425,NA,NA,NA,NA,NA,NA
+2015,6425,East Field Holdings (H.K.) Limited,東野精機(昆山)有限公司,1,china,0,1,0,1,0,興櫃,G6425,NA,NA,NA,NA,NA,NA
+2015,6425,易發精機股份有限公司,東野精機股份有限公司,1,台灣,1,1,0,0,0,興櫃,G6425,22994919,84530329,NA,NA,NA,NA

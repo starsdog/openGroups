@@ -1,0 +1,43 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,3023,優群科技股份有限公司,Argosy Technology B.V.,1,荷蘭,0,0,1,0,0,上市,G3023,22575850,NA,NA,NA,NA,NA
+2013,3023,優群科技股份有限公司,Argosy Technology Inc.,1,美國,0,0,1,0,0,上市,G3023,22575850,NA,NA,NA,NA,NA
+2013,3023,優群科技股份有限公司,"Ari International (Singapore)Pte.,Ltd.",1,新加坡,0,0,1,0,0,上市,G3023,22575850,NA,NA,NA,NA,NA
+2013,3023,優群科技股份有限公司,Ari International B.V.,1,荷蘭,0,0,1,0,0,上市,G3023,22575850,NA,NA,NA,NA,NA
+2013,3023,優群科技股份有限公司,"Global Saber Electronics Co., Ltd.",1,模里西斯,0,0,1,0,0,上市,G3023,22575850,NA,NA,NA,NA,NA
+2013,3023,Super Elite Ltd.,"Hong Kong Comtek Electronics Co., Ltd.",1,香港,0,0,1,0,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,"Korea Sinbon Electronics Co., Ltd.",0.375,南韓,1,0,1,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,優群科技股份有限公司,NOVAC ARGOSY,0.49,日本,0,0,1,0,0,上市,G3023,22575850,NA,NA,NA,NA,NA
+2013,3023,優群科技股份有限公司,ROTEC LIMITED,0.7714,英屬維京群島,0,0,1,0,0,上市,G3023,22575850,NA,NA,NA,NA,NA
+2013,3023,"Global Saber Electronics Co., Ltd.",ROTEC LIMITED,0.2286,英屬維京群島,0,0,1,0,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,"Samoa Smart & Diligent Co., Ltd.",0.5151,薩摩亞,1,1,0,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,"Sinbon International Enterprise Co., Ltd.","Sinact (Hong Kong) Co., Ltd.",1,香港,0,1,0,0,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,"Sinbon International Enterprise Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,Sinbon Technologies L.L.C.,0.51,美國,1,1,0,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,"Worldwide Wire Harnesse Co., Ltd.","Sinbon Technologies Tennessee, L.L.C.",1,美國,0,0,1,0,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,Sinbon USA L.L.C.,1,美國,1,1,0,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,Super Elite Ltd.,0.6448,模里西斯,1,1,0,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,Super Elite Ltd.,Super Progressive Ltd.,0.6448,模里西斯,0,1,0,0,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,"Worldwide Wire Harnesse Co., Ltd.",0.5,薩摩亞,1,1,0,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,再投資大陸公司,上海旭竑電子貿易有限公司,0.5106,china,0,0,0,1,0,上市,G3023,NA,NA,1,NA,NA,NA
+2013,3023,"Sinbon International Enterprise Co., Ltd.",上海信邦電子有限公司,1,china,0,1,0,1,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,再投資大陸公司,大陸中國數字圖書館有限責任公司,0.0485,china,0,0,0,1,0,上市,G3023,NA,NA,1,NA,NA,NA
+2013,3023,Super Elite Ltd.,太康精密(中山 )有限公司,0.6448,china,0,1,0,1,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,日本信邦電子株式會社,0.7,日本,1,1,0,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,北京信邦同安電子有限公司,1,china,1,1,0,1,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,北京信邦電子有限公司,1,china,1,1,0,1,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,"Sinbon International Enterprise Co., Ltd.",江陰信邦電子有限公司,1,china,0,1,0,1,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,"Sinact (Hong Kong) Co., Ltd.",江陰信捷正電子有限公司,1,china,0,1,0,1,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,無錫巧勤光電科技有限公司,東莞市巧勤光電科技有限公司,0,不明,0,1,0,0,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,"Hong Kong Comtek Electronics Co., Ltd.",東莞旭竤電子有限公司,0,不明,0,1,0,0,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,"Sinbon International Enterprise Co., Ltd.",信邦電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,優群科技股份有限公司,信邦電子股份有限公司,NA,NA,0,0,0,0,1,上市,G3023,22575850,23542766,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,冠澤股份有限公司,1,台灣,1,1,0,0,0,上市,G3023,23542766,80126071,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,香港信邦電子有限公司,1,香港,1,1,0,0,0,上市,G3023,23542766,NA,NA,NA,NA,NA
+2013,3023,"Sinbon International Enterprise Co., Ltd.",桐城信邦電子有限公司,1,china,0,1,0,1,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,"Sinbon International Enterprise Co., Ltd.",無錫巧勤光電科技有限公司,0,china,0,1,0,1,0,上市,G3023,NA,NA,NA,NA,NA,NA
+2013,3023,再投資大陸公司,寧波巧勤光電科技有限公司,0.5151,china,0,0,0,1,0,上市,G3023,NA,NA,1,NA,NA,NA
+2013,3023,冠澤股份有限公司,數碼醫療器材股份有限公司,0.8548,台灣,0,1,0,0,0,上市,G3023,80126071,27774718,NA,NA,NA,NA
+2013,3023,再投資大陸公司,優群(北京)科技有限公司,0.12,china,0,0,0,1,0,上市,G3023,NA,NA,1,NA,NA,NA
+2013,3023,信邦電子股份有限公司,優群科技股份有限公司,0.035,台灣,1,0,1,0,0,上市,G3023,23542766,22575850,NA,NA,NA,NA
+2013,3023,冠澤股份有限公司,優群科技股份有限公司,0.174,台灣,0,0,1,0,0,上市,G3023,80126071,22575850,NA,NA,NA,NA
+2013,3023,信邦電子股份有限公司,聯鼎創業投資股份有限公司,0.2,台灣,1,0,1,0,0,上市,G3023,23542766,80347004,NA,NA,NA,NA

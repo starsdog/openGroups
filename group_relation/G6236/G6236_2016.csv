@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6236,HClife Int'l Corp.,HCLIFE (Singapore) Pte. Ltd.,1,新加坡,0,0,1,0,0,上櫃,G6236,NA,NA,NA,NA,NA,NA
+2016,6236,HClife Int'l Corp.,"HCLIFE (Thailand) Co., Ltd.",0.49,泰國,0,0,1,0,0,上櫃,G6236,NA,NA,NA,NA,NA,NA
+2016,6236,康見國際股份有限公司,HClife Int'l Corp.,1,汶萊,0,0,1,0,0,上櫃,G6236,24378270,NA,NA,NA,NA,NA
+2016,6236,HClife Int'l Corp.,HCLIFE SDN. BHD.,1,馬來西亞,0,1,0,0,0,上櫃,G6236,NA,NA,NA,NA,NA,NA
+2016,6236,漢青國際股份有限公司,康呈生醫科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6236,54262521,16094290,NA,NA,NA,NA
+2016,6236,元利資產管理股份有限公司,康呈生醫科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6236,53116542,16094290,NA,NA,NA,NA
+2016,6236,豐利富股份有限公司,康呈生醫科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6236,24287145,16094290,NA,NA,NA,NA
+2016,6236,聚合發資產管理股份有限公司,康呈生醫科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6236,54320711,16094290,NA,NA,NA,NA
+2016,6236,仲達資產管理股份有限公司,康呈生醫科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6236,54319518,16094290,NA,NA,NA,NA
+2016,6236,康見國際股份有限公司,康見國際(香港)有限公司,1,香港,0,0,1,0,0,上櫃,G6236,24378270,NA,NA,NA,NA,NA
+2016,6236,康呈生醫科技股份有限公司,康見國際股份有限公司,1,台灣,1,1,0,0,0,上櫃,G6236,16094290,24378270,NA,NA,NA,NA
+2016,6236,康呈生醫科技股份有限公司,衛鴻國際股份有限公司,0.3,台灣,0,0,1,0,0,上櫃,G6236,16094290,54088241,NA,NA,NA,NA

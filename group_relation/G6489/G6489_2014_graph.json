@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "尚志半導體股份有限公司", "no_holder": false, "taxcode": "89487188"}, {"is_core": true, "source": [{"holder": "NA", "name": "尚志半導體股份有限公司"}], "name": "德晶科技股份有限公司", "no_holder": false, "taxcode": "53769281"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

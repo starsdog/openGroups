@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6275,Yen Hung International Corp.,Y.H. Tech International Corp.,1,聖啟斯,0,0,1,0,0,上櫃,G6275,NA,NA,NA,NA,NA,NA
+2016,6275,Yen Sun Tech International (Samoa) Corp.,Yen Hung International Corp.,1,薩摩亞,0,0,1,0,0,上櫃,G6275,NA,NA,NA,NA,NA,NA
+2016,6275,元山科技工業股份有限公司,Yen Sun Tech International (Samoa) Corp.,1,薩摩亞,1,0,1,0,0,上櫃,G6275,22264722,NA,NA,NA,NA,NA
+2016,6275,元山科技工業股份有限公司,Yen Sun Technology (BVI) Corp.,1,英屬維京群島,1,0,1,0,0,上櫃,G6275,22264722,NA,NA,NA,NA,NA
+2016,6275,Yen Sun Tech International (Samoa) Corp.,Yen Tong Tech International (Samoa) Corp.,1,薩摩亞,0,0,1,0,0,上櫃,G6275,NA,NA,NA,NA,NA,NA
+2016,6275,Yen Sun Technology (BVI) Corp.,上海元山電器工業有限公司,1,china,0,1,0,1,0,上櫃,G6275,NA,NA,NA,NA,NA,NA
+2016,6275,元山科技工業股份有限公司,元久科技工業股份有限公司,1,台灣,1,1,0,0,0,上櫃,G6275,22264722,54250757,NA,NA,NA,NA
+2016,6275,東莞達伸電子有限公司,東莞市元將五金有限公司,1,china,0,1,0,1,0,上櫃,G6275,NA,NA,NA,NA,NA,NA
+2016,6275,Y.H. Tech International Corp.,東莞達伸電子有限公司,1,china,0,1,0,1,0,上櫃,G6275,NA,NA,NA,NA,NA,NA

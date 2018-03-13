@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4132,Golden Biotechnology Corp.,"Rich Wide Technology CO., LTD.",1,不明,0,1,0,0,0,興櫃,G4132,NA,NA,NA,NA,NA,NA
+2016,4132,Golden Biotechnology Corp.,"Glory Stage International CO., LTD.",1,不明,0,1,0,0,0,興櫃,G4132,NA,NA,NA,NA,NA,NA
+2016,4132,國鼎生物科技股份有限公司,Golden Biotechnology Corp.,1,汶萊,1,1,0,0,0,興櫃,G4132,80280616,NA,NA,NA,NA,NA
+2016,4132,國鼎生物科技股份有限公司,Golden Biotechnology Corporation (DE),1,美國,1,0,1,0,0,興櫃,G4132,80280616,NA,NA,NA,NA,NA
+2016,4132,Golden Biotechnology Corporation (DE),Golden Biotechnology Corporation (NJ),1,美國,0,1,0,0,0,興櫃,G4132,NA,NA,NA,NA,NA,NA
+2016,4132,國鼎生物科技股份有限公司,Golden Biotechnology Japan,1,日本,1,0,1,0,0,興櫃,G4132,80280616,NA,NA,NA,NA,NA
+2016,4132,Golden Biotechnology Japan,Golden Biotechnology Korea LLC,1,南韓,0,0,1,0,0,興櫃,G4132,NA,NA,NA,NA,NA,NA
+2016,4132,Golden Biotechnology Corp.,Sunjour Healthcare Corporation,1,美國,0,0,1,0,0,興櫃,G4132,NA,NA,NA,NA,NA,NA
+2016,4132,"Glory Stage International CO., LTD.",國鼎生技(北京)商貿有限公司,1,china,0,1,0,1,0,興櫃,G4132,NA,NA,NA,NA,NA,NA
+2016,4132,大鵬投資股份有限公司,國鼎生物科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4132,23358183,80280616,NA,NA,NA,NA
+2016,4132,信宇投資股份有限公司,國鼎生物科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G4132,86687839,80280616,NA,NA,NA,NA
+2016,4132,國鼎生技(北京)商貿有限公司,麗勝堂(廈門)商貿有限公司,1,china,0,1,0,1,0,興櫃,G4132,NA,NA,NA,NA,NA,NA

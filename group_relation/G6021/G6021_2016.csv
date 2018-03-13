@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6021,大慶證券股份有限公司,大慶證券投資顧問股份有限公司,1,不明,1,1,0,0,0,上櫃,G6021,22957098,24944839,NA,NA,NA,NA
+2016,6021,加慶科技股份有限公司,大慶證券股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6021,70703480,22957098,NA,NA,NA,NA
+2016,6021,北濱育樂事業股份有限公司,大慶證券股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6021,22954613,22957098,NA,NA,NA,NA

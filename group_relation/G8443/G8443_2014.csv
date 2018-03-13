@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,8443,阿瘦實業股份有限公司,"A.S.O International Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G8443,80511709,NA,NA,NA,NA,NA
+2014,8443,"A.S.O International Co., Ltd.","A.S.O International Holdings Co., Limited",1,香港,0,1,0,0,0,上市,G8443,NA,NA,NA,NA,NA,NA
+2014,8443,"A.S.O International Holdings Co., Limited",阿瘦(上海)貿易有限公司,1,china,0,1,0,1,0,上市,G8443,NA,NA,NA,NA,NA,NA
+2014,8443,"A.S.O International Holdings Co., Limited",阿瘦(南京)貿易有限公司,1,china,0,1,0,1,0,上市,G8443,NA,NA,NA,NA,NA,NA
+2014,8443,薩摩亞商大利顧問有限公司,阿瘦實業股份有限公司,NA,NA,0,0,0,0,1,上市,G8443,NA,80511709,NA,NA,NA,NA
+2014,8443,阿瘦(上海)貿易有限公司,南通阿瘦貿易有限公司,1,china,0,1,0,1,0,上市,G8443,NA,NA,NA,NA,NA,NA
+2014,8443,阿瘦實業股份有限公司,優尼聖企業股份有限公司,0,台灣,0,1,0,0,0,上市,G8443,80511709,53619707,NA,NA,NA,NA

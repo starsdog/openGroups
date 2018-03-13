@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "台灣新光國際創業投資股份有限公司", "no_holder": false, "taxcode": "53080431"}, {"is_core": true, "source": [{"holder": "NA", "name": "台灣新光國際創業投資股份有限公司"}], "name": "智泰科技股份有限公司", "no_holder": false, "taxcode": "89706487"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

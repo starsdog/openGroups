@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3229,晟鈦股份有限公司,"CHEER TIME CO., LTD.",1,薩摩亞,1,0,1,0,0,上市,G3229,22570840,NA,NA,NA,NA,NA
+2016,3229,"CHEER TIME CO., LTD.","CHEER TIME INTERNATIONAL CO., LTD.",1,薩摩亞,0,1,0,0,0,上市,G3229,NA,NA,NA,NA,NA,NA
+2016,3229,"CHEER TIME CO., LTD.",LEE SHING LIMITED,1,薩摩亞,0,1,0,0,0,上市,G3229,NA,NA,NA,NA,NA,NA
+2016,3229,晟鈦興業股份有限公司,和稷科技股份有限公司,0.2,台灣,0,0,1,0,0,上市,G3229,54707067,27283163,NA,NA,NA,NA
+2016,3229,晟鈦興業股份有限公司,帝盟科技股份有限公司,0.3014,台灣,0,0,1,0,0,上市,G3229,54707067,16920480,NA,NA,NA,NA
+2016,3229,鼎陞投資有限公司,晟鈦股份有限公司,NA,NA,0,0,0,0,1,上市,G3229,54166626,22570840,NA,NA,NA,NA
+2016,3229,振通投資股份有限公司,晟鈦股份有限公司,NA,NA,0,0,0,0,1,上市,G3229,13000539,22570840,NA,NA,NA,NA
+2016,3229,晟鈦股份有限公司,晟鈦興業股份有限公司,1,台灣,1,1,0,0,0,上市,G3229,22570840,54707067,NA,NA,NA,NA
+2016,3229,"CHEER TIME INTERNATIONAL CO., LTD.",浙江晟鈦科技工業有限公司,1,china,0,1,0,1,0,上市,G3229,NA,NA,NA,NA,NA,NA
+2016,3229,LEE SHING LIMITED,貴州神華宏易達煤業有限公司,0.51,china,0,1,0,1,0,上市,G3229,NA,NA,NA,NA,NA,NA

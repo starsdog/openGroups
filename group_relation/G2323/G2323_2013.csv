@@ -1,0 +1,66 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,2323,中嘉國際投資股份有限公司,CIA Holding Corp.,0.1834,開曼群島,0,1,0,0,0,上市,G2323,89400134,NA,NA,NA,NA,NA
+2013,2323,中環股份有限公司,CIA Holding Corp.,0.8166,開曼群島,0,1,0,0,0,上市,G2323,12205020,NA,NA,NA,NA,NA
+2013,2323,"Deltamac (Hong Kong) Co., Ltd.",Clickplay Limited,1,香港,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,中藝國際影視股份有限公司,CMC Content Corporation,1,不明,0,1,0,0,0,上市,G2323,16445937,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,CMC Magnetics (H.K.) Limited,1,香港,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,CMC Packaging Group Limited,0.52,不明,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,SuperNet Holding Ltd.,"Deltamac (Hong Kong) Co., Ltd.",0.3481,不明,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,得利影視股份有限公司,"Deltamac (Hong Kong) Co., Ltd.",0.6231,不明,0,1,0,0,0,上市,G2323,89398566,NA,NA,NA,NA,NA
+2013,2323,得利影視股份有限公司,"Deltamac International Co., Ltd.",1,不明,0,1,0,0,0,上市,G2323,89398566,NA,NA,NA,NA,NA
+2013,2323,中環股份有限公司,EMC Investment Holding Ltd.,1,開曼群島,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,中環股份有限公司,Europa Magnetics Corp. Ltd.,1,英國,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,E-WORLD Corporation Limited,1,不明,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,"F5 Holdings, Ltd.",1,美國,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,中環國際娛樂事業股份有限公司,FAT Penguin Pictures Corporation,0,不明,0,1,0,0,0,上市,G2323,16290568,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,FJKL Technology (BVI) Corp.,0.7104,英屬維京群島,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,本盟光電股份有限公司,FJKL Technology (BVI) Corp.,0.2896,英屬維京群島,0,1,0,0,0,上市,G2323,23912057,NA,NA,NA,NA,NA
+2013,2323,"F5 Holdings, Ltd.",Hotan Corp.,0.9995,美國,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,IMAG Optical Storage Limited,0,不明,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,"Jet-Thai Hi-Tech Co., Ltd.",1,泰國,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,CIA Holding Corp.,Kinease Investment Ltd.,1,不明,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,Media Factory LLC,1,美國,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,6144,"Deltamac (Hong Kong) Co., Ltd.",Photopia Workshop Limited,1,香港,0,1,0,0,0,上櫃,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,CIA Holding Corp.,SuperNet Holding Ltd.,1,英屬維京群島,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,CIA Holding Corp.,Teon USA Corporation,1,不明,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,1475,本盟光電股份有限公司,"Texture Home Fashions, Inc.",1,美國,1,1,0,0,0,上市,G2323,23912057,NA,NA,NA,NA,NA
+2013,2323,Vigobyte Tape Corp.,"Vigobyte de Mexico, S.A. de C.V.",1,不明,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,"F5 Holdings, Ltd.",Vigobyte Tape Corp.,1,美國,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,"F5 Holdings, Ltd.",WINTAN Capital LLC,1,美國,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,再投資大陸公司,三朝旺(南通)農業生物科技有限公司,0.5,china,0,0,0,1,0,上市,G2323,NA,NA,11,NA,NA,NA
+2013,2323,再投資大陸公司,上海中宜包裝材料有限公司,1,china,0,0,0,1,0,上市,G2323,NA,NA,11,NA,NA,NA
+2013,2323,再投資大陸公司,上海中環光電有限公司,1,china,0,0,0,1,0,上市,G2323,NA,NA,11,NA,NA,NA
+2013,6144,"Deltamac (Hong Kong) Co., Ltd.",上海泰盛文化傳播有限公司,0,china,0,1,0,1,0,上櫃,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,中宏包裝製品(東莞)有限公司,1,china,0,1,0,1,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,中環股份有限公司,中嘉國際投資股份有限公司,1,台灣,0,1,0,0,0,上市,G2323,12205020,89400134,NA,NA,NA,NA
+2013,2323,中環股份有限公司,中環國際娛樂事業股份有限公司,1,台灣,0,1,0,0,0,上市,G2323,12205020,16290568,NA,NA,NA,NA
+2013,2323,中環股份有限公司,中藝國際影視股份有限公司,1,台灣,0,1,0,0,0,上市,G2323,12205020,16445937,NA,NA,NA,NA
+2013,1475,本盟光電股份有限公司,台灣艾伯司康有限公司,0.3068,台灣,1,0,1,0,0,上市,G2323,23912057,70556065,NA,NA,NA,NA
+2013,2323,中嘉國際投資股份有限公司,台灣達康網際網路有限公司,1,不明,0,1,0,0,0,上市,G2323,89400134,70363216,NA,NA,NA,NA
+2013,2323,中嘉國際投資股份有限公司,台灣網股份有限公司,1,不明,0,1,0,0,0,上市,G2323,89400134,70362878,NA,NA,NA,NA
+2013,2323,中嘉國際投資股份有限公司,本盟光電股份有限公司,0.3473,台灣,0,1,0,0,0,上市,G2323,89400134,23912057,NA,NA,NA,NA
+2013,2323,中環股份有限公司,本盟光電股份有限公司,0.6006,台灣,0,1,0,0,0,上市,G2323,12205020,23912057,NA,NA,NA,NA
+2013,2323,再投資大陸公司,同環信息技術(上海)有限公司,1,china,0,0,0,1,0,上市,G2323,NA,NA,11,NA,NA,NA
+2013,2323,Media Factory LLC,江蘇永興多媒體有限公司,0.9,china,0,1,0,1,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,江蘇永興電子材料有限公司,江蘇永興多媒體有限公司,0.07,不明,0,1,0,0,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,EMC Investment Holding Ltd.,江蘇永興電子材料有限公司,1,china,0,1,0,1,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,中環股份有限公司,亞藝國際股份有限公司,0.8798,台灣,0,1,0,0,0,上市,G2323,12205020,16099892,NA,NA,NA,NA
+2013,2323,中環國際娛樂事業股份有限公司,亞藝國際股份有限公司,0.0525,不明,0,1,0,0,0,上市,G2323,16290568,16099892,NA,NA,NA,NA
+2013,2323,中環股份有限公司,尚陽光電股份有限公司,0.582,台灣,0,1,0,0,0,上市,G2323,NA,28717808,NA,NA,NA,NA
+2013,2323,Media Factory LLC,南通中興多媒體有限公司,0.49,china,0,1,0,1,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,再投資大陸公司,南通中興材料科技有限公司,0.43,china,0,0,0,1,0,上市,G2323,NA,NA,11,NA,NA,NA
+2013,2323,江蘇永興電子材料有限公司,南通運興電子有限公司,1,china,0,1,0,1,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,2323,中嘉國際投資股份有限公司,威秀影城股份有限公司,0.2996,台灣,0,0,1,0,0,上市,G2323,89400134,16086448,NA,NA,NA,NA
+2013,1475,本盟光電股份有限公司,威秀影城股份有限公司,0.0004,台灣,1,0,1,0,0,上市,G2323,23912057,16086448,NA,NA,NA,NA
+2013,2323,中嘉國際投資股份有限公司,動視科技股份有限公司,0,不明,0,1,0,0,0,上市,G2323,89400134,27963056,NA,NA,NA,NA
+2013,2323,中嘉國際投資股份有限公司,得利影視股份有限公司,0.1578,不明,0,1,0,0,0,上市,G2323,89400134,89398566,NA,NA,NA,NA
+2013,2323,中環股份有限公司,得利影視股份有限公司,0.2979,台灣,0,1,0,0,0,上市,G2323,NA,89398566,NA,NA,NA,NA
+2013,6144,日商文化便利俱樂部股份有限公司,得利影視股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2323,NA,89398566,NA,NA,NA,NA
+2013,2323,亞藝國際股份有限公司,得利影視股份有限公司,0.0288,不明,0,1,0,0,0,上市,G2323,16099892,89398566,NA,NA,NA,NA
+2013,2323,FJKL Technology (BVI) Corp.,富士光科技(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2323,NA,NA,NA,NA,NA,NA
+2013,1475,本盟光電股份有限公司,富士光科技股份有限公司,1,台灣,1,1,0,0,0,上市,G2323,23912057,27569224,NA,NA,NA,NA
+2013,2323,中嘉國際投資股份有限公司,富民能源有限公司,0,不明,0,1,0,0,0,上市,G2323,89400134,25136335,NA,NA,NA,NA
+2013,2323,中嘉國際投資股份有限公司,富能動力股份有限公司,1,不明,0,1,0,0,0,上市,G2323,89400134,96933536,NA,NA,NA,NA
+2013,2323,中環股份有限公司,富晶通科技股份有限公司,0.3747,台灣,0,1,0,0,0,上市,G2323,12205020,70791435,NA,NA,NA,NA
+2013,2323,中環股份有限公司,富陽光電股份有限公司,0.77,台灣,0,1,0,0,0,上市,G2323,12205020,28418668,NA,NA,NA,NA
+2013,2323,尚陽光電股份有限公司,積陽材料股份有限公司,1,不明,0,1,0,0,0,上市,G2323,28717808,53108634,NA,NA,NA,NA

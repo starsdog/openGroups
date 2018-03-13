@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4944,兆遠科技股份有限公司,Crystalwise Technology (HK) Limited,1,香港,1,1,0,0,0,上櫃,G4944,12646223,NA,NA,NA,NA,NA
+2016,4944,兆遠科技股份有限公司,SY Company LLC.,1,美國,1,1,0,0,0,上櫃,G4944,12646223,NA,NA,NA,NA,NA
+2016,4944,SY Company LLC.,上海召業申凱電子材料有限公司,1,china,0,1,0,1,0,上櫃,G4944,NA,NA,NA,NA,NA,NA
+2016,4944,宏遠(濟寧)光電材料有限公司,山東兆鴻光電材料有限公司,1,china,0,1,0,1,0,上櫃,G4944,NA,NA,NA,NA,NA,NA
+2016,4944,Crystalwise Technology (HK) Limited,元鴻(山東)光電材料有限公司,1,china,0,1,0,1,0,上櫃,G4944,NA,NA,NA,NA,NA,NA
+2016,4944,宏誠創業投資股份有限公司,兆遠科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4944,84449897,12646223,NA,NA,NA,NA
+2016,4944,中美矽晶製品股份有限公司,兆遠科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4944,47238650,12646223,NA,NA,NA,NA
+2016,4944,元鴻(山東)光電材料有限公司,宏遠(濟寧)光電材料有限公司,1,china,0,1,0,1,0,上櫃,G4944,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "育投資股份有限公司", "no_holder": false, "taxcode": "53356015"}, {"is_core": true, "source": [{"holder": "NA", "name": "育投資股份有限公司"}], "name": "育駿科技股份有限公司", "no_holder": false, "taxcode": "24341485"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

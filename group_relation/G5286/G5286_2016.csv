@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5286,育駿科技股份有限公司,Cube Magic interactive Limited,1,薩摩亞,1,0,1,0,0,興櫃,G5286,24341485,NA,NA,NA,NA,NA
+2016,5286,育駿科技股份有限公司,育駿一人有限公司,1,澳門,1,1,0,0,0,興櫃,G5286,24341485,NA,NA,NA,NA,NA
+2016,5286,育投資股份有限公司,育駿科技股份有限公司,NA,NA,0,0,0,0,1,興櫃,G5286,53356015,24341485,NA,NA,NA,NA
+2016,5286,育駿科技股份有限公司,品趣網路股份有限公司,0.2,台灣,1,0,1,0,0,興櫃,G5286,24341485,24533131,NA,NA,NA,NA
+2016,5286,育駿科技股份有限公司,燃點科技股份有限公司,0.2,台灣,1,0,1,0,0,興櫃,G5286,24341485,24688964,NA,NA,NA,NA

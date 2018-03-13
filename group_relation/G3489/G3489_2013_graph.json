@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "文森建設有限公司", "no_holder": false, "taxcode": "27982321"}, {"is_core": true, "source": [{"holder": "NA", "name": "文森建設有限公司"}], "name": "森寶開發股份有限公司", "no_holder": false, "taxcode": "86140894"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

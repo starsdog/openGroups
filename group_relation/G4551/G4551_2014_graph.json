@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "六方精機股份有限公司", "no_holder": false, "taxcode": "43847013"}, {"is_core": true, "source": [{"holder": "NA", "name": "六方精機股份有限公司"}], "name": "智伸科技股份有限公司", "no_holder": false, "taxcode": "22363342"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

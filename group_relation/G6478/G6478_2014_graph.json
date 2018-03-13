@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "TOHOHOLDINGSC", "no_holder": false, "taxcode": "NA"}, {"is_core": true, "source": [{"holder": "NA", "name": "TOHOHOLDINGSC"}], "name": "鋇鎝科技股份有限公司", "no_holder": false, "taxcode": "13015651"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

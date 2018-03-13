@@ -1,0 +1,23 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3006,晶豪科技股份有限公司,ASI Computer Ltd.,0,香港,0,1,0,0,0,上市,G3006,16130280,NA,NA,NA,NA,NA
+2015,3006,沛訊股份有限公司,ASI Computer Ltd.,0,不明,0,1,0,0,0,上市,G3006,86385601,NA,NA,NA,NA,NA
+2015,3006,晶豪科技股份有限公司,CML Inc.,1,英屬維京群島,0,1,0,0,0,上市,G3006,16130280,NA,NA,NA,NA,NA
+2015,3006,ASI Computer Ltd.,CML Inc.,0,英屬維京群島,0,1,0,0,0,上市,G3006,NA,NA,NA,NA,NA,NA
+2015,3006,CML Inc.,Elite Innovation (B.V.I.) Ltd.,1,英屬維京群島,0,0,1,0,0,上市,G3006,NA,NA,NA,NA,NA,NA
+2015,3006,Elite Innovation (B.V.I.) Ltd.,Elite Innovation Japan Ltd.,1,不明,0,1,0,0,0,上市,G3006,NA,NA,NA,NA,NA,NA
+2015,3006,晶豪科技股份有限公司,Elite Investment Services Ltd.,1,英屬維京群島,1,0,1,0,0,上市,G3006,16130280,NA,NA,NA,NA,NA
+2015,3006,晶豪科技股份有限公司,Elite Semiconductor (B.V.I.) Ltd.,1,英屬維京群島,1,0,1,0,0,上市,G3006,16130280,NA,NA,NA,NA,NA
+2015,3006,晶豪科技股份有限公司,沛訊股份有限公司,1,台灣,0,1,0,0,0,上市,G3006,16130280,86385601,NA,NA,NA,NA
+2015,3006,晶豪科技股份有限公司,宜揚科技股份有限公司,0.1992,台灣,1,0,1,0,0,上市,G3006,16130280,80080552,NA,NA,NA,NA
+2015,3006,晶豪科技股份有限公司,長風投資股份有限公司,1,台灣,0,1,0,0,0,上市,G3006,16130280,70512530,NA,NA,NA,NA
+2015,3006,長風投資股份有限公司,耕源科技股份有限公司,0.5875,台灣,0,1,0,0,0,上市,G3006,70512530,54399955,NA,NA,NA,NA
+2015,3006,晶豪科技股份有限公司,捷詠投資股份有限公司,0.4186,台灣,0,1,0,0,0,上市,G3006,16130280,24294363,NA,NA,NA,NA
+2015,3006,長風投資股份有限公司,晶湧科技股份有限公司,0.7807,台灣,0,1,0,0,0,上市,G3006,70512530,27661051,NA,NA,NA,NA
+2015,3006,財團法人晶豪科技教育基金會,晶豪科技股份有限公司,NA,NA,0,0,0,0,1,上市,G3006,31423145,16130280,NA,NA,NA,NA
+2015,3006,長風投資股份有限公司,晶鎂電子股份有限公司,0.6,台灣,0,1,0,0,0,上市,G3006,70512530,27495265,NA,NA,NA,NA
+2015,3006,晶豪科技股份有限公司,華信光電科技股份有限公司,0.1459,台灣,1,0,1,0,0,上市,G3006,16130280,28621753,NA,NA,NA,NA
+2015,3006,長風投資股份有限公司,華信光電科技股份有限公司,0.1414,台灣,0,0,1,0,0,上市,G3006,70512530,28621753,NA,NA,NA,NA
+2015,3411,宜揚科技股份有限公司,Eon Silicon Solution (Samoa) Inc.,1,薩摩亞,1,1,0,0,0,公開發行,G3006,80080552,NA,NA,NA,NA,NA
+2015,3411,宜揚科技股份有限公司,"Eon Silicon Solutions, Inc. USA",1,美國,1,1,0,0,0,公開發行,G3006,80080552,NA,NA,NA,NA,NA
+2015,3411,Eon Silicon Solution (Samoa) Inc.,宜希格瑪科技有限公司,0.49,china,0,0,0,1,0,公開發行,G3006,NA,NA,NA,NA,NA,NA
+2015,3411,Eon Silicon Solution (Samoa) Inc.,宜揚高科(深圳)電子有限公司,1,china,0,1,0,1,0,公開發行,G3006,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2936,CFS Global Inc.,"CFS (USA), Inc.",1,美國,0,1,0,0,0,公開發行,G2936,NA,NA,NA,NA,NA,NA
+2014,2936,"Coaster International Co., Ltd.",CFS Global Inc.,1,開曼群島,1,1,0,0,0,公開發行,G2936,24802120,NA,NA,NA,NA,NA
+2014,2936,"Coaster International Co., Ltd.","COA Asia, Inc.",1,開曼群島,1,1,0,0,0,公開發行,G2936,24802120,NA,NA,NA,NA,NA
+2014,2936,"Coaster International Co., Ltd.","COA, Inc.",1,美國,1,1,0,0,0,公開發行,G2936,24802120,NA,NA,NA,NA,NA
+2014,2936,"COA Asia, Inc.",Coaster Furniture (Asia) Service Holdings Ltd.,1,香港,0,1,0,0,0,公開發行,G2936,NA,NA,NA,NA,NA,NA
+2014,2936,"COA, Inc.","Deliverall Logistics, Inc.",1,美國,0,1,0,0,0,公開發行,G2936,NA,NA,NA,NA,NA,NA
+2014,2936,"COA Asia, Inc.",Ye Hey (Malaysia) Logistics Service SDN BHD,1,馬來西亞,0,1,0,0,0,公開發行,G2936,NA,NA,NA,NA,NA,NA
+2014,2936,"COA Asia, Inc.","Ye Hey Holding Co., Ltd.",1,香港,0,1,0,0,0,公開發行,G2936,NA,NA,NA,NA,NA,NA
+2014,2936,"COA Asia, Inc.",台灣儀海股份有限公司,0.99,台灣,0,1,0,0,0,公開發行,G2936,NA,54102898,NA,NA,NA,NA
+2014,2936,Coaster Furniture (Asia) Service Holdings Ltd.,柯仕達(昆山)諮詢服務有限公司,1,china,0,1,0,1,0,公開發行,G2936,NA,NA,NA,NA,NA,NA
+2014,2936,"Ye Hey Holding Co., Ltd.",深圳市儀海供應鏈有限公司,1,china,0,1,0,1,0,公開發行,G2936,NA,NA,NA,NA,NA,NA

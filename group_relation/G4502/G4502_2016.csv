@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4502,英屬維京群島源福企業有限公司,Rosta International Limited,0.0104,開曼群島,0,1,0,0,0,上櫃,G4502,NA,NA,NA,NA,NA,NA
+2016,4502,恆毅投資股份有限公司,Rosta International Limited,0.963,開曼群島,0,1,0,0,0,上櫃,G4502,24878280,NA,NA,NA,NA,NA
+2016,4502,健信科技工業股份有限公司,恆毅投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G4502,55878947,24878280,NA,NA,NA,NA
+2016,4502,健信科技工業股份有限公司,英屬維京群島源福企業有限公司,1,英屬維京群島,1,1,0,0,0,上櫃,G4502,55878947,NA,NA,NA,NA,NA
+2016,4502,嶸毅投資股份有限公司,健信科技工業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4502,53752394,55878947,NA,NA,NA,NA
+2016,4502,健信科技工業股份有限公司,健鼎投資股份有限公司,1,台灣,1,1,0,0,0,上櫃,G4502,55878947,55912327,NA,NA,NA,NA
+2016,4502,蘇州源成鋁製品製造有限公司,淮安源成汽車零件有限公司,1,china,0,1,0,1,0,上櫃,G4502,NA,NA,NA,NA,NA,NA
+2016,4502,蘇州源成鋁製品製造有限公司,蘇州源成汽車零件有限公司,1,china,0,1,0,1,0,上櫃,G4502,NA,NA,NA,NA,NA,NA
+2016,4502,Rosta International Limited,蘇州源成鋁製品製造有限公司,0.9753,china,0,1,0,1,0,上櫃,G4502,NA,NA,NA,NA,NA,NA

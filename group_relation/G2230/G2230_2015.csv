@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2230,泰茂實業股份有限公司,"CTI Holdings Co., Ltd.",1,薩摩亞,1,1,0,0,0,上櫃,G2230,86070187,NA,NA,NA,NA,NA
+2015,2230,"CTI Holdings Co., Ltd.","King Ho Holding Co., Ltd.",1,香港,0,1,0,0,0,上櫃,G2230,NA,NA,NA,NA,NA,NA
+2015,2230,"CTI Holdings Co., Ltd.","Repinsa Zona Libre, S.A.",1,巴拿馬,0,1,0,0,0,上櫃,G2230,NA,NA,NA,NA,NA,NA
+2015,2230,普傑投資股份有限公司,泰茂實業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2230,27506278,86070187,NA,NA,NA,NA
+2015,2230,"King Ho Holding Co., Ltd.",浙江普禮汽配製造有限公司,1,china,0,1,0,1,0,上櫃,G2230,NA,NA,NA,NA,NA,NA
+2015,2230,泰茂實業股份有限公司,富合企業股份有限公司,0.2,台灣,1,0,1,0,0,上櫃,G2230,86070187,22488785,NA,NA,NA,NA

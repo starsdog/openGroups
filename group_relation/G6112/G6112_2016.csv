@@ -1,0 +1,8 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6112,聚碩科技股份有限公司,Sysage Universal Corporation,1,薩摩亞,1,1,0,0,0,上市,G6112,16428796,NA,NA,NA,NA,NA
+2016,6112,聚碩科技股份有限公司,啟迪國際資訊股份有限公司,1,台灣,1,1,0,0,0,上市,G6112,16428796,70539313,NA,NA,NA,NA
+2016,6112,聚碩科技股份有限公司,敦新科技股份有限公司,0.5003,台灣,1,1,0,0,0,上市,G6112,16428796,12616121,NA,NA,NA,NA
+2016,6112,啟迪國際資訊股份有限公司,敦新科技股份有限公司,0.2037,台灣,0,0,1,0,0,上市,G6112,70539313,12616121,NA,NA,NA,NA
+2016,6112,聚碩科技股份有限公司,精特爾科技股份有限公司,0.9849,台灣,1,1,0,0,0,上市,G6112,16428796,28556681,NA,NA,NA,NA
+2016,6112,點將投資股份有限公司,聚碩科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6112,70355139,16428796,NA,NA,NA,NA
+2016,6112,聚碩科技股份有限公司,寰碩數碼股份有限公司,0.3801,台灣,1,0,1,0,0,上市,G6112,16428796,80259557,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,2516,新亞建設開發股份有限公司,合發土地開發股份有限公司,0.1,台灣,0,0,1,0,0,上市,G2516,11762504,24991987,NA,NA,NA,NA
+2015,2516,新亞科技有限公司,南通新興熱電有限公司,0.99,china,0,1,0,1,0,上市,G2516,13047268,NA,NA,NA,NA,NA
+2015,2516,新亞建設開發股份有限公司,新加坡新亞科技開發(股)公司,1,新加坡,0,0,1,0,0,上市,G2516,11762504,NA,NA,NA,NA,NA
+2015,2516,新亞建設開發股份有限公司,新亞科技有限公司,1,不明,1,1,0,0,0,上市,G2516,11762504,13047268,NA,NA,NA,NA

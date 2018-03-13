@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4535,PROPITIOUS INTERNATIONAL INC.,"GSK VIETNAM CO., LTD.",1,越南,0,0,1,0,0,上櫃,G4535,NA,NA,NA,NA,NA,NA
+2016,4535,至興精機股份有限公司,PROPITIOUS INTERNATIONAL INC.,0.5575,英屬維京群島,0,1,0,0,0,上櫃,G4535,22794503,NA,NA,NA,NA,NA
+2016,4535,至興精機股份有限公司,SUPERIORITY ENTERPRISE CORP.,1,英屬維京群島,0,1,0,0,0,上櫃,G4535,22794503,NA,NA,NA,NA,NA
+2016,4535,全道投資有限公司,至興精機股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4535,27482418,22794503,NA,NA,NA,NA
+2016,4535,全泰投資股份有限公司,至興精機股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4535,22656733,22794503,NA,NA,NA,NA
+2016,4535,福元投資股份有限公司,至興精機股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4535,89331593,22794503,NA,NA,NA,NA
+2016,4535,全興投資開發股份有限公司,至興精機股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4535,22002609,22794503,NA,NA,NA,NA
+2016,4535,SUPERIORITY ENTERPRISE CORP.,蘇州昶興科技有限公司,1,china,0,1,0,1,0,上櫃,G4535,NA,NA,NA,NA,NA,NA
+2016,4535,蘇州昶興科技有限公司,蘇州昶興精密有限公司,0,china,0,1,0,0,0,上櫃,G4535,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,15 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1726,永記造漆工業股份有限公司,Amass Investment Co.,1,開曼群島,1,1,0,0,0,上市,G1726,75137605,NA,NA,NA,NA,NA
+2016,1726,永記造漆工業股份有限公司,"Bmass Investment Co., Ltd",1,英屬維京群島,1,0,1,0,0,上市,G1726,75137605,NA,NA,NA,NA,NA
+2016,1726,永記造漆工業股份有限公司,"Cmass Investment Co., Ltd",1,薩摩亞,1,0,1,0,0,上市,G1726,75137605,NA,NA,NA,NA,NA
+2016,1726,YUNG CHI America Corp.,"Continental Coatings, Inc.",1,美國,0,0,1,0,0,上市,G1726,NA,NA,NA,NA,NA,NA
+2016,1726,"Cmass Investment Co., Ltd","Dmass Investment International Co., Ltd",1,薩摩亞,0,0,1,0,0,上市,G1726,NA,NA,NA,NA,NA,NA
+2016,1726,永記造漆工業股份有限公司,"Emass Investment International Co., Ltd",1,薩摩亞,1,0,1,0,0,上市,G1726,75137605,NA,NA,NA,NA,NA
+2016,1726,永記造漆工業股份有限公司,"PPG Yung Chi Coatings Co., Ltd.",0.35,越南,1,0,1,0,0,上市,G1726,75137605,NA,NA,NA,NA,NA
+2016,1726,永記造漆工業(馬來西亞)有限公司,TLT ENGINEERING SDN. BHD.,0.49,馬來西亞,0,0,1,0,0,上市,G1726,NA,NA,NA,NA,NA,NA
+2016,1726,"Emass Investment International Co., Ltd",YUNG CHI America Corp.,1,美國,0,0,1,0,0,上市,G1726,NA,NA,NA,NA,NA,NA
+2016,1726,永記造漆工業股份有限公司,台船防蝕科技股份有限公司,0.3,台灣,1,0,1,0,0,上市,G1726,75137605,24523605,NA,NA,NA,NA
+2016,1726,"Bmass Investment Co., Ltd",永記造漆工業(昆山)有限公司,1,china,0,1,0,0,0,上市,G1726,NA,NA,NA,NA,NA,NA
+2016,1726,"Dmass Investment International Co., Ltd",永記造漆工業(馬來西亞)有限公司,1,馬來西亞,0,0,1,0,0,上市,G1726,NA,NA,NA,NA,NA,NA
+2016,1726,"Dmass Investment International Co., Ltd",永記造漆工業(越南)有限公司,1,越南,0,0,1,0,0,上市,G1726,NA,NA,NA,NA,NA,NA
+2016,1726,永盈投資股份有限公司,永記造漆工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1726,23987063,75137605,NA,NA,NA,NA

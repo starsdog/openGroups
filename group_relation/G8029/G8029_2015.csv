@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,8029,久尹股份有限公司,"Hades Co., Ltd.",1,英屬維京群島,1,0,1,0,0,公開發行,G8029,04717913,NA,NA,NA,NA,NA
+2015,8029,Richstart International Limited,Leadway Overseas Limited,1,英屬維京群島,0,1,0,0,0,公開發行,G8029,NA,NA,NA,NA,NA,NA
+2015,8029,久尹股份有限公司,Richstart International Limited,1,開曼群島,1,1,0,0,0,公開發行,G8029,04717913,NA,NA,NA,NA,NA
+2015,8029,景發科技顧問股份有限公司,久尹股份有限公司,NA,NA,0,0,0,0,1,公開發行,G8029,70537526,04717913,NA,NA,NA,NA
+2015,8029,鸝山股份有限公司,久尹股份有限公司,NA,NA,0,0,0,0,1,公開發行,G8029,27505762,04717913,NA,NA,NA,NA
+2015,8029,翔韋投資股份有限公司,久尹股份有限公司,NA,NA,0,0,0,0,1,公開發行,G8029,84709324,04717913,NA,NA,NA,NA
+2015,8029,"Hades Co., Ltd.",久尹科技(蘇州)有限公司,1,china,0,0,0,1,0,公開發行,G8029,NA,NA,8,NA,NA,NA
+2015,8029,"Hades Co., Ltd.",合肥久尹電子有限公司,1,china,0,0,0,1,0,公開發行,G8029,NA,NA,8,NA,NA,NA
+2015,8029,久尹股份有限公司,東莞久尹電子有限公司,1,china,1,1,0,1,0,公開發行,G8029,04717913,NA,NA,NA,NA,NA
+2015,8029,久尹股份有限公司,香港歡進電子有限公司,0.9975,香港,1,1,0,0,0,公開發行,G8029,04717913,NA,NA,NA,NA,NA
+2015,8029,Leadway Overseas Limited,琮昱(上海)貿易有限公司,1,china,0,0,0,1,0,公開發行,G8029,NA,NA,8,NA,NA,NA
+2015,8029,再投資大陸公司,廣東南方宏明電子科技股份有限公司,0.1796,china,0,0,0,1,0,公開發行,G8029,NA,NA,11,NA,NA,NA

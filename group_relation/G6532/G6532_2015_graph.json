@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "兆豐國際商業銀行股份有限公司", "no_holder": false, "taxcode": "03705903"}, {"is_core": true, "source": [{"holder": "NA", "name": "兆豐國際商業銀行股份有限公司"}], "name": "瑞耘科技股份有限公司", "no_holder": false, "taxcode": "16394917"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2015"}

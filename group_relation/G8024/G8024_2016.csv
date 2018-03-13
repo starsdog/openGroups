@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8024,Oriental Crystal Investments Limited,Max Growth Holdings Limited,1,香港,0,1,0,0,0,上櫃,G8024,NA,NA,NA,NA,NA,NA
+2016,8024,佑華微電子股份有限公司,Oriental Crystal Investments Limited,1,英屬維京群島,1,1,0,0,0,上櫃,G8024,86806602,NA,NA,NA,NA,NA
+2016,8024,Oriental Crystal Investments Limited,比特聯創電子(北京)有限公司,0.1695,china,0,0,0,1,0,上櫃,G8024,NA,NA,8,NA,NA,NA
+2016,8024,佑旺投資股份有限公司,佑華微電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G8024,70541818,86806602,NA,NA,NA,NA
+2016,8024,Max Growth Holdings Limited,宜發微電子(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G8024,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,88 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4141,Rotam CropSciences Limited,Amaethon Environmental Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Betulla Holdings Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam IP Holdings Limited,Canada Rotam Group Limited,1,香港,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Ceres Environmental Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Crop Solutions Limited,1,不明,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Fanning Investments Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Favour Trend Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Gate Advance Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Hollander Holdings Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Prime Concept Holdings Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Betulla Holdings Limited,PT. Rotam Indonesia,1,印尼,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Prime Concept Holdings Limited,Rotam (Cambodia) Company Limited,1,柬埔寨,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam Enterprise International Limited,Rotam Agrochem International Company Limited,1,香港,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Agrochemical Colombia S.A.S.,1,哥倫比亞,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam Agrochemical Colombia S.A.S.,1,哥倫比亞,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam Agrochemical Colombia S.A.S.,0.007,哥倫比亞,0,0,1,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Agrochemical Company Limited (Argentina),1,阿根廷,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam Enterprise International Limited,Rotam Agrochemical Company Limited (HK),1,香港,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam International Limited,Rotam Agrochemical Company Limited (BVI),1,英屬維京群島,0,0,1,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Gate Advance Limited,Rotam Agrochemical Company Private Limited,1,印度,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Agrochemical Europe Limited,1,英國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Agrochemical Europe SAS,1,法國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Agrochemical Peru S.A.,1,祕魯,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam Agrochemical Peru S.A.,1,祕魯,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam AgroSolutions Australia Pty Ltd,1,澳大利亞,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam Asia Pacific Limited,1,香港,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Australia,1,澳大利亞,0,0,1,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Bolivia S.R.L.,1,玻利維亞,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam Bolivia S.R.L.,1,玻利維亞,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,"Rotam Caribe, S.R.L.",1,多明尼加共和國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,"Rotam Caribe, S.R.L.",1,多明尼加共和國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Costa Rica CRI S.A.,1,哥斯大黎加,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam Agrochemical Europe SAS,Rotam Crop Protection Europe SAS,1,法國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Gate Advance Limited,Rotam Crop Protection Private Limited,1,印度,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam Investments Limited,Rotam CropSciences Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam CropSciences Limited,1,英屬維京群島,0,0,1,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam de Argentina Agroquimica SRL,1,阿根廷,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam de Argentina Agroquimica SRL,1,阿根廷,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam de Chile Agroquimica Limitada,1,智利,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam de Chile Agroquimica Limitada,1,智利,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam do Brasil Agroquimica e Produtos Agricolas Ltda,1,巴西,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam do Brasil Agroquimica e Produtos Agricolas Ltda,1,巴西,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Ecuador S.A.,1,厄瓜多,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam Ecuador S.A.,1,厄瓜多,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam Enterprise International Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam Enterprises Company Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Fanning Investments Limited,Rotam Europe Limited,1,英國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam Europe Limited,Rotam Germany GmbH,1,英國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam Group Limited,1,香港,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam International Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,英屬蓋曼群島商龍燈環球農業科技有限公司Rotam Global AgroSciences Limited,Rotam Investments Limited,1,英屬維京群島,1,1,0,0,0,上市,G4141,28999969,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam IP Holdings Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam LifeSciences Kimyasal Tarim Ticaret Limited Sirketi,1,土耳其,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam LifeSciences Kimyasal Tarim Ticaret Limited Sirketi,1,土耳其,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Tiptop Solution Limited,Rotam LifeSciences Korea Limited,1,南韓,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam LifeSciences Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam Enterprise International Limited,Rotam Limited,1,香港,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Rotam Maghreb Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Hollander Holdings Limited,Rotam Management Services Limited,1,香港,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Mexico S.A. de C.V.,1,墨西哥,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam Mexico S.A. de C.V.,1,墨西哥,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,"Rotam Mocambique, Limitada",1,莫三鼻克,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,"Rotam Mocambique, Limitada",1,莫三鼻克,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Amaethon Environmental Limited,"Rotam North America, Inc.",1,美國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Paraguay S.R.L.,1,巴拉圭,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam Paraguay S.R.L.,1,巴拉圭,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Prime Concept Holdings Limited,"Rotam Philippines, Inc.",1,菲律賓,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam RSA Proprietary Limited,1,南非,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Sub Saharan Africa Limited,1,肯亞,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam Sub Saharan Africa Limited,1,肯亞,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,Rotam Uruguay S.A.,1,烏拉圭,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,Rotam Uruguay S.A.,1,烏拉圭,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Amaethon Environmental Limited,Rotam USA Inc.,1,美國,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Ceres Environmental Limited,RT LifeSciences S.A.,1,瓜地馬拉,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Crop Solutions Limited,RT LifeSciences S.A.,1,瓜地馬拉,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,"Rotam North America, Inc.",SipcamRotam LLC,0.5,美國,0,0,1,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam CropSciences Limited,Tiptop Solution Limited,1,英屬維京群島,0,1,0,0,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Favour Trend Limited,台灣龍燈股份有限公司,1,台灣,0,1,0,0,0,上市,G4141,NA,03079803,NA,NA,NA,NA
+2016,4141,Rotam Enterprises Company Limited,江蘇龍燈化學有限公司,1,china,0,1,0,1,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Nova Global Holdings Limited,英屬蓋曼群島商龍燈環球農業科技有限公司Rotam Global AgroSciences Limited,NA,NA,0,0,0,0,1,上市,G4141,NA,28999969,NA,NA,NA,NA
+2016,4141,Miradan Holdings Limited,英屬蓋曼群島商龍燈環球農業科技有限公司Rotam Global AgroSciences Limited,NA,NA,0,0,0,0,1,上市,G4141,NA,28999969,NA,NA,NA,NA
+2016,4141,Chang Yi Investment Holdings Limited,英屬蓋曼群島商龍燈環球農業科技有限公司Rotam Global AgroSciences Limited,NA,NA,0,0,0,0,1,上市,G4141,NA,28999969,NA,NA,NA,NA
+2016,4141,江蘇龍燈化學有限公司,煙台龍燈肥料有限公司,1,china,0,1,0,1,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Rotam LifeSciences Limited,龍德化工有限公司,1,china,0,1,0,1,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,煙台龍燈肥料有限公司,龍燈(昆山)農資貿易有限公司,1,china,0,1,0,1,0,上市,G4141,NA,NA,NA,NA,NA,NA
+2016,4141,Favour Trend Limited,龍燈生命科技有限公司,1,台灣,0,1,0,0,0,上市,G4141,NA,53562943,NA,NA,NA,NA
+2016,4141,江蘇龍燈化學有限公司,龍燈動物保健品(江蘇)有限公司 ,1,china,0,1,0,1,0,上市,G4141,NA,NA,NA,NA,NA,NA

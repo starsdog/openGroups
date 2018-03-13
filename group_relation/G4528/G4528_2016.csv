@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4528,英屬維京群島商江興工業有限公司,江興(太倉)金屬製品有限公司,1,china,0,1,0,1,0,上櫃,G4528,NA,NA,NA,NA,NA,NA
+2016,4528,江興鍛壓工業股份有限公司,江興(淮安)汽車部件有限公司,0.7,china,1,1,0,1,0,上櫃,G4528,NA,NA,NA,NA,NA,NA
+2016,4528,英屬維京群島商江興工業有限公司,江興(淮安)汽車部件有限公司,0.3,china,0,1,0,0,0,上櫃,G4528,NA,NA,NA,NA,NA,NA
+2016,4528,江興鍛壓工業股份有限公司,英屬維京群島商江興工業有限公司,1,英屬維京群島,1,1,0,0,0,上櫃,G4528,NA,NA,NA,NA,NA,NA

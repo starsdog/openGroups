@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,4920,尚芳國際興業股份有限公司,"Makedream International Co., Ltd.",1,美國,1,1,0,0,0,興櫃,G4920,86665407,NA,NA,NA,NA,NA
+2014,4920,尚陽投資股份有限公司,尚芳國際興業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G4920,28503263,86665407,NA,NA,NA,NA
+2014,4920,美食映象整合行銷顧問股份有限公司,尚芳國際興業股份有限公司,NA,NA,0,0,0,0,1,公開發行,G4920,13013443,86665407,NA,NA,NA,NA
+2014,4920,"Makedream International Co., Ltd.",廣州尚瑩電子科技有限公司,1,china,0,1,0,1,0,興櫃,G4920,NA,NA,NA,NA,NA,NA
+2014,4920,"Makedream International Co., Ltd.",蘇州尚旺電子科技有限公司,1,china,0,1,0,1,0,興櫃,G4920,NA,NA,NA,NA,NA,NA

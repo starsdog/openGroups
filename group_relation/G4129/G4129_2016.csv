@@ -1,0 +1,14 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,4129,United Medical (B.V.I.) Corporation,"Lemax Co.,Ltd.",1,英屬維京群島,0,1,0,0,0,上櫃,G4129,NA,NA,NA,NA,NA,NA
+2016,4129,聯合骨科器材股份有限公司,United Biomech Japan,0.51,日本,0,1,0,0,0,上櫃,G4129,22099982,NA,NA,NA,NA,NA
+2016,4129,聯合骨科器材股份有限公司,United Medical (B.V.I.) Corporation,1,英屬維京群島,0,1,0,0,0,上櫃,G4129,22099982,NA,NA,NA,NA,NA
+2016,4129,UOC Europe Holding SA,United Orthopedic Corporation (Suisse) SA,1,瑞士,0,0,1,0,0,上櫃,G4129,NA,NA,NA,NA,NA,NA
+2016,4129,UOC Europe Holding SA,United Orthopedic Corporation (France),1,法國,0,1,0,0,0,上櫃,G4129,NA,NA,NA,NA,NA,NA
+2016,4129,聯合骨科器材股份有限公司,UOC America Holding Corporation,1,英屬維京群島,0,1,0,0,0,上櫃,G4129,22099982,NA,NA,NA,NA,NA
+2016,4129,聯合骨科器材股份有限公司,UOC Europe Holding SA,0.75,瑞士,0,1,0,0,0,上櫃,G4129,22099982,NA,NA,NA,NA,NA
+2016,4129,UOC America Holding Corporation,"UOC USA, Inc.",1,美國,0,1,0,0,0,上櫃,G4129,NA,NA,NA,NA,NA,NA
+2016,4129,再投資大陸公司,山東新華聯合骨科器材股份有限公司,0.49,china,0,0,0,1,0,上櫃,G4129,NA,NA,2,NA,NA,NA
+2016,4129,啟一投資股份有限公司,聯合骨科器材股份有限公司,NA,NA,0,0,0,0,1,上櫃,G4129,28181951,22099982,NA,NA,NA,NA
+2016,4129,"Lemax Co.,Ltd.",聯合醫療儀器有限公司,0,china,0,1,0,1,0,上櫃,G4129,NA,NA,NA,NA,NA,NA
+2016,4129,"Lemax Co.,Ltd.",聯陸科貿(上海)有限公司,0,china,0,1,0,1,0,上櫃,G4129,NA,NA,NA,NA,NA,NA
+2016,4129,"Lemax Co.,Ltd.",聯貿醫療用品技術(上海)有限公司,0,china,0,1,0,1,0,上櫃,G4129,NA,NA,NA,NA,NA,NA

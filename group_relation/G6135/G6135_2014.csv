@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,6135,告佳營電子股份有限公司,"SILTRONTECH ELECTRONICS (HK) CORP., LIMITED",1,香港,0,1,0,0,0,上櫃,G6135,86886990,NA,NA,NA,NA,NA
+2014,6135,"SILTRONTECH ELECTRONICS (HK) CORP., LIMITED",佳營電子貿易(上海)有限公司,1,china,0,1,0,1,0,上櫃,G6135,NA,NA,NA,NA,NA,NA
+2014,6135,"SILTRONTECH ELECTRONICS (HK) CORP., LIMITED",祥貿電子(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G6135,NA,NA,NA,NA,NA,NA

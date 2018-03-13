@@ -1,0 +1,24 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6167,久正光電股份有限公司,America Technology Corp.,1,薩摩亞,0,1,0,0,0,上櫃,G6167,22100566,NA,NA,NA,NA,NA
+2016,6498,今弘國際股份有限公司,Do Electronic Technology Inc.,0.4186,薩摩亞,0,1,0,0,0,興櫃,G6167,54750057,NA,NA,NA,NA,NA
+2016,6498,今岳國際股份有限公司,Do Electronic Technology Inc.,0.5814,薩摩亞,0,1,0,0,0,興櫃,G6167,54745870,NA,NA,NA,NA,NA
+2016,6167,America Technology Corp.,Powertip Technology (C.I.) Corp.,1,開曼群島,0,1,0,0,0,上櫃,G6167,NA,NA,NA,NA,NA,NA
+2016,6167,久正光電股份有限公司,Powertip Technology Inc.(USA),1,美國,0,1,0,0,0,上櫃,G6167,22100566,NA,NA,NA,NA,NA
+2016,6167,久正光電股份有限公司,Powertip Technology Ltd. (H.K.),1,香港,0,1,0,0,0,上櫃,G6167,22100566,NA,NA,NA,NA,NA
+2016,6167,佰鴻工業股份有限公司,久正光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6167,34452164,22100566,NA,NA,NA,NA
+2016,6167,萬旭投資股份有限公司,久正光電股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6167,16634487,22100566,NA,NA,NA,NA
+2016,6498,久禾光電股份有限公司,Powertip Image (Samoa) Corp.,1,薩摩亞,1,0,1,0,0,興櫃,G6167,80579685,NA,NA,NA,NA,NA
+2016,6167,久正光電股份有限公司,久禾光電股份有限公司,0.2377,台灣,0,0,1,0,0,上櫃,G6167,22100566,80579685,NA,NA,NA,NA
+2016,6167,大正國際投資有限公司,久禾光電股份有限公司,0.0407,台灣,0,0,1,0,0,上櫃,G6167,24594158,80579685,NA,NA,NA,NA
+2016,6167,大禾國際投資有限公司,久禾光電股份有限公司,0.0407,台灣,0,0,1,0,0,上櫃,G6167,24595446,80579685,NA,NA,NA,NA
+2016,6167,大陽國際投資有限公司,久禾光電股份有限公司,0.0294,台灣,0,0,1,0,0,上櫃,G6167,24595353,80579685,NA,NA,NA,NA
+2016,6498,佰鴻工業股份有限公司,久禾光電股份有限公司,NA,NA,0,0,0,0,1,興櫃,G6167,34452164,80579685,NA,NA,NA,NA
+2016,6167,久正光電股份有限公司,大正國際投資有限公司,1,台灣,0,1,0,0,0,上櫃,G6167,22100566,24594158,NA,NA,NA,NA
+2016,6167,久正光電股份有限公司,大禾國際投資有限公司,1,台灣,0,1,0,0,0,上櫃,G6167,22100566,24595446,NA,NA,NA,NA
+2016,6167,久正光電股份有限公司,大陽國際投資有限公司,1,台灣,0,1,0,0,0,上櫃,G6167,22100566,24595353,NA,NA,NA,NA
+2016,6498,久禾光電股份有限公司,今弘國際股份有限公司,1,台灣,1,1,0,0,0,興櫃,G6167,80579685,54750057,NA,NA,NA,NA
+2016,6498,久禾光電股份有限公司,今岳國際股份有限公司,1,台灣,1,1,0,0,0,興櫃,G6167,80579685,54745870,NA,NA,NA,NA
+2016,6167,Powertip Technology (C.I.) Corp.,江蘇久正光電有限公司,1,china,0,1,0,1,0,上櫃,G6167,NA,NA,NA,NA,NA,NA
+2016,6498,Do Electronic Technology Inc.,江蘇久禾光電有限公司,0.3798,china,0,1,0,0,0,興櫃,G6167,NA,NA,NA,NA,NA,NA
+2016,6498,Powertip Image (Samoa) Corp.,江蘇久禾光電有限公司,0.6202,china,0,1,0,1,0,興櫃,G6167,NA,NA,NA,NA,NA,NA
+2016,6167,Powertip Technology Ltd. (H.K.),東莞久正光電有限公司,1,china,0,1,0,1,0,上櫃,G6167,NA,NA,NA,NA,NA,NA

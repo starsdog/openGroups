@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2231,Royal Cub Inc.,Ever Cub Inc.,1,塞席爾,0,1,0,0,0,上市,G2231,NA,NA,NA,NA,NA,NA
+2014,2231,Silver Cub Inc.,Golden Cub Inc.,1,安奎拉,0,1,0,0,0,上市,G2231,NA,NA,NA,NA,NA,NA
+2014,2231,Ever Cub Inc.,"ITM Engine Components, Inc.",1,美國,0,1,0,0,0,上市,G2231,NA,NA,NA,NA,NA,NA
+2014,2231,為升電裝工業股份有限公司,Royal Cub Inc.,0.7,塞席爾,1,1,0,0,0,上市,G2231,23219346,NA,NA,NA,NA,NA
+2014,2231,為升電裝工業股份有限公司,Silver Cub Inc.,1,薩摩亞,1,1,0,0,0,上市,G2231,23219346,NA,NA,NA,NA,NA
+2014,2231,Golden Cub Inc.,上海為彪汽配製造有限公司,1,china,0,1,0,1,0,上市,G2231,NA,NA,NA,NA,NA,NA
+2014,2231,為升電裝工業股份有限公司,為升國際貿易股份有限公司,0.7,台灣,1,1,0,0,0,上市,G2231,23219346,53339635,NA,NA,NA,NA
+2014,2231,駿昌投資股份有限公司,為升電裝工業股份有限公司,NA,NA,0,0,0,0,1,上市,G2231,27446080,23219346,NA,NA,NA,NA
+2014,2231,駿瑞投資股份有限公司,為升電裝工業股份有限公司,NA,NA,0,0,0,0,1,上市,G2231,27501822,23219346,NA,NA,NA,NA

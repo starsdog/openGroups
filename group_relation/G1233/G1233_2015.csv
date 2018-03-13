@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,1233,天仁茶業股份有限公司,TEN REN TEA (HONG KONG) LIMITED,0.83,香港,1,1,0,0,0,上市,G1233,18559415,NA,NA,NA,NA,NA
+2015,1233,天仁實業股份有限公司,TEN REN TEA (HONG KONG) LIMITED,0.17,香港,0,1,0,0,0,上市,G1233,16166300,NA,NA,NA,NA,NA
+2015,1233,天仁茶業股份有限公司,TEN REN TEA CO(S). PTE LTD.,0.998,新加坡,1,1,0,0,0,上市,G1233,18559415,NA,NA,NA,NA,NA
+2015,1233,天仁實業股份有限公司,TEN REN TEA CO(S). PTE LTD.,0.002,新加坡,0,1,0,0,0,上市,G1233,16166300,NA,NA,NA,NA,NA
+2015,1233,天仁茶業股份有限公司,TEN REN TRADING SDN.BHD,0.51,馬來西亞,1,1,0,0,0,上市,G1233,18559415,NA,NA,NA,NA,NA
+2015,1233,廈門天天佳盈管理有限公司,上海佳聚餐飲管理有限公司,0.85,不明,0,1,0,0,0,上市,G1233,NA,NA,NA,NA,NA,NA
+2015,1233,天福投資股份有限公司,天仁茶業股份有限公司,NA,NA,0,0,0,0,1,上市,G1233,12659893,18559415,NA,NA,NA,NA
+2015,1233,天仁茶業股份有限公司,天仁實業股份有限公司,1,台灣,1,1,0,0,0,上市,G1233,18559415,16166300,NA,NA,NA,NA
+2015,1233,天仁實業股份有限公司,華喬物產股份有限公司,1,台灣,0,1,0,0,0,上市,G1233,16166300,49708538,NA,NA,NA,NA
+2015,1233,TEN REN TEA (HONG KONG) LIMITED,廈門天天佳盈管理有限公司,0.5,china,0,1,0,1,0,上市,G1233,NA,NA,NA,NA,NA,NA
+2015,1233,廈門天天佳盈管理有限公司,廈門喫茶趣餐飲有限公司,0.85,不明,0,1,0,0,0,上市,G1233,NA,NA,NA,NA,NA,NA

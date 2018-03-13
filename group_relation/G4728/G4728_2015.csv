@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,4728,双美生物科技股份有限公司,北京享贊國際貿易有限公司,1,china,1,1,0,1,0,上櫃,G4728,12744147,NA,NA,NA,NA,NA
+2015,4728,双美生物科技股份有限公司,丞美生技股份有限公司,0,不明,1,1,0,0,0,上櫃,G4728,12744147,53746020,NA,NA,NA,NA
+2015,4728,丞美生技股份有限公司,漫都美容科技股份有限公司,0,台灣,0,0,1,0,0,上櫃,G4728,53746020,53946907,NA,NA,NA,NA

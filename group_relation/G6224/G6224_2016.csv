@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6224,Polytronics (B.V.I) Corporation,P-Circuit Corp.,1,美國,0,1,0,0,0,上市,G6224,NA,NA,NA,NA,NA,NA
+2016,6224,聚鼎科技股份有限公司,Polytronics (B.V.I) Corporation,1,英屬維京群島,1,1,0,0,0,上市,G6224,16433242,NA,NA,NA,NA,NA
+2016,6224,P-Circuit Corp.,昆山聚達電子有限公司,1,china,0,1,0,1,0,上市,G6224,NA,NA,NA,NA,NA,NA
+2016,6224,昆山聚達電子有限公司,漢浦貿易(昆山)有限公司,1,china,0,1,0,1,0,上市,G6224,NA,NA,NA,NA,NA,NA
+2016,6224,聚鼎科技股份有限公司,聚鉐材料股份有限公司,1,台灣,1,1,0,0,0,上市,G6224,16433242,53612578,NA,NA,NA,NA
+2016,6224,德商利特股份有限公司,聚鼎科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6224,NA,16433242,NA,NA,NA,NA
+2016,6224,臺灣永光化學工業股份有限公司,聚鼎科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6224,15458455,16433242,NA,NA,NA,NA
+2016,6224,長徽股份有限公司,聚鼎科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6224,16080964,16433242,NA,NA,NA,NA
+2016,6224,昆山聚達電子有限公司,蘇州聚達晟芯微電子有限公司,0.7365,china,0,1,0,1,0,上市,G6224,NA,NA,NA,NA,NA,NA

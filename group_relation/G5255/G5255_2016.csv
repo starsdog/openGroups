@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5255,"MAGIC TECHNOLOGY (SAMOA) CO., LTD.",CLASSIC MAGIC DEVELOPMENTS LIMITED (SAMOA),1,薩摩亞,0,1,0,0,0,上櫃,G5255,NA,NA,NA,NA,NA,NA
+2016,5255,美桀科技股份有限公司,"MAGIC TECHNOLOGY (SAMOA) CO., LTD.",1,薩摩亞,1,1,0,0,0,上櫃,G5255,96866065,NA,NA,NA,NA,NA
+2016,5255,"MAGIC TECHNOLOGY (SAMOA) CO., LTD.",TRENDY ISLAND INVESTMENT LIMITED,1,薩摩亞,0,0,1,0,0,上櫃,G5255,NA,NA,NA,NA,NA,NA
+2016,5255,美桀科技股份有限公司,美桀(蘇州)光電科技有限公司,1,china,1,1,0,1,0,上櫃,G5255,96866065,NA,NA,NA,NA,NA
+2016,5255,寰美科技股份有限公司,美桀科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5255,16243398,96866065,NA,NA,NA,NA
+2016,5255,統碩投資股份有限公司,美桀科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G5255,80329934,96866065,NA,NA,NA,NA
+2016,5255,"MAGIC TECHNOLOGY (SAMOA) CO., LTD.",美桀貿易(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G5255,NA,NA,NA,NA,NA,NA
+2016,5255,"MAGIC TECHNOLOGY (SAMOA) CO., LTD.",美桀電子科技(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G5255,NA,NA,NA,NA,NA,NA
+2016,5255,美桀科技股份有限公司,美桀電科技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G5255,96866065,53181607,NA,NA,NA,NA
+2016,5255,TRENDY ISLAND INVESTMENT LIMITED,重慶美桀電子科技有限公司,1,china,0,1,0,1,0,上櫃,G5255,NA,NA,NA,NA,NA,NA
+2016,5255,美桀科技股份有限公司,蘇州美桀電子科技有限公司,0,不明,1,1,0,0,0,上櫃,G5255,96866065,NA,NA,NA,NA,NA

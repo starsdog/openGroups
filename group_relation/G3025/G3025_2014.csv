@@ -1,0 +1,7 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3025,Tech-Plan(BVI)Ltd.,Loop Telecommunication International Ltd.,1,開曼群島,0,0,1,0,0,上市,G3025,NA,NA,NA,NA,NA,NA
+2014,3025,星通資訊股份有限公司,Tech-Plan(BVI)Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G3025,22099863,NA,NA,NA,NA,NA
+2014,3025,香港景緻公司,天津祿普公司,0.75,china,0,1,0,1,0,上市,G3025,NA,NA,NA,NA,NA,NA
+2014,3025,聯合光纖通信股份有限公司,星通資訊股份有限公司,NA,NA,0,0,0,0,1,上市,G3025,21223267,22099863,NA,NA,NA,NA
+2014,3025,Loop Telecommunication International Ltd.,重慶燦通公司,1,china,0,1,0,1,0,上市,G3025,NA,NA,NA,NA,NA,NA
+2014,3025,Tech-Plan(BVI)Ltd.,香港景緻公司,1,香港,0,1,0,0,0,上市,G3025,NA,NA,NA,NA,NA,NA

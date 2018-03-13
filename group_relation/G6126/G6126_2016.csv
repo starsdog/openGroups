@@ -1,0 +1,16 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6126,信音企業股份有限公司,"SINGATRON (B.V.I.) ENTERPRISE CO., LTD.",1,英屬維京群島,1,1,0,0,0,上櫃,G6126,47122187,NA,NA,NA,NA,NA
+2016,6126,"SINGATRON (B.V.I.) ENTERPRISE CO., LTD.",SINGATRON (HONG KONG) INTERNATIONAL HOLDING LIMITED,1,香港,0,1,0,0,0,上櫃,G6126,NA,NA,NA,NA,NA,NA
+2016,6126,信音企業股份有限公司,SINGATRON INVESTMENT COMPANY LIMITED,1,香港,1,1,0,0,0,上櫃,G6126,47122187,NA,NA,NA,NA,NA
+2016,6126,信音電子(中國)股份有限公司,"SINGATRON SAN JOSE CONNECTION CO., LTD.",1,美國,0,1,0,0,0,上櫃,G6126,NA,NA,NA,NA,NA,NA
+2016,6126,信音電子(中山)有限公司,中山信音連接器有限公司,1,china,0,1,0,1,0,上櫃,G6126,NA,NA,NA,NA,NA,NA
+2016,6126,甘氏投資股份有限公司,信音企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6126,25183060,47122187,NA,NA,NA,NA
+2016,6126,東易企管顧問有限公司,信音企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6126,53150908,47122187,NA,NA,NA,NA
+2016,6126,振群投資股份有限公司,信音企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6126,28407819,47122187,NA,NA,NA,NA
+2016,6126,昌潤投資股份有限公司,信音企業股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6126,54171114,47122187,NA,NA,NA,NA
+2016,6126,信音電子(中國)股份有限公司,信音科技(香港)有限公司,1,香港,0,1,0,0,0,上櫃,G6126,NA,NA,NA,NA,NA,NA
+2016,6126,SINGATRON (HONG KONG) INTERNATIONAL HOLDING LIMITED,信音電子(中山)有限公司,0.25,china,0,1,0,1,0,上櫃,G6126,NA,NA,NA,NA,NA,NA
+2016,6126,信音電子(中國)股份有限公司,信音電子(中山)有限公司,0.75,china,0,1,0,0,0,上櫃,G6126,NA,NA,NA,NA,NA,NA
+2016,6126,SINGATRON (HONG KONG) INTERNATIONAL HOLDING LIMITED,信音電子(中國)股份有限公司,0.868,china,0,1,0,1,0,上櫃,G6126,NA,NA,NA,NA,NA,NA
+2016,6126,信音電子(中國)股份有限公司,樂山信音電子有限公司,1,china,0,1,0,1,0,上櫃,G6126,NA,NA,NA,NA,NA,NA
+2016,6126,信音電子(中國)股份有限公司,蘇州信音連接器有限公司,1,china,0,1,0,1,0,上櫃,G6126,NA,NA,NA,NA,NA,NA

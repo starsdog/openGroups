@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3191,和進電子股份有限公司,ATM Electronic Corporation,1,美國,1,1,0,0,0,上櫃,G3191,86105242,NA,NA,NA,NA,NA
+2015,3191,和進電子股份有限公司,Dataworld Management Ltd.,1,薩摩亞,1,1,0,0,0,上櫃,G3191,86105242,NA,NA,NA,NA,NA
+2015,3191,和進電子股份有限公司,世紀文創股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3191,86105242,24575862,NA,NA,NA,NA
+2015,3191,Dataworld Management Ltd.,合進塑膠電子(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G3191,NA,NA,NA,NA,NA,NA
+2015,3191,Dataworld Management Ltd.,和昌電子塑膠(深圳)有限公司.,1,china,0,1,0,1,0,上櫃,G3191,NA,NA,NA,NA,NA,NA
+2015,3191,佳德投資有限公司,和進電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3191,54349055,86105242,NA,NA,NA,NA
+2015,3191,誼華投資有限公司,和進電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3191,54349061,86105242,NA,NA,NA,NA
+2015,3191,ATM Electronic Corporation,昆山和進塑膠電子有限公司,1,china,0,1,0,1,0,上櫃,G3191,NA,NA,NA,NA,NA,NA
+2015,3191,ATM Electronic Corporation,昆山和廣塑膠電子有限公司,1,china,0,1,0,1,0,上櫃,G3191,NA,NA,NA,NA,NA,NA

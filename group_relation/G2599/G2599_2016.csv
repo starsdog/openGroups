@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2599,樂揚建設股份有限公司,忠泰樂揚建設股份有限公司,0.4,台灣,1,0,1,0,0,興櫃,G2599,84271110,28447930,NA,NA,NA,NA
+2016,2599,樂揚建設股份有限公司,樂家人社會企業股份有限公司,1,台灣,1,1,0,0,0,興櫃,G2599,84271110,52214989,NA,NA,NA,NA
+2016,2599,壕震投資股份有限公司,樂揚建設股份有限公司,NA,NA,0,0,0,0,1,興櫃,G2599,16135551,84271110,NA,NA,NA,NA

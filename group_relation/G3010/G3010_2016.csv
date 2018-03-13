@@ -1,0 +1,90 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8070,長華電材股份有限公司,"CWE Holding Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G3010,23307811,NA,NA,NA,NA,NA
+2016,8070,長華控股(開曼)公司,"CWER Co., Ltd.",0,薩摩亞,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,"WellsTech Optical Holding Co., Ltd.",Golden Jo Corp.,1,塞席爾,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Holding Ltd.,Granite International Ltd.,1,薩摩亞,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,How Weih International Limited,Hopeful (HK) Enterprise Holding Limited,1,香港,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,濠瑋控股(開曼)公司,How Weih International Limited,1,英屬維京群島,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,"Technew Holding Co., Ltd.",Prosper King Limited,1,薩摩亞,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Holding Ltd.,PT. Wah Hong Indonesia,0.01,印尼,0,0,1,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,華宏新技股份有限公司,PT. Wah Hong Indonesia,0.99,印尼,0,0,1,0,0,上櫃,G3010,83428825,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,PT. Wah Lee Indonesia,0.6,印尼,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,3010,Wah Lee Holding Ltd.,SHC Holding Ltd.,1,模里西斯,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,Skypower合同會社,0.7,日本,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Holding Ltd.,Smart Succeed Ltd.,1,薩摩亞,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,"WellsTech Optical Holding Co., Ltd.","Steadfast Enterprise Co., Ltd.",1,塞席爾,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,云輝科技股份有限公司,"Technew Holding Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G3010,28943699,NA,NA,NA,NA,NA
+2016,8070,"WellsTech Optical Holding Co., Ltd.",Top Swiss Limited,0.51,英屬維京群島,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Holding Ltd.,Wah Hong Development Ltd.,1,模里西斯,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,華宏新技股份有限公司,Wah Hong Holding Ltd.,1,模里西斯,0,1,0,0,0,上櫃,G3010,83428825,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Holding Ltd.,Wah Hong International Ltd.,1,模里西斯,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Holding Ltd.,Wah Hong Technology Ltd.,1,模里西斯,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,Wah Lee Holding Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,Wah Lee Korea Ltd.,1,南韓,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,3010,Wah Lee Holding Ltd.,Wah Lee Machinery Trading Limited,0,英屬維京群島,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,Wah Lee Holding Ltd.,Wah Lee Tech (Singapore) Pte. Ltd.,1,新加坡,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,"Wah Lee Vietnam Co., Ltd.",1,越南,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Holding Ltd.,Wah Ma Chemical Sdn. Bhd.,0.6,馬來西亞,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,華德光電材料科技股份有限公司,"WellsTech Optical Holding Co., Ltd.",1,薩摩亞,0,1,0,0,0,上市,G3010,28821324,NA,NA,NA,NA,NA
+2016,8070,長華電材股份有限公司,WSP Electromaterials Ltd.,1,英屬維京群島,1,1,0,0,0,上市,G3010,23307811,NA,NA,NA,NA,NA
+2016,3010,華港工業物品(香港)有限公司,上海怡康化工材料有限公司,0.7,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,WSP Electromaterials Ltd.,上海長華新技電材有限公司,0.69,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,上海怡康化工材料有限公司,上海長華新技電材有限公司,0.3063,china,0,0,1,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,SHC Holding Ltd.,上海華長貿易有限公司,0.3,china,0,0,1,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,華德光電材料科技股份有限公司,云輝科技股份有限公司,1,台灣,0,1,0,0,0,上市,G3010,28821324,28943699,NA,NA,NA,NA
+2016,8070,長華電材股份有限公司,台灣住礦科技股份有限公司,0.3,台灣,1,0,1,0,0,上市,G3010,23307811,29186265,NA,NA,NA,NA
+2016,3010,再投資大陸公司,巨寶精密加工(江蘇)有限公司,0.0075,china,0,0,0,1,0,上市,G3010,NA,NA,4,NA,NA,NA
+2016,3010,Wah Lee Holding Ltd.,永俊國際(香港)有限公司,1,香港,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,再投資大陸公司,成都住礦電子有限公司,0.3,china,0,0,0,1,0,上市,G3010,NA,NA,11,NA,NA,NA
+2016,8070,再投資大陸公司,成都住礦精密製造有限公司,0.3,china,0,0,0,1,0,上市,G3010,NA,NA,11,NA,NA,NA
+2016,8070,"CWER Co., Ltd.",吳江斌茂光電有限公司,1,不明,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,岡山Solar合同會社,0.9999,日本,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,8070,長華電材股份有限公司,易華電子股份有限公司,0.47,台灣,1,1,0,0,0,上市,G3010,23307811,76025826,NA,NA,NA,NA
+2016,3010,華港工業物品(香港)有限公司,東莞耐力光電有限公司,1,china,0,0,0,1,0,上市,G3010,NA,NA,8,NA,NA,NA
+2016,3010,華港工業物品(香港)有限公司,東莞華港國際貿易有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,再投資大陸公司,武漢凱迪水務有限公司,0.12,china,0,0,0,1,0,上市,G3010,NA,NA,4,NA,NA,NA
+2016,8070,長華科技股份有限公司,長科實業(上海)有限公司,1,china,0,1,0,1,0,上市,G3010,70849957,NA,NA,NA,NA,NA
+2016,8070,長華電材股份有限公司,長華科技股份有限公司,0.48,台灣,1,1,0,0,0,上市,G3010,23307811,70849957,NA,NA,NA,NA
+2016,8070,"CWE Holding Co., Ltd.",長華控股(開曼)公司,1,開曼群島,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,長華塑膠股份有限公司,0.4,台灣,1,0,1,0,0,上市,G3010,75514419,23929141,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,長華電材股份有限公司,0.3098,台灣,1,0,1,0,0,上市,G3010,75514419,23307811,NA,NA,NA,NA
+2016,8240,Wah Hong Technology Ltd.,青島長宏光電科技有限公司,1,china,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Technology Ltd.,青島益宏新型材料有限公司,1,china,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,再投資大陸公司,昶寶電子科技(重慶)有限公司,0,china,0,0,0,1,0,上市,G3010,NA,NA,4,NA,NA,NA
+2016,8240,蘇州工業園區長宏光電科技有限公司,香港長宏光電有限公司,1,香港,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,香港美地投資(控股)有限公司,0.8,香港,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,8240,盛宏光電(惠州)有限公司,香港盛宏有限公司,0,香港,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Holding Ltd.,香港華宏新思考科技有限公司,0.5,香港,0,0,1,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,宮崎Solar合同會社,0.9999,日本,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,8240,華宏新技股份有限公司,郡宏光電股份有限公司,0.49,台灣,0,0,1,0,0,上櫃,G3010,83428825,29006539,NA,NA,NA,NA
+2016,8070,長華電材股份有限公司,望隼科技股份有限公司,0.19,台灣,1,0,1,0,0,上市,G3010,23307811,53764125,NA,NA,NA,NA
+2016,8240,Wah Hong International Ltd.,盛宏光電(惠州)有限公司,1,不明,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,盛宏光電(惠州)有限公司,惠州市新耀貿易有限公司,1,不明,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,How Weih International Limited,惠州偉特電子有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,Top Swiss Limited,華田光電(成都)有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,康泰投資股份有限公司,華立企業股份有限公司,NA,NA,0,0,0,0,1,上市,G3010,16116668,75514419,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,華立企業股份有限公司,0.8333,日本,1,1,0,0,0,上市,G3010,75514419,75514419,NA,NA,NA,NA
+2016,3010,寶廣投資股份有限公司,華立企業股份有限公司,NA,NA,0,0,0,0,1,上市,G3010,16827739,75514419,NA,NA,NA,NA
+2016,8240,日商惠和股份有限公司惠和株式會社,華宏新技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3010,70790359,83428825,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,華宏新技股份有限公司,0.2596,台灣,1,0,1,0,0,上市,G3010,75514419,83428825,NA,NA,NA,NA
+2016,8240,寶廣投資股份有限公司,華宏新技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3010,16827739,83428825,NA,NA,NA,NA
+2016,3010,華港工業物品(香港)有限公司,華盈供應鏈管理(深圳)有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,華展光電股份有限公司,0.35,台灣,1,0,1,0,0,上市,G3010,75514419,13134615,NA,NA,NA,NA
+2016,3010,再投資大陸公司,華富國際貿易(深圳)有限公司,1,china,0,0,0,1,0,上市,G3010,NA,NA,4,NA,NA,NA
+2016,3010,Wah Lee Holding Ltd.,華港工業物品(香港)有限公司,0.4631,香港,0,1,0,0,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,華港工業物品(香港)有限公司,0.5369,香港,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA
+2016,8070,長華電材股份有限公司,華德光電材料科技股份有限公司,0.37,台灣,1,1,0,0,0,上市,G3010,23307811,28821324,NA,NA,NA,NA
+2016,8070,Prosper King Limited,廈門云輝興業材料科技有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong International Ltd.,廈門廣宏光電有限公司,1,不明,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,Golden Jo Corp.,群億光電(深圳)有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Technology Ltd.,寧波長宏光電科技有限公司,1,不明,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,華宏新技股份有限公司,榮晉精密科技股份有限公司,0.375,台灣,0,0,1,0,0,上櫃,G3010,83428825,80013098,NA,NA,NA,NA
+2016,3010,再投資大陸公司,廣州悠廣光電科技有限公司,0.1282,china,0,0,0,1,0,上市,G3010,NA,NA,4,NA,NA,NA
+2016,8070,長華電材股份有限公司,濠瑋控股(開曼)公司,0.29,開曼群島,1,1,0,0,0,上市,G3010,23307811,NA,NA,NA,NA,NA
+2016,8070,How Weih International Limited,濠瑋電子科技(惠州)有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,How Weih International Limited,濠瑋精密科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,Hopeful (HK) Enterprise Holding Limited,濠鈺科技(深圳)有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8070,"Steadfast Enterprise Co., Ltd.",豐泰光電(深圳)有限公司,1,china,0,1,0,1,0,上市,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Technology Ltd.,蘇州工業園區長均貿易有限公司,1,不明,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,8240,Wah Hong Technology Ltd.,蘇州工業園區長宏光電科技有限公司,1,不明,0,1,0,0,0,上櫃,G3010,NA,NA,NA,NA,NA,NA
+2016,3010,華立企業股份有限公司,櫻川Solar合同會社,0.9999,日本,1,1,0,0,0,上市,G3010,75514419,NA,NA,NA,NA,NA

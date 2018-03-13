@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "零壹科技股份有限公司", "no_holder": false, "taxcode": "30922431"}, {"is_core": true, "source": [{"holder": "NA", "name": "零壹科技股份有限公司"}], "name": "凱衛資訊股份有限公司", "no_holder": false, "taxcode": "21261212"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2014"}

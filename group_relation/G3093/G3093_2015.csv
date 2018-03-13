@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2015,3093,台灣港建股份有限公司,Headway Holdings Limited,1,薩摩亞,1,1,0,0,0,上櫃,G3093,04655310,NA,NA,NA,NA,NA
+2015,3093,Headway Holdings Limited,Hiking International Co. Ltd,0.5,香港,0,1,0,0,0,上櫃,G3093,NA,NA,NA,NA,NA,NA
+2015,3093,台灣港建股份有限公司,Hong Kong Taiwan Kong King Limited,0.9999,香港,1,1,0,0,0,上櫃,G3093,04655310,NA,NA,NA,NA,NA
+2015,3093,王氏港建國際(集團)有限公司,台灣港建股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3093,NA,04655310,NA,NA,NA,NA
+2015,3093,頂瑞機械股份有限公司,台灣港建股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3093,22245774,04655310,NA,NA,NA,NA
+2015,3093,台灣港建股份有限公司,建大科技股份有限公司,0.625,台灣,1,1,0,0,0,上櫃,G3093,04655310,28107854,NA,NA,NA,NA
+2015,3093,Hiking International Co. Ltd,建置科技(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G3093,NA,NA,NA,NA,NA,NA
+2015,3093,台灣港建股份有限公司,港建日置股份有限公司,0.5,台灣,1,1,0,0,0,上櫃,G3093,04655310,12789431,NA,NA,NA,NA
+2015,3093,Hong Kong Taiwan Kong King Limited,港建科技(蘇州)有限公司,1,china,0,1,0,1,0,上櫃,G3093,NA,NA,NA,NA,NA,NA

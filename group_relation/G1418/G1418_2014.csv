@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,1418,中菱股份有限公司,東華合纖股份有限公司,NA,NA,0,0,0,0,1,上市,G1418,07070515,11083148,NA,NA,NA,NA
+2014,1418,廷芳投資事業股份有限公司,東華合纖股份有限公司,NA,NA,0,0,0,0,1,上市,G1418,22819976,11083148,NA,NA,NA,NA
+2014,1418,東華合纖股份有限公司,東燁投資股份有限公司,0.9,台灣,1,1,0,0,0,上市,G1418,11083148,70836947,NA,NA,NA,NA
+2014,1418,東華合纖股份有限公司,碳能科技股份有限公司,0.1244,台灣,1,0,1,0,0,上市,G1418,11083148,28396708,NA,NA,NA,NA

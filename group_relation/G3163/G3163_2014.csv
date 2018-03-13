@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,3163,波若威科技股份有限公司,Browave Holding Inc.,0.01,英屬維京群島,0,1,0,0,0,上櫃,G3163,16586555,NA,NA,NA,NA,NA
+2014,3163,創通投資股份有限公司,Innovate Investment(BVI) Inc.,0.01,英屬維京群島,0,1,0,0,0,上櫃,G3163,25149492,NA,NA,NA,NA,NA
+2014,3163,波若威科技股份有限公司,Innovate Investment(BVI) Inc.,0.01,英屬維京群島,0,0,1,0,0,上櫃,G3163,16586555,NA,NA,NA,NA,NA
+2014,3163,Browave Holding Inc.,波若威光纖通訊(中山)有限公司,0.01,china,0,1,0,1,0,上櫃,G3163,NA,NA,NA,NA,NA,NA
+2014,3163,Innovate Investment(BVI) Inc.,波若威光纖通訊設備(上海)有限公司,0.0066,china,0,1,0,0,0,上櫃,G3163,NA,NA,NA,NA,NA,NA
+2014,3163,行政院國家發展基金管理會,波若威科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3163,NA,16586555,NA,NA,NA,1
+2014,3163,英屬維京群島商百威林投資公司,波若威科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3163,NA,16586555,NA,NA,NA,NA
+2014,3163,波若威科技股份有限公司,波若威株式會社,0.01,日本,0,1,0,0,0,上櫃,G3163,16586555,NA,NA,NA,NA,NA
+2014,3163,波若威科技股份有限公司,創通投資股份有限公司,0.01,台灣,0,1,0,0,0,上櫃,G3163,16586555,25149492,NA,NA,NA,NA

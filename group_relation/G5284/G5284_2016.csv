@@ -1,0 +1,6 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,5284,經寶精密股份有限公司,"Jinpao Precision Japan Co., Ltd.",0.8,日本,0,1,0,0,0,上市,G5284,53675030,NA,NA,NA,NA,NA
+2016,5284,英屬開曼群島商經寶精密控股股份有限公司JPP HOLDING COMPANY LIMITED,經寶精密股份有限公司,0.9999,泰國,0,1,0,0,0,上市,G5284,53675030,NA,NA,NA,NA,NA
+2016,5284,"HO SHENG HOLDINGS CO., LTD.",英屬開曼群島商經寶精密控股股份有限公司JPP HOLDING COMPANY LIMITED,NA,NA,0,0,0,0,1,上市,G5284,NA,53675030,NA,NA,NA,NA
+2016,5284,"Believing Power Co., Ltd.",英屬開曼群島商經寶精密控股股份有限公司JPP HOLDING COMPANY LIMITED,NA,NA,0,0,0,0,1,上市,G5284,NA,53675030,NA,NA,NA,NA
+2016,5284,"POWELL GROUP CO., LTD.",英屬開曼群島商經寶精密控股股份有限公司JPP HOLDING COMPANY LIMITED,NA,NA,0,0,0,0,1,上市,G5284,NA,53675030,NA,NA,NA,NA

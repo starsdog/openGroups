@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6020,大展證券股份有限公司,大展一號創業投資股份有限公司,1,台灣,0,0,1,0,0,上櫃,G6020,22955802,54682523,NA,NA,NA,NA
+2016,6020,大展證券股份有限公司,大展創業投資管理顧問股份有限公司,1,台灣,0,0,1,0,0,上櫃,G6020,22955802,54368101,NA,NA,NA,NA
+2016,6020,大展證券股份有限公司,大展證券投資顧問股份有限公司,0.997,台灣,0,0,1,0,0,上櫃,G6020,22955802,23596066,NA,NA,NA,NA
+2016,6020,力新投資股份有限公司,大展證券股份有限公司,NA,NA,0,0,0,0,1,上櫃,G6020,96970118,22955802,NA,NA,NA,NA

@@ -1,0 +1,13 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,8065,Etrade Holding Limited,ChungRich International Limited,1,香港,0,0,1,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,天瑞企業股份有限公司,Etrade Holding Limited,1,英屬維京群島,1,0,1,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,TennRich Investment(BVI) Corp.,Sino Rich Developments Ltd.,0.9551,巴哈馬,0,1,0,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,Etrade Holding Limited,Sino Rich Developments Ltd.,0.0449,巴哈馬,0,0,1,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,TennRich Investment(BVI) Corp.,TennRich International(BVI) Corp.,0.9044,英屬維京群島,0,1,0,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,Etrade Holding Limited,TennRich International(BVI) Corp.,0.0956,英屬維京群島,0,0,1,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,天瑞企業股份有限公司,TennRich Investment(BVI) Corp.,1,英屬維京群島,1,1,0,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,天瑞企業股份有限公司,XPAL Power Inc.,1,美國,1,1,0,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,TennRich International(BVI) Corp.,天瑞電子(深圳) 有限公司,1,china,0,1,0,1,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,Sino Rich Developments Ltd.,天瑞電子科技發展(昆山)有限公司,0,不明,0,1,0,0,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,TennRich Investment(BVI) Corp.,北京天瑞高強科技發展有限公司,0.3,china,0,0,1,1,0,興櫃,G8065,NA,NA,NA,NA,NA,NA
+2013,8065,ChungRich International Limited,群贊科技(深圳) 有限公司,1,china,0,1,0,1,0,興櫃,G8065,NA,NA,NA,NA,NA,NA

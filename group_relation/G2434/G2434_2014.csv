@@ -1,0 +1,12 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2014,2434,英屬維京群島新和懋控股有限公司,和懋半導體(四川)有限公司,1,china,0,1,0,1,0,上市,G2434,NA,NA,NA,NA,NA,NA
+2014,2434,和懋維京控股有限公司,和懋半導體(深圳)有限公司,0,china,0,1,0,1,0,上市,G2434,NA,NA,NA,NA,NA,NA
+2014,2434,統懋半導體股份有限公司,和懋維京控股有限公司,0,英屬維京群島,1,1,0,0,0,上市,G2434,22404266,NA,NA,NA,NA,NA
+2014,2434,統懋半導體股份有限公司,英屬維京群島新和懋控股有限公司,1,英屬維京群島,1,1,0,0,0,上市,G2434,22404266,NA,NA,NA,NA,NA
+2014,2434,英屬維京群島新和懋控股有限公司,統懋半導體(深圳)有限公司,1,china,0,1,0,1,0,上市,G2434,NA,NA,NA,NA,NA,NA
+2014,2434,多春國際投資股份有限公司,統懋半導體股份有限公司,NA,NA,0,0,0,0,1,上市,G2434,28138239,22404266,NA,NA,NA,NA
+2014,6103,合邦電子股份有限公司,United Holding Business Ltd.,1,英屬維京群島,1,1,0,0,0,上櫃,G2434,84149569,NA,NA,NA,NA,NA
+2014,6103,United Holding Business Ltd.,台合芯集成電路(深圳)有限公司,1,china,0,1,0,1,0,上櫃,G2434,NA,NA,NA,NA,NA,NA
+2014,6103,多春國際投資股份有限公司,合邦電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2434,28138239,84149569,NA,NA,NA,NA
+2014,6103,精威科技股份有限公司,合邦電子股份有限公司,NA,NA,0,0,0,0,1,上櫃,G2434,84228281,84149569,NA,NA,NA,NA
+2014,6103,合邦電子股份有限公司,圓邦科技股份有限公司,0.225,台灣,1,0,1,0,0,上櫃,G2434,84149569,27404461,NA,NA,NA,NA

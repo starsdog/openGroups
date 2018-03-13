@@ -1,0 +1,11 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,2030,彰源企業股份有限公司,"Century Nova Steel Co., Ltd.",1,英屬維京群島,1,1,0,0,0,上市,G2030,60330130,NA,NA,NA,NA,NA
+2016,2030,彰源企業股份有限公司,"Froch Enterprise International Co., Ltd.",1,開曼群島,1,1,0,0,0,上市,G2030,60330130,NA,NA,NA,NA,NA
+2016,2030,彰源企業股份有限公司,"Froch Stainless Co., Ltd.",1,薩摩亞,1,1,0,0,0,上市,G2030,60330130,NA,NA,NA,NA,NA
+2016,2030,"Froch Enterprise International Co., Ltd.",張家港保稅區彰源國際貿易有限公司,0.3,china,0,1,0,1,0,上市,G2030,NA,NA,NA,NA,NA,NA
+2016,2030,彰源金屬(蘇州)有限公司,張家港保稅區彰源國際貿易有限公司,0.7,china,0,1,0,0,0,上市,G2030,NA,NA,NA,NA,NA,NA
+2016,2030,"Froch Stainless Co., Ltd.",無錫彰源不銹鋼有限公司,0.83,china,0,1,0,1,0,上市,G2030,NA,NA,NA,NA,NA,NA
+2016,2030,無錫彰源鋼鐵有限公司,無錫彰源不銹鋼有限公司,0.17,china,0,1,0,0,0,上市,G2030,NA,NA,NA,NA,NA,NA
+2016,2030,"Century Nova Steel Co., Ltd.",無錫彰源鋼鐵有限公司,1,china,0,1,0,1,0,上市,G2030,NA,NA,NA,NA,NA,NA
+2016,2030,鑫捷欣股份有限公司,彰源企業股份有限公司,NA,NA,0,0,0,0,1,上市,G2030,13037796,60330130,NA,NA,NA,NA
+2016,2030,"Froch Enterprise International Co., Ltd.",彰源金屬工業(蘇州)有限公司,1,china,0,1,0,1,0,上市,G2030,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,24 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6166,PrismTech Group Limited,OpenSplice BV,1,不明,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,PrismTech Limited,OpenSplice BV,1,荷蘭,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,PrismTech Limited,PrismTech Canada Inc.,1,加拿大,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,PrismTech Limited,PrismTech Corporation,1,美國,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,PrismTech Limited,PrismTech France SARL,1,法國,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,凌華科技股份有限公司,PrismTech Group Limited,1,英國,1,1,0,0,0,上市,G6166,89593343,NA,NA,NA,NA,NA
+2016,6166,PrismTech Group Limited,PrismTech Holdings Limited,1,英國,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,PrismTech Holdings Limited,PrismTech Limited,1,英國,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,凌華國際,SYSTEMWORKS,1,英屬維京群島,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,香港凌華,上海凌華,0,china,0,1,0,1,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,香港凌華,中國凌華,1,china,0,1,0,1,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,凌華科技股份有限公司,日本ADLINK,0.851,日本,1,1,0,0,0,上市,G6166,89593343,NA,NA,NA,NA,NA
+2016,6166,香港凌華,北京凌華,0,china,0,1,0,1,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,中國凌華,東莞凌曜,1,china,0,1,0,1,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,凌華國際,美國AMPRO,1,美國,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,凌華國際,香港凌華,1,香港,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,致茂電子股份有限公司,凌華科技股份有限公司,NA,NA,0,0,0,0,1,上市,G6166,09461025,89593343,NA,NA,NA,NA
+2016,6166,凌華科技股份有限公司,凌華國際,1,薩摩亞,1,1,0,0,0,上市,G6166,89593343,NA,NA,NA,NA,NA
+2016,6166,香港凌華,深圳凌華,1,china,0,1,0,1,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,凌華科技股份有限公司,新加坡ADLINK,1,新加坡,1,1,0,0,0,上市,G6166,89593343,NA,NA,NA,NA,NA
+2016,6166,凌華國際,德國ADLINK,1,德國,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,德國ADLINK,德國ATG,1,德國,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA
+2016,6166,德國ADLINK,德國PENTA,0,德國,0,1,0,0,0,上市,G6166,NA,NA,NA,NA,NA,NA

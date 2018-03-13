@@ -1,0 +1,35 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2013,9940,SINYI INTERNATIONAL LIMITED,FOREVER SUCCESS INTERNATIONAL LTD.,1,模里西斯,0,1,0,0,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,SINYI LIMITED,INANE INTERNATIONAL LIMITED ,1,英屬維京群島,0,1,0,0,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,INANE INTERNATIONAL LIMITED ,MAX SUCCESS INTERNATIONAL LIMITED,1,英屬維京群島,0,1,0,0,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,信義房屋不動產株式會社,"Richesse Management Co., Ltd.",1,日本,0,1,0,0,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,SINYI INTERNATIONAL LIMITED,SINYI DEVELOPMENT LTD.,1,薩摩亞,0,1,0,0,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,SINYI INTERNATIONAL LIMITED,1,薩摩亞,1,1,0,0,0,上市,G9940,22354940,NA,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,SINYI LIMITED,1,英屬維京群島,1,1,0,0,0,上市,G9940,22354940,NA,NA,NA,NA,NA
+2013,9940,再投資大陸公司,上海中城聯盟投資管理股份有限公司,0.02,china,0,0,0,1,0,上市,G9940,NA,NA,1,NA,NA,NA
+2013,9940,再投資大陸公司,上海昆侖台灣商城有限公司,0,china,0,0,0,1,0,上市,G9940,NA,NA,1,NA,NA,NA
+2013,9940,科威房產管理諮詢(上海)有限公司,上海信城房地產經紀有限公司,0.99,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,INANE INTERNATIONAL LIMITED ,上海信義代書房地產服務諮詢有限公司,1,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,INANE INTERNATIONAL LIMITED ,上海信義房屋中介諮詢有限公司,1,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,FOREVER SUCCESS INTERNATIONAL LTD.,上海商拓投資管理顧問有限公司,1,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,INANE INTERNATIONAL LIMITED ,北京世邦信義房地產經紀有限公司,1,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,全球資產管理股份有限公司,1,台灣,1,1,0,0,0,上市,G9940,22354940,24496939,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,安信建築經理股份有限公司,0.51,台灣,1,1,0,0,0,上市,G9940,22354940,89458276,NA,NA,NA,NA
+2013,9940,安信建築經理股份有限公司,安新建築經理股份有限公司,1,台灣,0,1,0,0,0,上市,G9940,89458276,24463156,NA,NA,NA,NA
+2013,9940,INANE INTERNATIONAL LIMITED ,成都世邦信義房地產經紀有限公司,0.8,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,行義文化出版有限公司,0.99,台灣,1,1,0,0,0,上市,G9940,22354940,89598918,NA,NA,NA,NA
+2013,9940,INANE INTERNATIONAL LIMITED ,青島城建信義房產經紀有限公司,0.65,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,信邑室內設計股份有限公司,0.19,台灣,1,0,1,0,0,上市,G9940,22354940,86722821,NA,NA,NA,NA
+2013,9940,SINYI INTERNATIONAL LIMITED,信義房屋不動產株式會社,1,日本,0,1,0,0,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,信義投資開發股份有限公司,信義房屋仲介股份有限公司,NA,NA,0,0,0,0,1,上市,G9940,86521802,22354940,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,信義開發股份有限公司,1,台灣,1,1,0,0,0,上市,G9940,22354940,16310797,NA,NA,NA,NA
+2013,9940,信義置業(香港)有限公司,信義置業(上海)有限公司,1,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,SINYI DEVELOPMENT LTD.,信義置業(香港)有限公司,1,香港,0,1,0,0,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,信誠財產保險代理人股份有限公司,1,台灣,1,1,0,0,0,上市,G9940,22354940,27335009,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,恆義不動產顧問股份有限公司,1,台灣,1,1,0,0,0,上市,G9940,22354940,54357147,NA,NA,NA,NA
+2013,9940,SINYI LIMITED,科威房產(香港)有限公司,0.95,香港,0,1,0,0,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,科威房產(香港)有限公司,科威房產管理諮詢(上海)有限公司,1,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,MAX SUCCESS INTERNATIONAL LIMITED,浙江信義房產管理諮詢有限公司,0.62,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,聚英企業管理顧問股份有限公司,1,台灣,1,1,0,0,0,上市,G9940,22354940,27746690,NA,NA,NA,NA
+2013,9940,信義房屋仲介股份有限公司,翰江建設股份有限公司,0,不明,1,1,0,0,0,上市,G9940,22354940,28746851,NA,NA,NA,NA
+2013,9940,MAX SUCCESS INTERNATIONAL LIMITED,蘇州信義置業房產經紀有限公司,0.98,china,0,1,0,1,0,上市,G9940,NA,NA,NA,NA,NA,NA

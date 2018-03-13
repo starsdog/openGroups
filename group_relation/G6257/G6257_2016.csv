@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6257,矽格股份有限公司,"SIGURD INTERNATIONAL CO., LTD.",1,英屬維京群島,1,0,1,0,0,上市,G6257,97015015,NA,NA,NA,NA,NA
+2016,6257,"SIGURD INTERNATIONAL CO., LTD.","SIGURD MICROELECTRONICS (CAYMAN) CO., LTD.",0.7833,開曼群島,0,0,1,0,0,上市,G6257,NA,NA,NA,NA,NA,NA
+2016,6257,晨和投資有限公司,矽格股份有限公司,NA,NA,0,0,0,0,1,上市,G6257,28406109,97015015,NA,NA,NA,NA
+2016,6257,"SIGURD MICROELECTRONICS (CAYMAN) CO., LTD.",矽格微電子(無錫)有限公司,1,china,0,1,0,1,0,上市,G6257,NA,NA,NA,NA,NA,NA
+2016,6257,矽格股份有限公司,渤格有限公司,1,香港,1,1,0,0,0,上市,G6257,97015015,NA,NA,NA,NA,NA
+2016,6257,矽格股份有限公司,誠遠科技股份有限公司,1,台灣,1,1,0,0,0,上市,G6257,97015015,86567588,NA,NA,NA,NA
+2016,6257,鴻泰興有限公司,鴻大洋電子(深圳)有限公司,1,china,0,1,0,1,0,上市,G6257,NA,NA,NA,NA,NA,NA
+2016,6257,"SIGURD INTERNATIONAL CO., LTD.",鴻泰興有限公司,1,香港,0,0,1,0,0,上市,G6257,NA,NA,NA,NA,NA,NA

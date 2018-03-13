@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1606,歌林股份有限公司,台林控股(股)公司,0.01,英屬維京群島,1,1,0,0,0,公開發行,G1606,NA,NA,NA,NA,NA,NA
+2016,1606,新林科技(股)公司,華泰電子(東莞),0.01,china,0,0,0,1,0,公開發行,G1606,NA,NA,2,NA,NA,NA
+2016,1606,新林科技(股)公司,新林電子(東莞),0.01,china,0,0,0,1,0,公開發行,G1606,NA,NA,2,NA,NA,NA

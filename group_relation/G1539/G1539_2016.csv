@@ -1,0 +1,5 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1539,巨庭機械股份有限公司,"CHIU TING MACHINERY(BVI) CO.,LTD",1,英屬維京群島,1,1,0,0,0,上市,G1539,52646207,NA,NA,NA,NA,NA
+2016,1539,"CHIU TING MACHINERY(BVI) CO.,LTD",巨庭工業(惠州)有限公司,1,china,0,1,0,1,0,上市,G1539,NA,NA,NA,NA,NA,NA
+2016,1539,"CHIU TING MACHINERY(BVI) CO.,LTD",巨庭機床(惠州)有限公司,1,china,0,1,0,1,0,上市,G1539,NA,NA,NA,NA,NA,NA
+2016,1539,建信啟記股份有限公司,巨庭機械股份有限公司,NA,NA,0,0,0,0,1,上市,G1539,03300229,52646207,NA,NA,NA,NA

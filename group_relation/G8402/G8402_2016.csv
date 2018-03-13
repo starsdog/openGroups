@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,8402,技鼎股份有限公司,Premtek Holding Inc.,1,不明,1,1,0,0,0,公開發行,G8402,23039920,NA,NA,NA,NA,NA
+2016,8402,Premtek Holding Inc.,"Premtek International Corp., Ltd.",1,不明,0,1,0,0,0,公開發行,G8402,NA,NA,NA,NA,NA,NA
+2016,8402,Premtek Holding Inc.,Premtek Technology Inc.,1,不明,0,1,0,0,0,公開發行,G8402,NA,NA,NA,NA,NA,NA
+2016,8402,茂榮投資股份有限公司,技鼎股份有限公司,NA,NA,0,0,0,0,1,公開發行,G8402,28317628,23039920,NA,NA,NA,NA
+2016,8402,光迅投資股份有限公司,技鼎股份有限公司,NA,NA,0,0,0,0,1,公開發行,G8402,28028649,23039920,NA,NA,NA,NA
+2016,8402,捷創集成股份有限公司,技鼎股份有限公司,NA,NA,0,0,0,0,1,公開發行,G8402,28765836,23039920,NA,NA,NA,NA
+2016,8402,技鼎股份有限公司,莎菲特國際股份有限公司,0.3676,不明,1,1,0,0,0,公開發行,G8402,23039920,42756416,NA,NA,NA,NA
+2016,8402,Premtek Technology Inc.,寰鼎集成電路(上海)有限公司,1,不明,0,1,0,0,0,公開發行,G8402,NA,NA,NA,NA,NA,NA

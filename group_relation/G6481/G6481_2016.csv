@@ -1,0 +1,4 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,6481,世界中心科技股份有限公司,"Global Material Science Co., Ltd.",1,薩摩亞,1,1,0,0,0,興櫃,G6481,28112272,NA,NA,NA,NA,NA
+2016,6481,"Global Material Science Co., Ltd.",光晉科技(合肥)有限公司,1,china,0,1,0,1,0,興櫃,G6481,NA,NA,NA,NA,NA,NA
+2016,6481,世界中心科技股份有限公司,視界觸控光電股份有限公司,0.2079,台灣,1,0,1,0,0,興櫃,G6481,28112272,25191322,NA,NA,NA,NA

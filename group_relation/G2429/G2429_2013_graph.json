@@ -1,0 +1,1 @@
+{"nodes": [{"is_core": false, "name": "嶄新電子股份有限公司", "no_holder": false, "taxcode": "36079233"}, {"is_core": true, "source": [{"holder": "NA", "name": "嶄新電子股份有限公司"}], "name": "銘旺科技股份有限公司", "no_holder": false, "taxcode": "12206203"}], "links": [{"target": 1, "holder": "NA", "source": 0}], "y": "2013"}

@@ -1,0 +1,19 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,1321,OCEAN GROUP LTD.,CREATIVE INTERNATIONAL LTD.,1,汶萊,0,0,1,0,0,上市,G1321,NA,NA,NA,NA,NA,NA
+2016,1321,大洋塑膠工業股份有限公司,"FERMAT ENTERPRISES, LTD.",1,英屬維京群島,1,0,1,0,0,上市,G1321,15024509,NA,NA,NA,NA,NA
+2016,1321,大洋塑膠工業股份有限公司,OCEAN GROUP LTD.,1,汶萊,1,0,1,0,0,上市,G1321,15024509,NA,NA,NA,NA,NA
+2016,1321,OCEAN GROUP LTD.,"OPC HOLDINGS, LTD.",1,英屬維京群島,0,0,1,0,0,上市,G1321,NA,NA,NA,NA,NA,NA
+2016,1321,OCEAN GROUP LTD.,SAGE HOLDINGS LTD.,1,汶萊,0,0,1,0,0,上市,G1321,NA,NA,NA,NA,NA,NA
+2016,1321,大洋塑膠工業股份有限公司,UNIVERSE ENTERPRISES LTD.,1,英屬維京群島,1,0,1,0,0,上市,G1321,15024509,NA,NA,NA,NA,NA
+2016,1321,SAGE HOLDINGS LTD.,大洋塑膠(惠州)有限公司,1,不明,0,1,0,0,0,上市,G1321,NA,NA,NA,NA,NA,NA
+2016,1321,璇揚投資股份有限公司,大洋塑膠工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1321,89994353,15024509,NA,NA,NA,NA
+2016,1321,旺旺食品股份有限公司,大洋塑膠工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1321,22421075,15024509,NA,NA,NA,NA
+2016,1321,立象興業股份有限公司,大洋塑膠工業股份有限公司,NA,NA,0,0,0,0,1,上市,G1321,24565203,15024509,NA,NA,NA,NA
+2016,1321,大洋塑膠工業股份有限公司,伸洋開發股份有限公司,1,台灣,1,1,0,0,0,上市,G1321,15024509,24786310,NA,NA,NA,NA
+2016,1321,CREATIVE INTERNATIONAL LTD.,東莞大洋創新皮料製品有限公司,1,china,0,0,0,1,0,上市,G1321,NA,NA,11,NA,NA,NA
+2016,1321,大洋塑膠工業股份有限公司,常新欣業股份有限公司,1,不明,1,1,0,0,0,上市,G1321,15024509,16833394,NA,NA,NA,NA
+2016,1321,大洋塑膠工業股份有限公司,淳品實業股份有限公司,0.4462,台灣,1,0,1,0,0,上市,G1321,15024509,16761933,NA,NA,NA,NA
+2016,1321,"OPC HOLDINGS, LTD.",湖南坤源塑化有限公司,1,china,0,0,0,1,0,上市,G1321,NA,NA,11,NA,NA,NA
+2016,1321,大洋塑膠工業股份有限公司,閎大投資股份有限公司,1,台灣,1,1,0,0,0,上市,G1321,15024509,16830875,NA,NA,NA,NA
+2016,1321,大洋塑膠工業股份有限公司,環異科技股份有限公司,1,台灣,1,1,0,0,0,上市,G1321,15024509,80207643,NA,NA,NA,NA
+2016,1321,閎大投資股份有限公司,環異科技股份有限公司,0.3924,台灣,0,0,1,0,0,上市,G1321,16830875,80207643,NA,NA,NA,NA

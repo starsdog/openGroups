@@ -1,0 +1,9 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3086,WAYI SOFTMAGIC INVESTMENT (ASIA) LTD.,941 HD (CAYMAN) INC.,0.97,開曼群島,0,0,1,0,0,上櫃,G3086,NA,NA,NA,NA,NA,NA
+2016,3086,華義國際數位娛樂股份有限公司,WAYI SOFTMAGIC INVESTMENT (ASIA) LTD.,1,英屬維京群島,1,0,1,0,0,上櫃,G3086,84453385,NA,NA,NA,NA,NA
+2016,3086,WAYI SOFTMAGIC INVESTMENT (ASIA) LTD.,WAYI SOFTMAGIC INVESTMENT (CAYMAN) LTD.,1,開曼群島,0,0,1,0,0,上櫃,G3086,NA,NA,NA,NA,NA,NA
+2016,3086,WAYI SOFTMAGIC INVESTMENT (CAYMAN) LTD.,北京華義聯合軟件開發有限公司,1,china,0,0,0,1,0,上櫃,G3086,NA,NA,8,NA,NA,NA
+2016,3086,華義國際數位娛樂股份有限公司,台灣電競股份有限公司,0.31,台灣,1,0,1,0,0,上櫃,G3086,84453385,28874742,NA,NA,NA,NA
+2016,3086,華義國際數位娛樂股份有限公司,創夢市集股份有限公司,0.19,台灣,1,0,1,0,0,上櫃,G3086,84453385,54708657,NA,NA,NA,NA
+2016,3086,竣通投資股份有限公司,華義國際數位娛樂股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3086,12804236,84453385,NA,NA,NA,NA
+2016,3086,量子投資股份有限公司,華義國際數位娛樂股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3086,16286234,84453385,NA,NA,NA,NA

@@ -1,0 +1,10 @@
+﻿year,stock,source,target,sublist.holder,sublist.location,sublist.is_coreSource,sublist.table_source1,sublist.table_source2,sublist.table_source3,sublist.table_source4,market,group,taxcode.source,taxcode.target,china.note,X1,修正,非集團
+2016,3587,閎康科技股份有限公司,MA-tek International Inc.,1,薩摩亞,1,1,0,0,0,上櫃,G3587,79959286,NA,NA,NA,NA,NA
+2016,3587,閎康科技股份有限公司,MA-tek Japan Inc.,1,日本,1,1,0,0,0,上櫃,G3587,79959286,NA,NA,NA,NA,NA
+2016,3587,閎康科技股份有限公司,Materials Analysis Technology US Corp.,1,美國,1,1,0,0,0,上櫃,G3587,79959286,NA,NA,NA,NA,NA
+2016,3587,MA-tek International Inc.,閎康技術檢測(上海)有限公司,1,china,0,1,0,0,0,上櫃,G3587,NA,NA,NA,NA,NA,NA
+2016,3587,昕明實業股份有限公司,閎康科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3587,80662240,79959286,NA,NA,NA,NA
+2016,3587,亞克技術顧問股份有限公司,閎康科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3587,13088318,79959286,NA,NA,NA,NA
+2016,3587,名皇實業有限公司,閎康科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3587,22329443,79959286,NA,NA,NA,NA
+2016,3587,翔宣投資有限公司,閎康科技股份有限公司,NA,NA,0,0,0,0,1,上櫃,G3587,13066742,79959286,NA,NA,NA,NA
+2016,3587,閎康科技股份有限公司,閤康生物科技股份有限公司,1,台灣,1,1,0,0,0,上櫃,G3587,79959286,54795456,NA,NA,NA,NA
