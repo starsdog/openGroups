@@ -4,7 +4,10 @@
 * 環保署或各縣市環保局開發的裁罰記錄, 經由「透明足跡」整理彙整.
 
 # 資料說明
-* csv: 原始資料
+* csv: 原始資料, 欄位包含
+    * 基本資料: 年份(year), 財報公司台灣股票代號(stock), 母公司(source), 子公司(target), 母公司持股比例(sublist.holder), 子公司所在國家(sublist.location), 母公司統一編號(taxcode.source), 子公司統一編號(taxcode.target)
+    * 資料出處: 母公司是否為財報公司(sublist.is_coreSource), 資料表格出處(sublist.table_source1-列入合併財務報表之子公司, sublist.table_source2-被投資公司名稱, sublist.table_source3-轉投資大陸地區之事業, sublist.table_source4-核心公司董監事及法人代表), 發行方式(market:上市, 上櫃, 興櫃, 公開發行)
+    * 其他: 大陸地區表格註解(china.note), 人工處理註記(X1, 修正), 非集團的控股公司(非集團, 標註1為非集團,例如投資銀行、政府機關)
 * list.json: 結合「透明足跡」裁罰記錄
    * company_summery: 集團代號(group_no), 集團名稱(group_name), 集團公司數量(company_amount), 集團是否有裁罰記錄(has_fine), 集團內有裁罰記錄的公司數量(fine_company_amount), 集團裁罰記錄數量(fine_record_num), 集團裁罰金額(fine_penalty_amount)
    * company_list:集團內公司關係表(taxcode_source, source, taxcode_target, target, holder)
